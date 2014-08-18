@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="dirty_contacts_count">
+        <item quantity="one">%d contact</item>
+        <item quantity="other">%d contacts</item>
+     </plurals>
+     <plurals name="dirty_image_count">
+        <item quantity="one">%d photo</item>
+        <item quantity="other">%d photos</item>
+     </plurals>
+     <plurals name="dirty_mms_count">
+        <item quantity="one">%d message</item>
+        <item quantity="other">%d messages</item>
+     </plurals>
+     <plurals name="dirty_note_count">
+        <item quantity="one">%d note</item>
+        <item quantity="other">%d notes</item>
+     </plurals>
+</resources>

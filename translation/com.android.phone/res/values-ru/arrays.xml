@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="auto_answer_delay_entry_values">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="call_reject_dialog_array">
+        <item>Контакты</item>
+        <item>Журнал вызов</item>
+     </string-array>
+     <string-array name="call_reject_mode_entries">
+        <item>Отключено</item>
+        <item>Все номера</item>
+        <item>Из списка</item>
+     </string-array>
+     <string-array name="call_reject_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="call_waiting_tone_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="cdma_call_waiting_entry_values">
+        <item>1</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+     </string-array>
+     <string-array name="clir_display_values">
+        <item>Настройки сети по умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показать номер</item>
+     </string-array>
+     <string-array name="connect_disconnect_vibrate_entry_values">
+        <item>100</item>
+        <item>50</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="cs_call_type">
+        <item>CSVoice</item>
+     </string-array>
+     <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+     </string-array>
+     <string-array name="enabled_networks_cdma_values">
+        <item>8</item>
+        <item>4</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="enabled_networks_except_gsm_lte_values">
+        <item>0</item>
+     </string-array>
+     <string-array name="enabled_networks_except_gsm_values">
+        <item>9</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="enabled_networks_except_lte_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="enabled_networks_values">
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (автом.)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (автом.)</item>
+        <item>Только TD-SCDMA</item>
+        <item>Только GSM</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_values_cmcc">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="ims_call_cap_types">
+        <item>Voice</item>
+        <item>Video</item>
+     </string-array>
+     <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Видео</item>
+     </string-array>
+     <string-array name="ims_video_cs_call_types">
+        <item>Video</item>
+        <item>CSVoice</item>
+     </string-array>
+     <string-array name="ims_voice_cs_call_types">
+        <item>Voice</item>
+        <item>CSVoice</item>
+     </string-array>
+     <string-array name="language_list_id">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+     </string-array>
+     <string-array name="language_list_values">
+        <item>All Languages</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Dutch</item>
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Portuguese</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+        <item>Greek</item>
+        <item>Turkish</item>
+        <item>Hungarian</item>
+        <item>Polish</item>
+        <item>Others</item>
+        <item>Czech</item>
+        <item>Hebrew</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>IceLandic</item>
+     </string-array>
+     <string-array name="list_language_entries">
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
+     </string-array>
+     <string-array name="missed_call_notify_times_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Двойной режим</item>
+     </string-array>
+     <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Двойной режим</item>
+     </string-array>
+     <string-array name="plmn_prefer_network_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>TD-SCDMA only</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Только EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA / EvDo (автоматический режим)</item>
+        <item>GSM / WCDMA (автоматический режим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (предпочтительно)</item>
+     </string-array>
+     <string-array name="t9_indexing_method_entry_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="tty_mode_entries">
+        <item>Телетайп выключен</item>
+        <item>Полнофункциональный телетайп</item>
+        <item>Телетайп с возможностью слышать собеседника</item>
+        <item>Телетайп с возможностью передачи голоса</item>
+     </string-array>
+     <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (автом.)</item>
+        <item>Только WCDMA</item>
+     </string-array>
+     <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (автом.)</item>
+        <item>Только TD-SCDMA</item>
+     </string-array>
+     <string-array name="umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Всегда</item>
+        <item>В режиме \"Без звука\"</item>
+        <item>Никогда</item>
+     </string-array>
+     <string-array name="vt_incall_setting_local_video_effect_entries">
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_none)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_mono)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_sepia)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_negative)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_solarize)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_posterize)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_aqua)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_pastel)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_mosaic)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_redtint)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_bluetint)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_greentint)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_blackboard)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_whiteboard)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_sepiablue)</item>
+        <item>Need translation from strings.xml (@string/pref_camera_coloreffect_entry_sepiagreen)</item>
+     </string-array>
+     <string-array name="vt_incall_setting_local_video_effect_values">
+        <item>none</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>posterize</item>
+        <item>aqua</item>
+        <item>pastel</item>
+        <item>mosaic</item>
+        <item>red-tint</item>
+        <item>blue-tint</item>
+        <item>green-tint</item>
+        <item>blackboard</item>
+        <item>whiteboard</item>
+        <item>sepiablue</item>
+        <item>sepiagreen</item>
+     </string-array>
+     <string-array name="vt_incall_video_setting_entries2">
+        <item>Need translation from strings.xml (@string/vt_peer_video_quality)</item>
+     </string-array>
+     <string-array name="vt_incall_video_setting_entries">
+        <item>Need translation from strings.xml (@string/vt_local_video_zoom)</item>
+        <item>Need translation from strings.xml (@string/vt_local_video_brightness)</item>
+        <item>Need translation from strings.xml (@string/vt_local_video_contrast)</item>
+        <item>Need translation from strings.xml (@string/vt_local_video_effect)</item>
+        <item>Need translation from strings.xml (@string/vt_local_video_nightmode)</item>
+        <item>Need translation from strings.xml (@string/vt_peer_video_quality)</item>
+     </string-array>
+     <string-array name="vt_incall_video_setting_local_nightmode_entries2">
+        <item>Need translation from strings.xml (@string/alert_dialog_no)</item>
+     </string-array>
+     <string-array name="vt_incall_video_setting_local_nightmode_entries">
+        <item>Need translation from strings.xml (@string/alert_dialog_yes)</item>
+        <item>Need translation from strings.xml (@string/alert_dialog_no)</item>
+     </string-array>
+     <string-array name="vt_incall_video_setting_peer_quality_entries">
+        <item>Need translation from strings.xml (@string/vt_peer_video_quality_normal)</item>
+        <item>Need translation from strings.xml (@string/vt_peer_video_quality_sharp)</item>
+     </string-array>
+     <string-array name="vt_mt_local_video_display_entries">
+        <item>Need translation from strings.xml (@string/vt_incoming_showme_always)</item>
+        <item>Need translation from strings.xml (@string/vt_incoming_showme_ask)</item>
+        <item>Need translation from strings.xml (@string/vt_incoming_showme_disable)</item>
+     </string-array>
+     <string-array name="vt_mt_local_video_display_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="vt_replace_local_video_entries2">
+        <item>Need translation from strings.xml (@string/vt_pic_replace_local_default)</item>
+        <item>Need translation from strings.xml (@string/vt_pic_replace_local_mypic)</item>
+     </string-array>
+     <string-array name="vt_replace_local_video_entries">
+        <item>Need translation from strings.xml (@string/vt_pic_replace_local_default)</item>
+        <item>Need translation from strings.xml (@string/vt_pic_replace_local_freezeme)</item>
+        <item>Need translation from strings.xml (@string/vt_pic_replace_local_mypic)</item>
+     </string-array>
+     <string-array name="vt_replace_local_video_values2">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="vt_replace_local_video_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+</resources>
