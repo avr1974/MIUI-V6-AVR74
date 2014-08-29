@@ -1,3 +1,4 @@
 include "%translation_dir%/patches/T9Update.ptch";
 include "%translation_dir%/patches/WeatherFix.ptch";
 include "%translation_dir%/patches/MusicFix.ptch";
+include "%translation_dir%/patches/VideoFix.ptch";
