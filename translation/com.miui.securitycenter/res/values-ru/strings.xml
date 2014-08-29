@@ -16,7 +16,7 @@
     <string name="power_center_repeat">Повтор</string>
     <string name="power_center_ontime_shutdown">Выключать по времени</string>
     <string name="power_center_time_to_shutdown">Время выключения</string>
-    <string name="power_center_custom_summary_default">Настрой экономию батареи</string>
+    <string name="power_center_custom_summary_default">Настройте экономию батареи</string>
     <string name="power_center_low_battery_title">По питанию</string>
     <string name="power_center_low_battery_summary_default">Смена режима по питанию</string>
     <string name="power_center_low_battery_summary_dynamic">Если заряд меньше %1$d%% сменить на %2$s</string>
@@ -276,8 +276,8 @@
     <string name="system_check_content">Подозрительные файлы: %1$d</string>
     <string name="memeory_check_content">%1$d прил., память %2$s</string>
     <string name="cache_check_content">%1$d прил., кэш %2$s</string>
-    <string name="system_header_title">К очистке: %1$d \"|\" Освободится %2$s памяти</string>
-    <string name="cache_header_title">К очистке: %1$d \"|\" Освободится: %2$s памяти</string>
+    <string name="system_header_title">К очистке: %1$d | Освободится %2$s памяти</string>
+    <string name="cache_header_title">К очистке: %1$d | Освободится: %2$s памяти</string>
 	<string name="cache_sort_type_item_name">По названию</string>
     <string name="cache_sort_type_item_size">По размеру</string>
     <string name="activity_title_virus">Вирусы</string>
@@ -411,7 +411,7 @@
     <string name="cache_title_system_cache">Системный кэш</string>
     <string name="cache_title_empty_folder">Пустые папки (%d)</string>
     <string name="cache_title_empty_folder2">Пустые папки</string>
-    <string name="hints_garbage_handle_item_content">файлов: %1$d \"|\" %2$s</string>
+    <string name="hints_garbage_handle_item_content">файлов: %1$d | %2$s</string>
     <string name="hints_latest_garbage_cleanup_never">Не было очистки (первый раз)</string>
     <string name="hints_latest_garbage_cleanup_today">Последняя очистка: сегодня</string>
     <string name="hints_latest_garbage_cleanup_yesterday">Последняя очистка: вчера</string>
