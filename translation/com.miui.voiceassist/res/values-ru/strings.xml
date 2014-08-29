@@ -80,7 +80,6 @@
      <string name="calendaring_cancel">Вы отменили напоминание</string>
      <string name="calling">Набрать %1$s %2$s</string>
      <string name="cancel">Отмена</string>
-     <string name="cancel_schecule">取消设置提醒</string>
      <string name="channel_not_support">Поисковая система временно не доступна</string>
      <string name="china">Китай</string>
      <string name="china_date">%1$s %2$s %3$s</string>
@@ -170,16 +169,12 @@
      <string name="next_date">%1$s нед.</string>
      <string name="no_engine">Модуль распознавания речи не установлен</string>
      <string name="not_launch_while_calling">Ассистент недоступен во время вызова</string>
-     <string name="not_remind">Do not remind again</string>
      <string name="not_understand">Ошибка распознания, повторите попытку</string>
      <string name="online_category">ОНЛАЙН</string>
      <string name="online_no_network">"Couldn't connect to network."</string>
      <string name="online_search_hint">Search for online resources</string>
      <string name="over_24h_clock_operation">Вы не можете установить будильник более 24 часов, следует создать заметку в календарь</string>
      <string name="password_guard">Защита</string>
-     <string name="permission">Permission</string>
-     <string name="permission_allow">Let VoiceAssist read your contacts, access the internet, and use GPS</string>
-     <string name="permission_switch">Let VoiceAssist read your contacts, access the internet, and use GPS</string>
      <string name="phone_by_ear_launch">Поднесите телефон к уху</string>
      <string name="phone_report">Отчет вызовов</string>
      <string name="quick_launch_settings">Быстрый запуск</string>
@@ -373,7 +368,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="sms_sent_cancel">Отмена</string>
      <string name="sms_sent_success">Отправить</string>
      <string name="stock_not_found">Не найдено на складе</string>
-     <string name="success_schecule">设置提醒成功</string>
      <string name="summary_response_timeout">Установите время ожидания ответа</string>
      <string name="summary_sensitivity">Установите уровень чувствительности</string>
      <string name="summary_set_default">Восстановить настройки по умолчанию</string>
@@ -403,7 +397,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="title_speech_timeout">Голос тайм-аут</string>
      <string name="to">转</string>
      <string name="to_activate_the_account">Activate your Xiaomi account now.</string>
-     <string name="to_degree">到</string>
      <string name="today_date">%1$s, %2$s</string>
      <string name="tts_voice_effect">Голосовой эффект</string>
      <string name="unknown_artist">Неизвестный исполнитель</string>
@@ -411,9 +404,6 @@ the content you're looking for is not currently available in your region."</stri
      <string name="unknown_num">Неизвестный номер</string>
      <string name="unknown_website">Не могу найти адрес веб-сайта</string>
      <string name="user_upload_success">Адресная книга успешно загружена</string>
-     <string name="view_forecast_item_yesterday">昨天</string>
-     <string name="view_indexes_item_today">今天</string>
-     <string name="view_indexes_item_tommorrow">明天</string>
      <string name="voice_choosed">Успешно выбрано</string>
      <string name="voice_effect">Голосовой эффект</string>
      <string name="voice_engine">Голосовой движок</string>
@@ -429,10 +419,8 @@ the content you're looking for is not currently available in your region."</stri
      <string name="voice_wakeup_turn_on_title">Раблокировка голосом</string>
      <string name="voiceassist_settings">Настройки</string>
      <string name="voiceassist_settings_title">Настройки голосового помощника</string>
-     <string name="weather">天气</string>
      <string name="weather_no_city">无当地的天气信息</string>
      <string name="weather_no_date">无当天的天气信息</string>
-     <string name="weather_unit">°</string>
      <string name="widget_loading">Нет информации о погоде</string>
      <string name="year">年</string>
      <string name="yellow_page">Желтые страницы</string>

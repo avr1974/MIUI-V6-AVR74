@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
 <resources>
-     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="one">1 Minute</item>
-        <item quantity="other">%1$d Minutes</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="one">1 Second</item>
-        <item quantity="other">%1$d Seconds</item>
-     </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">1 сек.</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
 </resources>

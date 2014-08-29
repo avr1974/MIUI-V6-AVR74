@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="alarm_in_furture">
         <item>Будильник зазвонит менее чем через минуту</item>
@@ -14,7 +14,7 @@
      <string-array name="alarm_repeat_type">
         <item>Один раз</item>
         <item>Ежедневно</item>
-        <item>"Рабочие дни "</item>
+        <item>Рабочие дни</item>
         <item>Понедельник-пятница</item>
         <item>Выбрать дни</item>
      </string-array>
@@ -44,20 +44,10 @@
         <item>25 минут</item>
         <item>30 минут</item>
      </string-array>
-     <string-array name="auto_silence_values">
-        <item>-1</item>
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-     </string-array>
      <string-array name="days">
-        <item>"Вчера "</item>
-        <item>"Сегодня "</item>
-        <item>"Завтра "</item>
+        <item>Вчера</item>
+        <item>Сегодня</item>
+        <item>Завтра</item>
      </string-array>
      <string-array name="snooze_duration_entries">
         <item>1 минута</item>
@@ -68,23 +58,9 @@
         <item>25 минут</item>
         <item>30 минут</item>
      </string-array>
-     <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-     </string-array>
      <string-array name="volume_button_setting_entries">
         <item>Нет</item>
         <item>Отложить</item>
         <item>Отключить</item>
-     </string-array>
-     <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
 </resources>

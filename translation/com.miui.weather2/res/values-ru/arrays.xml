@@ -1,316 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
-     <string-array name="send_item">
-        <item>Сообщение</item>
-        <item>Email</item>
+     <string-array name="weather_indexes_uv_level">
+        <item>Слабый</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Сильный</item>
      </string-array>
-     <string-array name="weather_details_key">
-        <item>Недоступно</item>
-        <item>Благоприятная</item>
-        <item>Хорошая</item>
-        <item>Избегайте по возможности</item>
-        <item>Нерекомендуемая</item>
-        <item>Идеальная</item>
-        <item>Умеренная</item>
-        <item>Слабая</item>
-        <item>Средняя</item>
-        <item>Сильная</item>
-        <item>Очень сильная</item>
-        <item>Холодная</item>
-        <item>Комфортная</item>
-        <item>Очень жаркая</item>
-        <item>Жаркая</item>
-        <item>Теплая</item>
-        <item>Холодная</item>
-        <item>Прохладная</item>
-        <item>Холодная</item>
-        <item>Морозная</item>
-        <item>Высокая</item>
-        <item>Средняя</item>
-        <item>Низкая</item>
-        <item>Ясная</item>
-        <item>Облачная</item>
-        <item>Дождливая</item>
-        <item>Песчаная буря</item>
-        <item>Снежная</item>
-        <item>Относительно благоприятная</item>
-        <item>Благоприятные условия</item>
-        <item>Облачная</item>
-        <item>Почти идеально</item>
-        <item>Идеальные условия</item>
-        <item>Плохие условия</item>
-        <item>Приемлимые условия</item>
-     </string-array>
-     <string-array name="weather_image">
+     <string-array name="weather_type">
         <item>Ясно</item>
         <item>Облачно</item>
-        <item>Туманная дымка</item>
+        <item>Пасмурно</item>
         <item>Туман</item>
-        <item>Сильный ливень</item>
         <item>Ливень</item>
-        <item>Проливные дожди</item>
-        <item>Гроза</item>
-        <item>Обильные осадки</item>
         <item>Сильный дождь</item>
+        <item>Ливень с ураганом</item>
+        <item>Гроза</item>
+        <item>Слабый дождь</item>
+        <item>Сильный дождь</item>
+        <item>Умеренный дождь</item>
         <item>Дождь</item>
-        <item>Морось</item>
-        <item>Дождь со снегом</item>
+        <item>Мокрый снег</item>
         <item>Метель</item>
-        <item>Хлопья снега</item>
-        <item>Обильный снегопад</item>
         <item>Снег</item>
-        <item>Небольшой снег</item>
-        <item>Сильная песчаная буря</item>
+        <item>Сильный снег</item>
+        <item>Легкий снег</item>
+        <item>Снег с ветром</item>
+        <item>Пыльный шторм</item>
         <item>Песчаная буря</item>
-        <item>Легкая песчаная буря</item>
-        <item>Песчаная буря</item>
+        <item>Умеренная пыль</item>
+        <item>Ветрено</item>
         <item>Град</item>
         <item>Пыль</item>
         <item>Дымка</item>
-     </string-array>
-     <string-array name="weather_image_tips">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте взять зонтик!</item>
-        <item>Не забудьте укутаться!</item>
-        <item>Не забудьте укутаться!</item>
-        <item>Не забудьте укутаться!</item>
-        <item>Не забудьте укутаться!</item>
-        <item>Не забудьте укутаться!</item>
-        <item>Будьте осторожны!</item>
-        <item>Будьте осторожны!</item>
-        <item>Будьте осторожны!</item>
-        <item>Будьте осторожны!</item>
-        <item>Будьте осторожны! Дороги скользкие.</item>
-     </string-array>
-     <string-array name="weather_indexes_uv_level">
-        <item>Weakest</item>
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
-        <item>Strongest</item>
-     </string-array>
-     <string-array name="weather_info_comfort">
-        <item>0</item>
-        <item>Недоступно</item>
-        <item>20</item>
-        <item>Температура стабилизируется</item>
-        <item>21</item>
-        <item>Свежо и комфортно</item>
-        <item>22</item>
-        <item>Температура будет меняться</item>
-        <item>23</item>
-        <item>Ясное небо и некомфортная температура</item>
-        <item>24</item>
-        <item>Жарко и влажно!</item>
-     </string-array>
-     <string-array name="weather_info_dress">
-        <item>0</item>
-        <item>Недоступно</item>
-        <item>11</item>
-        <item>Легкая куртка</item>
-        <item>12</item>
-        <item>Легкая куртка</item>
-        <item>13</item>
-        <item>Летняя одежда</item>
-        <item>14</item>
-        <item>Летняя одежда</item>
-        <item>15</item>
-        <item>Легкая куртка</item>
-        <item>16</item>
-        <item>Оденьтесь потеплее!</item>
-        <item>17</item>
-        <item>Наденьте куртку!</item>
-        <item>18</item>
-        <item>Укутайтесь!</item>
-        <item>19</item>
-        <item>Укутайтесь!</item>
-     </string-array>
-     <string-array name="weather_info_hung">
-        <item>0</item>
-        <item>Недоступно</item>
-        <item>28</item>
-        <item>Повесьте одежду сушиться во второй половине дня.</item>
-        <item>29</item>
-        <item>Сушите одежду в любое время.</item>
-        <item>30</item>
-        <item>Облачно, но благодаря высокой температуре воздуха, ваша одежда все равно высохнет.</item>
-        <item>1</item>
-        <item>Отличная погода для сушки одежды.</item>
-        <item>3</item>
-        <item>Сегодня весь день будет дождь с перерывами.</item>
-        <item>5</item>
-        <item>Хорошие условия сушки одежды.</item>
-        <item>4</item>
-        <item>Сушите одежду в помещении.</item>
-        <item>31</item>
-        <item>Сушите одежду в помещении.</item>
-     </string-array>
-     <string-array name="weather_info_msport">
-        <item>0</item>
-        <item>Недоступно</item>
-        <item>1</item>
-        <item>Отличный день для утренней зарядки</item>
-        <item>2</item>
-        <item>Оденьтесь теплее!</item>
-        <item>3</item>
-        <item>Оденьтесь теплее!</item>
-        <item>4</item>
-        <item>Упражняйтесь в помещении!</item>
-     </string-array>
-     <string-array name="weather_info_travel">
-        <item>0</item>
-        <item>Недоступно</item>
-        <item>32</item>
-        <item>Ясно, солнечно и хорошая температура.</item>
-        <item>2</item>
-        <item>Комфортная и стабильная температура.</item>
-        <item>1</item>
-        <item>Комфортная и стабильная температура.</item>
-        <item>3</item>
-        <item>Сегодня погода будет нестабильной.</item>
-        <item>33</item>
-        <item>Сегодня погода будет нестабильной.</item>
-        <item>34</item>
-        <item>Ясное небо и мягкий ветерок.</item>
-     </string-array>
-     <string-array name="weather_info_uv">
-        <item>0</item>
-        <item>Недоступно</item>
-        <item>6</item>
-        <item>Не забудьте солнцезащитный крем.</item>
-        <item>7</item>
-        <item>Не забудьте солнцезащитный крем.</item>
-        <item>8</item>
-        <item>Не забудьте солнцезащитный крем.</item>
-        <item>9</item>
-        <item>Нанесите солнцезащитный крем, если вам необходимо выйти!</item>
-        <item>10</item>
-        <item>Нанесите солнцезащитный крем, если вам необходимо выйти!</item>
-     </string-array>
-     <string-array name="weather_info_wcar">
-        <item>0</item>
-        <item>Недоступно</item>
-        <item>1</item>
-        <item>Отличный день для мытья машины!</item>
-        <item>2</item>
-        <item>Отличный день для мытья машины!</item>
-        <item>3</item>
-        <item>Собирается дождь, мытье машины лучше отложить.</item>
-        <item>25</item>
-        <item>Собирается дождь, мытье машины лучше отложить.</item>
-        <item>26</item>
-        <item>По прогнозу песчаная буря, отложите мытье машины.</item>
-        <item>27</item>
-        <item>Пойдет снег, мытье машины лучше отложить.</item>
-        <item>4</item>
-        <item>Отложите мытье машины.</item>
-     </string-array>
-     <string-array name="weather_sms_addons">
-        <item>"@: $."</item>
-        <item>Температура: %°.</item>
-        <item>Не забудь зонтик!</item>
-        <item>Не промокни!</item>
-        <item>Если сушишь белье на улице, не забудь потом его снять!</item>
-        <item>За руль лучше не садиться.</item>
-        <item>Едь осторожно!</item>
-        <item>Осторожно, на улице скользко.</item>
-        <item>Не торопись. Будь осторожней.</item>
-        <item>Будь осторожней на улице.</item>
-        <item>Постарайся не выходить на улицу.</item>
-        <item>Надень солнцезащитные очки.</item>
-        <item>Нанеси солнцезащитный крем и надень темные очки.</item>
-        <item>На улице ветренно, не забудь надеть куртку.</item>
-        <item>Не забудь надеть маску.</item>
-        <item>Не забудь взять куртку.</item>
-        <item>Не забудь надеть маску.</item>
-        <item>Не забудь взять перчатки и шапку.</item>
-        <item>На улице жарко!</item>
-        <item>Не перегрейся!</item>
-        <item>Укутайтесь!</item>
-        <item>Холодает…</item>
-        <item>Не замерзни!</item>
-        <item>Надень зимние наушники, если они у тебя есть!</item>
-        <item>Выходи на улицу, погода отличная!</item>
-        <item>Пойдем на пробежку, на улице солнечно!</item>
-        <item>Отличный день, чтобы высушить одежду.</item>
-        <item>Не забудь надеть куртку.</item>
-     </string-array>
-     <string-array name="weather_sms_content">
-        <item>Не забудь солнцезащитный крем.</item>
-        <item>Сегодня будет пасмурно.</item>
-        <item>Постарайся остаться дома.</item>
-        <item>Едь осторожно.</item>
-        <item>Не забудь взять зонт.</item>
-        <item>Не забудь взять зонт.</item>
-        <item>Не забудь взять зонт.</item>
-        <item>Возьми зонт!</item>
-        <item>Возьми зонт!</item>
-        <item>Возьми зонт!</item>
-        <item>Возьми зонт!</item>
-        <item>Не забудь взять зонт.</item>
-        <item>Не забудь взять зонт.</item>
-        <item>На улице довольно снежно!</item>
-        <item>Не забудь надеть шапку и шарф.</item>
-        <item>Укутайся!</item>
-        <item>Не забудь надеть шапку и шарф!</item>
-        <item>Не забудь надеть шапку и шарф!</item>
-        <item>Не забудь надеть маску.</item>
-        <item>Не забудь надеть маску.</item>
-        <item>Не забудь надеть маску.</item>
-        <item>Не забудь надеть маску.</item>
-        <item>На улице град!</item>
-        <item>Не забудь надеть маску.</item>
-        <item>Постарайся не выходить из дома.</item>
-     </string-array>
-     <string-array name="weather_type">
-        <item>Sunny</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
-        <item>Downpour</item>
-        <item>Rainstorm</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
-        <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
-        <item>No data</item>
+        <item>Дождь со снегом</item>
+        <item>Нет данных</item>
      </string-array>
      <string-array name="wind_direction">
-        <item>Wind N</item>
-        <item>Wind NE</item>
-        <item>Wind E</item>
-        <item>Wind SE</item>
-        <item>Wind S</item>
-        <item>Wind SW</item>
-        <item>Wind W</item>
-        <item>Wind NW</item>
+        <item>С ветер</item>
+        <item>СВ ветер</item>
+        <item>В ветер</item>
+        <item>ЮВ ветер</item>
+        <item>Ю ветер</item>
+        <item>ЮЗ ветер</item>
+        <item>З ветер</item>
+        <item>СЗ ветер</item>
      </string-array>
 </resources>

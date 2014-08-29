@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="date_of_app">
         <item>За вчера 2G/3G</item>
@@ -19,12 +19,12 @@
         <item>Трафик за сегодня</item>
         <item>Трафик за месяц</item>
      </string-array>
-     <string-array name="date_of_traffic_prefix">
-        <item>Вчера </item>
-        <item>Сегодня </item>
-        <item>За месяц </item>
+	 <string-array name="date_of_traffic_prefix">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
      </string-array>
-     <string-array name="mi_service_traffic_type">
+	 <string-array name="mi_service_traffic_type">
         <item>"3G "</item>
         <item>"Wi-Fi "</item>
      </string-array>
@@ -42,19 +42,17 @@
         <item>Установить шаблон сообщения вручную</item>
      </string-array>
      <string-array name="traffic_sort_type">
-        <item>3G </item>
-        <item>Wi-Fi </item>
-        <item>Сэкономленный </item>
+        <item>"3G "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Сэкономленный "</item>
      </string-array>
-     <string-array name="traffic_type">
-        <item>трафик 3G </item>
-        <item>трафик Wi-Fi </item>
-        <item>сэкономленный </item>
+	 <string-array name="traffic_type">
+        <item>"трафик 3G "</item>
+        <item>"трафик Wi-Fi "</item>
+        <item>"сэкономленный "</item>
      </string-array>
      <string-array name="traffic_uints">
-        <item>Б</item>
-        <item>Кб</item>
-        <item>Мб</item>
-        <item>Гб</item>
+        <item>М</item>
+        <item>Г</item>
      </string-array>
 </resources>

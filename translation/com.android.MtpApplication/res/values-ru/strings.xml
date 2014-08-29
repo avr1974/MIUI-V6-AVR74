@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="alert_dialog_cancel">Отмена</string>
      <string name="alert_dialog_no">Нет</string>
@@ -16,9 +16,9 @@
      <string name="kies_software_check">Проверка Киес (ПК подключение S/W)</string>
      <string name="media_scanner_finished">Сканировнаие завершено</string>
      <string name="media_scanner_running">Сканирование медиа…</string>
-     <string name="non_idle_toast">"Подключение к ПК доступно только в режиме ожидания.
+     <string name="non_idle_toast">Подключение к ПК доступно только в режиме ожидания.
 	
-	Закройте запущенные приложения."</string>
+	Закрой запущенные приложения.</string>
      <string name="notification_mtp_connected">MTP подключено</string>
      <string name="notification_mtp_initialization">MTP инициализация</string>
      <string name="notification_usb_connected">USB подключен</string>

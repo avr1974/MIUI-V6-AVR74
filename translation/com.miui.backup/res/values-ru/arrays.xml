@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="app_type_desc">
         <item>(данные)</item>
         <item>(приложение)</item>
-        <item>(приложение и данные)</item>
+        <item>(приложение + данные)</item>
      </string-array>
      <string-array name="backup_dialog_content_type">
         <item>Параметры Wi-Fi</item>
@@ -12,34 +12,28 @@
      </string-array>
      <string-array name="cloud_account_data">
         <item>Контакты</item>
-        <item>Параметры Wi-Fi</item>
+        <item>Настройки Wi-Fi</item>
         <item>Заметки</item>
      </string-array>
      <string-array name="cloud_data_label">
         <item>Контакты</item>
         <item>Журнал вызовов</item>
         <item>Сообщения</item>
-        <item>Параметры Wi-Fi</item>
+        <item>Настройки Wi-Fi</item>
         <item>Заметки</item>
      </string-array>
      <string-array name="cloud_sim_data">
         <item>Журнал вызовов</item>
         <item>Сообщения</item>
      </string-array>
-     <string-array name="font_size_scale">
-        <item>0.86</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.21</item>
-     </string-array>
      <string-array name="system_data_label">
         <item>Контакты</item>
         <item>Журнал вызовов</item>
         <item>Сообщения</item>
-        <item>Мультимедиа cообщения</item>
+        <item>Сообщения MMS</item>
         <item>Настройки системы</item>
-        <item>Параметры Wi-Fi</item>
-        <item>Иконки на рабочем столе</item>
+        <item>Настройки Wi-Fi</item>
+        <item>Расположение стола</item>
         <item>Настройки будильника</item>
         <item>Заметки</item>
         <item>Черный список</item>
@@ -47,11 +41,10 @@
      </string-array>
      <string-array name="system_package_label">
         <item>Браузер</item>
-        <item>Галерея</item>
-        <item>Безопасность</item>
+        <item>Суперпользователь</item>
         <item>Камера</item>
-        <item>Монитор</item>
-        <item>Хранилище погоды</item>
+        <item>Трафик</item>
+        <item>Данные погоды</item>
         <item>Погода</item>
      </string-array>
 </resources>

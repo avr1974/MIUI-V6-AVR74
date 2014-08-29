@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="abbrev_in_num_days">
         <item quantity="one">завтра</item>
@@ -85,19 +85,19 @@
         <item quantity="other">%d с. назад</item>
      </plurals>
      <plurals name="pinpuk_attempts">
-        <item quantity="one">Осталось попыток: %d. После этого SIM-карта будет заблокирована.</item>
         <item quantity="other">Осталось попыток: %d. После этого SIM-карта будет заблокирована.</item>
+        <item quantity="one">Осталось попыток: %d. После этого SIM-карта будет заблокирована.</item>
      </plurals>
      <plurals name="restr_pin_countdown">
-        <item quantity="one">Повторите через %d сек.</item>
         <item quantity="other">Повторите через %d сек.</item>
+        <item quantity="one">Повторите через %d сек.</item>
      </plurals>
      <plurals name="wifi_available">
-        <item quantity="one">Доступна сеть Wi-Fi</item>
-        <item quantity="other">Доступна сеть Wi-Fi</item>
+        <item quantity="one">Доступна Wi-Fi сеть</item>
+        <item quantity="other">Доступны Wi-Fi сеть</item>
      </plurals>
      <plurals name="wifi_available_detailed">
-        <item quantity="one">Найдена доступная сеть Wi-Fi</item>
-        <item quantity="other">Найдены доступные сети Wi-Fi</item>
+        <item quantity="one">Найдена доступная Wi-Fi сеть</item>
+        <item quantity="other">Найдены доступные Wi-Fi сети</item>
      </plurals>
 </resources>

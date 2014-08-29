@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="contact_entries">
         <item>Имя</item>
         <item>Ник</item>
         <item>Телефон</item>
-        <item>Email</item>
+        <item>Почта</item>
         <item>Организация</item>
         <item>IM</item>
         <item>Интернет-телефон</item>
@@ -21,18 +21,18 @@
         <item>Огромный</item>
      </string-array>
      <string-array name="welcome_notes_content">
-        <item>Now you can easily jot down ideas, memos, thoughts using
-</item>
-        <item>Attach pictures or contacts
-</item>
-        <item>Check off tasks with your finger
-</item>
-        <item>And more great features!
-  - Sync with Mi Cloud
-  - Set reminders
+        <item>"Вы можете легко записывать идеи, заметки, используя
+"</item>
+        <item>"Прикрепление картинкок или контактов
+"</item>
+        <item>"Отменение задач пальцем
+"</item>
+        <item>"И еще больше полезных возможностей! 
+  - Синхронизация с Mi Cloud
+  - Установка напоминаний
 
-To learn more, visit
+Чтобы узнать больше, посетите
 http://www.miui.com/forum.php?lang=1
-</item>
+"</item>
      </string-array>
 </resources>

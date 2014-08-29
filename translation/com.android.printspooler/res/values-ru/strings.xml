@@ -19,11 +19,6 @@
      <string name="label_orientation">Ориентация</string>
      <string name="label_pages">Страницы (%1$s)</string>
      <string name="label_paper_size">Размер бумаги</string>
-     <string name="mediasize_default">ISO_A4</string>
-     <string name="mediasize_standard_china">3</string>
-     <string name="mediasize_standard_iso">0</string>
-     <string name="mediasize_standard_japan">2</string>
-     <string name="mediasize_standard_north_america">1</string>
      <string name="no_connection_to_printer">Нет связи с принтером</string>
      <string name="page_count_unknown">Количество страниц</string>
      <string name="pages_range_example">напр., 1–5, 8, 11–13</string>
