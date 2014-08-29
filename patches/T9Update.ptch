@@ -1,4 +1,5 @@
 appfile <ContactsProvider.apk>;
+#mapping "%here%/proguard.map";
 copyfile "%here%/NXTUtils.smali" "%smali%/com/android/providers/contacts/t9/NXTUtils.smali";
 replaceinall "invoke-static {v4}, Lcom/android/providers/contacts/t9/f;->b(C)C" "invoke-static {v4}, Lcom/android/providers/contacts/t9/NXTUtils;->formatCharToT9(C)C";
 replaceinall "invoke-static {v4}, Lcom/android/providers/contacts/t9/h;->b(C)C" "invoke-static {v4}, Lcom/android/providers/contacts/t9/NXTUtils;->formatCharToT9(C)C";
