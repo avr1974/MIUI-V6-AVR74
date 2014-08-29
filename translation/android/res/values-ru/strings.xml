@@ -1323,7 +1323,7 @@ Attempts Remaining :"</string>
      <string name="sipAddressTypeOther">Другой</string>
      <string name="sipAddressTypeWork">Рабочий</string>
      <string name="skip_button_label">Пропустить</string>
-     <string name="sms_control_message">&lt;b>%1$s&lt;/b> отправляет большое количество SMS. Разрешить приложению и дальше отправлять сообщения?</string>
+     <string name="sms_control_message"><b>%1$s</b> отправляет большое количество SMS. Разрешить приложению и дальше отправлять сообщения?</string>
      <string name="sms_control_no">Запретить</string>
      <string name="sms_control_title">Отправка SMS-сообщений</string>
      <string name="sms_control_yes">Разрешить</string>
@@ -1331,7 +1331,7 @@ Attempts Remaining :"</string>
      <string name="sms_short_code_confirm_allow">Отправить</string>
      <string name="sms_short_code_confirm_always_allow">Всегда</string>
      <string name="sms_short_code_confirm_deny">Отмена</string>
-     <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> хочет отправить сообщение &lt;b>%2$s&lt;/b></string>
+     <string name="sms_short_code_confirm_message"><b>%1$s</b> хочет отправить сообщение <b>%2$s</b></string>
      <string name="sms_short_code_confirm_never_allow">Никогда</string>
      <string name="sms_short_code_details"><jsonstring>{"string":"С мобильного счета могут быть списаны средства","styles":[{"start":0,"name":"font;fgcolor=#ffffb060","end":45}]}</string>
      <string name="sms_short_code_remember_choice">Запомнить мой выбор</string>
