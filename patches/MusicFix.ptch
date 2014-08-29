@@ -8,4 +8,3 @@ replaceinfile "%smali%/com/miui/player/phone/ui/MusicMainFragment.smali" "const-
 replaceinfile "%smali%/com/miui/player/phone/ui/MusicMainFragment.smali" "const-class v6, Lcom/miui/player/phone/ui/OnlineMainFragment;" "const-class v6, Lcom/miui/player/phone/ui/OnlineMainFragment;-";
 replaceinfile "%smali%/com/miui/player/phone/ui/MusicMainFragment.smali" "const-class v6, Lcom/miui/player/phone/ui/LocalMainFragment;" "const-class v6, Lcom/miui/player/phone/ui/OnlineMainFragment;";
 replaceinfile "%smali%/com/miui/player/phone/ui/MusicMainFragment.smali" "const-class v6, Lcom/miui/player/phone/ui/OnlineMainFragment;-" "const-class v6, Lcom/miui/player/phone/ui/LocalMainFragment;";
-
