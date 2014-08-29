@@ -255,7 +255,6 @@
     <string name="error_app_unsupported">Данный вид кодировки не поддерживает это разрешение</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
     <string name="pref_camera_hand_night_title">Сумерки</string>
-    <string name="pref_camera_ae_bracket_hdr_default">Выкл.</string>
     <string name="hdr_exit_button_text">Выйти</string>
     <string name="raw_data_exit_button_text">Выйти</string>
     <string name="hand_night_exit_button_text">Выйти</string>
