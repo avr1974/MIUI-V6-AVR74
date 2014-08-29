@@ -22,7 +22,7 @@
     <string name="puk_unlocked">SIM-карта разблокирована. Разблокировка телефона…</string>
     <string name="label_ndp">PIN для разблокировки сети SIM-карты</string>
     <string name="label_nsdp">Разблокировка подсети с помощью PIN-кода</string>
-    <string name="label_cdp">SРазблокировка корпоративной сети с помощью PIN-кода</string>
+    <string name="label_cdp">Разблокировка корпоративной сети с помощью PIN-кода</string>
     <string name="label_spdp">PIN-код разблокировки оператора SIM</string>
     <string name="label_sdp">PIN-код разблокировки SIM</string>
     <string name="label_rn1dp">PIN-код разблокировки сети 1 RUIM</string>
