@@ -142,7 +142,7 @@
      <string name="local_favorite_empty_hint">Пусто</string>
      <string name="local_media">Локальное видео</string>
      <string name="local_media_empty_hint">Нет видео</string>
-     <string name="local_video">Устройство</string>
+     <string name="local_video">Телефон</string>
      <string name="login_tip_content">Войдите в аккаунт для синхронизации и обновления шоу которые смотрите</string>
      <string name="login_tip_title">Авторизация</string>
      <string name="manage">Управление</string>

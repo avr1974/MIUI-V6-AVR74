@@ -3,4 +3,6 @@
 <resources>
      <string name="app_name">Сервис UniPlay</string>
      <string name="service_name">Сервис UniPlay</string>
+	 <string name="notification_rc_title">Xiaomi пульт</string>
+     <string name="notification_rc_desc">Вы можете использовать Xiaomi пульт для управления Xiaomi box и TV</string>
 </resources>

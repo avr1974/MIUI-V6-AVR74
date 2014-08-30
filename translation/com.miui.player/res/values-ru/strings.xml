@@ -163,7 +163,7 @@
      <string name="music_picker_title">Выберите трек</string>
      <string name="music_settings">Музыка</string>
      <string name="my_account">Мой аккаунт</string>
-     <string name="my_music">Устройство</string>
+     <string name="my_music">Телефон</string>
      <string name="my_music_empty">Nothing to play! Download or favorite some music in the Online Music tab.</string>
      <string name="my_playlist">Мои плелисты</string>
      <string name="network_error">Нет подключения к сети. Проверьте сетевые настройки.</string>
