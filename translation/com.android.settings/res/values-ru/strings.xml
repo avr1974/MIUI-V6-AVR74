@@ -18,16 +18,16 @@
      <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
      <string name="access_control_password_title">Ограничение доступа</string>
      <string name="access_control_recording_intro_header">Нарисуйте графический ключ:</string>
-     <string name="access_control_reset_by_account">Войди в аккаунт Xiaomi для восстановления пароля</string>
+     <string name="access_control_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
      <string name="accessibility_captioning_title">Титры</string>
      <string name="accessibility_enable">Включить доступ</string>
      <string name="accessibility_feature_state_off">Выкл.</string>
      <string name="accessibility_feature_state_on">Вкл.</string>
-     <string name="accessibility_global_gesture_preference_description">"Ты сможешь быстро включать специальные возможности. Вот как это сделать:
+     <string name="accessibility_global_gesture_preference_description">"Вы сможете быстро включать специальные возможности. Вот как это сделать:
 
-1. Нажми кнопку питания и удерживай ее, пока не раздастся звуковой или вибросигнал
+1. Нажмите кнопку питания и удерживайте ее, пока не раздастся звуковой или вибросигнал
 
-2. Нажми на экран двумя пальцами и не отпускай их, пока не услышишь сообщение о том, что команда выполнена
+2. Нажмите на экран двумя пальцами и не отпускайте их, пока не услышите сообщение о том, что команда выполнена
 
 Если устройством пользуется несколько человек, специальные возможности будут включены до тех пор, пока устройство не будет разблокировано или не будет выбран другой пользователь"</string>
      <string name="accessibility_global_gesture_preference_summary_off">Выкл.</string>
@@ -36,13 +36,13 @@
      <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
      <string name="accessibility_menu_item_settings">Настройки</string>
      <string name="accessibility_no_services_installed">Службы не установлены</string>
-     <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
+     <string name="accessibility_power_button_ends_call_prerefence_title">Завершать вызов кнопкой питания</string>
      <string name="accessibility_screen_magnification_enable">Жесты для увеличения</string>
      <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<ul><li>"панорамировать – проведите пальцами по экрану
-"<li>изменять масштаб – свединьте или разведите пальцы</li></li></ul>"
+панорамировать – проведите пальцами по экрану
+изменять масштаб – свединьте или разведите пальцы
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, можно посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -1101,7 +1101,7 @@
      <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
      <string name="kernel_version">Версия ядра:</string>
      <string name="key_settings">Кнопки управления</string>
-     <string name="key_settings_title">Кнопки и клавиши</string>
+     <string name="key_settings_title">Настройки кнопок</string>
      <string name="keyboard_layout_default_label">По умолчанию</string>
      <string name="keyboard_layout_dialog_setup_button">Настройка раскладок клавиатуры</string>
      <string name="keyboard_layout_dialog_switch_hint">Для переключения нажми Control-Пробел</string>
@@ -1419,8 +1419,8 @@
 	 <string name="music_audio_effect_settings">Настройки эквалайзера</string>
      <string name="music_dirac_mode_earbuds">Наушники Mi</string>
      <string name="music_dirac_mode_general">Обычные</string>
-     <string name="music_dirac_mode_general_earbuds">Обычные наушники</string>
-     <string name="music_dirac_mode_general_inear">Обычные вкладыши</string>
+     <string name="music_dirac_mode_general_earbuds">Наушники</string>
+     <string name="music_dirac_mode_general_inear">Вкладыши</string>
      <string name="music_dirac_mode_in_ear">Вкладыши Mi</string>
      <string name="music_dirac_mode_piston_100">Mi пистоны-1</string>
      <string name="music_dirac_mode_piston_2">Mi пистоны-2</string>
@@ -1480,11 +1480,11 @@
      <string name="no_update_found">Вы используете последнюю версию MIUI</string>
      <string name="no_updates_found">Вы используете последнюю версию MIUI</string>
      <string name="no_updates_warning">Обновления не найдены</string>
-     <string name="no_updates_warning2">Расслабьтест, Вы узнаешь первым когда оно появится :)</string>
+     <string name="no_updates_warning2">Расслабьтесь, Вы узнаешь первым когда оно появится :)</string>
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">По умолчанию (%s)</string>
      <string name="not_installed">Не установлено</string>
-     <string name="notification_breathing_light_color_title">Уведомления</string>
+     <string name="notification_breathing_light_color_title">Новые уведомления</string>
      <string name="notification_breathing_light_freq_title">Частота мигания</string>
      <string name="notification_listener_security_warning_summary">%1$s будет иметь возможность читать все уведомления, системые или любого установленного приложения, которые могут включать личные данные, имена контактов и текст сообщений. Он также сможет отклонить эти уведомления или не прикасаясь кнопки действий в них.</string>
      <string name="notification_listener_security_warning_title">Включить %1$s?</string>
@@ -1561,7 +1561,7 @@
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Подсветка кнопок</string>
      <string name="pref_button_light_summary">Включить подсветку кнопок меню, назад и домой</string>
-     <string name="pref_operational_key">Остальные кнопки</string>
+     <string name="pref_operational_key">Другие настройки</string>
      <string name="pref_volume_wake_summary">Пробуждать устройство нажатием кнопки громокости</string>
      <string name="pref_volume_wake_title">Пробуждение устройства</string>
      <string name="preference_change_password_title">Изменить пароль</string>
@@ -1741,10 +1741,10 @@
      <string name="reset_app_preferences_button">Сбросить</string>
      <string name="reset_app_preferences_desc">"Это сбросит все настройки для: 
 	
- "<li>Отключенных приложений</li>"
- "<li>Отключенных уведомлений приложений</li>"
- "<li>Приложений по умолчанию</li>"
- "<li>Ограничений фоновых данных приложений</li>"
+ Отключенных приложений
+ Отключенных уведомлений приложений
+ Приложений по умолчанию
+ Ограничений фоновых данных приложений
 
  Данные приложений потеряны не будут"</string>
      <string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
@@ -1799,7 +1799,7 @@
      <string name="screen_color_temperature_and_saturation">Температура и цвет</string>
      <string name="screen_compatibility_label">Совместимость с экраном</string>
      <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
-     <string name="screen_key_long_press">ДОЛГОЕ НАЖАТИЕ КНОПОК</string>
+     <string name="screen_key_long_press">ДОЛГОЕ НАЖАТИЕ</string>
      <string name="screen_key_long_press_action">Переключатель функций</string>
      <string name="screen_key_long_press_timeout">Время нажатия</string>
      <string name="screen_never_timeout_title">Никогда не отключать</string>
@@ -2094,7 +2094,7 @@
      <string name="storage_low_title">Заканчивается свободное место</string>
      <string name="storage_menu_usb">USB-подключение к компьютеру</string>
      <string name="storage_other_users">Другие пользователи</string>
-     <string name="storage_settings">Состояние памяти</string>
+     <string name="storage_settings">Сведения о памяти</string>
      <string name="storage_settings_summary">Отключение SD-карты, сведения о доступной памяти</string>
      <string name="storage_settings_title">Настройки хранилища</string>
      <string name="storage_title_usb">USB-подключение к компьютеру</string>
