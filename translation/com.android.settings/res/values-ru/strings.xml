@@ -1548,7 +1548,7 @@
      <string name="power_cell">Связь с сетью</string>
      <string name="power_idle">Режим ожидания</string>
      <string name="power_mgr">Питание</string>
-     <string name="power_mode">Режим питания</string>
+     <string name="power_mode">Режим работы</string>
      <string name="power_mode_balanced_title">Сбалансированный режим</string>
      <string name="power_phone">Голосовые вызовы</string>
      <string name="power_screen">Экран</string>
@@ -2067,7 +2067,7 @@
      <string name="status_bar_settings_show_statusBar_notification">На экране блокировки</string>
      <string name="status_bar_settings_show_wifi_name">Показывать Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Строка состояния</string>
-     <string name="status_bar_settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
+     <string name="status_bar_settings_toggle_collapse_after_clicked">Сворачивать после нажатия</string>
      <string name="status_bar_settings_toggle_layout_style">Настройки стиля</string>
      <string name="status_bar_settings_toggle_layout_style_applying">Применение стиля…</string>
      <string name="status_bar_settings_toggle_layout_style_compact">Компактный</string>
