@@ -93,11 +93,11 @@
      <string name="ext_media_safe_remove">Безопасное извлечение</string>
      <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно извлечь USB-хранилище</string>
      <string name="ext_media_safe_unmount_notification_title">Можно извлечь</string>
-     <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста сформатируйте его.</string>
+     <string name="ext_media_unmountable_notification_message">Поврежденное USB-хранилище. Пожалуйста отформатируйте его.</string>
      <string name="ext_media_unmountable_notification_title">Поврежденное USB-хранилище</string>
-     <string name="gps_notification_found_text">Местоположение установлено с помощью GPS</string>
+     <string name="gps_notification_found_text">Местоположение найдено по GPS</string>
      <string name="gps_notification_searching_text">Поиск GPS</string>
-     <string name="headset_custom">Настр.</string>
+     <string name="headset_custom">Настроить</string>
      <string name="headset_info">Настройка кнопок</string>
      <string name="headset_settings">Подключена гарнитура</string>
      <string name="invalid_charger">"Зарядка по USB порту не поддерживается.
