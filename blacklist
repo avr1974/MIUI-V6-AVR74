@@ -3,8 +3,6 @@ system/tts/*
 system/fonts/Miui-Bold.ttf
 system/fonts/Miui-Regular.ttf
 system/app/GooglePinyinIME.apk
-system/app/AMAPNetworkLocation.apk
-system/app/AntHalService.apk
 system/app/BasicDreams.apk
 system/app/Galaxy4.apk
 system/app/GameCenter.apk
