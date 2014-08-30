@@ -1,0 +1,2 @@
+appfile <DownloadProviderUi.apk>;
+methodreplace "%smali%/com/android/providers/downloads/ui/DownloadUtils.smali" "%here%/methods/downloadproviderui_formatunitfix.m" "public static" "formatUnit" "Ljava/lang/String;" "Ljava/lang/String;";

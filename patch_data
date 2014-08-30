@@ -1,5 +1,6 @@
 include "%translation_dir%/patches/CoreFix.ptch";
 include "%translation_dir%/patches/DisVolume.ptch";
+include "%translation_dir%/patches/DownloadUiFix.ptch";
 include "%translation_dir%/patches/MusicFix.ptch";
 include "%translation_dir%/patches/RootFix.ptch";
 include "%translation_dir%/patches/SearchFix.ptch";
