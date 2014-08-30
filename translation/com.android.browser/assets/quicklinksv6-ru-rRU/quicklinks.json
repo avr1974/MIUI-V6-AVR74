@@ -13,18 +13,6 @@
          "position": 0
       },
 	  {
-        "title":"MIUI.su",
-        "url":"http://miui.su/",
-        "thumbnail":"miui_su.png",
-        "logobg":"orange_dark.9.png",
-        "nightModeMask": "night.9.png",
-        "favicon":"",
-		"displayName": "MIUI.su",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 1
-        },
-	  {
          "title":"4PDA",
          "url":"http://4pda.ru",
          "thumbnail":"4pda.png",
@@ -34,7 +22,7 @@
          "displayName":"4PDA",
          "isDelete":true,
          "movable":true,
-         "position": 2
+         "position": 1
       },
       {
          "title":"Apkmania",
@@ -46,7 +34,7 @@
          "displayName":"Apkmania",
          "isDelete":true,
          "movable":true,
-         "position": 3
+         "position": 2
       },
 	  {
          "title":"DimonVideo",
@@ -58,7 +46,7 @@
          "displayName":"DimonVideo",
          "isDelete":true,
          "movable":true,
-         "position": 4
+         "position": 3
       },
       {
          "title":"BurgerZ.pro",
@@ -70,7 +58,7 @@
          "displayName":"BurgerZ.pro",
          "isDelete":true,
          "movable":true,
-         "position": 5
+         "position": 4
       },
       {
          "title":"ВКонтакте",
@@ -82,7 +70,7 @@
          "displayName":"ВКонтакте",
          "isDelete":true,
          "movable":true,
-         "position": 6
+         "position": 5
       },
       {
          "title":"Одноклассники",
@@ -94,7 +82,7 @@
          "displayName":"Одноклассники",
          "isDelete":true,
          "movable":true,
-         "position": 7
+         "position": 6
       },
       {
          "title":"Facebook",
@@ -106,7 +94,7 @@
          "displayName":"Facebook",
          "isDelete":true,
          "movable":true,
-         "position": 8
+         "position": 7
       },
       {
          "title":"Google",
@@ -118,7 +106,7 @@
          "displayName":"Google",
          "isDelete":true,
          "movable":true,
-         "position": 9
+         "position": 8
       },
 	  {
          "title":"Yandex",
@@ -130,7 +118,7 @@
          "displayName":"Yandex",
          "isDelete":true,
          "movable":true,
-         "position": 10
+         "position": 9
       },
       {
          "title":"Mail.ru",
@@ -142,7 +130,7 @@
          "displayName":"Mail.ru",
          "isDelete":true,
          "movable":true,
-         "position": 11
+         "position": 10
       },
 	  {
         "title":"WSMproject",
@@ -154,7 +142,7 @@
 		"displayName": "WSMproject",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 12
+	    "position": 11
       },
       {
          "title":"MIUI forum",
@@ -166,7 +154,7 @@
          "displayName":"MIUI forum",
          "isDelete":true,
          "movable":true,
-         "position": 13
+         "position": 12
       },
       {
          "title":"Twitter",
@@ -178,7 +166,7 @@
          "displayName":"Twitter",
          "isDelete":true,
          "movable":true,
-         "position": 14
+         "position": 13
       },
       {
          "title":"Википедия",
@@ -190,7 +178,7 @@
          "displayName":"Википедия",
          "isDelete":true,
          "movable":true,
-         "position": 15
+         "position": 14
       },
       {
          "title":"SoundCloud",
@@ -202,7 +190,7 @@
          "displayName":"SoundCloud",
          "isDelete":true,
          "movable":true,
-         "position": 16
+         "position": 15
       },
 	  {
          "title":"YouTube",
@@ -214,7 +202,7 @@
          "displayName":"YouTube",
          "isDelete":true,
          "movable":true,
-         "position": 17
+         "position": 16
       },
 	  {
          "title":"Svetyolka",
@@ -226,7 +214,7 @@
          "displayName":"Svetyolka",
          "isDelete":true,
          "movable":true,
-         "position": 18
+         "position": 17
       },
 	  {
         "title":"Backly",
@@ -238,7 +226,7 @@
         "displayName": "Backly",
 		"isDelete": true,
 	    "movable": true,
-	    "position": 19
+	    "position": 18
       },
 	  {
         "title":"Xiaomi.eu",
@@ -250,7 +238,7 @@
 		"displayName": "Xiaomi.eu",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 20
+	    "position": 19
       }
 	  {
 	    "title":"Google+",
@@ -262,7 +250,7 @@
 		"displayName": "Google+",
 	    "isDelete": true,
 	    "movable": true,
-	    "position": 21
+	    "position": 20
         },
    ],
    "topquicklinks":[
