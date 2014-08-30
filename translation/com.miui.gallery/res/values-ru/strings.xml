@@ -361,7 +361,7 @@
      <string name="photo_saved">Фотография сохранена в альбоме "%s"</string>
      <string name="photo_size">Размер</string>
      <string name="photoeditor_name">Фотостудия</string>
-     <string name="photos">файлов</string>
+     <string name="photos"> фото</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
      <string name="pick_too_much_tips">Слишком много элементов (макс. %d)</string>
      <string name="picker_no_album_selected">Альбом не выбран</string>
