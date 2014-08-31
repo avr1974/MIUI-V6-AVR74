@@ -239,7 +239,7 @@
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 19
-      }
+      },
 	  {
 	    "title":"Google+",
         "url":"https://plus.google.com/app/basic/stream?source=apppromo",
@@ -251,7 +251,7 @@
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 20
-        },
+        }
    ],
    "topquicklinks":[
       {

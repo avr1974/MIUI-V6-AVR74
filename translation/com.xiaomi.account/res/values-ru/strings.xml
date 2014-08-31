@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mi аккаунт</string>
+    <string name="app_name">Аккаунт Xiaomi</string>
     <string name="show_password">Показать пароль</string>
     <string name="account">Аккаунт</string>
     <string name="account_hint_text">Телефон, почта или ID</string>
@@ -21,7 +21,7 @@
     <string name="bad_authentication">Неверный пароль или имя пользователя</string>
     <string name="int_phone_user_notice">Добавьте код страны при входе по номеру телефона</string>
 	<string name="micloud_welcome_skip_login"><jsonstring>{"string":"Пропустить этот шаг","styles":[{"start":0,"name":"u","end":18}]}</string>
-    <string name="micloud_account_name">Mi аккаунт</string>
+    <string name="micloud_account_name">Аккаунт Xiaomi</string>
     <string name="micloud_reg_new">Новый</string>
     <string name="micloud_error_empty_username">Введите логин</string>
     <string name="micloud_error_empty_pwd">Введите пароль</string>
