@@ -156,7 +156,7 @@
      <string name="resource_mute">Нет</string>
      <string name="resource_my">Телефон</string>
      <string name="resource_no_result">Нет результатов</string>
-     <string name="resource_notification_default">Уведомл.</string>
+     <string name="resource_notification_default">Уведомление по умолчанию</string>
      <string name="resource_on_trial">Триал: %1$s</string>
      <string name="resource_online">Онлайн %1$s</string>
      <string name="resource_pack_confirm">Вы уже приобрели %1$d элементов. Но текущая цена имеет скидку, чем покупка по отдельности. Продолжить?</string>
@@ -169,7 +169,7 @@
      <string name="resource_purchase_getting_order">Получение даннных заказа…</string>
      <string name="resource_purchase_verifying_payment">Проверка оплаты…</string>
      <string name="resource_purchase_waiting_payment">Ожидание проверки оплаты…</string>
-     <string name="resource_ranking">Топовые</string>
+     <string name="resource_ranking">Топ</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодии</string>
@@ -228,7 +228,7 @@
      <string name="theme_component_title_font">Шрифт</string>
      <string name="theme_component_title_framework">Система</string>
      <string name="theme_component_title_icon">Иконки</string>
-     <string name="theme_component_title_launcher">Лончер</string>
+     <string name="theme_component_title_launcher">Рабочий стол</string>
      <string name="theme_component_title_lockstyle">Локскрин</string>
      <string name="theme_component_title_lockwallpaper">Обои локскрина</string>
      <string name="theme_component_title_miwallpaper">Обои Mi</string>
@@ -238,7 +238,7 @@
      <string name="theme_component_title_photo_frame">Фоторамка</string>
      <string name="theme_component_title_ringtone">Мелодия</string>
      <string name="theme_component_title_statusbar">Панель</string>
-     <string name="theme_component_title_wallpaper">Обои</string>
+     <string name="theme_component_title_wallpaper">Обои стола</string>
      <string name="theme_current_using_has_update">Текущая тема была обновлена. Нажмите здесь, чтобы применить.</string>
      <string name="theme_description_title_customized">Пользов.</string>
      <string name="theme_description_title_default">По умолчанию</string>
@@ -252,17 +252,17 @@
      <string name="theme_user_agreement_content1">Прочитайте действующие условия, прежде чем использовать этот продукт:</string>
      <string name="theme_user_agreement_content2"> Пользовательское соглашение</string>
      <string name="theme_user_agreement_content3"> и </string>
-     <string name="theme_user_agreement_content4">Политика безопасности</string>
+     <string name="theme_user_agreement_content4">Политику безопасности</string>
      <string name="theme_user_agreement_content5">. Разрешаешь доступ к сети?</string>
      <string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
      <string name="theme_user_agreement_remind_never">Больше не спрашивать</string>
      <string name="theme_user_agreement_remind_summary">Вступит в силу при следующей загрузке</string>
      <string name="theme_user_agreement_title">Важная информация</string>
-     <string name="theme_yes">Да</string>
+     <string name="theme_yes">OK</string>
      <string name="third_party_pickers_activity_title">Установить %1$s</string>
      <string name="title_component">Компоненты</string>
      <string name="title_system_resource">Системные</string>
-     <string name="to_activate_the_account">Активируйте свой аккаунт Xiaomi</string>
+     <string name="to_activate_the_account">Активируйте аккаунт Xiaomi</string>
      <string name="wallpaper_crop">Обрезать</string>
      <string name="wallpaper_decoded_error">Не удалось декодировать</string>
      <string name="wallpaper_loading_text">Загрузка…</string>

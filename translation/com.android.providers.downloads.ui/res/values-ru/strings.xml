@@ -35,7 +35,7 @@
      <string name="dialog_title_queued_body">Файл не доступен</string>
      <string name="disable">Отключить</string>
      <string name="doc_filter">ДОКУМЕНТЫ</string>
-     <string name="download_complete">Завершенные</string>
+     <string name="download_complete">Скачанные</string>
      <string name="download_error">Ошибка</string>
      <string name="download_error_insufficient_space">Недостаточно места</string>
      <string name="download_in_process">В процессе</string>
