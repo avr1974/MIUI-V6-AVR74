@@ -251,7 +251,7 @@
      <string name="change_account_type">Смена типа аккаунта</string>
      <string name="change_folders_selection_dialog_title">Изменение папок</string>
      <string name="change_sync_settings">Настройки синхронизации</string>
-	 <string name="chat_type_name">сообщение</string>
+	 <string name="chat_type_name">сообщение из переписки</string>
 	 <string name="check_setup_data">Проверка настроек сервера…</string>
      <string name="checking_for_mail">Проверка почты…</string>
      <string name="choosertitle_sharevia">Отправить через</string>
@@ -440,7 +440,7 @@
      <string name="login_failed_ticker">Ошибка авторизации %s</string>
      <string name="login_failed_title">Не удалось войти в аккаунт</string>
      <string name="long_press_to_select_tip">Чтобы выбрать несколько цепочек, нажмите и удерживайте одну из них, а затем нажимайте на следующие</string>
-	 <string name="mail">сообщение</string>
+	 <string name="mail">эл. сообщение</string>
 	 <string name="mail_body_turncated">Это сообщение слишком большое, чтобы загрузить. Отображается только его часть. Посмотрите его на ПК позже.</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
@@ -462,6 +462,7 @@
      <string name="mark_not_spam">Не спам</string>
      <string name="mark_read">Отметить прочитанным</string>
      <string name="mark_unread">В непрочитанные</string>
+	 <string name="message_type_name">сообщение</string>
      <string name="me_object_pronun">я</string>
      <string name="me_subject_pronun">я</string>
      <string name="meeting_accepted">Принято: %s</string>
