@@ -33,7 +33,7 @@
      <string name="lockscreen_access_pattern_cleared">Комбинация очищена</string>
      <string name="lockscreen_access_pattern_detected">Комбинация завершена</string>
      <string name="lockscreen_access_pattern_start">Комбинация началась</string>
-     <string name="lockscreen_charging_msg">Зарядка</string>
+     <string name="lockscreen_charging_msg">Зарядка батареи</string>
      <string name="lockscreen_emergency_call">Экстренный звонок</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать устройство (%d попыток). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных.</string>
      <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, Вам будет предложено разблокировать устройство с помощью аккаунта.
@@ -65,8 +65,8 @@
      <string name="pincode_set_to_default_msg">PIN-код изменен на 1234. Изменить его тут:</string>
      <string name="puk_operation_failed">PUK - операция не удалась</string>
      <string name="return_to_me_message">Если потеряли вернитесь к</string>
-     <string name="screen_on_proximity_sensor_hint">Чтобы отключить эту функцию, нажмите кнопки назад и громкость+ одновременно</string>
-     <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю часть экрана</string>
+     <string name="screen_on_proximity_sensor_hint">Чтобы отключить, нажмите кнопки назад и громкость+ одновременно</string>
+     <string name="screen_on_proximity_sensor_summary">Не закрывайте верхнюю часть</string>
      <string name="screen_on_proximity_sensor_title">Предотвращать нажатия</string>
      <string name="short_pincode_error_msg">Пожалуйста, введите 4–8 цифр</string>
      <string name="short_pukcode_error_msg">Введите не менее 8 цифр</string>
@@ -74,7 +74,7 @@
      <string name="unlock_sim_string">Разблокировать SIM</string>
      <string name="unlock_string">OK</string>
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
-     <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
+     <string name="unlockscreen_low_battery">Зарядите устройство</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
      <string name="unlockscreen_recharging_message">Зарядка батареи %d%%</string>
 </resources>

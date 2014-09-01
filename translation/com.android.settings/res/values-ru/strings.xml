@@ -168,7 +168,7 @@
      <string name="application_item_permission">Разрешить</string>
      <string name="application_restrictions">Разрешить приложения и контент</string>
      <string name="application_size_label">Приложение</string>
-     <string name="applications_settings">Сторонние приложения</string>
+     <string name="applications_settings">Все приложения</string>
      <string name="applications_settings_header">Настройки приложения</string>
      <string name="applications_settings_summary">Управление приложениями, настройка клавиш быстрого запуска</string>
      <string name="apply_now_button_text">Обновить</string>

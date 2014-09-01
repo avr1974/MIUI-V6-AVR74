@@ -1,3 +1,4 @@
+include "%translation_dir%/patches/BackupFix.ptch";
 include "%translation_dir%/patches/CoreFix.ptch";
 include "%translation_dir%/patches/DisVolume.ptch";
 include "%translation_dir%/patches/DownloadUiFix.ptch";

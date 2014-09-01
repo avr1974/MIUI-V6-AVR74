@@ -343,7 +343,7 @@
     <string name="title_data_flow_yes">Контроль трафика включен</string>
 	<string name="title_dev_no">Включены настройки для разработчиков</string>
     <string name="title_dev_yes">Настройки для разработчиков отключены</string>
-    <string name="title_show_notification_yes">В панеле уведомлений</string>
+    <string name="title_show_notification_yes">В панели уведомлений</string>
     <string name="title_show_notification_no">Скрыть с панели уведомлений</string>
     <string name="button_text_fix">Исправить</string>
     <string name="button_text_view">Посмотреть</string>
@@ -362,7 +362,7 @@
     <string name="menu_item_shortcut_summary">Отправить ярлыки модулей на рабочий стол</string>
     <string name="menu_item_settings_title">Настройки</string>
     <string name="activity_title_create_shortcut">Управление ярлыками</string>
-    <string name="menu_item_notification_title">В панеле уведомлений</string>
+    <string name="menu_item_notification_title">В панели уведомлений</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_garbage_text_error">Ошибка</string>
     <string name="menu_item_notification_power_text">Питание</string>
