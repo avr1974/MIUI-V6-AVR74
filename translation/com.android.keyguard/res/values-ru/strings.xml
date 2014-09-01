@@ -76,5 +76,5 @@
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
      <string name="unlockscreen_low_battery">Зарядите устройство</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
-     <string name="unlockscreen_recharging_message">Зарядка батареи %d%%</string>
+     <string name="unlockscreen_recharging_message">Зарядка (%d%%)</string>
 </resources>
