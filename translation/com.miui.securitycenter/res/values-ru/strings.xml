@@ -237,8 +237,8 @@
     <string name="handle_text_memory">Память</string>
     <string name="handle_text_cache">Кэш</string>
     <string name="last_checked_date2">Последняя проверка %d дн. назад</string>
-    <string name="last_check_date_today">"Проверялось: сегодня в "</string>
-    <string name="last_check_date_yesterday">"Проверялось: вчера в "</string>
+    <string name="last_check_date_today">"Последняя проверка: сегодня в "</string>
+    <string name="last_check_date_yesterday">"Последняя проверка: вчера "</string>
     <string name="last_check_never_checked">Рекомендуется проверить :)</string>
     <string name="last_check_canceled">Предыдущая проверка отменена</string>
     <string name="last_checked_default">Последняя проверка %s дн. назад</string>

@@ -1241,8 +1241,8 @@
      <string name="man_add_application">Добавить</string>
      <string name="manage_device_admin">Администраторы устройства</string>
      <string name="manage_device_admin_summary">Управление администраторами устройства</string>
-     <string name="manage_mobile_plan_title">Управление мобильным планом</string>
-     <string name="manage_notification_access">Доступ к уведамлениям</string>
+     <string name="manage_mobile_plan_title">Мобильный трафик</string>
+     <string name="manage_notification_access">Доступ к уведомлениям</string>
      <string name="manage_notification_access_summary_zero">Приложения не могут читать уведомления</string>
      <string name="manage_space_text">Управление местом</string>
      <string name="manage_xiaomi_router">Управление Mi-роутером</string>
