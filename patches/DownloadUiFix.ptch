@@ -1,3 +1,4 @@
 appfile <DownloadProviderUi.apk>;
 methodreplace "%smali%/com/android/providers/downloads/ui/DownloadUtils.smali" "%here%/methods/downloadproviderui_formatunitfix.m" "public static" "formatUnit" "Ljava/lang/String;" "Ljava/lang/String;";
-replaceinfile "%smali%/com/android/providers/downloads/ui/DownloadAdapter.smali" "const-string v6, \"/s\"" "const-string v6, \"/с\"";
+replaceinfile "%smali%/com/android/providers/downloads/ui/DownloadAdapter.smali" "const-string v7, \"/s\"" "const-string v7, \"/с\"";
+replaceinfile "%smali%/com/android/providers/downloads/ui/pay/XLSpeedUpActivity$2$2.smali" "const-string v4, \"MB\"" "const-string v4, \"МБ\"";

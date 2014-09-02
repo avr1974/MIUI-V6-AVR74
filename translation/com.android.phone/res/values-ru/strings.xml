@@ -443,7 +443,7 @@ This can take up to 5 minutes."</string>
     <string name="alert_dialog_dismiss">Закрыть</string>
     <string name="other_settings">Другие настройки вызовов</string>
     <string name="selectContact">выбрать контакт</string>
-    <string name="sip_settings">Настройки</string>
+    <string name="sip_settings">Настройки SIP</string>
     <string name="sip_accounts">Аккаунты</string>
     <string name="sip_accounts_title">Аккаунты</string>
     <string name="sip_receive_calls">Принимать входящие</string>
@@ -757,8 +757,8 @@ This can take up to 5 minutes."</string>
     <string name="messageCFNRc">Номер для переадресации, если абонент недоступен</string>
     <string name="sum_cfnrc_enabled">Переадресация на номер {0}</string>
     <string name="sum_cfnrc_disabled">Отключено</string>
-    <string name="disable_cfnrc_forbidden">Твой оператор не поддерживает отключение переадресации звонков, если телефон находится вне зоны доступа</string>
-    <string name="call_forwarding_settings">Переадресация вызовов</string>
+    <string name="disable_cfnrc_forbidden">Ваш оператор не поддерживает отключение переадресации звонков, если телефон находится вне зоны доступа</string>
+    <string name="call_forwarding_settings">Настройки переадресации</string>
     <string name="call_forwarding_number_hint">Введите номер для переадресации</string>
     <string name="cfu_title">Всегда переадресовать</string>
     <string name="cfb_title">Если занято</string>
@@ -820,4 +820,26 @@ This can take up to 5 minutes."</string>
     <string name="voice_report_incoming_call">Вызов</string>
     <string name="voice_report_unknown_num">Неизвестный номер</string>
     <string name="command_error_fdn_failure">Сначала отключите разрешенные номера</string>
+	<string name="uplmn_list_setting_title">Предпочтительные сети</string>
+    <string name="network_id">ID сети</string>
+    <string name="dialog_network_priority_title">Приоритетная</string>
+    <string name="uplmn_list_setting_add_plmn">Новая PLMN</string>
+    <string name="gsm_umts_network_preferences_title">Режим сети</string>
+    <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
+    <string name="select_voice_call_sim">Выберите SIM-карту</string>
+    <string name="general_setting">Общие настройки</string>
+    <string name="call_record_setting">Настройки записи</string>
+    <string name="preference_telocation_title">Настройки местоположения</string>
+    <string name="cloud_antispam_title">Настройки идентификации</string>
+    <string name="preference_auto_ip_summary_disable">Отключен</string>
+    <string name="preference_dial_pad_touch_tone_title">Тон набора</string>
+    <string name="preference_telocation_summary_teloc_off">Скрывать местоположение</string>
+    <string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
+    <string name="preference_telocation_summary_countrycode_on">добавлять код страны</string>
+    <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
+    <string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
+    <string name="preference_telocation_summary_countrycode_off">не добавлять код страны</string>
+    <string name="telephony_setting">Телефон</string>
+	<string name="call_record_on_summary">Включена автоматическая запись звонков</string>
+    <string name="call_record_off_summary">Автоматическая запись звонков отключена</string>
 </resources>

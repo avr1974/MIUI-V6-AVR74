@@ -1800,7 +1800,7 @@
      <string name="screen_compatibility_label">Совместимость с экраном</string>
      <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
      <string name="screen_key_long_press">ДОЛГОЕ НАЖАТИЕ</string>
-     <string name="screen_key_long_press_action">Переключатель функций</string>
+     <string name="screen_key_long_press_action">Функция кнопки</string>
      <string name="screen_key_long_press_timeout">Время нажатия</string>
      <string name="screen_never_timeout_title">Никогда не отключать</string>
      <string name="screen_on_proximity_sensor_summary">Предотвращение функциональности телефона, при помощи датчика</string>
@@ -2065,6 +2065,7 @@
      <string name="status_bar_settings_show_notificationBar_notification">Уведомления в панели</string>
      <string name="status_bar_settings_show_screenshot_notification">Показывать скриншоты</string>
      <string name="status_bar_settings_show_statusBar_notification">На экране блокировки</string>
+	 <string name="status_bar_settings_show_statusBar_notification_summary">Уведомления будут показываться в панели уведомлений и автоматически очищаться</string>
      <string name="status_bar_settings_show_wifi_name">Показывать Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Строка состояния</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Сворачивать после нажатия</string>

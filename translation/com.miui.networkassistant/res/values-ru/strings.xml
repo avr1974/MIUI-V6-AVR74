@@ -51,6 +51,9 @@
      <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
+	 <string name="datausage_purchase_none_history">Пусто</string>
+     <string name="datausage_purchase_order_failure">Покупка не удалась</string>
+     <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>
      <string name="datausage_purchase_ordering">Purchasing…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
@@ -66,7 +69,8 @@
      <string name="datausage_purchase_result_ok">"You bought %s
 For more info check the message you received from your service provider"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="datausage_purchase_title_confirm">Purchase details</string>
+     <string name="datausage_purchase_time_in">" on "</string>
+	 <string name="datausage_purchase_title_confirm">Purchase details</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="datausage_purchase_title_order">Purchase additional data</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
