@@ -78,4 +78,5 @@
      <string name="unlockscreen_low_battery">Зарядите устройство</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
      <string name="unlockscreen_recharging_message">Зарядка (%d%%)</string>
+	 <string name="wrong_password">Неверный пароль</string>
 </resources>

@@ -1167,6 +1167,7 @@
      <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
      <string name="lock_screen_unlock_show">Интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
+	 <string name="lock_settings">Блокировка экрана</string>
      <string name="lock_settings_common_title">Настройка блокировки</string>
      <string name="lock_settings_picker_settings">Установить блокировку экрана</string>
      <string name="lock_settings_picker_title">Тип блокировки</string>
@@ -1509,6 +1510,7 @@
      <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
      <string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
      <string name="open_wifi_connect_title">Подключение к открытой сети %1$s</string>
+	 <string name="other_personal_settings">Разные настройки</string>
      <string name="other_relative">ПРОЧИЕ</string>
      <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
      <string name="owner_info_settings_edit_text_hint">Введите текст</string>
@@ -2788,6 +2790,8 @@
      <string name="wimax_settings">Настройки 4G</string>
      <string name="window_animation_scale_title">Скорость анимации окон</string>
      <string name="wireless_networks_settings_title">Беспроводные сети</string>
+	 <string name="wireless_off">Выкл.</string>
+     <string name="wireless_on">Вкл.</string>
      <string name="wizard_back">Назад</string>
      <string name="wizard_finish">Готово</string>
      <string name="wizard_next">Далее</string>
