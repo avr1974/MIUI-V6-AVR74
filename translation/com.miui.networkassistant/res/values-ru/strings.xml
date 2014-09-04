@@ -106,7 +106,7 @@ For more info check the message you received from your service provider"</string
      <string name="list_empty_text">Пусто</string>
      <string name="lock_screen_traffic_warn_title">Предупреждение трафика</string>
      <string name="main_alert_message_no_imsi">SIM-карта не обнаружена</string>
-     <string name="main_alert_message_no_mobile_package">Лимит мобильного трафика не установлен</string>
+     <string name="main_alert_message_no_mobile_package">Лимит трафика не установлен</string>
      <string name="main_alert_message_slot_no_data_connection">"Слот SIM-карты не поддерживает 
 подключение к мобильному интернету"</string>
      <string name="main_button_idel_traffic">Предел</string>

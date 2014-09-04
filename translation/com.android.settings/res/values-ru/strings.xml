@@ -1769,6 +1769,7 @@
      <string name="retry">Повторить</string>
      <string name="ring_volume_title">Громкость звонка</string>
      <string name="ringtone_mute">Нет</string>
+	 <string name="ringtone_slot_setting_title">Настройки одной карты</string>
      <string name="ringtone_summary" />
      <string name="ringtone_title">Мелодия звонка</string>
      <string name="roaming">Интернет-роуминг</string>
