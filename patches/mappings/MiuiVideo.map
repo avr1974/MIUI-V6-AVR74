@@ -1,0 +1,3 @@
+com.miui.video.HomeActivity -> com.miui.video.HomeActivity:
+    com.miui.video.fragment.MyVideoFragment mLocalVideo -> Cv
+    com.miui.video.fragment.OnlineVideoFragment mOnlineVideo -> Cu
