@@ -183,6 +183,7 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение мерцания</string>
      <string name="pref_camera_audio_capture_title">Съемка голосом</string>
+	 <string name="pref_camera_auto_capture_when_stable_title">Автосъемка при фокусе</string>
 	 <string name="pref_camera_auto_chroma_flash_title">Насыщенная вспашка</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
