@@ -308,7 +308,7 @@
      <string name="pref_camera_redeyereduction_entry_disable">Выкл.</string>
      <string name="pref_camera_redeyereduction_entry_enable">Вкл.</string>
      <string name="pref_camera_redeyereduction_title">Устранение эффекта красных глаз</string>
-     <string name="pref_camera_referenceline_title">Вспомогательная стка</string>
+     <string name="pref_camera_referenceline_title">Вспомогательная сетка</string>
      <string name="pref_camera_saturation_title">Насыщенность</string>
      <string name="pref_camera_scenedetect_title">Автоопределение сюжета</string>
      <string name="pref_camera_scenemode_entry_auto">Авто</string>
