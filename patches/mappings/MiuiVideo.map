@@ -1,3 +1,6 @@
 com.miui.video.HomeActivity -> com.miui.video.HomeActivity:
     com.miui.video.fragment.MyVideoFragment mLocalVideo -> Cv
     com.miui.video.fragment.OnlineVideoFragment mOnlineVideo -> Cu
+    android.app.Fragment[] mFragments -> hr
+    com.miui.video.widget.pager.PagerView mPagerView -> hp
+    com.miui.video.widget.pager.ViewFragmentPagerAdapter mPageAdapter -> hq
