@@ -130,7 +130,7 @@
     <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
     <string name="preferred_network_mode_dialogtitle">Предпочтительные сети</string>
     <string name="network_forbidden">%s (запрещена)</string>
-    <string name="data_enabled">Мобильный интрнет</string>
+    <string name="data_enabled">Мобильный интернет</string>
     <string name="data_enable_summary">Включить мобильный интернет от оператора</string>
     <string name="roaming">Интернет в роуминге</string>
     <string name="roaming_enable">Использовать интернет в роуминге</string>
@@ -776,9 +776,9 @@ This can take up to 5 minutes."</string>
     <string name="lable_all_outgoing_international">Международные исходящие звонки</string>
     <string name="lable_all_out_except">Международные исходящие вызовы кроме домой</string>
     <string name="lable_all_incoming">Все входящие вызовы</string>
-    <string name="lable_incoming_calls_except">Входящие звонки в роуменге</string>
+    <string name="lable_incoming_calls_except">Входящие звонки в роуминге</string>
     <string name="deactivate_all">Отменить все</string>
-    <string name="change_password">Изменить парль запрета</string>
+    <string name="change_password">Изменить пароль запрета</string>
     <string name="call_barring_sum">Настройки запрета голосовых вызовов</string>
     <string name="lable_disable">Отключено</string>
     <string name="lable_enable">Включено</string>
