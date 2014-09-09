@@ -433,6 +433,7 @@
     <string name="country_name_ge">GE</string>
     <string name="country_name_kg">KG</string>
     <string name="country_name_uz">UZ</string>
+	<string name="fmt_date_numeric_month_day">d MMMM</string>
 	<string name="fmt_date_long_month_day">d MMMM</string>
 	<string name="fmt_date_short_month_day">d MMMM</string>
 	<string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
