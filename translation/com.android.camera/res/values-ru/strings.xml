@@ -379,9 +379,10 @@
      <string name="pref_setting_title">Настройки</string>
      <string name="pref_settings_mode">Режим камеры</string>
      <string name="pref_video_captrue_ability_title">Фото при съемке</string>
-     <string name="pref_video_focusmode_entry_auto">Прикосновение</string>
+     <string name="pref_video_focusmode_entry_auto">По нажатию</string>
      <string name="pref_video_focusmode_entry_continuous">Непрерывный</string>
      <string name="pref_video_focusmode_title">Режим фокусировки</string>
+	 <string name="pref_video_quality_entry_4kuhd">4K</string>
      <string name="pref_video_quality_entry_1080p">Full HD</string>
      <string name="pref_video_quality_entry_480p">SD</string>
      <string name="pref_video_quality_entry_720p">HD</string>

@@ -78,7 +78,7 @@
      <string name="bookmark_add_group_text_header">Доб. выбранное %1$d в группу</string>
      <string name="bookmark_add_to">Добавить в</string>
      <string name="bookmark_cannot_save_url">Невозможно добавить в закладки эту страницу</string>
-     <string name="bookmark_folder_needs_title">Введите название папки</string>
+     <string name="bookmark_folder_needs_title">Название папки</string>
      <string name="bookmark_group_lable">Группа</string>
      <string name="bookmark_list_view">Список</string>
      <string name="bookmark_needs_title">Необходимо указать имя закладки</string>
@@ -155,6 +155,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_point_txt">.</string>
      <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+	 <string name="common_use_phrase_bottom_bar_text_next">Вперед</string>
+     <string name="common_use_phrase_bottom_bar_text_previous">Назад</string>
      <string name="common_use_phrase_bottom_bar_up_analytic_txt">Открыть</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
@@ -422,7 +424,7 @@
      <string name="pref_development_viewport">Исполь. широкое окно просмотра</string>
      <string name="pref_development_visual_indicator">Вкл. визуальные индикаторы</string>
      <string name="pref_enable_adblock_notification">Показывать уведомления</string>
-     <string name="pref_exit_on_closing_last_tab_enabled_title">По посл. вкладке</string>
+     <string name="pref_exit_on_closing_last_tab_enabled_title">По последней вкладке</string>
      <string name="pref_extras_reset_default">Сбросить настройки</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
      <string name="pref_extras_reset_default_summary">Восстановить значения по умолчанию</string>
@@ -436,7 +438,7 @@
      <string name="pref_file_download_save_modify_default_path">Изменить путь сохранения</string>
      <string name="pref_file_download_save_title">Загрузка и сохранение файла</string>
      <string name="pref_fling_on_border_enabled">Слайд по границе</string>
-     <string name="pref_fling_on_border_enabled_title_summary">Слайд от границе экрана</string>
+     <string name="pref_fling_on_border_enabled_title_summary">Слайд от границы экрана</string>
      <string name="pref_font_size_category">Размер текста</string>
      <string name="pref_force_userscalable">Фиксировать масштаб</string>
      <string name="pref_force_userscalable_summary">Использовать заданное масштабирование</string>
@@ -638,7 +640,7 @@
      <string name="up_to_loading_tips">Отпустите, чтобы обновить</string>
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">Ссылка скопирована</string>
-     <string name="url_hint">Адрес сайта или поиск</string>
+     <string name="url_hint">Введите адрес сайта или поисковой запрос</string>
      <string name="url_opened_in_background">Открытые в фоне</string>
      <string name="url_suggest_indicator_bookmark">Закладки/история</string>
      <string name="url_suggest_indicator_hoturl">Популярные</string>
@@ -653,7 +655,7 @@
      <string name="v5_select_all">Выбрать все</string>
      <string name="video_title">Видео</string>
      <string name="view_certificate">Просмотреть сертификат</string>
-     <string name="voice_sub_title">Не знаете что сказать? Попробуйте открыть mi.com!"</string>
+     <string name="voice_sub_title">Не знаете что сказать? Попробуйте открыть mi.com!</string>
      <string name="voice_title">Произнесите команду…</string>
      <string name="voice_title_distinguish">Обработка…</string>
      <string name="voice_title_listening">Прослушивание…</string>

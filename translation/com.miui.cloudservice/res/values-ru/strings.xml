@@ -60,6 +60,7 @@
     <string name="find_device_error_network">Сеть недоступна</string>
     <string name="find_device_error_server">Ошибка сервера</string>
     <string name="find_device_success_title">Поиск устройства</string>
+	<string name="finish">Готово</string>
 	<string name="flight_mode">Режим полета</string>
     <string name="full_space">Место заполнено</string>
     <string name="find_device_notice_p1">Зайдите на</string>
@@ -67,6 +68,7 @@
     <string name="find_device_notice_p3">"для поиска, блокировки устройства или восстановления данных.
 При смене SIM-карты, будет отправлено сообщение для включения услуги."</string>
     <string name="i_know">OK</string>
+	<string name="internet">internet</string>
 	<string name="internet_disconnected">Нет подключения к сети</string>
     <string name="less_flow_mode">Режим синхронизации</string>
     <string name="find_device_disabled_title">Поиск устройства отключен</string>
@@ -81,14 +83,24 @@
     <string name="micloud_intro_02_part_02">Облачные сервисы синхронизируют контакты, сообщения, фотографии и другие данные</string>
     <string name="micloud_intro_03_part_01">Данные в MiCloud</string>
     <string name="micloud_intro_03_part_02">Управление данными, блокировка, очистка и т.д. на i.mi.com</string>
-    <string name="micloud_dspt">Используйте Mi Cloud для синхронизации данных, поиска устройства</string>
-    <string name="cmcc_micloud_dspt">Используйте Mi Cloud для синхронизации данных, поиска устройства</string>
+	<string name="micloud_main_data_unsynced">Данные для синхронизации %d</string>
+    <string name="micloud_main_last_sync_time">Последняя синхронизация</string>
+    <string name="micloud_main_network_error">Нет подключения к сети</string>
+    <string name="micloud_main_stop_sync">Остановить синхр.</string>
+    <string name="micloud_main_suggest_sync">Ваши данные в Mi cloud устарели. Пожалуйста, синхронизируйте.</string>
+    <string name="micloud_main_sync_now">Синхронизировать</string>
+    <string name="micloud_main_sync_on_wifi">Данные будут синхронизированы по Wi-Fi</string>
+    <string name="micloud_main_sync_stop">Синхронизация остановлена</string>
+    <string name="micloud_dspt">Используйте MiCloud для синхронизации данных, поиска устройства</string>
+    <string name="cmcc_micloud_dspt">Используйте MiCloud для синхронизации данных, поиска устройства</string>
 	<string name="contact">контакты</string>
     <string name="current">текущий</string>
     <string name="data_syncing">синхрон. данных</string>
     <string name="detail">Сведения</string>
     <string name="micloud_sec_dspt">и поделитесь этим с друзьями</string>
-    <string name="micloud_dspt_provision">Используйте Mi Cloud для синхронизации данных, поиска устройства и расскажите друзьям</string>
+    <string name="micloud_dspt_provision">Используйте MiCloud для синхронизации данных, поиска устройства и расскажите друзьям</string>
+	<string name="micloud_first_login_summary" />
+    <string name="micloud_first_login_title" />
     <string name="start_micloud">Начать</string>
 	<string name="storage">Облако</string>
     <string name="micloud_proceed">Продолжить</string>
@@ -108,9 +120,9 @@
     <string name="sub_alert_notif_dspt_no">Синхронизация не требуется</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_full_influence"><jsonstring>{"string":"Закончилось место в облаке?","styles":[{"start":0,"name":"u","end":26}]}</string>
-    <string name="micloud_storage_usage" formatted="false">занято %s/всего %s</string>
+    <string name="micloud_storage_usage" formatted="false">занято %s | всего %s</string>
 	<string name="micloud_title_dspt" formatted="false">"Всего: %s 
-занято: %s | свободно: %s"</string>
+Занято: %s | Свободно: %s"</string>
     <string name="micloud_title_dspt_remain">Осталось %s</string>
     <string name="micloud_title_full_dspt">Достигнут предел места в облаке</string>
     <string name="micloud_user_space_usage">Информация облака</string>
