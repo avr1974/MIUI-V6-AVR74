@@ -806,8 +806,8 @@
      <string name="dndm_dlg_remove_ok">OK</string>
      <string name="dndm_dlg_remove_vip">Удалить из списка исключений?</string>
      <string name="dndm_menu_add_vip_custom">Добавить</string>
-     <string name="dndm_mute_all">Звонки и смс без звука</string>
-     <string name="dndm_notification">Активен тихий режим</string>
+     <string name="dndm_mute_all">Звонки и сообщения без звука</string>
+     <string name="dndm_notification">Включен тихий режим</string>
      <string name="dndm_open">Включить тихий режим</string>
      <string name="dndm_repeated_call_setting_title">Повторные звонки</string>
      <string name="dndm_repeated_call_summary_3min">Второй вызов от того же человека в течение трех минут не будет отключен</string>

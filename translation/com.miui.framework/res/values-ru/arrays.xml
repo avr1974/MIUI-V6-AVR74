@@ -3,9 +3,9 @@
 <resources>
     <string-array name="boot_msg_text">
         <item>Начало обновления...</item>
-        <item>Обновление кода...</item>
-        <item>Исправление ошибок...</item>
+        <item>Обновление системы...</item>
+        <item>Исправление проблем...</item>
         <item>Оптимизация приложений...</item>
-        <item>Завершение обновления</item>
+        <item>Завершение обновления...</item>
     </string-array>
 </resources>

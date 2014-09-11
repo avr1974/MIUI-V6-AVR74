@@ -30,6 +30,7 @@
      <string name="cancel">Отмена</string>
      <string name="cannot_connect_camera_once">Не удалось подключиться к камере</string>
      <string name="cannot_connect_camera_twice">Не удалось подключиться к камере. Попробуйте перезагрузить телефон.</string>
+	 <string name="cannot_move_warning_message">Создание фото. Держите устройство ровно.</string>
      <string name="clear_effects">Убрать эффекты</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_details">Информация облачного альбома:</string>
@@ -157,6 +158,7 @@
      <string name="no_thumbnail">Нет эскиза</string>
      <string name="not_enough_space">Память заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме сюжета</string>
+	 <string name="object_track_enable_toast">Сдвиньте на экране просмотра для включения слежения объекта</string>
      <string name="ok">OK</string>
      <string name="orientation">Ориентация</string>
      <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>
@@ -342,6 +344,7 @@
      <string name="pref_camera_touchafaec_entry_off">Выкл.</string>
      <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
      <string name="pref_camera_touchafaec_title">Фокус по нажатию</string>
+	 <string name="pref_camera_ubifocus_title">Комбинированный фокус</string>
      <string name="pref_camera_video_duration_entry_10">10 минут</string>
      <string name="pref_camera_video_duration_entry_120">Без ограничения</string>
      <string name="pref_camera_video_duration_entry_30">30 минут</string>
@@ -449,6 +452,7 @@
      <string name="simple_mode_button_text_hdr">Выйти</string>
      <string name="simple_mode_button_text_panorama">Выйти</string>
      <string name="simple_mode_button_text_slow_video">Выйти</string>
+	 <string name="simple_mode_button_text_ubifocus">Выйти</string>
      <string name="simple_mode_title">Обычный режим</string>
      <string name="slideshow">Слайдшоу</string>
      <string name="snapshot_lower_than_video">Размер снимка меньше, чем размер самого видео. Выберите разрешение выше или равное текущему размеру видео.</string>
@@ -468,16 +472,17 @@
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съeмка недоступна, когда включeна съемка голосом</string>
      <string name="toast_burst_snap_forbidden_when_face_beauty_open">Серийная съемка недоступна, когда включен режим улучшения тона кожи</string>
      <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съeмка недоступна, когда включeн режим HDR</string>
-     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается, если ISO не установлено в режим \"Авто\".</string>
+     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается, если ISO не установлено в режим авто</string>
      <string name="toast_cannot_preview_image_when_screen_locked">Невозможно просматривать фото или видео, когда экран заблокирован</string>
      <string name="toast_start_audio_capture">Голосовое управление съемкой</string>
+	 <string name="ubi_focus_capture_fail">Не удалось сфотографировать</string>
+     <string name="ubifocus_capture_warning_message">Для достижения наилучшего результата, изображение должно содержать объекты как вблизи (менее 1 метра от объектива), так и удаленные</string>
      <string name="undo">Отмена</string>
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Видеокамера</string>
      <string name="video_err">Невозможно воспроизвести видео</string>
-     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
      <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
-     <string name="video_snapshot_hint">Чтобы сделать снимок при видеосъемке, нажмите на экран просмотра</string>
+     <string name="video_snapshot_hint">Чтобы сделать снимок при видеосъемке, нажмите на экран</string>
      <string name="videocamera_settings_label">Настройки видеокамеры</string>
      <string name="visit_cloud_album">Просмотреть облачный альбом</string>
      <string name="wait">Загрузка…</string>
