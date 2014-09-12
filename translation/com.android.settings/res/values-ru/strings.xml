@@ -179,7 +179,7 @@
      <string name="assisted_gps">Использовать A-GPS</string>
      <string name="assisted_gps_disabled">Использовать сервер для A-GPS (сними флажок для улучшения работы GPS)</string>
      <string name="assisted_gps_enabled">Использовать сервер для A-GPS (сними флажок для менее интенсивного использования сети)</string>
-     <string name="audio_list_loading">Загруцзка…</string>
+     <string name="audio_list_loading">Загрузка…</string>
      <string name="audio_profile_settings_title">Профили звука</string>
      <string name="audio_record_proc_title">Подавление шума</string>
      <string name="auto_caps">Заглавные автоматически</string>
@@ -197,7 +197,7 @@
      <string name="auto_startup_application_manage">Автозапуск</string>
      <string name="auto_startup_count">Приложений в автозапуске: %d</string>
      <string name="automatic_brightness">Автонастройка яркости</string>
-     <string name="available_size">свободно %s</string>
+     <string name="available_size">свободно %s </string>
      <string name="awake">Время включения устройства</string>
      <string name="back_key">Кнопка назад</string>
      <string name="background_data">Фоновый режим</string>
@@ -2165,7 +2165,7 @@
      <string name="title_system_resource">Системные</string>
      <string name="toast_lockscreen_glogin_empty_password">Введи пароль</string>
      <string name="toast_need_login">Войди в Mi аккаунт</string>
-     <string name="total_size">всего %s</string>
+     <string name="total_size">всего %s </string>
      <string name="total_size_label">Всего</string>
      <string name="touch_sensitive_summary">Повышает чувствительность сенсора для лучшего использования устройства в перчатках</string>
      <string name="touch_sensitive_title">Чувствительный сенсор</string>
