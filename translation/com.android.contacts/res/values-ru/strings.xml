@@ -338,7 +338,7 @@
      <string name="emptyGroup">Нет людей в этой группе</string>
      <string name="empty_divider_title">Вы можете</string>
      <string name="enter_contact_name">Имя контакта</string>
-     <string name="eventLabelsGroup">Мероприятия</string>
+     <string name="eventLabelsGroup">День рождения</string>
      <string name="eventTypeCustom">Пользовательское</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Экспорт на SIM-карту завершен</string>
