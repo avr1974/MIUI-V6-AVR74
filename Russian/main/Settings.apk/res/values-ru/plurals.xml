@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
@@ -33,24 +33,24 @@
         <item quantity="one">Найдено принтеров: %1$s</item>
         <item quantity="other">Найдено принтеров: %1$s</item>
      </plurals>
+	 <plurals name="show_cit_countdown">
+        <item quantity="other">"You're %1$d steps away from entering cit."</item>
+        <item quantity="one">"You're %1$d step away from entering cit."</item>
+     </plurals>
      <plurals name="show_dev_countdown">
-        <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком.</item>
-        <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком.</item>
+        <item quantity="one">Вы в %1$d шаге от становления разработчиком</item>
+        <item quantity="other">Вы в %1$d шагах от становления разработчиком</item>
      </plurals>
 	 <plurals name="show_pho_countdown">
-        <item quantity="other">Теперь вы находитесь в %1$d шагах от просмотра информации об устройстве.</item>
-        <item quantity="one">Теперь вы находитесь в %1$d шаге от просмотра информации об устройстве.</item>
-    </plurals>
-    <plurals name="show_cit_countdown">
-        <item quantity="other">Теперь вы находитесь в %1$d шагах от тестирования устройства.</item>
-        <item quantity="one">Теперь вы находитесь в %1$d шаге от тестирования устройства.</item>
-    </plurals>
-    <plurals name="show_rep_countdown">
-        <item quantity="other">Теперь вы находитесь в %1$d шагах от отправки отчета.</item>
-        <item quantity="one">Теперь вы находитесь в %1$d шаге от отправки отчета.</item>
-    </plurals>
+        <item quantity="other">Вы в %1$d шагах от информации о телефоне</item>
+        <item quantity="one">Вы в %1$d шаге от информации о телефоне</item>
+     </plurals>
+     <plurals name="show_rep_countdown">
+        <item quantity="other">Вы в %1$d шагах от отправки отчета</item>
+        <item quantity="one">Вы в %1$d шаге от отправки отчета</item>
+     </plurals>
      <plurals name="wrong_pin_code">
-        <item quantity="one">Неверный PIN-код SIM-карты. Осталось попыток: %d перед тем, как Вы должны будете связаться с оператором для разблокировки устройства.</item>
-        <item quantity="other">Неверный PIN-код SIM-карты. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %d. После этого SIM-карта будет заблокирована и Вам придется обратиться к оператору связи.</item>
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
      </plurals>
 </resources>
