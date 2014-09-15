@@ -301,7 +301,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
      <string name="traffic_saving_whitelist_btn_added">Добавлено</string>
      <string name="traffic_saving_whitelist_btn_remove">Удалить</string>
      <string name="traffic_saving_whitelist_btn_removed">Удалено из списка</string>
-     <string name="traffic_saving_whitelist_count">Приложения без ограничения трафика: &lt;font color='#4DAA0F'>%1$d&lt;/font></string>
+     <string name="traffic_saving_whitelist_count">Приложения без ограничения трафика</string>
      <string name="traffic_saving_whitelist_no_app">Нет приложений</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>

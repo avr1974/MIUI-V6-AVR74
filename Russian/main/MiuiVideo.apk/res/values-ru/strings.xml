@@ -31,7 +31,7 @@
      <string name="app_name">Видео</string>
      <string name="area_colon">Страна: </string>
      <string name="authenticated_failed">Ошибка аутентификации</string>
-     <string name="authenticating"><jsonstring>{"string":"Идентификация\u2026","styles":[{"start":0,"name":"CDATA","end":12}]}</string>
+     <string name="authenticating">Идентификация</string>
      <string name="authenticating_manually">Ошибка аутентификации</string>
      <string name="auto_play">Автовоспроизведение</string>
      <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>

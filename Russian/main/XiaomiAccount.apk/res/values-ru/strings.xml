@@ -8,7 +8,7 @@
     <string name="login">Войти</string>
     <string name="verify">Проверить</string>
     <string name="register">Создать аккаунт</string>
-	<string name="register_by_email"><jsonstring>{"string":"Регистрация по эл. почте","styles":[{"start":0,"name":"u","end":23}]}</string>
+	<string name="register_by_email">Регистрация по эл. почте</string>
     <string name="next">Далее</string>
     <string name="prev">Назад</string>
 	<string name="privacy_policy">Политика конфиденциальности</string>

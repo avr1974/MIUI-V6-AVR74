@@ -119,7 +119,7 @@
     <string name="sub_alert_notif_dspt_add">%s не были синхронизированы</string>
     <string name="sub_alert_notif_dspt_no">Синхронизация не требуется</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
-    <string name="micloud_space_full_influence"><jsonstring>{"string":"Закончилось место в облаке?","styles":[{"start":0,"name":"u","end":26}]}</string>
+    <string name="micloud_space_full_influence">Закончилось место в облаке</string>
     <string name="micloud_storage_usage" formatted="false">занято %s | всего %s</string>
 	<string name="micloud_title_dspt" formatted="false">"Всего: %s 
 Занято: %s | Свободно: %s"</string>
