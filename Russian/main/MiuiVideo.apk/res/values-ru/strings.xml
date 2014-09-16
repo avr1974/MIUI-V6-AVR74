@@ -78,7 +78,7 @@
      <string name="count_ji_quan">Все %d эп.</string>
      <string name="day" />
      <string name="declaration">Условия использования</string>
-     <string name="declaration_content"><jsonstring>{"string":"Принимаете условия использования предусмотренные Sohu Video, iQiyi и другими видеопровайдерами?","styles":[{"start":11,"name":"a;href=http:\/\/www.youku.com\/pub\/youku\/service\/agreement.shtml#agr1","end":31}]}</string>
+     <string name="declaration_content">Принимаете условия использования предусмотренные Sohu Video и другими видеопровайдерами?</string>
      <string name="defaults">По умолчанию</string>
 	 <string name="delete">Удалить</string>
      <string name="delete_addon">Удалить</string>

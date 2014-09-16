@@ -12,7 +12,7 @@
     <string name="next">Далее</string>
     <string name="prev">Назад</string>
 	<string name="privacy_policy">Политика конфиденциальности</string>
-	<string name="forget_password"><jsonstring>{"string":"Забыли пароль?","styles":[{"start":0,"name":"u","end":13}]}</string>
+	<string name="forget_password">Забыли пароль?</string>
 	<string name="foreign_login"><jsonstring>{"string":"Код страны","styles":[{"start":0,"name":"u","end":9}]}</string>
     <string name="seperator_forget_and_foreign">" | "</string>
     <string name="password">Введите пароль</string>
