@@ -89,16 +89,18 @@
     <string name="record_downloading_notification_complete">Загрузка завершена</string>
     <string name="sync_records">Синхронизация записей</string>
     <string name="sync_only_in_wifi">Только по Wi-Fi</string>
-    <string name="sync_only_in_wifi_summary">Диктофон будет загружать записи в облако через мобильный интернет, если отключена эта функция.</string>
+    <string name="sync_only_in_wifi_summary">Диктофон будет загружать записи в Mi Cloud через мобильный интернет, если отключена эта функция.</string>
     <string name="wifi_recommended_title">Предупреждение о трафике</string>
-    <string name="wifi_recommended_body">При загрузке этого файла возможно чрезмерное потребление мобильного трафика.</string>
+    <string name="wifi_recommended_body" formatted="false">"При загрузке \"%s\" возможно чрезмерное потребление мобильного трафика. 
+
+Нажмите \"%s\" для начала загрузки при подключении к Wi-Fi сети."</string>
     <string name="button_queue_for_wifi">В очередь</string>
     <string name="button_start_now">Продолжить</string>
     <string name="notification_title_all_paused">Загрузка приостановлена</string>
     <string name="notification_message_all_paused">Возможно чрезмерное потребление трафика</string>
     <string name="toast_file_is_downloading">Файл загружается…</string>
     <string name="data_connection_title">Предупреждение</string>
-    <string name="data_connection_body">При загрузке по мобильному интернету может взыматься дополнительная плата</string>
+    <string name="data_connection_body">При загрузке по мобильному интернету может взиматься дополнительная плата</string>
     <string name="data_connection_button_text">ОК</string>
     <string name="error_sdcard_unmounted">Накопитель отключен</string>
 </resources>

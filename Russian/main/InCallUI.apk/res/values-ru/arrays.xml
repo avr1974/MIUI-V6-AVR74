@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transport_types">
-        <item>UDP</item>
-        <item>TCP</item>
-    </string-array>
     <string-array name="ims_call_types">
         <item>Голос</item>
         <item>Видео</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Настройки сети по умолчанию</item>
+        <item>По умолчанию</item>
         <item>Скрыть номер</item>
-        <item>Показывать номер</item>
+        <item>Показать номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
         <item>LTE</item>
-        <item>Global</item>
+        <item>Глобальная сеть</item>
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Только EvDo</item>
-        <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo авто</item>
-        <item>GSM/WCDMA авто</item>
-        <item>Только WCDMA</item>
-        <item>Только GSM</item>
+        <item>EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo автоматически</item>
+        <item>GSM/WCDMA автоматически</item>
+        <item>WCDMA</item>
+        <item>GSM</item>
         <item>Предпочтительно GSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
@@ -41,10 +37,6 @@
         <item>Только домашняя</item>
         <item>Автоматически</item>
     </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
-    </string-array>
     <string-array name="tty_mode_entries">
         <item>Телетайп выключен</item>
         <item>Полнофункциональный телетайп</item>
@@ -54,9 +46,5 @@
     <string-array name="dtmf_tone_entries">
         <item>Обычные</item>
         <item>Длинные</item>
-    </string-array>
-    <string-array name="absent_num">
-        <item>ABSENT NUMBER</item>
-        <item>ABSENTNUMBER</item>
     </string-array>
 </resources>

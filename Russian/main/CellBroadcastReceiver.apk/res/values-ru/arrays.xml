@@ -11,6 +11,6 @@
         <item>Один раз</item>
         <item>Каждые 2 минуты</item>
         <item>Каждые 15 минут</item>
-        <item>Не напоминать</item>
+        <item>Не уведомлять</item>
     </string-array>
 </resources>

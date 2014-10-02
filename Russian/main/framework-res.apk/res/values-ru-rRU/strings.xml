@@ -965,18 +965,18 @@
 
 Вы хотите ее закрыть?"</string>
     <string name="launch_warning_title">Приложение перенаправлено</string>
-    <string name="launch_warning_replace">Приложение %1$s выполняется</string>
+    <string name="launch_warning_replace">Приложение \"%1$s\" выполняется</string>
     <string name="launch_warning_original">Изначально было запущено приложение %1$s</string>
     <string name="screen_compat_mode_scale">Масштаб</string>
     <string name="screen_compat_mode_show">Всегда показывать</string>
     <string name="screen_compat_mode_hint">Включите еще раз в меню \"Настройки > Приложения > Управление приложениями\"</string>
-    <string name="smv_application">Приложение %1$s (процесс %2$s) нарушило собственную политику StrictMode</string>
+    <string name="smv_application">Приложение \"%1$s\" (процесс %2$s) нарушило собственную политику StrictMode</string>
     <string name="smv_process">Процесс \"%1$s\" нарушил собственную политику StrictMode</string>
     <string name="android_upgrading_title">Обновление Android…</string>
     <string name="android_upgrading_apk">Оптимизация приложений: %1$d из %2$d</string>
     <string name="android_upgrading_starting_apps">Запуск приложений…</string>
     <string name="android_upgrading_complete">Окончание загрузки…</string>
-    <string name="heavy_weight_notification">Приложение %1$s запущено</string>
+    <string name="heavy_weight_notification">Приложение \"%1$s\" запущено</string>
     <string name="heavy_weight_notification_detail">Нажмите, чтобы перейти к приложению</string>
     <string name="heavy_weight_switcher_title">Переключить приложения?</string>
     <string name="heavy_weight_switcher_text">Выполняется другое приложение, которое должно быть остановлено прежде, чем запускать новое</string>
@@ -995,10 +995,10 @@
     <string name="volume_notification">Громкость уведомления</string>
     <string name="volume_unknown">Громкость</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
-    <string name="volume_icon_description_ringer">Рингтон</string>
+    <string name="volume_icon_description_ringer">Мелодия</string>
     <string name="volume_icon_description_incall">Вызов</string>
     <string name="volume_icon_description_media">Медиа</string>
-    <string name="volume_icon_description_notification">Уведомления</string>
+    <string name="volume_icon_description_notification">Уведомление</string>
     <string name="ringtone_default">Мелодия по умолчанию</string>
     <string name="ringtone_default_with_actual">По умолчанию (%1$s)</string>
     <string name="ringtone_silent">Без звука</string>

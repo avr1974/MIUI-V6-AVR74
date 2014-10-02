@@ -101,6 +101,8 @@
 (%s)"</string>
     <string name="account_setup_failed_dlg_edit_details_action">Изменить настройки</string>
     <string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"Не удается подключиться к серверу. 
+(%s)"</string>
     <string name="account_setup_failed_dlg_title">Ошибка настройки</string>
     <string name="account_setup_failed_ioerror">Не удалось подключиться к серверу</string>
     <string name="account_setup_failed_protocol_unsupported">Введен неправильный адрес сервера или сервер запрашивает версию протокола, которая не поддерживается в почте.</string>
@@ -495,7 +497,6 @@
     <string name="message_invite_accept">ОК</string>
     <string name="message_invite_calendar_view">Показать в календаре</string>
     <string name="message_invite_decline">Отмена</string>
-    <string name="message_invite_label_attending">Перейти?</string>
     <string name="message_invite_tentative">Возможно</string>
     <string name="message_invite_title">Приглашение календаря</string>
     <string name="message_saved">Черновик сохранен</string>
@@ -516,6 +517,7 @@
     <string name="next_action">Далее</string>
     <string name="no">Отмена</string>
     <string name="no_application_found">Нет приложения для открытия этого вложения</string>
+    <string name="no_contacts">Нет контактов</string>
     <string name="no_conversations">Нет сообщений</string>
     <string name="no_mails">Нет сообщений</string>
     <string name="no_matched_attachment">Нет результатов</string>
@@ -766,4 +768,5 @@
     <string name="xiaomi_update_dialog_title">%1$s обновлено</string>
     <string name="yes">ОК</string>
     <string name="zip_viewer_no_file">Нет файлов</string>
+    <string name="message_invite_label_attending">Перейти?</string>
 </resources>
