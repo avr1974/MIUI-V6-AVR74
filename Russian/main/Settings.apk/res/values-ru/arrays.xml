@@ -486,6 +486,14 @@
         <item>Белый</item>
         <item>Фиолетовый</item>
     </string-array>
+	 <string-array name="screen_key_press_action">
+        <item>Недавние приложения</item>
+        <item>Показать меню</item>
+    </string-array>
+    <string-array name="screen_key_press_action_value">
+        <item>Недавние приложения</item>
+        <item>Показать меню</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Нет действий</item>
         <item>Недавние приложения</item>

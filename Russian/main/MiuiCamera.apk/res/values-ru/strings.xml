@@ -420,7 +420,7 @@
     <string name="download_qq">Скачать QQ</string>
     <string name="wifi_warning">Перед подключением убедитесь, что эта сеть Wi-Fi безопасна.</string>
     <string name="cloud_album_details">Информация облачного альбома:</string>
-    <string name="visit_cloud_album">Просмотреть облачный альбом</string>
+	<string name="visit_cloud_album">Просмотреть облачный альбом</string>
     <string name="find_cloud_album">Поиск облачного альбома по QR коду</string>
     <string name="wifi_connecting">Подключение к Wi-Fi…</string>
     <string name="wifi_open_fail">Невозможно подключиться к Wi-Fi</string>
@@ -508,4 +508,5 @@
     <string name="accessibility_panorama_review_cancel">Отмена создания панорамы</string>
     <string name="review_cancel">Отмена</string>
     <string name="pref_camera_front_fb_title">Улучшение тона кожи</string>
+	<string name="pref_camera_manual_mode_title">Ручное</string>
 </resources>
