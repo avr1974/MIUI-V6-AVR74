@@ -16,14 +16,14 @@
         <item>"Завтра "</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Один раз</item>
+        <item>Однократно</item>
         <item>Ежедневно</item>
         <item>"Рабочие дни "</item>
         <item>С понедельника по пятницу</item>
         <item>Выбрать дни</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Один раз</item>
+        <item>Однократно</item>
         <item>Ежедневно</item>
         <item>По будням</item>
         <item>Выбрать дни</item>

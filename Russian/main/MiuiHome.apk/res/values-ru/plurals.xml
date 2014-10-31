@@ -9,8 +9,8 @@
         <item quantity="many">Выбрано: %1$d</item>
     </plurals>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Удалить приложения? (%2$d)</item>
-        <item quantity="one">Удалить \"%s\"?</item>
+        <item quantity="other">Удалить приложение \"%1$s\" и еще %2$d?</item>
+        <item quantity="one">Удалить приложение \"%s\"?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">Приложений удалено: %1$d</item>

@@ -8,7 +8,7 @@
     <string name="multisim_settings_title">Обнаружено 2 SIM карты</string>
     <string name="multisim_settings_category">Настройки SIM</string>
     <string name="sim_card_detection">Нет SIM карты</string>
-    <string name="sim_card_detection_info">Для использования сервисов Xiaomi необходима SIM карта</string>
+    <string name="sim_card_detection_info">Как вставить SIM карту прочитайте в прилагаемой к устройству инструкции</string>
     <string name="sim_card_detecting">Проверка SIM карты…</string>
     <string name="other_settings">Дополнительно</string>
     <string name="other_settings_location">Доступ к местоположению</string>
@@ -36,4 +36,11 @@
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="agree">ОК</string>
     <string name="disagree">Отмена</string>
+    <string name="network_access_warning">Для активации устройства необходим доступ к сети</string>
+    <string name="setting_locale">Настройки местоположения…</string>
+    <string name="miui_terms_no_network">Сеть недоступна. Просмотрите условия пользования на %s</string>
+    <string name="miui_privacy_policy_no_network">Сеть недоступна. Просмотрите политику конфиденциальности на %s</string>
+    <string name="terms_of_service">Условия пользования</string>
+    <string name="locale_picker_title">Выберите местоположение</string>
+    <string name="locale_picker_desc">Если вы хотите изменить местоположение позже, потребуется сделать общий сброс настроек.</string>
 </resources>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="music_browser_label">Музыка</string>
-    <string name="mi_effect">Усилитель звука \"MiSound\"</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unknown_album_name">Неизвестный альбом</string>
     <string name="network_error">Сеть недоступна</string>
@@ -160,7 +159,7 @@
     <string name="download_completed">Загрузка завершена</string>
     <string name="login_first">Необходимо авторизироваться в Mi аккаунте</string>
     <string name="data_usage_warning">Мобильный трафик</string>
-    <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
+    <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика</string>
     <string name="payment_success">Оплата завершена</string>
     <string name="payment_fail">Ошибка оплаты</string>
     <string name="music_quality">Сервисы</string>
@@ -218,10 +217,12 @@
     <string name="sleep_mode_canceled">Таймер сна отключен</string>
     <string name="priority_storage">Использовать накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен.</string>
+    <string name="headset_settings">Настройки гарнитуры</string>
     <string name="dislike">Не нравится</string>
     <string name="find_ktv">Поиск музыки в KTV</string>
     <string name="go_to_add_music">Добавить треки</string>
     <string name="mediaplaybacklabel">Музыка</string>
+    <string name="mi_effect">Усилитель звука \"MiSound\"</string>
     <string name="music_picker_title">Музыка</string>
     <string name="track_list_descript_cover">Обложка</string>
 </resources>

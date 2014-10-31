@@ -45,6 +45,7 @@
     <string name="view_aqi_pubtime">Обновлено в %1$s</string>
     <string name="view_aqi_pubtime_format">HH:mm, dd MMMM</string>
     <string name="activity_weathermain_locationg">Поиск местоположения…</string>
+    <string name="activity_weathermain_locationg_error">Ошибка определения местоположения</string>
     <string name="view_indexes_title_humidity">Влажность (%)</string>
     <string name="view_indexes_title_visibility">Видимость (км)</string>
     <string name="view_indexes_title_uv">Индекс УФ</string>

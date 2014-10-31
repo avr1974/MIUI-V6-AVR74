@@ -242,7 +242,7 @@
     <string name="cant_move_or_change_labels">Невозможно переместить выбранное, так как оно используется в нескольких аккаунтах.</string>
     <string name="cc">Копия</string>
     <string name="cc_attribution">Копия: %1$s</string>
-    <string name="cc_bcc">Cc/Bcc</string>
+    <string name="cc_bcc">Копия</string>
     <string name="cc_heading">"Копия: "</string>
     <string name="change_account_confirm">Улалить аккаунт \"%1$s\"?</string>
     <string name="change_account_type">Изменить тип аккаунта</string>

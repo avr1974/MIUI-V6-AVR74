@@ -65,6 +65,10 @@
     <string name="toast_keyword_blank">Вы не ввели ключевые слова</string>
     <string name="toast_keyword_exist">Ключевое слово уже существует</string>
     <string name="toast_keyword_invalid">Некорректное ключевое слово</string>
+    <string name="dlg_antispam_mode_delete_title">Предупреждение</string>
+    <string name="dlg_antispam_mode_delete_message">Удалить выбранный режим?</string>
+    <string name="dlg_antispam_using_mode_delete_message">Удалить выбранный режим и восстановить режим по умолчанию?</string>
+    <string name="dlg_antispam_using_mode_international_delete_message">Удалить выбранный режим и восстановить режим по умолчанию?</string>
     <string name="menu_clear_all_sms">Очистить журнал сообщений</string>
     <string name="menu_clear_all_call">Очистить журнал вызовов</string>
     <string name="menu_clear_current_sms">Удалить сообщения этого номера</string>
@@ -151,7 +155,7 @@
     <string name="sim_not_ready">SIM карта не готова</string>
     <string name="st_antispam_bw_man_add">Ввести номер вручную</string>
     <string name="st_antispam_bw_head_add">Добавить префикс</string>
-    <string name="st_antispam_bw_pick_add">Выбрать из списка контактов</string>
+    <string name="st_antispam_bw_pick_add">Выбрать контакт</string>
     <string name="st_antispam_bw_adress_add">Добавить регион</string>
     <string name="st_antispam_black_adress_add">Выбрать регион</string>
     <string name="st_antispam_bw_choose_modes">Выбрать режим</string>
@@ -166,6 +170,7 @@
     <string name="SMS_MODENAME">Черный список</string>
     <string name="SMS_KEYWORDS">Ключевые слова</string>
     <string name="SMS_ADRESS">Регионы</string>
+    <string name="SMS_SERVICE">Служба черного списка</string>
     <string name="Call_BLACKLIST">Вызов</string>
     <string name="Call_PREFIX">Префиксы</string>
     <string name="Call_MODENAME">Черный список</string>
@@ -173,6 +178,7 @@
     <string name="Call_PRIVATE_CALL">Приватные вызовы</string>
     <string name="Call_DEFAULT">Умная блокировка</string>
     <string name="PAST_BLOCK">Ранее заблокированы</string>
+    <string name="STRANGER_BLOCK">Блокировка незнакомых</string>
     <string name="AD_AntiSpam">Блокировать рекламу</string>
     <string name="AD_SCANNING">Сканирование…</string>
     <string name="AD_BLOCK_ALL">Блокировать все</string>
@@ -192,7 +198,7 @@
     <string name="ad_install_monitor">Монитор установки</string>
     <string name="ad_install_monitor_hint">Проверять наличие рекламы при установке приложения</string>
     <string name="ad_update_setting">Настройки обновления</string>
-    <string name="ad_update_title">Автоматическое обновление</string>
+    <string name="ad_update_title">Автообновление</string>
     <string name="ad_update_time">Обновление: %s</string>
     <string name="ad_update_time_unKnown">Обновление: неизвестно</string>
     <string name="ad_block_hint">Заблокировано: %d</string>
@@ -229,13 +235,14 @@
     <string name="st_antispam_title_anoy_sms">Неизвестные сообщения</string>
     <string name="st_antispam_title_anoy_incoming">Неизвестные вызовы</string>
     <string name="st_antispam_title_null_incoming">Скрытые номера</string>
-    <string name="st_antispam_mode_smart_sum">Блокировать черный список, неизвестные и скрытые номера.</string>
+    <string name="st_antispam_title_service_sms">Служба уведомлений</string>
+    <string name="st_antispam_mode_smart_sum">Блокировать черный список и номера, отмеченные пользователями.</string>
     <string name="st_antispam_mode_blacklist_sum">Блокировать вызовы и сообщения от контактов из черного списка.</string>
     <string name="st_antispam_mode_only_contacts_sum">Не блокировать вызовы и сообщения только от номеров из списка контактов.</string>
     <string name="st_antispam_mode_only_whitelist_sum">Не блокировать вызовы и сообщения только из белого списка.</string>
-    <string name="st_antispam_mode_only_all_deny_sum">Блокировать все вызовы и сообщения.</string>
-    <string name="st_antispam_mode_customize_sum">Пользовательский режим блокировки.</string>
-    <string name="st_antispam_mode_denyownself_sum">Пользовательский режим блокировки.</string>
+    <string name="st_antispam_mode_only_all_deny_sum">Блокировать все вызовы и сообщения</string>
+    <string name="st_antispam_mode_customize_sum">Пользовательский режим блокировки</string>
+    <string name="st_antispam_mode_denyownself_sum">Пользовательский режим блокировки</string>
     <string name="st_antispam_notification_sum">Показывать уведомления о блокировке в строке состояния</string>
     <string name="st_antispam_des_anti">Блокировать</string>
     <string name="st_antispam_des_smart_anti">Умная блокировка</string>
@@ -255,8 +262,24 @@
     <string name="note_call_none">Нет вызовов</string>
     <string name="note_keyword_none">Нет ключевых слов</string>
     <string name="note_preference_delete">Невозможно удалить активный режим блокировки</string>
-    <string name="block_message_number">Блокировано: %d</string>
-    <string name="block_phone_number">Блокировано: %d</string>
+    <string name="block_message_number">Сообщений: %d</string>
+    <string name="block_phone_number">Вызовов: %d</string>
+    <string name="mark_fraud">Мошенник</string>
+    <string name="mark_agent">Агент продаж</string>
+    <string name="mark_sell">Маркетинг</string>
+    <string name="mark_meal">Доставка еды</string>
+    <string name="mark_express">Курьер</string>
+    <string name="mark_fraud_block">Помечено как мошенник</string>
+    <string name="mark_agent_block">Отмечено как агент продаж</string>
+    <string name="mark_sell_block">Отмечено как маркетинг</string>
+    <string name="mark_meal_block">Отмечено как доставка еды</string>
+    <string name="mark_express_block">Отмечено как курьер</string>
+    <string name="st_title_markednumber_group">Отмеченные номера</string>
+    <string name="mark_number_info">"
+Вызовы будут блокироваться только от номеров из выбранных категорий"</string>
+    <string name="dlg_title_not_open_stranger_identify">Предупреждение</string>
+    <string name="dlg_message_not_open_stranger_identify">Необходимо включить возможность определения неизвестных номеров перед использованием этой функции</string>
+    <string name="button_to_setting">Настройки</string>
     <string name="fw_blocked_count_call">"вызовов: %d | "</string>
     <string name="fw_blocked_count_sms">SMS: %d</string>
 </resources>

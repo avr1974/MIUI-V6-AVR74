@@ -144,6 +144,7 @@
     <string name="manual_input_free_traffic">Ввод бесплатного трафика</string>
     <string name="declaration_dialog_msg">С помощью этого приложения вы сможете следить за расходом мобильного трафика, тем не менее полное предотвращение дополнительных расходов за мобильный трафик не гарантируется. Для наилучшего мониторинга трафика настройте приложение согласно вашему тарифному плану, который предоставляется оператором мобильной связи.</string>
     <string name="input_used_hint">Введите трафик</string>
+    <string name="input_used_max_hint">Предел трафика (не более %s)</string>
     <string name="settings">Настройки трафика</string>
     <string name="adjust_traffic_data">Введите трафик</string>
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
@@ -190,7 +191,7 @@
     <string name="free_time_traffic_title">Введите предел трафика</string>
     <string name="free_time_traffic_hint">Введите предел трафика</string>
     <string name="traffic_protection_label">Предупреждение о трафике</string>
-    <string name="traffic_protection_summary">Уведомления при превышении предела трафика.</string>
+    <string name="traffic_protection_summary">Введите предел трафика</string>
     <string name="traffic_protection_unknown"><u>Пропустить</u></string>
     <string name="traffic_protection_text_hint">Установить предел трафика</string>
     <string name="traffic_protection_next">Далее</string>
@@ -258,7 +259,7 @@
     <string name="traffic_saving_button_sorted_chose_simcard">Выберите SIM карту</string>
     <string name="traffic_saving_msg_today">Сегодня</string>
     <string name="traffic_saving_msg_month">За месяц</string>
-    <string name="traffic_saving_msg_not_started">СТАРТ</string>
+    <string name="traffic_saving_msg_not_started">Сжатие выключено</string>
     <string name="traffic_saving_history_title">История</string>
     <string name="traffic_saving_history_total_traffic">Трафик</string>
     <string name="traffic_saving_history_total_rate">Уровень</string>
@@ -279,9 +280,9 @@
     <string name="pref_traffic_saving_issue">Информация</string>
     <string name="pref_traffic_saving_issue_content">&lt;b>Безопасное использование&lt;/b>&lt;br />&lt;br />Будьте уверены, что при использовании этой функции все ваши данные остаются в безопасности.&lt;br />&lt;br />&lt;br />&lt;b>Сжатие данных&lt;/b>&lt;br />&lt;br />Данная функция предназначена для экономии трафика посредством сжатия данных только при использовании мобильного интернета.</string>
     <string name="traffic_saving_whitelist_btn_add_app">Добавить</string>
-    <string name="traffic_saving_whitelist_btn_add">Доб.</string>
+    <string name="traffic_saving_whitelist_btn_add">Добавить</string>
     <string name="traffic_saving_whitelist_btn_added">Добавлено</string>
-    <string name="traffic_saving_whitelist_btn_remove">Удал.</string>
+    <string name="traffic_saving_whitelist_btn_remove">Удалить</string>
     <string name="traffic_saving_whitelist_btn_removed">Приложение удалено из списка исключений</string>
     <string name="traffic_saving_whitelist_count">Приложения без сжатия трафика (%1$d)</string>
     <string name="traffic_saving_whitelist_no_app">Нет приложений</string>
@@ -327,6 +328,8 @@
     <string name="tc_sms_report_get_sms_failure">Не удается получить формат SMS для отчета трафика</string>
     <string name="tc_sms_report_get_sms_timeout">Не удается получить формат SMS для отчета трафика. Время ожидания вышло.</string>
     <string name="tc_sms_report_get_sms_successs">Формат SMS для трафика обновлен</string>
+    <string name="privacy_declare_dialog_title">Предупреждение</string>
+    <string name="privacy_declare_dialog_message">При использовании этого сервиса, вы соглашаетесь с &lt;a href=http://max.oupeng.com/eula.html>условиями пользования&lt;/a> компании Opera.</string>
     <string name="pkg_total_traffic">Всего: %s</string>
     <string name="remained_traffic">Осталось: %s</string>
     <string name="today_used_traffic">Сегодня: %s</string>

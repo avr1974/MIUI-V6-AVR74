@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="sina_share_pendding">Отправка…</string>
-    <string name="sina_share_success">Отправка завершена!</string>
-    <string name="sina_share_fail">Ошибка отправки!</string>
+    <string name="sina_share_success">Отправка завершена</string>
+    <string name="sina_share_fail">Ошибка отправки</string>
     <string name="sina_token_expired_warning">Срок действия аккаунта Weibo истек. Повторите привязку.</string>
     <string name="sina_token_invalid_warning">Неверный аккаунт Weibo. Пожалуйста. Повторите привязку.</string>
     <string name="sina_share_fail_content_repeat">Не удается отправить. Содержимое уже существует.</string>
@@ -25,6 +25,7 @@
     <string name="button_text_check">Проверить обновление</string>
     <string name="button_text_update">Обновить</string>
     <string name="button_text_reboot">Перезагрузить</string>
+    <string name="button_text_reboot_hm">После перезагрузки</string>
     <string name="button_text_later_reboot">Позже</string>
     <string name="download_title_first">Получение данных обновления</string>
     <string name="download_title_full_download">Прошивка загружена и готова к установке</string>
@@ -36,9 +37,9 @@
     <string name="menu_title_pick_rom_file">Выбрать файл прошивки</string>
     <string name="menu_title_check_update">Настройки</string>
     <string name="menu_title_recovery">Перезагрузка в Recovery</string>
-    <string name="menu_title_current_version_log">Текущий список изменений</string>
+    <string name="menu_title_current_version_log">Список изменений</string>
     <string name="no_proper_updates">Для текущей версии обновления не найдены</string>
-    <string name="install_file_explorer">Пожалуйста, установите файловый мнеджер</string>
+    <string name="install_file_explorer">Установите файловый менеджер</string>
     <string name="file_not_found_error_message">Файл не существует или к нему нет доступа, попробуйте еще раз</string>
     <string name="check_update_policy">Настройки обновлений</string>
     <string name="check_update_when_wifi_available">Обновление только по Wi-Fi</string>
@@ -56,7 +57,7 @@
     <string name="apply_now_button_text">Обновить</string>
     <string name="apply_later_button_text">Отмена</string>
     <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
-    <string name="update_success">Обновление успешно завершено!</string>
+    <string name="update_success">Обновление завершено</string>
     <string name="install_failed">Ошибка обновления</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_current_rom">Скачать последнюю прошивку</string>
@@ -65,7 +66,7 @@
     <string name="notification_update_new_version">Доступна новая версия</string>
     <string name="notification_new_version">Доступна новая версия %s</string>
     <string name="notification_update_now">Обновить</string>
-    <string name="notification_reboot_title">Обновление завершено. Требуется перезагрузка.</string>
+    <string name="notification_reboot_title">Обновление завершено</string>
     <string name="notification_reboot_des">Обновлено завершено: %s. Требуется перезагрузка.</string>
     <string name="notification_reboot_btn">Перезагрузить</string>
     <string name="notification_reboot_seccess_title">Обновление завершено</string>
@@ -78,7 +79,7 @@
     <string name="set_installfail_title">Скачать полную прошивку?</string>
     <string name="set_installfail_msg">Не удалось установить OTA обновление. Рекомендуется скачать полную прошивку по сети Wi-Fi.</string>
     <string name="set_installfail_title_full">Ошибка обновления</string>
-    <string name="set_installfail_full_msg">Не удалось установить полную прошивку. Отправить отчет разработчикам?</string>
+    <string name="set_installfail_full_msg">Не удалось установить обновление. Отправить отчет разработчикам?</string>
     <string name="unkown_error_title">Неизвестная ошибка</string>
     <string name="download_error">Не удалось загрузить обновление</string>
     <string name="download_again">Повторить</string>
@@ -97,8 +98,7 @@
     <string name="check_update_when_wifi_available_sum">Проверять обновления только по сети Wi-Fi</string>
     <string name="auto_update_sum">Устанавливать обновление автоматически после загрузки</string>
     <string name="new_updates_found_notification_title">Обновление системы</string>
-    <string name="network_error">"Ошибка подключения. 
-Проверьте состояние интернет соединения."</string>
+    <string name="network_error">Ошибка подключения к сети</string>
     <string name="monthly_build">ежемесячная сборка</string>
     <string name="weekly_build">еженедельная сборка</string>
     <string name="daily_build">ежедневная сборка</string>
@@ -108,16 +108,17 @@
     <string name="stable_build">стабильная сборка</string>
     <string name="unstable_build">нестабильная сборка</string>
     <string name="particular_build">особая сборка</string>
-    <string name="about_device">Сведения о системе</string>
+    <string name="about_device">О телефоне</string>
     <string name="emegency_build">Сборка:</string>
     <string name="loading">Загрузка MIUI</string>
     <string name="share_update">Поделиться</string>
     <string name="share">Поделиться</string>
-    <string name="share_update_content_unsign">Я обновил MIUI до %1$s! Список изменений: %2$s</string>
-    <string name="share_update_content_sign">Я обновил MIUI до %1$s! Рейтинг обновления %2$s. Список изменений %3$s</string>
-    <string name="share_sina">Поделиться через Sina Weibo</string>
-    <string name="share_qq">Поделиться через Tencent Weibo</string>
-    <string name="install_qq">Установить Tencent weibo</string>
+    <string name="share_update_content_unsign">"Я обновил MIUI до %1$s! 
+Список изменений: %2$s"</string>
+    <string name="share_update_content_sign">Я обновил MIUI до %1$s! Рейтинг обновления: %2$s. Список изменений: %3$s</string>
+    <string name="share_sina">Вконтакте</string>
+    <string name="share_qq">Twitter</string>
+    <string name="install_qq">Установить Twitter</string>
     <string name="upgrade_kernel">Обновления ядра</string>
     <string name="upgrade_kernel_msg">"Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:
 "</string>
@@ -127,13 +128,15 @@
     <string name="update_success_body">%s</string>
     <string name="my_rank">Рейтинг:</string>
     <string name="no_log">Нет логов</string>
-    <string name="log_share">Отправить</string>
+    <string name="log_share">Поделиться</string>
     <string name="autosetmode">Настройки</string>
     <string name="on_checking">Проверка обновлений…</string>
-    <string name="auto_update">Автоматическое обновление</string>
-    <string name="update_feedback">Отзывы о прошивке</string>
-    <string name="update_feedback_end">Вы не успели отправить отзыв на этой неделе</string>
-    <string name="update_feedback_end_sum">Вы можете оствлять отзыв каждый вторник</string>
+    <string name="auto_update">Автообновление</string>
+    <string name="update_downfull_no_info_title">Не удается загрузить</string>
+    <string name="update_downfull_no_info_sum">Не удается загрузить. Проверьте обновление повторно.</string>
+    <string name="update_feedback">Оставить отзыв</string>
+    <string name="update_feedback_end">Опрос уже закончен на этой неделе</string>
+    <string name="update_feedback_end_sum">Вы можете оставлять отзыв каждый вторник</string>
     <string name="update_feedback_expired">"Вы не успели оставить отзыв на этой неделе. 
 Вы можете оставить его в следующий вторник."</string>
     <string name="update_happy">Отличное</string>

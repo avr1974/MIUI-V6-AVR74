@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="delete">Удалить</string>
+    <string name="delete">Сброс</string>
     <string name="unlockscreen_recharging_message">Зарядка: %d%%</string>
     <string name="unlockscreen_recharge_completed">Батарея заряжена</string>
     <string name="unlockscreen_low_battery">Батарея разряжена</string>
@@ -10,8 +10,8 @@
     <string name="input_puk_code">Введите PUK код</string>
     <string name="unlocking_sim_card">Разблокировка SIM карты</string>
     <string name="input_pin_code">Введите PIN код</string>
-    <string name="incorrect_pukcode_remaining_attempts">Неверный PUK код. Попыток осталось: %d</string>
-    <string name="incorrect_pincode_remaining_attempts">Неверный PIN код. Попыток осталось: %d</string>
+    <string name="incorrect_pukcode_remaining_attempts">Неверный PUK код. Осталось попыток: %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Неверный PIN код. Осталось попыток: %d</string>
     <string name="incorrect_pukcode">Неверный PUK код</string>
     <string name="incorrect_pincode">Неверный PIN код</string>
     <string name="open_wifi_settings">Открыть сетевые подключения</string>
@@ -34,7 +34,7 @@ EEEE"</string>
     <string name="phone_locked_timeout_seconds_string">Повторите попытку через %s сек.</string>
     <string name="phone_locked_timeout_minutes_string">Повторите попытку через %s мин.</string>
     <string name="input_password_hint_text">Введите пароль</string>
-    <string name="unlock_sim_string">Разблокировка SIM карту</string>
+    <string name="unlock_sim_string">Разблокировать SIM карту</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="lockscreen_access_pattern_start">Начало ключа</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>

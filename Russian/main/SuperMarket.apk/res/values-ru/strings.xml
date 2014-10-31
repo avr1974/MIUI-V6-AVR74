@@ -94,6 +94,7 @@
     <string name="no_comment">Нет отзывов</string>
     <string name="comment_sending">Отправка…</string>
     <string name="comment_upload_failed">Ошибка отправки</string>
+    <string name="comment_upload_auth_failed">Не удается отправить отзыв. Попробуйте авторизоваться повторно.</string>
     <string name="comment_upload_success">Отзыв отправлен!</string>
     <string name="comment_upload_hint">Ваш отзыв появится после проверки</string>
     <string name="comment_upload_data_invalid">Извините, отзыв является недействительным.</string>
@@ -135,6 +136,7 @@
     <string name="developer_button">От автора</string>
     <string name="permission_button">Разрешения(%1$s)</string>
     <string name="developer_label">Разработчик:</string>
+    <string name="app_source">Источник:</string>
     <string name="update_date_label">"Обновлено: "</string>
     <string name="update_date">%3$s.%2$s.%1$s</string>
     <string name="version_label">"Версия: "</string>
@@ -192,6 +194,8 @@
     <string name="updatable_apps">Обновляемые приложения</string>
     <string name="signature_inconsistent_apps">Несовместимые приложения</string>
     <string name="signature_inconsistent_message">Это приложение имеет несовместимую подпись, продолжить обновление?</string>
+    <string name="update_all_size">Размер обновления: %1$s</string>
+    <string name="update_source">Обновлено: %1$s</string>
     <string name="connect_fail">Ошибка соединения, установка прервана.</string>
     <string name="connect_no_fit_fail">Ошибка установки. Приложение несовместимо.</string>
     <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
@@ -208,6 +212,7 @@
     <string name="install_fail">Ошибка установки</string>
     <string name="system_app_sign_not_match_fail">Ошибка установки. Несовместимая подпись приложения.</string>
     <string name="remove_package_fail">Ошибка установки. Превышено время ожидания.</string>
+    <string name="expansion_fail">Не удается загрузить файл</string>
     <string name="no_network">Сеть недоступна</string>
     <string name="no_data">Сеть недоступна</string>
     <string name="no_fitness">Нет подходящих программ, попробуйте найти вручную.</string>
@@ -322,9 +327,10 @@
     <string name="my_app">Мои приложения</string>
     <string name="no_download_history">Нет загруженных приложений</string>
     <string name="no_favorites">Нет избранного</string>
-    <string name="download_history_login_hint">Войдите в Mi аккаунт для просмотра истории установленных приложений.</string>
+    <string name="download_history_login_hint">Войдите в Mi аккаунт для просмотра истории установленных приложений</string>
     <string name="expansion_main_download_name">%1$s пак.1</string>
     <string name="expansion_append_download_name">%1$s пак.2</string>
+    <string name="expansion_game_download_name">%1$s пак</string>
     <string name="enable_gps_title">Доступ к местоположению</string>
     <string name="enable_gps_message">Mi Маркет запрашивает доступ к вашему местоположению. Перейти к настройкам?</string>
     <string name="management">Управление</string>
@@ -334,16 +340,15 @@
     <string name="my_favorites">Избранные</string>
     <string name="download_history">История загрузки</string>
     <string name="settings">Настройки</string>
-    <string name="update_all_size">Размер обновления: %1$s</string>
-    <string name="user_agreement_allow">ОК</string>
     <string name="user_agreement_content1">"Принять "</string>
     <string name="user_agreement_content2">Условия пользования</string>
     <string name="user_agreement_content3">" и "</string>
     <string name="user_agreement_content4">Политику безопасности</string>
     <string name="user_agreement_content5">\?</string>
-    <string name="user_agreement_quit">Отмена</string>
-    <string name="user_agreement_remind_again">Показывать условия пользования</string>
-    <string name="user_agreement_remind_never">Больше не показывать</string>
-    <string name="user_agreement_remind_summary">Показывать условия пользования при каждом запуске приложения</string>
     <string name="user_agreement_title">Условия пользования</string>
+    <string name="user_agreement_allow">ОК</string>
+    <string name="user_agreement_quit">Отмена</string>
+    <string name="user_agreement_remind_never">Больше не показывать</string>
+    <string name="user_agreement_remind_again">Показывать условия пользования</string>
+    <string name="user_agreement_remind_summary">Показывать условия пользования при каждом запуске приложения</string>
 </resources>

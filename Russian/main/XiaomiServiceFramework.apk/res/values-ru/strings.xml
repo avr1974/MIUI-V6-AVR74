@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi аккаунт</string>
-    <string name="xmsf_activate_info">Информация активации Xiaomi</string>
-    <string name="activate_phone_failed_notif_title">Ошибка активации сервисов MiCloud</string>
-    <string name="activate_phone_failed_notif_title_msim">Ошибка активации сервисов MiCloud для SIM карты %s</string>
+    <string name="xmsf_activate_info">Информация активации XMSF</string>
+    <string name="error_device_id_title">Не удается получить ID устройства</string>
+    <string name="error_device_id_message">"Неверный ID устройства: %s 
+Для использования некоторых сервисов Mi Cloud требуется действительный IMEI или MAC адрес."</string>
+    <string name="accept">ОК</string>
+    <string name="activate_phone_failed_notif_title">Ошибка активации сервисов Mi Cloud</string>
+    <string name="activate_phone_failed_notif_title_msim">Ошибка активации сервисов Mi Cloud для SIM карты %s</string>
     <string name="activate_status_title_activating">Активация SIM карты</string>
     <string name="activate_status_title_activating_msim">Активация SIM карты %s</string>
     <string name="activate_status_desc_wait_for_phone_service">Ожидание службы телефонии</string>

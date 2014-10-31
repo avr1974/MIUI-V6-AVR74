@@ -37,6 +37,19 @@
         <item>Прочий</item>
         <item>Выбрать</item>
     </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Прочий</item>
+        <item>Выбрать</item>
+    </string-array>
     <string-array name="app_ops_labels">
         <item>Попытка получения доступа к местоположению</item>
         <item>Попытка получения доступа к местоположению</item>
@@ -88,18 +101,5 @@
         <item>Попытка чтения MMS</item>
         <item>Попытка создания MMS</item>
         <item>Попытка запуска</item>
-    </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>55750449</item>
-        <item>37621136</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>2</item>
-    </integer-array>
-    <string-array name="imAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Прочий</item>
-        <item>Выбрать</item>
     </string-array>
 </resources>

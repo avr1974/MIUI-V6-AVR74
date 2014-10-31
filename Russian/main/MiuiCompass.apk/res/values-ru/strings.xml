@@ -32,8 +32,13 @@
     <string name="direction_south_east">ЮВ</string>
     <string name="direction_south_west">ЮЗ</string>
     <string name="guide_toast">Выполните калибровку, вращая телефон так, как показано на анимации.</string>
-    <string name="calibrate_altitude">Калибровка высоты</string>
+    <string name="calibrate_altitude">Калибровка</string>
     <string name="mobiledata_alert_dialog_title">Предупреждение</string>
     <string name="mobiledata_alert_dialog_message">Разрешить доступ в интернет для калибровки?</string>
     <string name="do_not_show_next_time">Запомнить</string>
+    <string name="location_not_enabled_title">Предупреждение</string>
+    <string name="location_not_enabled_summary">Включить сервисы определения местоположения?</string>
+    <string name="location_enable">ОК</string>
+    <string name="location_enable_later">Отмена</string>
+    <string name="location_enabled">Сервисы определения местоположения включены</string>
 </resources>

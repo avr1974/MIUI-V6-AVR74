@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Отмена</string>
-    <string name="copy">" Копировать "</string>
-    <string name="copyUrl">" Копировать URL "</string>
-    <string name="cut">" Вырезать "</string>
+    <string name="copy">Копировать</string>
+    <string name="copyUrl">Копировать URL</string>
+    <string name="cut">Вырезать</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
     <string name="emptyPhoneNumber">(нет номера телефона)</string>
     <string name="httpErrorBadUrl">Не удалось открыть страницу. Указан недопустимый URL</string>
     <string name="httpErrorUnsupportedScheme">Этот протокол не поддерживается</string>
     <string name="no">Отмена</string>
     <string name="ok">ОК</string>
-    <string name="paste">" Вставить "</string>
+    <string name="paste">Вставить</string>
     <string name="search_go">Поиск</string>
-    <string name="selectAll">" Выбрать все "</string>
+    <string name="selectAll">Выбрать все</string>
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;без названия></string>
     <string name="VideoView_error_button">ОК</string>
@@ -59,7 +59,7 @@
     <string name="meid">MEID</string>
     <string name="ClipMmi">Идентификация вызывающего абонента</string>
     <string name="ClirMmi">Идентификация звонящего абонента</string>
-    <string name="CfMmi">Переадресация вызова</string>
+    <string name="CfMmi">Переадресация вызовов</string>
     <string name="CwMmi">Ожидание вызова</string>
     <string name="BaMmi">Запрет вызова</string>
     <string name="PwdMmi">Смена пароля</string>
@@ -937,7 +937,7 @@
     <string name="loading">Загрузка…</string>
     <string name="capital_on">ВКЛ</string>
     <string name="capital_off">ВЫКЛ</string>
-    <string name="whichApplication">Способ отправки</string>
+    <string name="whichApplication">Выберите приложение</string>
     <string name="whichHomeApplication">Выберите домашнее приложение</string>
     <string name="alwaysUse">По умолчанию для этого действия</string>
     <string name="clearDefaultHintMsg">Удалить настройки по умолчанию: главный экран > \"Настройки\" > \"Приложения\" > \"Управление приложениями\"</string>
@@ -986,12 +986,12 @@
     <string name="new_app_description">Остановить старое приложение без сохранения изменений</string>
     <string name="sendText">Выберите действие для текста</string>
     <string name="volume_ringtone">Громкость вызова</string>
-    <string name="volume_music">Громкость медиа</string>
+    <string name="volume_music">Медиа</string>
     <string name="volume_music_hint_playing_through_bluetooth">Воспроизведение по каналу Bluetooth</string>
     <string name="volume_music_hint_silent_ringtone_selected">Выбран режим \"Без звука\"</string>
-    <string name="volume_call">Громкость при разговоре</string>
-    <string name="volume_bluetooth_call">Громкость при разговоре</string>
-    <string name="volume_alarm">Громкость сигнала предупреждения</string>
+    <string name="volume_call">Голос</string>
+    <string name="volume_bluetooth_call">Bluetooth</string>
+    <string name="volume_alarm">Будильник</string>
     <string name="volume_notification">Громкость уведомления</string>
     <string name="volume_unknown">Громкость</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
@@ -1274,7 +1274,7 @@
     <string name="launchBrowserDefault">Запустить браузер?</string>
     <string name="SetupCallDefault">Принять вызов?</string>
     <string name="activity_resolver_use_always">Всегда</string>
-    <string name="activity_resolver_use_once">Один раз</string>
+    <string name="activity_resolver_use_once">Однократно</string>
     <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_headphones">Наушники</string>
     <string name="default_audio_route_name_dock_speakers">Динамики дока</string>

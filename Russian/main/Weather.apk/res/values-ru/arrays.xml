@@ -14,14 +14,14 @@
         <item>Дождь</item>
         <item>Небольшой дождь</item>
         <item>Мокрый снег</item>
-        <item>Снежный шторм</item>
+        <item>Метель</item>
         <item>Снег</item>
         <item>Снегопад</item>
         <item>Снег</item>
         <item>Небольшой снег</item>
-        <item>Сильная песчаная буря</item>
+        <item>Пыльный шторм</item>
         <item>Песчаная буря</item>
-        <item>Легкая песчаная буря</item>
+        <item>Умеренная пыль</item>
         <item>Ветрено</item>
         <item>Град</item>
         <item>Пыль</item>
@@ -48,13 +48,13 @@
     </string-array>
     <string-array name="moon_desc">
         <item>Новолуние</item>
-        <item>Растущий полумесяц</item>
+        <item>Молодая луна</item>
         <item>Первая четверть</item>
-        <item>Растущая луна</item>
+        <item>Прибывающая луна</item>
         <item>Полнолуние</item>
         <item>Убывающая луна</item>
         <item>Последняя четверть</item>
-        <item>Убывающий полумесяц</item>
+        <item>Убывающий месяц</item>
         <item>Старая луна</item>
     </string-array>
 </resources>

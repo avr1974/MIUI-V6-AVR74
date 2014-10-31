@@ -215,7 +215,7 @@
     <string name="cta_notice_ok">ОК</string>
     <string name="cta_notify_settings">Запрашивать доступ к контактам</string>
     <string name="local_calendar_display_name">Локальный календарь</string>
-    <string name="birthday_calendar_display_name">Напоминание о дне рождения</string>
+    <string name="birthday_calendar_display_name">Напоминания о днях рождения</string>
     <string name="local_owner_account_name">Локальный аккаунт</string>
     <string name="birthday_notification_title_today">День рождения: %1$s</string>
     <string name="birthday_notification_text_today">Не забудьте поздравить!</string>
@@ -233,7 +233,7 @@
     <string name="rest_day_indication">:)</string>
     <string name="edit_event_confirm_message">Отменить изменения?</string>
     <string name="more_string">Еще %1$s…</string>
-    <string name="copy_email">Скопировать Email адрес</string>
+    <string name="copy_email">Скопировать адрес Email</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Готово</string>
 </resources>

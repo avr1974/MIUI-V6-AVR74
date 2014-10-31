@@ -6,11 +6,8 @@
     <string name="privacy_relative">Опасные разрешения</string>
     <string name="other_relative">Другие разрешения</string>
     <string name="perm_notice">Оповещение безопасности</string>
-    <string name="trust_switch_dialog_msg">"Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.
-
-Доверять этому приложению?"</string>
-    <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.
-Разрешить автозапуск?"</string>
+    <string name="trust_switch_dialog_msg">Система не будет спрашивать вашего разрешения на любые действия этого приложения</string>
+    <string name="auto_startup_dialog_msg">Система позволит приложению запускаться автоматически</string>
     <string name="low_risk_perms">Разрешения низкого риска</string>
     <string name="high_risk_perms">Разрешения высокого риска</string>
     <string name="perm_privacy_app_finish">Закрыть</string>
@@ -34,7 +31,7 @@
     <string name="permission_action_prompt">С запросом</string>
     <string name="permission_action_reject">Запретить</string>
     <string name="permission_send_sms_descx">Приложение может отправлять SMS и MMS</string>
-    <string name="virus_scan_install">" "<u>Установить</u>" "</string>
+    <string name="virus_scan_install"><u>Установить</u></string>
     <string name="virus_scan_is_virus">Приложение содержит вирус, рекомендуется удалить!</string>
     <string name="virus_scan_is_risk">Приложение содержит угрозу, продолжить установку?</string>
     <string name="virus_scan_clear">Удалить</string>

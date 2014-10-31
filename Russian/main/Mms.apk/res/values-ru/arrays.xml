@@ -35,11 +35,11 @@
         <item>Ник</item>
         <item>Телефон</item>
         <item>Email</item>
-        <item>Компания</item>
+        <item>Организация</item>
         <item>IM</item>
-        <item>Интернет номер</item>
+        <item>SIP телефон</item>
         <item>День рождения</item>
-        <item>Веб-сайт</item>
+        <item>Сайт</item>
         <item>Адрес</item>
         <item>Примечания</item>
     </string-array>

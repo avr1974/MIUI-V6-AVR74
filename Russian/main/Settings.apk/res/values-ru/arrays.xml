@@ -486,11 +486,7 @@
         <item>Белый</item>
         <item>Фиолетовый</item>
     </string-array>
-	 <string-array name="screen_key_press_action">
-        <item>Недавние приложения</item>
-        <item>Показать меню</item>
-    </string-array>
-    <string-array name="screen_key_press_action_value">
+    <string-array name="screen_key_press_action">
         <item>Недавние приложения</item>
         <item>Показать меню</item>
     </string-array>
@@ -628,6 +624,13 @@
     <string-array name="priority_storage_entries">
         <item>Внутренняя память</item>
         <item>Внешняя память</item>
+    </string-array>
+    <string-array name="tts_rate_xunfei_entries">
+        <item>Очень медленно</item>
+        <item>Медленно</item>
+        <item>Нормально</item>
+        <item>Быстро</item>
+        <item>Очень быстро</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Производительность</item>

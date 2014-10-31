@@ -399,8 +399,6 @@
     <string name="description_plus_button">плюс</string>
     <string name="description_view_contact_detail">Данные контакта</string>
     <string name="no_sdcard_message">SD карта не обнаружена</string>
-    <string name="import_from_sim">Импорт с SIM карты</string>
-    <string name="import_from_sim2">Импорт с SIM карты 2</string>
     <string name="import_from_sdcard">Импорт с SD карты</string>
     <string name="export_to_sdcard">На SD карту</string>
     <string name="share_visible_contacts">Отправить контакты</string>
@@ -723,7 +721,10 @@
     <string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключите режим полета</string>
     <string name="action_menu_overflow_description">Дополнительные параметры</string>
     <string name="yellowpage_navigation_network_location_enabled">Сервис активен. Отключить его можно в настройках местоположения.</string>
+    <string name="import_from_sim">Импорт с SIM карты</string>
     <string name="export_to_sim_title">Экспорт на SIM карту…</string>
+    <string name="import_from_sim1">Импорт из SIM карты 1</string>
+    <string name="import_from_sim2">Импорт с SIM карты 2</string>
     <string name="sim_no_contact">Нет контактов на SIM карте</string>
     <string name="sim_indexed_contact_not_exist">Позиция %1$d не является допустимой на SIM карте, должна быть между %2$d и %3$d</string>
     <string name="sim_contact_search_error">Произошла ошибка при поиске контактов с SIM карты</string>
@@ -731,6 +732,8 @@
     <string name="account_sim2">SIM карта %d</string>
     <string name="display_sim_contacts">Контакты SIM карты</string>
     <string name="export_to_sim">На SIM карту</string>
+    <string name="export_to_sim1">Экспорт на SIM карту 1</string>
+    <string name="export_to_sim2">На SIM карту 2</string>
     <string name="sim_card_no_free_space_title">SIM карта заполнена!</string>
     <string name="sim_card_no_free_space_message">Память SIM карты заполнена. Пожалуйста, очистите SIM карту и попробуйте еще раз.</string>
     <string name="sim_contacts">Контакты на SIM карте</string>
@@ -739,11 +742,12 @@
 Свободно: %d"</string>
     <string name="export_sim_contact_finish">Экспорт завершен</string>
     <string name="sim_export_loading">Чтение SIM карты…</string>
-    <string name="sim_capacity">Размер SIM карты</string>
+    <string name="sim_capacity">Емкость SIM карты</string>
     <string name="sim_error_not_ready">Загрузка контактов SIM карты…</string>
     <string name="sim_contact_existing">Контакт на SIM карте уже существует</string>
     <string name="sim_contact_invalid">Некорректный контакт SIM карты</string>
     <string name="pref_key_sim_manage">Контакты SIM карты</string>
+    <string name="pref_key_sim_manage1">Управление SIM картой 1</string>
     <string name="pref_key_sim_manage2">Контакты SIM карты 2</string>
     <string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM карты</string>
     <string name="readingSimContacts">Чтение контактов с SIM карты…</string>
@@ -829,7 +833,7 @@
     <string name="loading_group_members">Загрузка контактов…</string>
     <string name="loading_recent">Загрузка последних контактов…</string>
     <string name="contactMultiPickerActivityTitle">Выбрать контакты</string>
-    <string name="picker_join_title">Выберите контакт для объединения с \"%s\"</string>
+    <string name="picker_join_title">Объединение с \"%s\"</string>
     <string name="picker_contact_title">Выберите контакт</string>
     <string name="picker_number_title">Выберите номер</string>
     <string name="group_add_fail_toast">Ошибка добавления контаков</string>
@@ -853,7 +857,6 @@
     <string name="preference_import_export_title">Импорт и экспорт</string>
     <string name="import_vcard_description">Импортирование контактов с SD карты</string>
     <string name="export_vcard_description">Экспортировать vCard на SD карту</string>
-    <string name="export_to_sim2">На SIM карту 2</string>
     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="export_sim_contact_finish_failure">"Недостаточно места. 
 
@@ -1089,6 +1092,7 @@
     <string name="toast_copying">Копирование…</string>
     <string name="toast_copy_done">Копирование завершено</string>
     <string name="group_name">Группы</string>
+    <string name="starred_yellowpage">Избранные сервисы</string>
     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="import_sim_entry_miui">Импорт</string>
     <string name="delete_sim_entry_miui">Удалить</string>
@@ -1102,7 +1106,7 @@
     <string name="dial">Вызов</string>
     <string name="delete_dial_input">Удалить</string>
     <string name="clear_digits">Очистить номер телефона</string>
-    <string name="call_record_setting_miui">Запись разговоров</string>
+    <string name="call_record_setting_miui">Запись вызовов</string>
     <string name="accessibility_calllog_detail">Инфо вызовов</string>
     <string name="select_groups">Выбрать группу</string>
     <string name="sim_capacity_content" formatted="false">Всего: %d | Использовано: %d</string>
@@ -1126,6 +1130,7 @@
     <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>
     <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Неизвестная ошибка</string>
+    <string name="yellowpage_navigation_search_result_average_price">В среднем %d Ұ</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка загрузки. Проверьте параметры сети.</string>

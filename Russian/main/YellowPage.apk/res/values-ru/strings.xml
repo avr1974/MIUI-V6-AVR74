@@ -46,24 +46,27 @@
     <string name="group_name_shop_info">Информация</string>
     <string name="group_name_shop_recommendation">Поблизости</string>
     <string name="group_name_data_source">Источник</string>
+    <string name="group_name_management">Управление</string>
     <string name="photo_count">Всего: %d</string>
     <string name="all_services">Все</string>
     <string name="no_price">Нет информации о цене</string>
     <string name="no_evaluation">Нет обзора</string>
     <string name="no_brief">Нет введения</string>
-    <string name="average_price">Около %d RMB</string>
-    <string name="minimum_price">От %d RMB</string>
+    <string name="average_price">Около %d Ұ</string>
+    <string name="minimum_price">От %d Ұ</string>
     <string name="more_coupons">Все купоны</string>
     <string name="coupon_bought_count">Куплено: %d</string>
     <string name="gallery">Галерея</string>
     <string name="hms_notification">Сообщения</string>
+    <string name="hms_no_subject_view">(нет темы)</string>
     <string name="content_desc_send_sms">Отправить сообщение</string>
-    <string name="currency_character">RMB</string>
+    <string name="currency_character">Ұ</string>
     <string name="app_recommendation_install">Установить</string>
     <string name="menu_add_to_favorite">В избранные</string>
     <string name="menu_remove_from_favorite">Из избранныех</string>
     <string name="menu_correct_yellow_page">Корректировка</string>
-    <string name="menu_about_yellow_page">О странице</string>
+    <string name="menu_enroll_in_yellow_page">Войдите в аккаунт для использования желтых страниц</string>
+    <string name="menu_save_contact">Добавить номер к контакту</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
     <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
@@ -92,8 +95,8 @@
     <string name="smart_antispam">Определение номеров</string>
     <string name="turn_on_smart_antispam_hint">Номера будут определяться автоматически из базы желтых страниц. Если номер не определился, можно отметить его вручную.</string>
     <string name="turn_on_smart_antispam_title">Определение номеров</string>
-    <string name="turn_on_smart_antispam_summary_on">Использовать онлайн базу данных.</string>
-    <string name="turn_on_smart_antispam_summary_off">Использовать локальную базу данных.</string>
+    <string name="turn_on_smart_antispam_summary_on">Использовать онлайн базу данных</string>
+    <string name="turn_on_smart_antispam_summary_off">Использовать локальную базу данных</string>
     <string name="agree">ОК</string>
     <string name="enable_now">Включить</string>
     <string name="dont_enable">Отмена</string>
@@ -117,9 +120,9 @@
     <string name="notify_connect_title">Доступ к сети</string>
     <string name="notify_connect_summary">Запрос доступа к сети при каждом запуске сервисов</string>
     <string name="do_not_remind_me">Запомнить</string>
-    <string name="fraud_number_online_identification">Блокировка телемаркетеров (необходим интернет)</string>
-    <string name="upload_and_verify_fraud_num_on">Отправить информацию о блокировке телемаркетеров</string>
-    <string name="upload_and_verify_fraud_num_off">Эта функция закрыта</string>
+    <string name="fraud_number_online_identification">Блокировка маркетинга</string>
+    <string name="upload_and_verify_fraud_num_on">Информация о блокировке маркетинга будет отправляться автоматически на сервер</string>
+    <string name="upload_and_verify_fraud_num_off">Отключено</string>
     <string name="about_fraud_num_online_identification">О функции</string>
     <string name="payment_back">Назад</string>
     <string name="payment_failed_common_problems">Ошибка платежа</string>
@@ -134,7 +137,7 @@
     <string name="mishop_web_payment_title">Платеж MiShop</string>
     <string name="recharge_pay_hint_license">Увеломление пополнения</string>
     <string name="recharge_title">Пополнение</string>
-    <string name="recharge_payment_result_ok_title">Добавлено RMB %s</string>
+    <string name="recharge_payment_result_ok_title">Добавлено Ұ %s</string>
     <string name="recharge_payment_result_ok_summary">Убедитесь, что эта сумма отражается на счету.</string>
     <string name="recharge_payment_result_failed_title">Ошибка пополнения</string>
     <string name="recharge_payment_result_failed_summary">Пожалуйста, повторите попытку.</string>
@@ -142,9 +145,9 @@
     <string name="recharge_phone_number_error">Неверный номер телефона</string>
     <string name="recharge_phone_number_empty">Номер не может быть пустым</string>
     <string name="recharge_user_confirm_title">ОК</string>
-    <string name="recharge_user_confirm_summary">"Вы пополняете %1$s для RMB%2$s. 
+    <string name="recharge_user_confirm_summary">"Вы пополняете %1$s для %2$s Ұ. 
 
-Общая сумма: RMB%3$s"</string>
+Общая сумма: %3$s Ұ"</string>
     <string name="recharge_order_id">ID заказа:</string>
     <string name="recharge_status_description">Статус:</string>
     <string name="recharge_actual_price">Цена:</string>
@@ -194,6 +197,11 @@
     <string name="express_inquiry_number_empty">Введите номер отслеживания</string>
     <string name="express_inquiry_logistics_select_others_indication">Другие</string>
     <string name="express_inquiry_logistics">Выберите сервис курьера</string>
+    <string name="express_inquiry_trace">Отследить</string>
+    <string name="express_inquiry_untrace">Не следить</string>
+    <string name="express_inquiry_trace_success">Отслежено</string>
+    <string name="express_inquiry_untrace_success">Не отслежено</string>
+    <string name="express_inquiry_trace_user_notice_content">Вы получите уведомление, когда статус заказа изменится.</string>
     <string name="express_send">Отправка</string>
     <string name="express_sender_info">Инфoрмация об отправителе</string>
     <string name="express_addressee_info">Информация о получателе</string>
@@ -301,10 +309,11 @@
     <string name="general_menu_delete_recent">Удалить последние</string>
     <string name="general_cancel_favorite_ok">Удалено из избранного</string>
     <string name="general_delete_recent_ok">Последние удалены</string>
+    <string name="general_favorite_ok">Добавлено в избранное</string>
     <string name="nearby_yellow_page_title">Поблизости</string>
     <string name="nearby_no_yellow_page">Нет результатов</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
-    <string name="nearby_average_price">Около %d RMB</string>
+    <string name="nearby_average_price">Около %d Ұ</string>
     <string name="user_agreement2">" Пользовательское соглашение"</string>
     <string name="user_agreement4">Политика безопасности</string>
     <string name="callNoAnswerTimeFormat">Вызовов: %s</string>
@@ -319,8 +328,11 @@
     <string name="account_updating_device_failed">Ошибка авторизации</string>
     <string name="quick_yellow_page_tab_phones">Телефон</string>
     <string name="quick_yellow_page_tab_call_log">Журнал вызовов</string>
-    <string name="express_inquiry_logistics_indication">Курьерская компания</string>
-    <string name="express_inquiry_logistics_empty">Выберите логистику</string>
+    <string name="uploads_disabled">Загрузка файлов отключена</string>
+    <string name="choose_upload">Выберите файл для загрузки</string>
     <string name="express_company_empty">Нет компаний</string>
+    <string name="express_inquiry_logistics_empty">Выберите логистику</string>
+    <string name="express_inquiry_logistics_indication">Курьерская компания</string>
+    <string name="menu_about_yellow_page">О странице</string>
     <string name="select">Выбрать</string>
 </resources>

@@ -34,7 +34,7 @@
     <string name="button_cancel_download">Отмена</string>
     <string name="button_start_now">Загрузить</string>
     <string name="download_percent">%d%%</string>
-    <string name="download_remaining">Осталось: %s</string>
+    <string name="download_remaining">Осталось %s</string>
     <string name="download_no_application_title">Не удается открыть файл</string>
     <string name="root_downloads">Загрузки</string>
     <string name="download_queued">В очереди</string>

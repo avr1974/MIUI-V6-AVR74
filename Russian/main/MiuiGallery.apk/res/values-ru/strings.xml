@@ -218,7 +218,7 @@
     <string name="bigscreen_video_quit">Нажмите для выхода из режима воспроизведения</string>
     <string name="defalt_local_mobile">Мобильный</string>
     <string name="local_time">(локально)</string>
-    <string name="photo_page_detail_show_in_the_map">Показывать местоположение на карте</string>
+    <string name="photo_page_detail_show_in_the_map">Показать на карте</string>
     <string name="start_slide_show">Запустить слайдшоу</string>
     <string name="other_category">Другие настройки</string>
     <string name="show_hidden_album">Показать скрытые альбомы</string>
@@ -294,7 +294,7 @@
     <string name="error_should_not_select_image">Тип файла не поддерживается</string>
     <string name="error_should_not_select_video">Тип файла не поддерживается</string>
     <string name="storage_all_volumes">Все накопители</string>
-    <string name="settings_i_xiaomi_com">Зайдите на сайт i.mi.com, чтобы просмотреть ваши фото и видео с компьютера.</string>
+    <string name="settings_i_xiaomi_com">i.mi.com</string>
     <string name="big_screen_alertdialog_title">Список устройств</string>
     <string name="cloud_gallery_space_full">Облачное хранилище заполнено</string>
     <string name="share_album_space_full">Выбранный альбом заполнен</string>
@@ -460,7 +460,7 @@
     <string name="unpublishing">Закрытие доступа…</string>
     <string name="operation_too_often">Выполняется слишком много действий, попробуйте позже.</string>
     <string name="cannot_remove_creator">Невозможно удалить отправителя</string>
-    <string name="exit">Выход</string>
+    <string name="exit">ОК</string>
     <string name="album_share_exit_confirm">Выйти из альбома?</string>
     <string name="get_album_info_in_process">Загрузка информации облачного альбома…</string>
     <string name="album_share_stat_content">Приглашения</string>
@@ -510,6 +510,7 @@
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
     <string name="baidu_flyflow_downloads">Браузер Baidu</string>
     <string name="yellow_page">Сервисы</string>
+    <string name="miui_wallpaper">Обои</string>
     <string name="picker_tab_photo">Фото</string>
     <string name="picker_no_items_selected">Файлы не выбраны</string>
     <string name="picker_select_album_title_empty">Выбрать альбом</string>
@@ -545,10 +546,10 @@
     <string name="impunity_declaration_ignore">Запомнить</string>
     <string name="impunity_declaration_settings">Запрашивать доступ к сети</string>
     <string name="impunity_declaration_summary">Запрос доступа к сети при каждом запуске приложения</string>
-    <string name="photo_paint_rotate">Перевернуть</string>
-    <string name="photo_paint_crop">Обрезать</string>
     <string name="paint_cancel_context">Отменить редактирование?</string>
     <string name="paint_cancel_title">Отмена</string>
+    <string name="photo_paint_crop">Обрезать</string>
+    <string name="photo_paint_rotate">Перевернуть</string>
     <string name="mipc_1">Карманная камера</string>
     <string name="add_to_cloud_unfinished_message_with_count">%1$s фото/видео не загружены в альбом</string>
     <string name="add_to_secret_failed_message_with_count">%2$s фото/видео не удается загрузить в секретный альбом: %1$s.</string>
