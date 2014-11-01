@@ -23,7 +23,7 @@
     <string name="afternoon">PM</string>
     <string name="evening">PM</string>
     <string name="night">PM</string>
-    <string name="size_byte">Б</string>
+    <string name="size_byte">б</string>
     <string name="size_kilo_byte">Кб</string>
     <string name="size_mega_byte">Мб</string>
     <string name="size_giga_byte">Гб</string>
@@ -36,25 +36,25 @@
     <string name="copyright">Авторские права</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="mibi_license">Пользовательское соглашение MiCredit</string>
+    <string name="mibi_license">Пользовательское соглашение Mi Credit</string>
     <string name="user_manual">Руководство пользователя</string>
     <string name="license_host_unreachable">Ошибка подключения к сети. Чтобы просмотреть эту информацию, перейдите на %s.</string>
-    <string name="perm_payment_lab">MiPay</string>
-    <string name="perm_payment_dspt">Разрешить приложению оплату через MiPay</string>
+    <string name="perm_payment_lab">Mi Payment</string>
+    <string name="perm_payment_dspt">Разрешить приложению оплату через Mi Payment</string>
     <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
     <string name="no_sim">SIM карта не обнаружена</string>
     <string name="activating">Активация…</string>
-    <string name="check_phone_error_title">Служба синхронизации не запущена</string>
+    <string name="check_phone_error_title">Синхронизация отключена</string>
     <string name="check_phone_io_error">Сетевая ошибка</string>
-    <string name="send_sms_for_sync_title">Служба синхронизации не запущена</string>
+    <string name="send_sms_for_sync_title">Предупреждение</string>
     <string name="send_sms_for_sync_notice">Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
     <string name="activate">Активировать</string>
     <string name="activate_fail_notification_title">Повторная активации</string>
-    <string name="sim_changed_reactivate_notice">Текущая SIM карта не активирована. Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
-    <string name="sim_changed_reactivate_int_notice">Текущая SIM карта не активирована. Для активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
+    <string name="sim_changed_reactivate_notice">Для повторной активации нужно отправить SMS. За это может взиматься дополнительная плата.</string>
+    <string name="sim_changed_reactivate_int_notice">Для активации нужно отправить SMS в роуминг. За это может взиматься дополнительная плата.</string>
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Слишком много ошибок авторизации. Синхронизация отключена.</string>
-    <string name="error_forbidden">Обнаружены ошибки аккаунта. Синхронизация отключена.</string>
+    <string name="error_forbidden">Синхронизация отключена из-за проблем с Mi аккаунтом</string>
     <string name="error_not_acceptable">Ошибка сервера. Синхронизация отключена.</string>
     <string name="sim_unavailable">SIM карта недоступна</string>
     <string name="sim_locked">SIM карта заблокирована</string>
@@ -152,7 +152,7 @@
     <string name="name">Имя</string>
     <string name="nickname">Ник</string>
     <string name="phone">Телефон</string>
-    <string name="email">Почта</string>
+    <string name="email">Email</string>
     <string name="organization">Организация</string>
     <string name="sip_phone">SIP телефон</string>
     <string name="birthday">День рождения</string>
@@ -198,7 +198,7 @@
     <string name="the_retrocession_day">День ретроцессии</string>
     <string name="the_national_father_day">Национальный день отца</string>
     <string name="the_hksar_establishment_day">День создания ОАРГ</string>
-    <string name="the_easter_day">День Пасхи</string>
+    <string name="the_easter_day">Пасха</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d MMMM</string>
@@ -217,4 +217,6 @@
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_date">D</string>
+    <string name="permlab_sendSmsNoConfirmation">отправлять SMS сообщения без подтверждения</string>
+    <string name="permdesc_sendSmsNoConfirmation">Позволяет приложению отправлять SMS сообщения. Вредоносные приложения могут использовать это разрешение для отправки сообщений на платные номера.</string>
 </resources>

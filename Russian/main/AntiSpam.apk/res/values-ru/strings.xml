@@ -20,9 +20,9 @@
     <string name="whitelist_prefix_add_hint">Добавить все номера с префиксом в белый список</string>
     <string name="customizer_mode_user_define_name">Мой режим</string>
     <string name="all_address_choose_hint">Все регионы</string>
-    <string name="address_choose_hint">Регионы: %1$s, %2$s, %3$d</string>
+    <string name="address_choose_hint">%1$s, %2$s и %3$d</string>
     <string name="two_address_choose_hint">Регионы: %1$s, %2$s2</string>
-    <string name="one_address_choose_hint">Регион: %s1</string>
+    <string name="one_address_choose_hint">%s1</string>
     <string name="marked_by_user">вы отметили как</string>
     <string name="marked_by_others">"Пользователи (%d) отметили как "</string>
     <string name="dlg_black_antispam_message">Добавить в черный список?</string>
@@ -269,7 +269,7 @@
     <string name="mark_sell">Маркетинг</string>
     <string name="mark_meal">Доставка еды</string>
     <string name="mark_express">Курьер</string>
-    <string name="mark_fraud_block">Помечено как мошенник</string>
+    <string name="mark_fraud_block">Отмечено как мошенник</string>
     <string name="mark_agent_block">Отмечено как агент продаж</string>
     <string name="mark_sell_block">Отмечено как маркетинг</string>
     <string name="mark_meal_block">Отмечено как доставка еды</string>

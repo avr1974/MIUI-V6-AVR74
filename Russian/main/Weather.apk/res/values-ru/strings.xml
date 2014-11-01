@@ -19,7 +19,7 @@
     <string name="gps_hint">Текущее местоположение</string>
     <string name="add_city">Добавить</string>
     <string name="edit_city">Изменить</string>
-    <string name="network_unavailable">Не удается подключиться к сети</string>
+    <string name="network_unavailable">Не удается подключиться к интернету</string>
     <string name="act_find_city_hot_title">Добавить</string>
     <string name="act_find_city_hint">Поиск (англ.)</string>
     <string name="act_set_city_find_side">Поиск местоположения…</string>
@@ -30,9 +30,9 @@
     <string name="button_not_allow">Отмена</string>
     <string name="location_allow_err">Не удается найти местоположение</string>
     <string name="view_aqi_title">Качество воздуха</string>
-    <string name="act_weather_find_city_net_no_good">Не удается подключиться к сети</string>
+    <string name="act_weather_find_city_net_no_good">Не удается подключиться к интернету</string>
     <string name="act_weather_find_city_click_retry">Повтор</string>
-    <string name="act_weather_find_city_connect_net">Не удается подключиться к сети</string>
+    <string name="act_weather_find_city_connect_net">Не удается подключиться к интернету</string>
     <string name="act_weather_find_city_searching">Поиск…</string>
     <string name="loading_weather">Загрузка…</string>
     <string name="act_weather_cycle_link_china">WeatherChina</string>

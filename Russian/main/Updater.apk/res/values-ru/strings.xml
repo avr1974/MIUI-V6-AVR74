@@ -9,7 +9,7 @@
     <string name="app_name">Обновление</string>
     <string name="get_current">Загрузить текущую прошивку</string>
     <string name="check_new_version">Проверить новую версию</string>
-    <string name="download_diff">Скачать OTA</string>
+    <string name="download_diff">Скачать инкрементное обновление</string>
     <string name="download_full">Скачать полную прошивку</string>
     <string name="download_cancel">Отменить загрузку</string>
     <string name="install">Установить</string>
@@ -74,10 +74,10 @@
     <string name="notification_share">Поделиться</string>
     <string name="notification_downloading">Загрузка прошивки…</string>
     <string name="notification_updating">Обновление системы…</string>
-    <string name="set_network_title">Сеть недоступна</string>
-    <string name="set_network_msg">Проверьте параметры загрузки</string>
+    <string name="set_network_title">Интернет недоступен</string>
+    <string name="set_network_msg">Проверьте параметры загрузки обновлений</string>
     <string name="set_installfail_title">Скачать полную прошивку?</string>
-    <string name="set_installfail_msg">Не удалось установить OTA обновление. Рекомендуется скачать полную прошивку по сети Wi-Fi.</string>
+    <string name="set_installfail_msg">При загрузке обновления может взиматься дополнительная плата</string>
     <string name="set_installfail_title_full">Ошибка обновления</string>
     <string name="set_installfail_full_msg">Не удалось установить обновление. Отправить отчет разработчикам?</string>
     <string name="unkown_error_title">Неизвестная ошибка</string>
@@ -97,6 +97,12 @@
     <string name="user_intertup_download_msg">Загрузка обновления остановлена</string>
     <string name="check_update_when_wifi_available_sum">Проверять обновления только по сети Wi-Fi</string>
     <string name="auto_update_sum">Устанавливать обновление автоматически после загрузки</string>
+    <string name="updater_nonetwork">Включите интернет, чтобы получить отчет.</string>
+    <string name="updater_nolog">Отчет отсутствует</string>
+    <string name="notification_load_title_alpha">Войдите в Mi аккаунт</string>
+    <string name="notification_load_title_dev">Войдите в Mi аккаунт</string>
+    <string name="notification_load_body_dev">Войдите в Mi аккаунт для получения обновлений, доступных для вашего аккаунта.</string>
+    <string name="notification_load_body_alpha">Войдите в Mi аккаунт для получения обновления</string>
     <string name="new_updates_found_notification_title">Обновление системы</string>
     <string name="network_error">Ошибка подключения к сети</string>
     <string name="monthly_build">ежемесячная сборка</string>
@@ -110,7 +116,7 @@
     <string name="particular_build">особая сборка</string>
     <string name="about_device">О телефоне</string>
     <string name="emegency_build">Сборка:</string>
-    <string name="loading">Загрузка MIUI</string>
+    <string name="loading">Загрузка…</string>
     <string name="share_update">Поделиться</string>
     <string name="share">Поделиться</string>
     <string name="share_update_content_unsign">"Я обновил MIUI до %1$s! 
@@ -124,10 +130,10 @@
 "</string>
     <string name="view_upgrade_tutorial">Показать справку</string>
     <string name="upgrade_close">Закрыть</string>
-    <string name="update_success_title">Обновление</string>
+    <string name="update_success_title">Обновление завершено</string>
     <string name="update_success_body">%s</string>
     <string name="my_rank">Рейтинг:</string>
-    <string name="no_log">Нет логов</string>
+    <string name="no_log">Нет описания</string>
     <string name="log_share">Поделиться</string>
     <string name="autosetmode">Настройки</string>
     <string name="on_checking">Проверка обновлений…</string>
@@ -137,6 +143,7 @@
     <string name="update_feedback">Оставить отзыв</string>
     <string name="update_feedback_end">Опрос уже закончен на этой неделе</string>
     <string name="update_feedback_end_sum">Вы можете оставлять отзыв каждый вторник</string>
+    <string name="update_feedback_need_update">Вы используете не самую новую версию прошивки. Обновите вашу прошивку перед еженедельным голосованием.</string>
     <string name="update_feedback_expired">"Вы не успели оставить отзыв на этой неделе. 
 Вы можете оставить его в следующий вторник."</string>
     <string name="update_happy">Отличное</string>
@@ -174,7 +181,7 @@
     <string name="fourgrid_no_notificaiont">Не отображать в строке состояния</string>
     <string name="submit_progress">Отправка…</string>
     <string name="submit_success">Успешно отправлено</string>
-    <string name="submit_fail">Ошибка отправки</string>
+    <string name="submit_fail">Не удалось отправить</string>
     <string name="submit">Отправить</string>
     <string name="apply_buddy_update_info_message">Нажмите \"Обновить\"</string>
     <string name="apply_existing_update_md5error_title">Ошибка проверки целостности</string>
@@ -210,11 +217,11 @@
     <string name="moving_data_to_sdcard_progress_format">Завершено %1$dКб из %2$dКб</string>
     <string name="new_update_content_title">Доступна новая версия</string>
     <string name="new_update_download_complete_body">Готово к установке: %s</string>
-    <string name="new_update_downloading_body">Загрузка: %s</string>
+    <string name="new_update_downloading_body">Загрузка %s</string>
     <string name="new_updates_found_title">Поиск обновлений</string>
     <string name="no_updatecheck_executed">Не выполнять проверку обновлений</string>
     <string name="no_updates_found">Нет обновлений</string>
-    <string name="no_updates_warning">Нет обновлений</string>
+    <string name="no_updates_warning">Обновлений не найдено</string>
     <string name="no_updates_warning2">Нет новых версий</string>
     <string name="not_recommend">Не рекомендую</string>
     <string name="paused_queued_for_network">Ожидание подключения</string>

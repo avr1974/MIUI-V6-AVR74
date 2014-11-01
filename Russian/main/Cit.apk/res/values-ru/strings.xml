@@ -67,7 +67,7 @@
     <string name="cit_touch_calib_title">Калибровка касаний</string>
     <string name="cit_touch_calib_summary">На следующем этапе будет производиться калибровка касаний, нажмите \"Далее\" и не нажимайте на экарн после этого, ждите подсказки об успешной калибровке.</string>
     <string name="cit_touch_calib_pass">Нажимайте на точки для калибровки</string>
-    <string name="cit_touch_calib_fail">Ошибка калибровки, повторите попытку.</string>
+    <string name="cit_touch_calib_fail">Ошибка калибровки. Запустите калибровку заново.</string>
     <string name="cit_touch_calib_instruction">Начать калибровку</string>
     <string name="cit_version_check_summary">Версия ПО</string>
     <string name="cit_proximity_sensor_check_summary">Проверка датчика приближения</string>

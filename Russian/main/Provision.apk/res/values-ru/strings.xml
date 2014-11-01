@@ -14,7 +14,7 @@
     <string name="other_settings_location">Доступ к местоположению</string>
     <string name="other_settings_location_summary">Разрешить приложениям определять местоположение</string>
     <string name="other_settings_user_experience">Отправка отчетов</string>
-    <string name="other_settings_user_experience_summary">Отправлять анонимные отчеты</string>
+    <string name="other_settings_user_experience_summary">Отправлять анонимные отчеты (%s)</string>
     <string name="other_settings_user_experience_summary1">"
 Политика безопасности"</string>
     <string name="next">Далее</string>
@@ -29,7 +29,7 @@
     <string name="summary_not_set">Не установлено</string>
     <string name="summary_sim_card">Карта %1$d%2$s</string>
     <string name="ime_privacy_policy">Политика конфиденциальности выбранной клавиатуры</string>
-    <string name="ime_privacy_policy_no_network">Не удается подключиться к сети. Просмотреть политику конфиденциальности для этой клавиатуры вы можете на %s.</string>
+    <string name="ime_privacy_policy_no_network">Не удается подключиться к интернету. Просмотреть политику конфиденциальности для этой клавиатуры вы можете на %s.</string>
     <string name="terms_of_use">Условия пользования</string>
     <string name="terms_of_use_label">Необходимо принять условия пользования и политику конфиденциальности перед использованием MIUI</string>
     <string name="user_agreement">Пользовательское соглашение</string>

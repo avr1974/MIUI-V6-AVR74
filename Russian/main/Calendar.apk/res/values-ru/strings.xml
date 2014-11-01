@@ -217,11 +217,13 @@
     <string name="local_calendar_display_name">Локальный календарь</string>
     <string name="birthday_calendar_display_name">Напоминания о днях рождения</string>
     <string name="local_owner_account_name">Локальный аккаунт</string>
-    <string name="birthday_notification_title_today">День рождения: %1$s</string>
+    <string name="birthday_term">день рождения</string>
+    <string name="anniversary_term">юбилей</string>
+    <string name="birthday_notification_title_today">%3$s: %1$s</string>
     <string name="birthday_notification_text_today">Не забудьте поздравить!</string>
-    <string name="birthday_notification_title_three_days_later">Скоро день рождения: %1$s</string>
-    <string name="birthday_notification_text_three_days_later">3 дня до дня рождения: %3$s</string>
-    <string name="birthday_event_description">Сегодня день рождения %1$s</string>
+    <string name="birthday_notification_title_three_days_later">Скоро %2$s: %1$s</string>
+    <string name="birthday_notification_text_three_days_later">Через 3 дня %3$s (%4$s)</string>
+    <string name="birthday_event_description">Сегодня %4$s: %1$s</string>
     <string name="jump_date">Перейти</string>
     <string name="jump_date_full">Перейти к дате</string>
     <string name="miui_chinese_week_range_single" />

@@ -40,6 +40,7 @@
     <string name="toast_pending_log_collection">Сбор логов…</string>
     <string name="toast_feedback_submitted">Ваш отчет успешно отправлен</string>
     <string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен при подключении к сети Wi-Fi</string>
+    <string name="toast_feedback_network_unavailable">Не удается подключиться к интернету</string>
     <string name="discard_draft_dialog_title">Удалить черновик</string>
     <string name="discard_draft_dialog_content">Отчет изменен. Нажмите \"ОК\" для удаления черновика.</string>
     <string name="discard_draft_dialog_button_discard">ОК</string>
@@ -54,7 +55,7 @@
     <string name="packaging_dialog_content">Создание отчета…</string>
     <string name="loading_apps">Загрузка списка приложений…</string>
     <string name="loading_hot_problem">Загрузка…</string>
-    <string name="network_err">Не удается подключиться к сети</string>
+    <string name="network_err">Не удается подключиться к интернету</string>
     <string name="refresh">Обновить</string>
     <string name="app_empty">Нет загруженных приложений</string>
     <string name="reboot_problem1">Не удается перезагрузить</string>
@@ -67,7 +68,7 @@
     <string name="wifi_problem1">Не удается подключиться к сети Wi-Fi</string>
     <string name="wifi_problem2">Слабый сигнал сети Wi-Fi</string>
     <string name="wifi_problem3">Сеть Wi-Fi неожиданно отключается</string>
-    <string name="wifi_problem4">Не удается подключиться к сети</string>
+    <string name="wifi_problem4">Не удается включить сеть Wi-Fi</string>
     <string name="bluetooth_problem1">Не удается выполнить сопряжение с другими устройствами</string>
     <string name="bluetooth_problem2">Не удается найти другие устройства</string>
     <string name="bluetooth_problem3">Не удается отправить файлы</string>
@@ -81,4 +82,9 @@
     <string name="screen_lock">Блокировка экрана</string>
     <string name="systemui">Панель уведомлений</string>
     <string name="hot_problem_empty">Пусто</string>
+    <string name="cta_dialog_title">Разрешить доступ к интернету?</string>
+    <string name="cta_dialog_content">Для отправки отчетов требуется доступ к интернету</string>
+    <string name="cta_not_show_again">Запомнить</string>
+    <string name="cta_cancel">Отмена</string>
+    <string name="cta_confirm">ОК</string>
 </resources>

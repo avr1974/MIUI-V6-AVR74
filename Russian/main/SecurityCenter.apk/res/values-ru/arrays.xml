@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="cache_sort_type">
+        <item>По размеру</item>
+        <item>По имени</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>По размеру</item>
+        <item>По имени</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>По частоте использования</item>
+        <item>По размеру</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Через 1 минуту</item>
         <item>Через 5 минут</item>

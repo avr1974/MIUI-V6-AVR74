@@ -10,7 +10,7 @@
     <string name="no_storage">Вставте SD карту перед использованием камеры</string>
     <string name="not_enough_space">Память заполнена</string>
     <string name="preparing_sd">Подготовка SD карты…</string>
-    <string name="access_sd_fail">Нет доступа к SD карте</string>
+    <string name="access_sd_fail">Нет доступа к накопителю</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_change_mode_title">Переключить режим</string>
@@ -99,6 +99,7 @@
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
     <string name="pref_camera_flashmode_entry_on">Включена</string>
     <string name="pref_camera_flashmode_entry_off">Выключена</string>
+    <string name="pref_camera_flashmode_entry_torch">Фонарик</string>
     <string name="pref_camera_whitebalance_default">auto</string>
     <string name="pref_camera_whitebalance_title">Баланс белого</string>
     <string name="pref_camera_whitebalance_k_value_title">Баланс белого</string>
@@ -294,7 +295,7 @@
     <string name="send">Отправить</string>
     <string name="Import">Импорт</string>
     <string name="delete">Удалить</string>
-    <string name="slideshow">Слайдшоу</string>
+    <string name="slideshow">Слайд-шоу</string>
     <string name="edit">Изменить</string>
     <string name="rotate_left">Повернуть влево</string>
     <string name="rotate_right">Повернуть вправо</string>
@@ -349,7 +350,7 @@
     <string name="group_by_album">По албомам</string>
     <string name="group_by_faces">По людям</string>
     <string name="group_by_location">По местоположению</string>
-    <string name="group_by_tags">По тэгам</string>
+    <string name="group_by_tags">По меткам</string>
     <string name="group_by_time">По времени</string>
     <string name="locations">Местоположение</string>
     <string name="people">Люди</string>
@@ -360,7 +361,7 @@
     <string name="show_all">Фото и видео</string>
     <string name="show_images_only">Только фото</string>
     <string name="show_videos_only">Только видео</string>
-    <string name="tags">Теги</string>
+    <string name="tags">Метки</string>
     <string name="times">Время</string>
     <string name="width">Ширина</string>
     <string name="albums">Альбомы</string>
@@ -454,7 +455,7 @@
     <string name="face_beauty_intelligent_title">Улучшение тона кожи</string>
     <string name="face_beauty_manual_title">Улучшение тона кожи</string>
     <string name="face_beauty_simple_mode_title">Тон кожи</string>
-    <string name="face_beauty_intelligent_level_0">Выкл.</string>
+    <string name="face_beauty_intelligent_level_0">Выкл</string>
     <string name="face_beauty_intelligent_level_1">1</string>
     <string name="face_beauty_intelligent_level_2">2</string>
     <string name="face_beauty_intelligent_level_3">3</string>

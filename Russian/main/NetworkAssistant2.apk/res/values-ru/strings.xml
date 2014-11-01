@@ -193,7 +193,7 @@
     <string name="traffic_protection_label">Предупреждение о трафике</string>
     <string name="traffic_protection_summary">Введите предел трафика</string>
     <string name="traffic_protection_unknown"><u>Пропустить</u></string>
-    <string name="traffic_protection_text_hint">Установить предел трафика</string>
+    <string name="traffic_protection_text_hint">Установить предел трафика для %s</string>
     <string name="traffic_protection_next">Далее</string>
     <string name="traffic_protection_data_usage_summary">После превышения трафика мобильного интернета могут взиматься дополнительные расходы согласно вашему тарифному плану.</string>
     <string name="traffic_protection_use_data">Включить интернет</string>
@@ -330,6 +330,8 @@
     <string name="tc_sms_report_get_sms_successs">Формат SMS для трафика обновлен</string>
     <string name="privacy_declare_dialog_title">Предупреждение</string>
     <string name="privacy_declare_dialog_message">При использовании этого сервиса, вы соглашаетесь с &lt;a href=http://max.oupeng.com/eula.html>условиями пользования&lt;/a> компании Opera.</string>
+    <string name="sc_allow_network_dialog_tiltle">Предупреждение</string>
+    <string name="sc_allow_network_dialog_message">Для полноценной работы функции сжатия трафика необходимо разрешить приложению доступ в интернет</string>
     <string name="pkg_total_traffic">Всего: %s</string>
     <string name="remained_traffic">Осталось: %s</string>
     <string name="today_used_traffic">Сегодня: %s</string>

@@ -13,8 +13,8 @@
     <string name="delete_timer_item_title">Удалить</string>
     <string name="delete_selected_timer_item">Удалить выбранный таймер?</string>
     <string name="delete_timezone_title">Удалить часовой пояс</string>
-    <string name="delelte_selected_timezone">Удалить выбранный часовой пояс?</string>
-    <string name="timezone_exist_error_message">Не удалось добавить часовой пояс. Часовой пояс уже существует, пожалуйста, повторите</string>
+    <string name="delelte_selected_timezone">Удалить часовой пояс?</string>
+    <string name="timezone_exist_error_message">Такой часовой пояс уже добавлен</string>
     <string name="alarm_disabled">Выключен</string>
     <string name="alarm_ascending_mode_title">Нарастание громкости</string>
     <string name="alarm_ascending_mode_summary">Нарастание громкости будильника до установленной</string>
@@ -52,7 +52,7 @@
     <string name="system_time_setting">Настройки</string>
     <string name="lap_num">Круг</string>
     <string name="hour_unit">ч</string>
-    <string name="alarm_label_hint">Введите описание будильника</string>
+    <string name="alarm_label_hint">Описание будильника</string>
     <string name="legal_workday_invalidate">Рабочие дни (будильник звонит пн-пт)</string>
     <string name="legal_workday_invalidate_message">(обновите базу)</string>
     <string name="legal_workday_message">(выключен в праздники)</string>

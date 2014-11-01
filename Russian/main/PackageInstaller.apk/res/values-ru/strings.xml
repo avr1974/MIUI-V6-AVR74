@@ -31,7 +31,7 @@
     <string name="permission_action_prompt">С запросом</string>
     <string name="permission_action_reject">Запретить</string>
     <string name="permission_send_sms_descx">Приложение может отправлять SMS и MMS</string>
-    <string name="virus_scan_install"><u>Установить</u></string>
+    <string name="virus_scan_install">" "<u>продолжить установку</u>" "</string>
     <string name="virus_scan_is_virus">Приложение содержит вирус, рекомендуется удалить!</string>
     <string name="virus_scan_is_risk">Приложение содержит угрозу, продолжить установку?</string>
     <string name="virus_scan_clear">Удалить</string>

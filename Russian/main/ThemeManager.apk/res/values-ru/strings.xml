@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="resource_app_name">Браузер ресурсов</string>
+    <string name="resource_app_name">Диспетчер ресурсов</string>
     <string name="resource_delete">Удалить</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit">MiCredits</string>
@@ -50,7 +50,7 @@
     <string name="resource_buy">"Купить "</string>
     <string name="resource_importing">Импортирование…</string>
     <string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
-    <string name="online_no_network">Не удается подключиться к сети</string>
+    <string name="online_no_network">Не удается подключиться к интернету</string>
     <string name="online_search_hint">Введите ключевые слова</string>
     <string name="loading">Загрузка…</string>
     <string name="download_failed">Ошибка загрузки</string>
@@ -59,7 +59,7 @@
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурс</string>
     <string name="resource_detail">Детали</string>
-    <string name="resource_detail_window_title">Информация</string>
+    <string name="resource_detail_window_title">Информация (%1$s)</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_comment_title">Отзывы</string>
     <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора \"%1$s\"</string>
@@ -109,8 +109,8 @@
     <string name="resource_account_login">Вход</string>
     <string name="resource_account_switch">Переключить</string>
     <string name="resource_account_login_title">Вход</string>
-    <string name="resource_account_fail_to_add">Ошибка добавления аккаунта</string>
-    <string name="resource_account_abnormal_state">Ошибка аккаунта. Пожалуйста, попробуйте позже.</string>
+    <string name="resource_account_fail_to_add">Не удается добавить аккаунт</string>
+    <string name="resource_account_abnormal_state">Ошибка аккаунта</string>
     <string name="resource_account_login_before_action">Сначала необходимо авторизироваться в Mi аккаунте</string>
     <string name="resource_send">Отправить</string>
     <string name="resource_save_to_note">Сохранить в заметки</string>
@@ -266,11 +266,11 @@
     <string name="theme_user_agreement_content3">" и "</string>
     <string name="theme_user_agreement_content4">Политику конфиденциальности</string>
     <string name="theme_user_agreement_content5">.</string>
-    <string name="theme_user_agreement_title">Разрешить приложению доступ к сети?</string>
+    <string name="theme_user_agreement_title">Разрешить приложению доступ к интернету?</string>
     <string name="theme_user_agreement_allow">ОК</string>
     <string name="theme_user_agreement_remind_never">Запомнить</string>
-    <string name="theme_user_agreement_remind_again">Запрашивать доступ к сети</string>
-    <string name="theme_user_agreement_remind_summary">Запрос доступа к сети при каждом запуске приложения</string>
+    <string name="theme_user_agreement_remind_again">Запрашивать доступ к интернету</string>
+    <string name="theme_user_agreement_remind_summary">Запрос доступа к интернету при каждом запуске приложения</string>
     <string name="default_name">По умолчанию</string>
     <string name="maml_component_customization_title">Настройки</string>
     <string name="resource_failed_to_load_list">Не удается загрузить список</string>

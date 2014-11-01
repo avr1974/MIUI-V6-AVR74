@@ -34,7 +34,7 @@
     <string name="move_down">Переместить вниз</string>
     <string name="remove_slide">Удалить слайд</string>
     <string name="add_slide">Добавить слайд</string>
-    <string name="add_slide_hint">Нажмите, чтобы добавить</string>
+    <string name="add_slide_hint">Нажмите, чтобы добавить.</string>
     <string name="discard_slideshow">Отменить слайд-шоу</string>
     <string name="slide_show_part">Часть %1$s из %2$s</string>
     <string name="remove_text">Удалить текст</string>
@@ -109,9 +109,9 @@
     <string name="pref_title_mms_delete">Максимальное количество MMS</string>
     <string name="pref_messages_to_save">Установить количество сообщений в диалоге для хранения</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
-    <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
+    <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS сообщения</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
-    <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге.</string>
+    <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS сообщения в роуминге.</string>
     <string name="to_label">"Кому: "</string>
     <string name="confirm_dialog_title">Удаление</string>
     <string name="confirm_dialog_locked_title">Удалить закрепленное сообщение?</string>
@@ -310,7 +310,7 @@
     <string name="pref_other_title">Другие</string>
     <string name="pref_system_title">Системные</string>
     <string name="pref_advanced_settings_title">Дополнительно</string>
-    <string name="pref_edit_smsc_address">Номер SMS-центра</string>
+    <string name="pref_edit_smsc_address">Номер SMS центра</string>
     <string name="pref_title_allow_si_sl_push">Разрешить WAP Push</string>
     <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL).</string>
     <string name="pref_title_show_recent_contacts">Недавние контакты</string>
@@ -356,8 +356,8 @@
     <string name="title_date_type">Дата и время</string>
     <string name="mx_msg">Облачные сообщения</string>
     <string name="mx_enable">Облачные сообщения</string>
-    <string name="mx_on_sim_1">Облачные сообщения с SIM %s</string>
-    <string name="mx_on_sim_2">Облачные сообщения с SIM %s</string>
+    <string name="mx_on_sim_1">Облачные сообщения на SIM 1</string>
+    <string name="mx_on_sim_2">Облачные сообщения на SIM 2</string>
     <string name="mx_btn_enable">ОК</string>
     <string name="ex_type_sms">SMS</string>
     <string name="ex_type_mx">Облачные сообщения</string>
@@ -384,8 +384,8 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="mx_activate_hint_server">Сервер отклонил запрос активации. Требуется SMS для повторной активации облачных сообщений. Активировать?</string>
     <string name="mx_activate_int_hint_server">Ошибка активации. Для повторной активации облачных сервисов будет отправлено SMS. Отправить сейчас?</string>
     <string name="need_download">Ожидание синхронизации…</string>
-    <string name="found_wild_messages_title">Скачка сообщений</string>
-    <string name="found_wild_messages">Сообщения от данных номеров были сохранены в Mi Cloud. Загрузить их?</string>
+    <string name="found_wild_messages_title">Загрузка сообщений</string>
+    <string name="found_wild_messages">Сообщения от данных номеров были сохранены в Mi Cloud (%s). Загрузить их?</string>
     <string name="found_old_messages_title">Загрузка сообщений</string>
     <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
     <string name="show_all_messages">Показать все сообщения</string>
@@ -434,7 +434,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="pref_title_miui_card">Отправить через карту MIUI</string>
     <string name="pref_title_vcard">Отправить через vCard</string>
     <string name="type_vcard">vCard</string>
-    <string name="add_slide_before">Добавить слайд перед</string>
+    <string name="add_slide_before">Добавить слайд перед текущим</string>
     <string name="context_menu_add_to_browser_favorite">Добавить в избранные браузера</string>
     <string name="restore_all_button_msg">Восстановить все</string>
     <string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
@@ -481,7 +481,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="menu_mark">Отметить</string>
     <string name="menu_yellowpage">Показать %s</string>
     <string name="menu_more">Еще</string>
-    <string name="confirm_send_mms">Один из контактов получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, за которое может взиматься дополнительная плата оператором.</string>
+    <string name="confirm_send_mms">Один из контактов получателей содержит адрес Email. Это сообщение будет отправлено как MMS, за которое может взиматься дополнительная плата оператором.</string>
     <string name="quick_reply">Ответить</string>
     <string name="msglist_continue_to_pull_for_more">Загрузить сообщения</string>
     <string name="msglist_release_to_more">Загрузить сообщения</string>
@@ -509,10 +509,10 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="file_create_time">Время создания:</string>
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
-    <string name="festival_networking_desc">Разрешить приложению доступ к сети?</string>
+    <string name="festival_networking_desc">Разрешить приложению доступ к интернету?</string>
     <string name="festival_continue">ОК</string>
     <string name="festival_never_remind">Запомнить</string>
-    <string name="pref_title_festival_networking">Запрашивать доступ к сети</string>
+    <string name="pref_title_festival_networking">Запрашивать доступ к интернету</string>
     <string name="hms_add_image_progress_message">Загрузка…</string>
     <string name="view_hms_attachment_fail">Ошибка загрузки изображения</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>

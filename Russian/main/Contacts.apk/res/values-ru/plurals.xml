@@ -25,8 +25,8 @@
         <item quantity="one">Групп: 1</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">В группе \"%2$s\" контактов: %1$d</item>
-        <item quantity="one">В группе \"%2$s\" контактов: %1$d</item>
+        <item quantity="other">%2$s | Контактов: %1$d</item>
+        <item quantity="one">%2$s | Контактов: %1$d</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Контактов: %1$d</item>
@@ -61,8 +61,8 @@
         <item quantity="one">Номеров: %1$d</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">Электронных адресов: %1$d</item>
-        <item quantity="one">Электронных адресов: 1</item>
+        <item quantity="other">Адресов Email: %1$d</item>
+        <item quantity="one">Адресов Email: 1</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">Избранных: %1$d</item>

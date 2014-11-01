@@ -100,5 +100,8 @@
     <string name="sns_toast_over_limit">Отправить как фото при ограничении размера сообщения</string>
     <string name="sns_desc_preview_weibo">Просмотр сообщения Weibo</string>
     <string name="sns_desc_preview_wechat">Просмотр сообщения WeChat</string>
-    <string name="widget_under_visit_mode">Не возможно просмотреть заметки в режиме \"Гость\"</string>
+    <string name="sns_choose_quality_title">Качество изображения</string>
+    <string name="sns_choose_quality_high">Высокое (%1$s)</string>
+    <string name="sns_choose_quality_low">Низкое</string>
+    <string name="widget_under_visit_mode">Невозможно просмотреть заметки в режиме \"Гость\"</string>
 </resources>

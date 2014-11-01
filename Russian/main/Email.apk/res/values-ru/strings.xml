@@ -73,7 +73,7 @@
     <string name="account_setup_account_type_title">Настройка аккаунта</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Подтвердите корректность логина и пароля аккаунта</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Проблемы с настройками аккаунта</string>
-    <string name="account_setup_basics_email_label">Адрес электронной почты</string>
+    <string name="account_setup_basics_email_label">Адрес Email</string>
     <string name="account_setup_basics_headline">Настройки почты</string>
     <string name="account_setup_basics_manual_setup_action">Вручную</string>
     <string name="account_setup_basics_password_label">Пароль</string>
@@ -169,7 +169,7 @@
     <string name="account_setup_security_policies_required_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства. Завершить настройку этого аккаунта?</string>
     <string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
     <string name="account_setup_service_not_set">Почтовая служба еще не настроена</string>
-    <string name="account_setup_username_password_toast">Введите действительный адрес электронной почты и пароль</string>
+    <string name="account_setup_username_password_toast">Введите действительный адрес Email и пароль</string>
     <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, создайте новый аккаунт.</string>
     <string name="account_sync_off">Синхронизация аккаунта выключена</string>
     <string name="account_waiting_for_folders_msg">Загрузка списка папок…</string>
@@ -296,7 +296,7 @@
     <string name="conversation_folder_moved">Перемещено в %1$s</string>
     <string name="conversation_item_mark_read">Прочитано</string>
     <string name="conversation_item_mark_unread">Не прочитано</string>
-    <string name="conversation_list_net_check">Не удается подключиться к сети</string>
+    <string name="conversation_list_net_check">Не удается подключиться к интернету</string>
     <string name="conversation_overload_toast">Это сообщение слишком большое, прочтите его с компьютера.</string>
     <string name="conversation_photo_welcome_text">Нажмите на иконку контакта для выбора диалога</string>
     <string name="copy_email">Скопировать адрес почты</string>
@@ -323,7 +323,7 @@
     <string name="device_activity_btn_str">Вернуться к активации</string>
     <string name="device_activity_lint_str">Включить полное обновление почтового сервиса и активировать службу безопасности</string>
     <string name="device_admin_description">Включение серверных политик безопасности</string>
-    <string name="device_admin_label">Электронная почта</string>
+    <string name="device_admin_label">Email</string>
     <string name="device_not_activiey_lint1">Диспетчер устройств не активирован</string>
     <string name="device_not_activiey_lint2">Почтовый сервис не работает корректно</string>
     <string name="dialog_auto_download_failed">Ошибка автозагрузки</string>
@@ -342,6 +342,7 @@
     <string name="downlaod_nonWifi_confirm_message">При загрузке возможно чрезмерное потребление трафика, продолжить загрузку?</string>
     <string name="download_again">Повторить загрузку</string>
     <string name="download_before_sharing">" еще не загружено"</string>
+    <string name="download_before_view">Сначала необходимо загрузить</string>
     <string name="download_cancel_confirm_title">Отменить загрузку?</string>
     <string name="download_complete_not_cancel">Загрузка уже завершена</string>
     <string name="download_confirm_message">Чтобы открыть этот файл, необходимо скачать 180 Кб %1$s</string>
@@ -371,7 +372,6 @@
     <string name="fetching_attachment">Загрузка вложений</string>
     <string name="file_deleted_success">Удаление завершено</string>
     <string name="file_not_found">Файл не найден на почтовом сервере</string>
-    <string name="file_not_found_reDownload">Файл не найден, загрузите его повторно.</string>
     <string name="file_rar_not_support">Зашифрованный архив RAR не поддерживается</string>
     <string name="folder_icon_desc">Иконка папки</string>
     <string name="folder_picker_title">Выбор папки</string>
@@ -412,10 +412,13 @@
     <string name="input_password_prompt">Введите пароль:</string>
     <string name="invalid_recipient">Неверный адрес почты \"%s\"</string>
     <string name="kilobytes">%s Кб</string>
+    <string name="load_from_remote">Продолжить поиск на сервере</string>
     <string name="load_more">Загрузить еще</string>
     <string name="loading_conversation">Загрузка…</string>
     <string name="loading_conversations">Загрузка…</string>
+    <string name="loading_from_remote">Поиск на сервере…</string>
     <string name="local_search">Локальный поиск</string>
+    <string name="local_search_result">Сообщений в телефоне найдено: %s</string>
     <string name="login">Вход</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
@@ -436,7 +439,7 @@
     <string name="mailbox_settings_activity_title_with_mailbox">Параметры синхронизации (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Период синхронизации</string>
     <string name="mailbox_settings_sync_enabled_label">Синхронизировать папку</string>
-    <string name="mailbox_settings_sync_enabled_summary">Сообщения будут загружены при подключении к сети</string>
+    <string name="mailbox_settings_sync_enabled_summary">Сообщения будут загружены при подключении к интернету</string>
     <string name="manual_sync">Синхронизировать</string>
     <string name="mark_important">Отметить как важное</string>
     <string name="mark_not_important">Отметить как неважное</string>
@@ -510,8 +513,8 @@
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Без уведомлений</string>
     <string name="name_or_number_is_error">Неверное имя пользователя или пароль</string>
-    <string name="network_error">Нет сети</string>
-    <string name="network_not_available">Сеть недоступна</string>
+    <string name="network_error">Ошибка подключения</string>
+    <string name="network_not_available">Интернет недоступен</string>
     <string name="new_incoming_messages_one">Новое сообщение от %s</string>
     <string name="new_messages">Новых сообщений: %1$d</string>
     <string name="next_action">Далее</string>
@@ -558,13 +561,16 @@
     <string name="password_expired_dialog_content_fmt">Данные аккаунта %s удаляются с вашего устройства. Вы можете восстановить их, изменив свой PIN код или пароль блокировки экрана. Изменить сейчас?</string>
     <string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
     <string name="password_expired_ticker">Срок действия вашего PIN кода или пароля блокировки экрана истек</string>
+    <string name="perference_change_pw">Обновить пароль</string>
+    <string name="perference_change_pw_notnull_tips">Введите пароль</string>
+    <string name="perference_change_pw_ok_tips">Пароль обновлен</string>
     <string name="permission_access_provider_desc">Позволяет приложению получать доступ к данным почты, именам пользователей и паролям.</string>
     <string name="permission_access_provider_label">Доступ к данным электронной почты</string>
     <string name="permission_read_attachment_desc">Разрешить приложению открывать вложения в электронной почте</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
     <string name="photo_load_failed">Невозможно загрузить изображение</string>
     <string name="photo_view_count" formatted="false">%d из %d</string>
-    <string name="please_fill_in_your_mailbox_information">Введите ваши данные аккаунта:</string>
+    <string name="please_fill_in_your_mailbox_information">Введите ваши данные аккаунта: %s</string>
     <string name="please_fill_in_your_mailbox_information2">Введите данные:</string>
     <string name="please_wait">Пожалуйста, подождите…</string>
     <string name="policy_app_blacklist">Запретить выбранные приложения</string>
@@ -595,7 +601,7 @@
     <string name="policy_require_sd_encryption">Требовать шифрование SD карты</string>
     <string name="policy_require_smime">Требовать сообщения SMIME</string>
     <string name="policy_screen_timeout">Требовать блокировку экрана</string>
-    <string name="policy_text_truncation">Ограничить размер сообщения электронной почты</string>
+    <string name="policy_text_truncation">Ограничить размер сообщения Email</string>
     <string name="pop3_name">Почта (POP3)</string>
     <string name="prefDialogTitle_conversationListIcon">Фото отправителя</string>
     <string name="prefDialogTitle_removal_action">Aрхивация и удаление</string>
@@ -610,12 +616,13 @@
     <string name="preferences_signature_dialog_title">Подпись</string>
     <string name="preferences_signature_summary_not_set">Не установлена</string>
     <string name="preferences_signature_title">Подпись</string>
+    <string name="prefetched_got_it">ОК</string>
     <string name="preview_attachment">Просмотр</string>
     <string name="previous_action">Назад</string>
     <string name="prompt_title">Запрос</string>
     <string name="protocol">Протокол</string>
     <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер.</string>
-    <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3.</string>
+    <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на сайт оператора связи и установите пароль для доступа к Email по протоколу POP3.</string>
     <string name="pull_to_refresh">Обновить</string>
     <string name="quick_1">Я на собрании</string>
     <string name="quick_2">Я за рулем</string>
@@ -634,6 +641,8 @@
     <string name="refreshing_done">Синхронизация завершена</string>
     <string name="release_to_refresh">Обновить</string>
     <string name="remote_folders_heading">Папки на сервере</string>
+    <string name="remote_search">Все сообщения на сервере</string>
+    <string name="remote_search_result">Сообщений на сервере найдено: %s</string>
     <string name="remove_account">Удалить аккаунт</string>
     <string name="remove_account_confirm">Удалить аккаунт \"%1$s\"?</string>
     <string name="remove_folder">Удалить из %1$s</string>
@@ -769,4 +778,5 @@
     <string name="yes">ОК</string>
     <string name="zip_viewer_no_file">Нет файлов</string>
     <string name="message_invite_label_attending">Перейти?</string>
+    <string name="file_not_found_reDownload">Файл не найден, загрузите его повторно.</string>
 </resources>

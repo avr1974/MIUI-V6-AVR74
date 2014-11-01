@@ -2,7 +2,7 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
-        <item>Электронная почта</item>
+        <item>Email</item>
         <item>SMS</item>
         <item>Будильник</item>
     </string-array>

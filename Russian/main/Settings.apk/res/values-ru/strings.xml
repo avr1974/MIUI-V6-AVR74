@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="apn_chinaunicom_3gnet_general">Интернет Wal 3G</string>
+    <string name="apn_chinaunicom_3gwap_general">Интернет Wal 3G WAP</string>
     <string name="music_headset_settings">Гарнитура</string>
     <string name="music_headset_button_settings">Функции клавиш</string>
     <string name="music_headset_mode_volume">Регулировка громкости</string>
@@ -354,7 +356,7 @@
     <string name="show_profile_info_on_lockscreen_label">Отображать информацию профиля на экране блокировки</string>
     <string name="profile_info_settings_title">Информация профиля</string>
     <string name="location_settings_title">Местоположение</string>
-    <string name="security_settings_title">Безопасность</string>
+    <string name="security_settings_title">Конфиденциальность</string>
     <string name="security_settings_summary">Настройка функции \"Местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="cdma_security_settings_summary">Настройка функции \"Местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="security_passwords_title">Пароли</string>
@@ -798,7 +800,7 @@
     <string name="dialog_title_font_size">Размер шрифта</string>
     <string name="sim_lock_settings">Блокировка SIM карты</string>
     <string name="sim_lock_settings_category">Блокировка SIM карты</string>
-    <string name="sim_lock_settings_title">Защита SIM карта</string>
+    <string name="sim_lock_settings_title">SIM карта</string>
     <string name="sim_pin_toggle">Запрашивать PIN код</string>
     <string name="sim_lock_on">Для использования телефона необходим PIN код</string>
     <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN код</string>
@@ -1706,7 +1708,7 @@
     <string name="wifi_setup_save">Сохранить</string>
     <string name="wifi_setup_cancel">Отмена</string>
     <string name="wifi_setup_status_scanning">Поиск доступных сетей…</string>
-    <string name="wifi_setup_status_select_network">Чтобы подключиться, нажмите на сеть</string>
+    <string name="wifi_setup_status_select_network">Нажмите на сеть для подключения</string>
     <string name="wifi_setup_status_existing_network">Подключиться к существующей сети</string>
     <string name="wifi_setup_status_unsecured_network">Подключение к незащищенной сети</string>
     <string name="wifi_setup_status_edit_network">Укажите конфигурацию сети</string>
@@ -1995,7 +1997,7 @@
     <string name="user_setup_button_setup_later">Позже</string>
     <string name="user_cannot_manage_message">Только владелец телефона может управлять пользователями</string>
     <string name="user_cannot_add_accounts_message">Пользователи с ограниченным доступом не могут добавлять аккаунты</string>
-    <string name="user_remove_user_menu">Удалить пользователя</string>
+    <string name="user_remove_user_menu">Удалить пользователя \"%1$s\"</string>
     <string name="user_new_user_name">Надоедливый ребенок</string>
     <string name="user_new_profile_name">Новый профиль</string>
     <string name="user_confirm_remove_self_title">Удалить себя?</string>
@@ -2136,11 +2138,11 @@
     <string name="ringtone_uniform_setting_title">Настройки двух SIM карт</string>
     <string name="ringtone_slot_setting_title">Настройки одной SIM карты</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
-    <string name="privacy_protect_title">Защита</string>
+    <string name="privacy_protect_title">Защита данных</string>
     <string name="privacy_mode_enable_title">Режим \"Гость\"</string>
     <string name="privacy_mode_enable_sum">При включении этого режима журнал вызовов, сообщения и другая личная информация будет скрыта.</string>
-    <string name="ac_enable_title">Защита</string>
-    <string name="ac_set_apps_title">Защита приложений</string>
+    <string name="ac_enable_title">Защита приложений</string>
+    <string name="ac_set_apps_title">Приложения</string>
     <string name="ac_privacy_mode_title">Пароль</string>
     <string name="ac_privacy_mode_sum">Для отключения режима \"Гость\" потребуется ввести пароль</string>
     <string name="access_control_password_title">Использовать пароль</string>
@@ -2227,7 +2229,7 @@
     <string name="lock_screen_unlock_show_summary">При включении экрана сразу будет отображаться окно ввода пароля</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="timezone_settings">Часовой пояс</string>
-    <string name="security_privacy_settings_title">Безопасность</string>
+    <string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="nearby_wifi">Доступные сети Wi-Fi</string>
     <string name="unlock_set_enter_system">Отключить экран блокировки</string>
     <string name="unlock_set_enter_system_summary">Не использовать системный экран блокировки</string>
@@ -2358,7 +2360,7 @@
     <string name="virus_scanner_select_single">Выберите наиболее надежную базу активируса</string>
     <string name="virus_scanner_select_OK">ОК</string>
     <string name="virus_scanner_select_Cancel">Отмена</string>
-    <string name="virus_scanner_provider">Поддержка: Tencent</string>
+    <string name="virus_scanner_provider">Поддержка: %s</string>
     <string name="virus_scanner_auto_update">Автообновление</string>
     <string name="virus_scanner_date_formater">d MMMM yyyy</string>
     <string name="virus_scanner_manual_update">Обновлено: %s</string>
@@ -2490,7 +2492,7 @@
     <string name="security_relative">Безопасные разрешения</string>
     <string name="privacy_relative">Приватные разрешения</string>
     <string name="other_relative">Другие разрешения</string>
-    <string name="permission_manage_title">Разрешений: %s</string>
+    <string name="permission_manage_title">Разрешения приложения \"%s\"</string>
     <string name="filter_apps_cached">Кэш</string>
     <string name="screen">Экран</string>
     <string name="system">Система</string>
@@ -2508,7 +2510,7 @@
     <string name="application_item_disable">Запретить</string>
     <string name="application_item_permission">Разрешить</string>
     <string name="application_item_already_permission">Разрешено</string>
-    <string name="application_forbid_auto_startup">Отключить автозапуск в фоне?</string>
+    <string name="application_forbid_auto_startup">Отключить автозапуск приложения \"%s\"?</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрыть всплывающие окна</string>
     <string name="app_floating_window_dlg_enable">"При включении всплывающих окон приложение \"%1$s\" будет закрыто. 
@@ -2606,8 +2608,8 @@
     <string name="oldman_mode_settings_caption">Настройки режима \"Для пожилых\"</string>
     <string name="oldman_mode_enabled_name">Включить режим \"Для пожилых\"</string>
     <string name="oldman_mode_summary">Использование упрощенного рабочего стола и меню</string>
-    <string name="oldman_mode_confirm_title">Включить режим \"Для пожилых\"</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Включить режим \"Для пожилых\"?</string>
+    <string name="oldman_mode_confirm_title">Перезагрузить устройство?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Для включения режима \"Для пожилых\" необходима перезагрузка.</string>
     <string name="oldman_mode_confirm_will_normal_mode_text">Выключить режим \"Для пожилых\"?</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Включить 3D</string>
@@ -2718,6 +2720,7 @@
     <string name="install_whole_rom">Скачать полную прошивку</string>
     <string name="apply_update_fail">Ошибка обновления системы</string>
     <string name="now">Перезагрузиться</string>
+    <string name="need_reboot_now">Требуется перезагрузка для завершения обновления</string>
     <string name="welcome">Добро пожаловать!</string>
     <string name="launching_pho">Загрузка информации телефона</string>
     <string name="launching_cit">Запуск инженерного меню…</string>

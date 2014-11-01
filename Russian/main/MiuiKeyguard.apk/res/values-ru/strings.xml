@@ -71,7 +71,7 @@ EEEE"</string>
     <string name="unlock_string">ОК</string>
     <string name="lockscreen_glogin_instructions">Войдите в Mi аккаунт для разблокировки</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
-    <string name="screen_on_proximity_sensor_summary">Использование датчика приближения для предотвращения случайных нажатий на экран заблокированного телефона.</string>
+    <string name="screen_on_proximity_sensor_summary">Использовать датчик приближения для предотвращения случайных нажатий на экран заблокированного телефона</string>
     <string name="screen_on_proximity_sensor_hint">Чтобы отключить эту функцию, зажмите одновременно клавиши \"Назад\" и \"Громкость+\".</string>
     <string name="lockscreen_glogin_forgot_pattern">Разблокировать аккаунт</string>
     <string name="lockscreen_glogin_too_many_attempts">Слишком много попыток ввода</string>

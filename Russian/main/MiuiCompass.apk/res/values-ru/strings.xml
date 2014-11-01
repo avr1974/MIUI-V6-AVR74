@@ -15,11 +15,12 @@
     <string name="calibrate_success">Калибровка завершена</string>
     <string name="calibrate_failed_no_location">Ошибка калибровки</string>
     <string name="calibrate_failed_timeout">Не удалось подключиться к серверу</string>
+    <string name="calibrate_failed">Ошибка калибровки высоты</string>
     <string name="pressure_title">Давление</string>
     <string name="altitude_title">Высота</string>
     <string name="pressure_unit">гПа</string>
     <string name="altitude_unit">м</string>
-    <string name="dialog_title_no_network">Не удалось подключиться к сети</string>
+    <string name="dialog_title_no_network">Не удалось подключиться к интернету</string>
     <string name="dialog_calibrat_altitude">Калибровка…</string>
     <string name="latitude">Широта</string>
     <string name="longitude">Долгота</string>
@@ -41,4 +42,8 @@
     <string name="location_enable">ОК</string>
     <string name="location_enable_later">Отмена</string>
     <string name="location_enabled">Сервисы определения местоположения включены</string>
+    <string name="using_camera_confirm_title">Предупреждение</string>
+    <string name="using_camera_confirm_message">Разрешить приложению использовать камеру?</string>
+    <string name="using_camera_confirm_ok">ОК</string>
+    <string name="using_camera_confirm_cancel">Отмена</string>
 </resources>

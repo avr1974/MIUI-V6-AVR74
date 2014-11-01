@@ -143,5 +143,5 @@
     <string name="softap_notifif_summary">Подключено: %d</string>
     <string name="maml_component_customization_title">Настройки</string>
     <string name="default_name">По умолчанию</string>
-    <string name="resource_select">Выбор</string>
+    <string name="resource_select">Выбрать</string>
 </resources>
