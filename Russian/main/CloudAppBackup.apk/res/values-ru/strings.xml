@@ -14,8 +14,8 @@
     <string name="cloud_app_backup_title">Бэкап приложений</string>
     <string name="cloud_app_just_show_in_current_device">Приложения с этого устройства</string>
     <string name="cloud_app_mine">Приложения</string>
-    <string name="cloud_app_backup_summary">Автоматическое резервное копирование данных приложений, когда телефон заряжается и подключен к Wi-Fi.</string>
-    <string name="cloud_app_function_summary">Если вы создадите бэкап в MiCloud, то сможете восстановить его на любом устройстве.</string>
+    <string name="cloud_app_backup_summary">Автоматическое создание бэкапа данных приложений, когда телефон заряжается и подключен к Wi-Fi.</string>
+    <string name="cloud_app_function_summary">Если вы создадите бэкап в Mi Cloud, то сможете восстановить его на любом устройстве.</string>
     <string name="cloud_app_restore_action_bar_title">%1$s: бэкап создан</string>
     <string name="cloud_app_current_device">Текущее устройство</string>
     <string name="cloud_app_other_devices">Прочие устройства</string>
@@ -23,7 +23,7 @@
     <string name="cloud_app_backup_date">"Бэкап на "</string>
     <string name="cloud_app_total_size">Размер: %1$s</string>
     <string name="cloud_app_version_size">Версия: %1$s | Размер: %2$s</string>
-    <string name="cloud_app_restore_prompt">Бэкап из MiCloud при восстановлении заменит локальные данные приложения.</string>
+    <string name="cloud_app_restore_prompt">Бэкап из Mi Cloud при восстановлении заменит локальные данные приложения</string>
     <string name="cloud_app_remove_prompt">Удалить бэкап приложения \"%1$s\"?</string>
     <string name="cloud_app_find_backup_prompt_1">Вы хотите сохранить локальные данные перед восстановлением?</string>
     <string name="cloud_app_find_backup_prompt_2">Если вы откажитесь сейчас, то данные будут перезаписаны при восстановлении.</string>
@@ -33,11 +33,11 @@
     <string name="cloud_app_restore_data">Восстановление приложений</string>
     <string name="cloud_app_dont_restore">Отмена</string>
     <string name="cloud_app_restore_wifi_prompt">Необходимо Wi-Fi соединение для восстановления приложения и данных.</string>
-    <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из MiCloud. Приложения и данные будут восстановлены автоматически после того, как устройство получит данные.</string>
+    <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из Mi Cloud. Приложения и данные будут восстановлены автоматически после того, как устройство получит данные.</string>
     <string name="cloud_app_device">Устройство</string>
-    <string name="cloud_app_data_in_other_devices">Нет резервных копий на этом устройстве</string>
+    <string name="cloud_app_data_in_other_devices">Нет бэкапов на этом устройстве</string>
     <string name="cloud_app_no_data">Нет данных</string>
-    <string name="cloud_app_invalid_op">Невозможно просматривать данные во время резервного копирования или восстановления.</string>
+    <string name="cloud_app_invalid_op">Невозможно просматривать данные во время создания бэкапа или восстановления</string>
     <string name="cloud_app_invalid_op_when_removing">Невозможно просмотреть данные во время удаления</string>
     <string name="cloud_app_remove_pending">Ожидание…</string>
     <string name="cloud_app_remove_progress">Удаление…</string>
@@ -45,32 +45,34 @@
     <string name="cloud_app_restore_pending">Ожидание…</string>
     <string name="cloud_app_restore_progress">Восстановление…</string>
     <string name="cloud_app_backup_pending">Ожидание…</string>
-    <string name="cloud_app_backup_progress">Создание резервной копии…</string>
-    <string name="cloud_app_remove_error">Ошибка удаления</string>
+    <string name="cloud_app_backup_progress">Создание бэкапа…</string>
+    <string name="cloud_app_remove_error">Не удалось удалить</string>
     <string name="cloud_app_restore_error">Ошибка восстановления</string>
     <string name="cloud_app_restore_success">Восстановление завершено</string>
-    <string name="cloud_app_backup_success">Копирование завершено</string>
+    <string name="cloud_app_backup_success">Создание бэкапа завершено</string>
     <string name="cloud_app_wait_wifi">Ожидание сети Wi-Fi</string>
-    <string name="cloud_app_backup_cancel">Отмена резервного копирования…</string>
+    <string name="cloud_app_backup_cancel">Отмена создания бэкапа…</string>
     <string name="cloud_app_restore_cancel">Отмена восстановления…</string>
     <string name="cloud_app_remove_cancel">Отмена…</string>
-    <string name="cloud_app_backup_cancel_prompt_title">Остановить копирование</string>
+    <string name="cloud_app_backup_cancel_prompt_title">Остановить</string>
     <string name="cloud_app_restore_cancel_prompt_title">Остановить восстановление?</string>
     <string name="cloud_app_remove_cancel_prompt_title">Остановить удаление</string>
-    <string name="cloud_app_backup_cancel_prompt_message">Резервное копирование не завершено</string>
-    <string name="cloud_app_restore_cancel_prompt_message">Восстановление не завершено</string>
+    <string name="cloud_app_backup_cancel_prompt_message">"Создание бэкапа не завершено. 
+Остановить?"</string>
+    <string name="cloud_app_restore_cancel_prompt_message">"Восстановление не завершено. 
+Остановить?"</string>
     <string name="cloud_app_remove_cancel_prompt_message">"Удаление не завершено. 
-Остановить удаление?"</string>
+Остановить?"</string>
     <string name="cloud_app_check_data">Запрос данных с сервера…</string>
     <string name="cloud_app_check_data_timeout">Превышено время ожидания запроса данных</string>
     <string name="cloud_app_load_data">Запрос списка резервных копий…</string>
     <string name="cloud_app_load_data_timeout">Превышено время ожидания запроса данных</string>
-    <string name="cloud_app_check_data_fail">Ошибка запроса данных с сервера</string>
+    <string name="cloud_app_check_data_fail">Не удалось получить данные с сервера</string>
     <string name="cloud_app_no_network">Сеть недоступна</string>
     <string name="cloud_app_no_wifi">Сеть Wi-Fi недоступна</string>
     <string name="cloud_app_no_wifi_connect">Нет сетей Wi-Fi</string>
     <string name="cloud_app_loading_with_mobile_network_prompt">Использовать мобильный интернет для передачи данных?</string>
-    <string name="just_support_op_with_wifi_connected">You can only use this function when you have a WLAN connection</string>
+    <string name="just_support_op_with_wifi_connected">Использование этой функции возможно только при соединении по Wi-Fi</string>
     <string name="button_restore">Восстановить</string>
     <string name="button_abandon">Перезаписать</string>
     <string name="button_delete">Удалить</string>
@@ -89,11 +91,11 @@
     <string name="stop_backup">Остановить</string>
     <string name="already_enable_backup">Синхронизация включена</string>
     <string name="already_disable_backup">Синхронизация отключена</string>
-    <string name="enable_backup">Включено</string>
-    <string name="disable_backup">Выключить</string>
-    <string name="dialog_disable_backup">Отключить бэкап</string>
-    <string name="no_backup">Нет резервных копий</string>
-    <string name="dont_backup">Не создавать копию</string>
+    <string name="enable_backup">Вкл.</string>
+    <string name="disable_backup">Выкл.</string>
+    <string name="dialog_disable_backup">Отключить создание бэкапа</string>
+    <string name="no_backup">Нет бэкапов</string>
+    <string name="dont_backup">Не создавать бэкап</string>
     <string name="confirm_disable_backup">Отключить и удалить \"%s\"?</string>
     <string name="already_deleted">(удалено)</string>
     <string name="datasize_unknown">Неизвсетно</string>
@@ -101,16 +103,16 @@
     <string name="start_recover">Восстановить %s</string>
     <string name="latest_backup_time">Последний бэкап: %s</string>
     <string name="latest_backup_time_loading">Загрузка…</string>
-    <string name="start_backup_to_micloud">Резервное копирование данных приложений в Mi Cloud</string>
-    <string name="backing_up_to_micloud">Резервное копирование данных…</string>
+    <string name="start_backup_to_micloud">Бэкап данных приложений в Mi Cloud</string>
+    <string name="backing_up_to_micloud">Создание бэкапа данных…</string>
     <string name="cloud_app_backup_size">Размер:</string>
     <string name="no_app_to_backup">Нет приложений</string>
     <string name="restore_from_cloud">Восстановление из Mi Cloud</string>
-    <string name="backup_to_cloud">Восстановить Mi Cloud</string>
+    <string name="backup_to_cloud">Бэкап в Mi Cloud</string>
     <string name="restoreing_file_tile">Восстановление файлов (%d)</string>
     <string name="listview_empty_no_results">Нет результатов</string>
     <string name="display_early_backup">Показывать предыдущий бэкап</string>
     <string name="intro_v5tov6">MIUI V6 использует новую структуру резервного копирования для лучшей производительности. Потребуется некоторое время, чтобы перенести резервные копии на новую структуру.</string>
     <string name="v5tov6_complete">Перенос завершен</string>
-    <string name="dialog_prompt_stop_backup">Остановить резервное копирование?</string>
+    <string name="dialog_prompt_stop_backup">Остановить создание бэкапа?</string>
 </resources>
