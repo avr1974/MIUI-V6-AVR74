@@ -2831,4 +2831,5 @@
     <string name="later">Позже</string>
     <string name="mione_update_success_title">Обновление завершено</string>
     <string name="view_install_log">Показать журнал</string>
+	<string name="status_bar_settings_notification_pos">Настроить переключатели</string>
 </resources>
