@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="filter_by_size_max">2 Мб</string>
+    <string name="filter_by_size_min">0 Кб</string>
     <string name="music_browser_label">Музыка</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unknown_album_name">Неизвестный альбом</string>
@@ -220,6 +222,16 @@
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен.</string>
     <string name="headset_settings">Настройки гарнитуры</string>
     <string name="no_local_source_find">Ошибка отправки. Не удается найти локальные треки.</string>
+    <string name="music_filter">Фильтрация аудио файлов</string>
+    <string name="filter_by_size">По размеру</string>
+    <string name="filter_by_size_summary">Не показывать небольшие аудиофайлы</string>
+    <string name="filter_by_size_prefix">"Минимальный размер: "</string>
+    <string name="filter_by_duration">По длине</string>
+    <string name="filter_by_duration_summary">Не показывать короткие звуковые файлы</string>
+    <string name="filter_by_duration_prefix">"Минимальная длина: "</string>
+    <string name="filter_by_duration_min">0 сек</string>
+    <string name="filter_by_duration_max">5 мин</string>
+    <string name="filter_by_duration_format">%2$d мин. %5$2d сек.</string>
     <string name="dislike">Не нравится</string>
     <string name="find_ktv">Поиск музыки в KTV</string>
     <string name="go_to_add_music">Добавить треки</string>
@@ -227,4 +239,6 @@
     <string name="mi_effect">Усилитель звука \"MiSound\"</string>
     <string name="music_picker_title">Музыка</string>
     <string name="track_list_descript_cover">Обложка</string>
+    <string name="Фильтрация по максимальному размеру">2MB</string>
+    <string name="Фильтрация по минимальному размеру">0KB</string>
 </resources>

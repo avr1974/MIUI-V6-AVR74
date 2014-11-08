@@ -199,6 +199,7 @@
     <string name="archived">Архивировано</string>
     <string name="att_download_failed_content">Ошибка загрузки</string>
     <string name="att_download_failed_title">Ошибка загрузки вложений</string>
+    <string name="att_file_not_exists">Файл \"%s\" не найден</string>
     <string name="att_mgr_no_attachment">Нет вложений</string>
     <string name="att_mgr_title_order_mime">Формат</string>
     <string name="att_mgr_title_order_name">Имя</string>
@@ -210,8 +211,12 @@
     <string name="attachment_application_vnd_ms_excel">Таблица</string>
     <string name="attachment_application_vnd_ms_powerpoint">Презентация</string>
     <string name="attachment_audio">Звук</string>
+    <string name="attachment_canceling">Отмена…</string>
+    <string name="attachment_decoding">Загрузка вложения завершена. Выполняется декодирование…</string>
+    <string name="attachment_download_all">Загрузить все</string>
     <string name="attachment_image">Изображение</string>
     <string name="attachment_mgr_name">Вложения</string>
+    <string name="attachment_not_exists">Вложение недоступно</string>
     <string name="attachment_not_found">Не удалось загрузить вложение</string>
     <string name="attachment_text">Текст</string>
     <string name="attachment_type_blocked">Невозможно сохранить или открыть это вложение</string>
@@ -256,6 +261,7 @@
     <string name="clear_display_images_whitelist_dialog_message">Не отображать принятые изображения автоматически</string>
     <string name="clear_display_images_whitelist_dialog_title">Очистить изображения?</string>
     <string name="clear_display_images_whitelist_title">Очистка изображений</string>
+    <string name="click_download_all_content">[нажмите для загрузки]</string>
     <string name="collapse_recipient_details">Скрыть информацию</string>
     <string name="compose">Создать</string>
     <string name="compose_help_context">создать</string>
@@ -372,7 +378,13 @@
     <string name="fetching_attachment">Загрузка вложений</string>
     <string name="file_deleted_success">Удаление завершено</string>
     <string name="file_not_found">Файл не найден на почтовом сервере</string>
+    <string name="file_not_found_redownload">Не удается найти файл</string>
     <string name="file_rar_not_support">Зашифрованный архив RAR не поддерживается</string>
+    <string name="flow_saved_dlg_do_not_show">Запомнить</string>
+    <string name="flow_saved_dlg_i_know">ОК</string>
+    <string name="flow_saved_dlg_message">Новых сообщений: %1$d | Экономия трафика: %2$s</string>
+    <string name="flow_saved_dlg_title">Экономия трафика</string>
+    <string name="flow_saved_preference_total">Экономия трафика: %1$s</string>
     <string name="folder_icon_desc">Иконка папки</string>
     <string name="folder_picker_title">Выбор папки</string>
     <string name="folder_removed">Удалено из %1$s</string>
@@ -402,6 +414,7 @@
     <string name="header_category_other">Дополнительно</string>
     <string name="header_label_general_preferences">Общие</string>
     <string name="help_and_info">Помощь</string>
+    <string name="hide_atts_remaining">Скрыть вложения (%1$d)</string>
     <string name="hide_elided">▼ Скрыть цитирование</string>
     <string name="hide_folders">Скрыть папки</string>
     <string name="hint_quick_reply_all">Быстрый ответ</string>
@@ -426,6 +439,11 @@
     <string name="long_string">длиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииинная строка</string>
     <string name="mail">Почта</string>
     <string name="mail_body_turncated">Это сообщение слишком большое, будет показана только его часть. Чтобы прочесть полное содержание, откройте сообщение с компьютера.</string>
+    <string name="mail_header_downloading_message_body">Загрузка…</string>
+    <string name="mail_header_message_body_auto_download_complete">Сообщения загружены по сети Wi-Fi</string>
+    <string name="mail_header_message_body_auto_download_tip">Сообщения будут загружаться по сети Wi-Fi</string>
+    <string name="mail_header_message_body_download_failed">Время ожидания истекло</string>
+    <string name="mail_header_network_not_available">Интернет недоступен</string>
     <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
@@ -479,9 +497,11 @@
     <string name="menu_search">Поиск</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_show_original">Восстановить калибровку</string>
+    <string name="merged_mailbox_compose_select_account">Выберите аккаунт</string>
     <string name="message_body_auto_download_complete">Почта автоматически загружена по сети Wi-Fi</string>
     <string name="message_body_auto_download_tip">Сеть Wi-Fi активна. Почта будет загружаться автоматически.</string>
     <string name="message_body_download_failed">Время загрузки почты вышло</string>
+    <string name="message_body_loading">[загрузка…]</string>
     <string name="message_compose_fwd_header_fmt">"
 
 -------- Исходное сообщение --------
@@ -506,6 +526,7 @@
     <string name="message_type_name">message</string>
     <string name="message_view_attachment_background_load">Вложения в перенаправленном сообщении будут загружены перед отправкой</string>
     <string name="mock_content_provider">Хранилище шаблонов</string>
+    <string name="more_atts_remaining">Осталось: %1$d</string>
     <string name="more_atts_total">Всего вложений: %1$d</string>
     <string name="more_info_attachment">Информация</string>
     <string name="more_string">Еще %1$s…</string>
@@ -548,7 +569,11 @@
     <string name="outbox_alert_description_http_error">Ошибка HTTP во время синхронизации папки \"Исходящие\"</string>
     <string name="outbox_alert_description_provision_error">Ошибка положения во время синхронизации папки \"Исходящие\"</string>
     <string name="outbox_alert_description_sent_failed">Размер прикрепленного файла слишком большой</string>
+    <string name="outbox_alert_duplicate_click">Синхронизация…</string>
+    <string name="outbox_alert_edit_resend">Изменить</string>
+    <string name="outbox_alert_failed_edit_resend">Ошибка отправки. Измените сообщение и отправьте повторно.</string>
     <string name="outbox_alert_mailbox_not_found">Адрес почты отсутствует</string>
+    <string name="outbox_alert_select_operation">Выберите действие</string>
     <string name="outbox_alert_title_sent_failed">Ошибка отправки сообщения</string>
     <string name="outbox_no_mails">Нет исходящих сообщений</string>
     <string name="parase_setup_data">Получение данных конфигурации…</string>
@@ -568,6 +593,7 @@
     <string name="permission_access_provider_label">Доступ к данным электронной почты</string>
     <string name="permission_read_attachment_desc">Разрешить приложению открывать вложения в электронной почте</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
+    <string name="phone">телефон</string>
     <string name="photo_load_failed">Невозможно загрузить изображение</string>
     <string name="photo_view_count" formatted="false">%d из %d</string>
     <string name="please_fill_in_your_mailbox_information">Введите ваши данные аккаунта: %s</string>
@@ -605,6 +631,8 @@
     <string name="pop3_name">Почта (POP3)</string>
     <string name="prefDialogTitle_conversationListIcon">Фото отправителя</string>
     <string name="prefDialogTitle_removal_action">Aрхивация и удаление</string>
+    <string name="preference_head_load_description">Загружать только заголовки сообщений при использовании мобильного интернета</string>
+    <string name="preference_head_load_title">Мобильный трафик</string>
     <string name="preference_removal_action_title">Архивация и удаление</string>
     <string name="preference_sender_image_description">Отображать иконки контактов рядом с именем в списке диалогов</string>
     <string name="preference_sender_image_title">Иконки контактов</string>
@@ -636,6 +664,7 @@
     <string name="recent_folders_heading">Последние папки</string>
     <string name="recipient_error_dialog_title">Ошибка отправки</string>
     <string name="recipient_needed">Получатель не выбран</string>
+    <string name="recipient_null_dialog_title">Предупреждение</string>
     <string name="refresh">Обновить</string>
     <string name="refreshing">Загрузка…</string>
     <string name="refreshing_done">Синхронизация завершена</string>
@@ -730,6 +759,7 @@
     <string name="system_folders_trash_dlg">Выберите корзину на сервере</string>
     <string name="system_folders_trash_summary">Выберите корзину на сервере</string>
     <string name="system_folders_trash_title">Корзина</string>
+    <string name="tablet">планшет</string>
     <string name="tap_to_configure">Нажмите для настройки</string>
     <string name="tap_to_configure_folder_sync">Синхронизировать папку</string>
     <string name="tap_to_enable_sync">Нажмите для включения</string>
@@ -744,7 +774,8 @@
     <string name="turn_auto_sync_on_dialog_body">Изменения будут синхронизированы не только с Gmail, но и с другими устройствами, в том числе с вашим %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Включить</string>
     <string name="turn_auto_sync_on_dialog_title">Включить автосинхронизацию?</string>
-    <string name="undo">Отменить</string>
+    <string name="undo">" "</string>
+    <string name="unread_from_someone">Непрочитанные от \"%s\"</string>
     <string name="unread_string">диалог не прочитан</string>
     <string name="unsent_messages_in_outbox">%1$s неотправленные в %2$s</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
@@ -766,6 +797,10 @@
     <string name="widget_all_mail">Все входящие</string>
     <string name="widget_other_views">Нажмите, чтобы изменить.</string>
     <string name="wrong_password">Неверный пароль</string>
+    <string name="yes">ОК</string>
+    <string name="zip_viewer_no_file">Нет файлов</string>
+    <string name="message_invite_label_attending">Перейти?</string>
+    <string name="file_not_found_reDownload">Файл не найден, загрузите его повторно.</string>
     <string name="xiaomi_bytes_unit">%1$s б</string>
     <string name="xiaomi_external_storage_unavailable">Память недоступна, проверьте состояние SD карты.</string>
     <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
@@ -775,8 +810,4 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступная версия: %1$s 
 Размер Delta обновления: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s обновлено</string>
-    <string name="yes">ОК</string>
-    <string name="zip_viewer_no_file">Нет файлов</string>
-    <string name="message_invite_label_attending">Перейти?</string>
-    <string name="file_not_found_reDownload">Файл не найден, загрузите его повторно.</string>
 </resources>
