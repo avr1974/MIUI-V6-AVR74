@@ -40,7 +40,7 @@
     <string name="sync_off">Выкл.</string>
     <string name="mx_dspt">Облачные сообщения</string>
     <string name="mx_sub_dspt_provision">Облачные сообщения</string>
-    <string name="sync_dspt_provision">"Mi Cloud позволяет синхронизировать фото, контакты, сообщения и другие данные между устройствами. Также вы можете просмотривать данные с компьютера через сайт "</string>
+    <string name="sync_dspt_provision">"Mi Cloud позволяет синхронизировать фото, контакты, сообщения и другие данные между устройствами. Также вы можете просматривать данные с компьютера через сайт "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision3">".
 
@@ -53,7 +53,7 @@
 Вы можете отключить эту функцию в настройках Mi аккаунта.
 "</string>
     <string name="find_device_send_sms_alert">Если вы заменили SIM карту, автоматически будет отправлена SMS для повторной активации сервисов.</string>
-    <string name="mx_dspt_provision">Облачные особщения позволяют пользователям MIUI обмениваться сообщениями бесплатно</string>
+    <string name="mx_dspt_provision">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно</string>
     <string name="user_agreement_p6">"При использовании облачных сервисов вы соглашаетесь с "</string>
     <string name="user_agreement_p7">условиями пользования Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
@@ -99,7 +99,7 @@
     <string name="sub_alert_notif_dspt_no">Синхронизировано</string>
     <string name="micloud_space_full_influence"><u>Подробнее</u></string>
     <string name="micloud_storage_usage" formatted="false">Занято: %s | Всего: %s</string>
-    <string name="micloud_title_dspt" formatted="false">"Всего памяти: %s 
+    <string name="micloud_title_dspt" formatted="false">"Всего места: %s 
  Занято: %s | Свободно: %s"</string>
     <string name="micloud_title_dspt_remain">Осталось: %s</string>
     <string name="micloud_title_full_dspt">Память заполнена</string>
@@ -107,18 +107,22 @@
     <string name="micloud_web_discription_01">i.mi.com</string>
     <string name="micloud_web_discription_02">Доступ к вашим данных с компьютера</string>
     <string name="micloud_full_influence_title">Когда Mi Cloud переполнен…</string>
-    <string name="micloud_warn_low_title">Заканчивается память…</string>
-    <string name="micloud_warn_low_sum">Mi Cloud заполнен на 90%.</string>
+    <string name="micloud_warn_low_title">Заканчивается место…</string>
+    <string name="micloud_warn_low_sum">Mi Cloud заполнен на 90%</string>
     <string name="micloud_warn_full_title">Память заполнена</string>
     <string name="micloud_warn_full_sum">Новые данные не могуть синхронизироваться с Mi Cloud</string>
+    <string name="micloud_storage_expires_soon_title">Срок действия купленного места в Mi Cloud истекает</string>
+    <string name="micloud_storage_expires_very_soon_title">Срок действия купленного места в Mi Cloud истекает</string>
+    <string name="micloud_storage_expires_auto_renewal_sum">Необходимо продлить подписку</string>
+    <string name="micloud_storage_expires_manually_renewal_sum">Необходимо продлить подписку</string>
     <string name="micloud_full_influence_dspt">"Все ваши фото, видео, заметки и данные приложений будут храниться в Mi Cloud. 
 
 Таким образом, если вы потеряете или повредите устройство, ваши данные все еще будут в безопасности. 
 
 Когда Mi Cloud будет заполнен, ваши новые данные не будут синхронизироваться.
 
-Чтобы это избежать, удалите ненужные данные для освобождения памяти. Также вы ежемесячно можете расширять память Mi Cloud через сайт i.mi.com."</string>
-    <string name="micloud_upgrade_space">Получить больше памяти</string>
+Чтобы это избежать, удалите ненужные данные для освобождения памяти. Также вы ежемесячно можете расширять место Mi Cloud через сайт i.mi.com."</string>
+    <string name="micloud_upgrade_space">Получить больше места</string>
     <string name="enable_sync_dspt">Синхронизация отключена</string>
     <string name="enable_sync">Включить</string>
     <string name="cloud_find_device">Поиск устройства</string>
@@ -131,7 +135,7 @@
     <string name="sync_sub_2_sms">Для активации SIM карт будут отправлены две SMS</string>
     <string name="sync_sub_2_intl_sms">Для активации SIM карт будут отправлены две международные SMS</string>
     <string name="sync_sub_1_sms_1_intl_sms">Для активации SIM карт будeт отправлена одна международная и одна обычная SMS</string>
-    <string name="sync_setting">Обшие</string>
+    <string name="sync_setting">Общие</string>
     <string name="less_flow_mode">Режим синхронизации</string>
     <string name="sync_standard">По умолчанию</string>
     <string name="only_in_wlan">Только по Wi-Fi</string>
@@ -139,7 +143,7 @@
     <string name="cloud_sync_setting_summary_wlan">Только по Wi-Fi: синхронизировать все данные только по сети Wi-Fi.</string>
     <string name="sync_item_calllog_title">Синхронизация вызовов</string>
     <string name="sync_item_calllog_summary">Снихронизировать журнал входящих и исходящих вызовов</string>
-    <string name="view_storage_title">Информация о памяти</string>
+    <string name="view_storage_title">Место в Mi Cloud</string>
     <string name="storage">Память</string>
     <string name="data_syncing">Синхронизация данных</string>
     <string name="wifi_sync">Синхронизация по Wi-Fi</string>
@@ -180,7 +184,7 @@
     <string name="get_first_month_gb">Получить %s бесплатного места за первый раз</string>
     <string name="more_activity_in_upgrade_space">Подробнее на сайте <a href="http://i.mi.com">http://i.mi.com</a></string>
     <string name="success_upgraded_space">%s получено</string>
-    <string name="total_space_upgraded_to">Всего памяти: %s</string>
+    <string name="total_space_upgraded_to">Всего места: %s</string>
     <string name="apple_cloud">Облако iCloud</string>
     <string name="google_cloud">Google Диск</string>
     <string name="microsoft_cloud">Облако Microsoft</string>
@@ -192,23 +196,23 @@
     <string name="apple_cloud_price">Около 72 Ұ в год</string>
     <string name="google_cloud_price">Около 143 Ұ в год</string>
     <string name="microsoft_cloud_price">Около 80 Ұ в год</string>
-    <string name="upgrade_space">Добавить память</string>
+    <string name="upgrade_space">Добавить место</string>
     <string name="upgrade_space_successful">Добавлено: %s Гб</string>
     <string name="upgrade_space_successful_total">Доступно: %s Гб</string>
-    <string name="free_space_has_received">Бесплатная память уже получена в этом месяце</string>
+    <string name="free_space_has_received">Бесплатное место уже получено в этом месяце</string>
     <string name="free_space_receive_fail">Не удается обновить</string>
-    <string name="buy_space_sulotion_title">Приобрести память</string>
+    <string name="buy_space_sulotion_title">Купить место</string>
     <string name="buy_space_sulotion_renew_title">Выберите способ обновления</string>
-    <string name="buy_space_sulotion_message">Приобрести %s Гб дополнительной памяти</string>
+    <string name="buy_space_sulotion_message">Купить %s Гб дополнительного места</string>
     <string name="buy_space_sulotion_renew_message">Действует до %s</string>
     <string name="buy_space_sulotion_auto_renew">Обновлять автоматически</string>
     <string name="buy_space_sulotion_not_auto_renew">Не обновлять автоматически</string>
-    <string name="cloud_space_upgrade_title">Получить память в Mi Cloud</string>
-    <string name="cloud_space_upgrade_message">Нажмите для получения %s Гб памяти в Mi Cloud</string>
+    <string name="cloud_space_upgrade_title">Получить место в Mi Cloud</string>
+    <string name="cloud_space_upgrade_message">Нажмите для получения %s Гб места в Mi Cloud</string>
     <string name="cloud_space_upgrade_no_quota_info">Ошибка загрузки. Попробуйте позже.</string>
     <string name="micloud_other_product_price">Другие аналогичные хранения:</string>
     <string name="loading_hint">Загрузка…</string>
-    <string name="buy_space_expire">Срок действия приобретенной облачной памяти истекает: %s</string>
+    <string name="buy_space_expire">Срок действия купленного места в Mi Cloud истекает: %s</string>
     <string name="buy_space_expire_concat">%1$s: %2$s</string>
     <string name="micloud_intro_01_part_01">Экономия</string>
     <string name="micloud_intro_01_part_02">Облачные сообщения позволяют общаться пользователям MIUI бесплатно по сети Wi-Fi.</string>

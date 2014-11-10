@@ -6,4 +6,11 @@
         <item>none</item>
         <item>show_menu</item>
     </string-array>
+    <string-array name="boot_msg_text">
+        <item>Подготовка к обновлению…</item>
+        <item>Обновление системы…</item>
+        <item>Оптимизация приложений…</item>
+        <item>Оптимизация приложений…</item>
+        <item>Завершение обновления…</item>
+    </string-array>
 </resources>

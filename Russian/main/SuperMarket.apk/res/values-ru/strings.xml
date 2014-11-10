@@ -82,7 +82,7 @@
     <string name="pref_summary_feature_intro">Узнайте о возможностях Mi Маркета</string>
     <string name="pref_summary_web_market0">Посетите сайт:</string>
     <string name="pref_summary_web_dev0">Посетите сайт:</string>
-    <string name="pref_summary_delete_package">Удалять установочные файлы Apk после установки.</string>
+    <string name="pref_summary_delete_package">Удалять установочные файлы Apk после установки</string>
     <string name="clear_cache_message">Очистить кэш?</string>
     <string name="clear_cache_succeed">Кэш очищен</string>
     <string name="clear_cache_failed">Ошибка очистки кэша, попробуйте позже.</string>
@@ -103,7 +103,7 @@
     <string name="comment_upload_login_ok">ОК</string>
     <string name="comment_upload_login_cancel">Отмена</string>
     <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован, включить его сейчас?</string>
-    <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован, пожалуйста, активируйте и попробуйте еще раз</string>
+    <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован, пожалуйста, активируйте и попробуйте еще раз.</string>
     <string name="comment_count_hint">Нажмите для оценки:</string>
     <string name="comment_invalid">Нажмите на звездочки, чтобы оценить.</string>
     <string name="comment_version_name">(версия %1$s)</string>
@@ -206,7 +206,7 @@
     <string name="install_inconsistent_fail">Ошибка установки. Подписи несовместимы.</string>
     <string name="install_verification_fail">Установка не завершена. Не удался процессе проверки.</string>
     <string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
-    <string name="install_sdcard_not_available">Установка не завершена. SD карта недоступна.</string>
+    <string name="install_sdcard_not_available">Установка не завершена. Накопитель недоступен.</string>
     <string name="install_storage_not_enough">Установка не завершена. Недостаточно памяти.</string>
     <string name="install_patch_fail">Обновление не удалось. Загрузите повторно пакет.</string>
     <string name="install_fail">Ошибка установки</string>
@@ -253,7 +253,7 @@
     <string name="notif_auto_update_successfull">Обновление завершено: %1$s</string>
     <string name="notif_auto_update_failed">Ошибка обновления приложений</string>
     <string name="notif_summary_auto_update_successful">Обновлено приложение: %1$s</string>
-    <string name="notif_summary_auto_update_failed">Нажмите сюда для продолжения.</string>
+    <string name="notif_summary_auto_update_failed">Нажмите для продолжения</string>
     <string name="notif_description_from_market">Загрузка из Mi Маркета</string>
     <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
     <string name="notif_summary_auto_update_on">Mi Маркет будет обновлять приложения автоматически</string>

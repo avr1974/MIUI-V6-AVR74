@@ -43,4 +43,6 @@
     <string name="terms_of_service">Условия пользования</string>
     <string name="locale_picker_title">Выберите местоположение</string>
     <string name="locale_picker_desc">Если вы хотите изменить местоположение позже, потребуется сделать общий сброс настроек.</string>
+    <string name="locale_picker_confirm_dialog_title">Местоположение</string>
+    <string name="locale_picker_confirm_dialog_desc">Выбрать \"%s\" как ваше местоположение?</string>
 </resources>
