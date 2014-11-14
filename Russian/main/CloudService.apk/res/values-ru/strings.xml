@@ -220,7 +220,7 @@
     <string name="micloud_main_space_risk">You have %d Данные для синхронизации. Пожалуйста, обновите места для хранения.</string>
     <string name="micloud_main_update_space">обновление свободного места</string>
     <string name="micloud_detail_syncing">синхронизировать</string>
-    <string name="micloud_detail_pending">до</string>
+    <string name="micloud_detail_pending">Ожидание синхронизации</string>
     <string name="micloud_detail_success">синхронизировано</string>
     <string name="micloud_detail_fail">не удалось</string>
     <string name="micloud_detail_lastest">синхронизировано</string>
