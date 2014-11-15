@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Отмена</string>
-    <string name="copy">Копировать</string>
+    <string name="copy">Копир.</string>
     <string name="copyUrl">Копировать URL</string>
     <string name="cut">Вырезать</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
@@ -12,7 +12,7 @@
     <string name="ok">ОК</string>
     <string name="paste">Вставить</string>
     <string name="search_go">Поиск</string>
-    <string name="selectAll">Выбрать все</string>
+    <string name="selectAll">Выбр.все</string>
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;без названия></string>
     <string name="VideoView_error_button">ОК</string>
@@ -1172,7 +1172,7 @@
     <string name="media_removed">SD карта была отключена</string>
     <string name="media_shared">Сейчас SD карта используется компьютером</string>
     <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
-    <string name="share">Отправить</string>
+    <string name="share">Отпр.</string>
     <string name="find">Найти</string>
     <string name="websearch">Поиск</string>
     <string name="find_next">Найти далее</string>

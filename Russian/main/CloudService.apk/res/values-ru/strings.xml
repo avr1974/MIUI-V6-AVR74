@@ -179,7 +179,7 @@
     <string name="apple_cloud_price">Около 72 Ұ в год</string>
     <string name="google_cloud_price">Около 143 Ұ в год</string>
     <string name="microsoft_cloud_price">Около 80 Ұ в год</string>
-    <string name="upgrade_space">Добавить место</string>
+    <string name="upgrade_space">Получить больше места</string>
     <string name="upgrade_space_successful">Добавлено: %s Гб</string>
     <string name="upgrade_space_successful_total">Доступно: %s Гб</string>
     <string name="free_space_has_received">Бесплатное место уже получено в этом месяце</string>
@@ -214,12 +214,12 @@
     <string name="detail">Информация</string>
     <string name="normal">Нормальный</string>
     <string name="finish">Завершено</string>
-    <string name="micloud_main_synced_data_count">%d Данные синхронизированы</string>
-    <string name="micloud_main_wlan_sync_data_count">%d данные будут синхронизироваться через WLAN</string>
-    <string name="micloud_main_space_full">полный объем</string>
-    <string name="micloud_main_space_risk">You have %d Данные для синхронизации. Пожалуйста, обновите места для хранения.</string>
-    <string name="micloud_main_update_space">обновление свободного места</string>
-    <string name="micloud_detail_syncing">синхронизировать</string>
+    <string name="micloud_main_synced_data_count">Синхронизировано данных %d</string>
+    <string name="micloud_main_wlan_sync_data_count">%d данных будут синхронизироваться через сеть Wi-Fi</string>
+    <string name="micloud_main_space_full">Память заполнена</string>
+    <string name="micloud_main_space_risk">У вас есть %d данных для синхронизации. Пожалуйста, добавьте место для хранения.</string>
+    <string name="micloud_main_update_space">Получить больше места</string>
+    <string name="micloud_detail_syncing">синхронизизация</string>
     <string name="micloud_detail_pending">Ожидание синхронизации</string>
     <string name="micloud_detail_success">синхронизировано</string>
     <string name="micloud_detail_fail">не удалось</string>
@@ -233,7 +233,7 @@
     <string name="micloud_main_set_internet">Сеть</string>
     <string name="micloud_main_detail">показать подробности</string>
     <string name="micloud_main_network_abnormal">"Нет подключения к сети"</string>
-    <string name="micloud_main_syncing">Данные синхронизированы...</string>
+    <string name="micloud_main_syncing">Данные синхронизируются...</string>
     <string name="micloud_intro_01_part_01">Экономия</string>
     <string name="micloud_intro_01_part_02">Облачные сообщения позволяют общаться пользователям MIUI бесплатно по сети Wi-Fi.</string>
     <string name="micloud_intro_02_part_01">Удобная синхронизация</string>
