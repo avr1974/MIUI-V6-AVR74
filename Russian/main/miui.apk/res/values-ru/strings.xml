@@ -199,6 +199,8 @@
     <string name="the_national_father_day">Национальный день отца</string>
     <string name="the_hksar_establishment_day">День создания ОАРГ</string>
     <string name="the_easter_day">Пасха</string>
+    <string name="fmt_time_12hour">"h 'ч'"</string>
+    <string name="fmt_time_24hour">"H 'ч'"</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d MMMM</string>

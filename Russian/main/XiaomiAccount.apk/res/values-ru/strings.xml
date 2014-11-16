@@ -77,6 +77,8 @@
     <string name="login_instead_reg_with_email">Использовать этот Email</string>
     <string name="get_back_pwd">Получить пароль учетной записи</string>
     <string name="login_failed">Неверное имя пользователя или пароль</string>
+    <string name="logout_failed">Не удается выйти из аккаунта</string>
+    <string name="timeout_retry">Время ожидания запроса истекло</string>
     <string name="verification_failed">Ошибка авторизации</string>
     <string name="error_network">Ошибка сети</string>
     <string name="error_ssl_hand_shake">Ошибка подключения. Проверьте настройки времени.</string>
@@ -148,7 +150,7 @@
     <string name="checking_account">Проверка аккаунта…</string>
     <string name="button_cancel">Отмена</string>
     <string name="mili_center">MiCredits</string>
-    <string name="mibi_balance">Mi Credits: %s</string>
+    <string name="mibi_balance">Баланс: %s</string>
     <string name="loading_mili_center">Загрузка…</string>
     <string name="hide_mibi_info">Информация о Mi Credit скрыта</string>
     <string name="failed_get_mibi_info">Не удается получить Mi Credit</string>
@@ -249,6 +251,7 @@
     <string name="theme_store">Маркет тем MIUI</string>
     <string name="theme_store_dspt">Маркет тем позволит вам скачивать сотни бесплатных тем и найти свой стиль, чтобы сделать свой телефон уникальным.</string>
     <string name="mi_account_dspt_provision">С помощью Mi аккаунта вы сможете пользоваться различными сервисами от Xiaomi</string>
+    <string name="authorize_title">Авторизация</string>
     <string name="add_weibo_account">Добавить аккаунт</string>
     <string name="foreign_login"><u>Страна</u></string>
     <string name="int_phone_user_notice">При авторизации в Xiaomi аккаунте с помощью мобильного номера, указывайте код страны. Например: +7</string>
