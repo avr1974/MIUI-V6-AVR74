@@ -263,4 +263,8 @@
     <string name="view_install_log">Просмотр журнала</string>
     <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
     <string name="wifi_not_available_title">Wi-Fi не подключен</string>
+	 <string name="set_auto_update_title">Включение автоматической загрузки обновлений</string>
+    <string name="set_auto_msg">При выходе свежей версии прошивки вам не нужно обновлять ее вручную, при подключении к интернету система обновится автоматически.</string>
+	 <string name="open_now">Включить</string>
+    <string name="not_open">Не включать</string>
 </resources>
