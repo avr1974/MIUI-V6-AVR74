@@ -49,8 +49,8 @@
     <string name="action_item_add_to_current_playlist">Текущий плейлист</string>
     <string name="action_item_add_to_favorite_playlist">Избранные</string>
     <string name="action_item_add_to_new_playlist">Новый</string>
-    <string name="online_music">Онлайн</string>
-    <string name="my_music">Локально</string>
+    <string name="online_music">Локально</string>
+    <string name="my_music">Онлайн</string>
     <string name="fragment_more">Еще</string>
     <string name="fragment_title_recommend">Рекомендуемое</string>
     <string name="fragment_title_bill">Плейлисты</string>
