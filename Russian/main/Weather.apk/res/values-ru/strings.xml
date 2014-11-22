@@ -60,10 +60,12 @@
     <string name="activity_main_refresh_time">Последнее обновление %1$s</string>
     <string name="activity_main_update_time">Обновлено %1$s</string>
     <string name="activity_main_update_time_right_now">только что</string>
-    <string name="activity_main_refresh_timeout">Время ожидания вышло</string>
+    <string name="activity_main_refresh_timeout">Время ожидания истекло</string>
     <string name="activity_find_city_dialog_cancel">Отмена</string>
     <string name="activity_find_city_dialog_set">Настройки</string>
     <string name="activity_find_city_dialog_title">Местоположение</string>
     <string name="activity_find_city_dialog_message">Служба местоположения</string>
     <string name="view_sun_titile">Восход и закат</string>
+    <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
+    <string name="activity_main_time_format">d MMM</string>
 </resources>
