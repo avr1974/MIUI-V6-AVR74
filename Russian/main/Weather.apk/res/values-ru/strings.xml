@@ -45,7 +45,7 @@
     <string name="view_aqi_pubtime">Обновлено в %1$s</string>
     <string name="view_aqi_pubtime_format">HH:mm, dd MMMM</string>
     <string name="activity_weathermain_locationg">Поиск местоположения…</string>
-    <string name="activity_weathermain_locationg_error">Ошибка определения местоположения</string>
+    <string name="activity_weathermain_locationg_error">Не удалось найти местоположение</string>
     <string name="view_indexes_title_humidity">Влажность (%)</string>
     <string name="view_indexes_title_visibility">Видимость (км)</string>
     <string name="view_indexes_title_uv">Индекс УФ</string>
@@ -68,4 +68,6 @@
     <string name="view_sun_titile">Восход и закат</string>
     <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
     <string name="activity_main_time_format">d MMM</string>
+    <string name="view_aqi_detail_item_unit">мкг/м<sup><small>3</small></sup></string>
+    <string name="view_aqi_detail_title">Информация ИКВ</string>
 </resources>

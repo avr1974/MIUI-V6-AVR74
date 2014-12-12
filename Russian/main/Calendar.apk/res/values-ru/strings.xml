@@ -139,7 +139,7 @@
     <string name="preferences_build_version">Версия сборки</string>
     <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
     <string name="gadget_title">Календарь</string>
-    <string name="gadget_no_events">В календаре нет предстоящих мероприятий</string>
+    <string name="gadget_no_events">Нет мероприятий</string>
     <string name="copy_db">Отправить базу данных</string>
     <string name="directory_searching_fmt">Поиск в %s…</string>
     <string name="accessibility_remove_attendee">Удалить участника</string>
@@ -216,12 +216,15 @@
     <string name="cta_notify_settings">Запрашивать доступ к контактам</string>
     <string name="local_calendar_display_name">Локальный календарь</string>
     <string name="birthday_calendar_display_name">Напоминания о днях рождения</string>
+    <string name="xiaomi_calendar_display_name">Календарь Xiaomi</string>
     <string name="local_owner_account_name">Локальный аккаунт</string>
-    <string name="birthday_notification_title_today">День рождения: %1$s</string>
+    <string name="birthday_term">день рождения</string>
+    <string name="anniversary_term">юбилей</string>
+    <string name="birthday_notification_title_today">%3$s: %1$s</string>
     <string name="birthday_notification_text_today">Не забудьте поздравить!</string>
-    <string name="birthday_notification_title_three_days_later">Скоро день рождения: %1$s</string>
-    <string name="birthday_notification_text_three_days_later">Через 3 дня будет день рождения: %4$s</string>
-    <string name="birthday_event_description">Сегодня день рождения: %1$s</string>
+    <string name="birthday_notification_title_three_days_later">Скоро %2$s: %1$s</string>
+    <string name="birthday_notification_text_three_days_later">Через 3 дня %3$s (%4$s)</string>
+    <string name="birthday_event_description">Сегодня %4$s: %1$s</string>
     <string name="jump_date">Перейти</string>
     <string name="jump_date_full">Перейти к дате</string>
     <string name="miui_chinese_week_range_single" />
@@ -232,10 +235,12 @@
     <string name="work_day_indication">:(</string>
     <string name="rest_day_indication">:)</string>
     <string name="edit_event_confirm_message">Отменить изменения?</string>
+    <string name="edit_event_reminder_off_toast">Уведомления по умолчанию не установлены</string>
+    <string name="can_not_modify_event">Не удается изменить</string>
+    <string name="can_not_modify_allday_event">Не удается изменить мероприятие, которое установлено на целый день.</string>
+    <string name="can_not_modify_repeating_acrossing_days_event">Не удается изменить мероприятие, которое установлено на несколько дней с повтором.</string>
     <string name="more_string">Еще %1$s…</string>
     <string name="copy_email">Скопировать адрес Email</string>
     <string name="copy_number">Скопировать номер телефона</string>
     <string name="done">Готово</string>
-    <string name="birthday_term">день рождения</string>
-    <string name="anniversary_term">юбилей</string>
 </resources>

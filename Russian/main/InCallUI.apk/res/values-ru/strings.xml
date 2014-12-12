@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="jeejen_answer_call_text">Ответить</string>
+    <string name="jeejen_reject_call_text">Вызов отклонен</string>
+    <string name="jeejen_end_call_text">Завершить</string>
+    <string name="jeejen_toggle_dialpad_text">Телефон</string>
+    <string name="jeejen_card_title_dialing">Вызов</string>
+    <string name="jeejen_card_title_incoming_call">Входящий вызов</string>
+    <string name="jeejen_card_title_call_cancel">Завершить</string>
+    <string name="jeejen_card_title_call_ended">Вызов завершен</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="inCallLabel">Интерфейс вызовов</string>
     <string name="onscreen_add_call_text">Добавить</string>
@@ -148,9 +156,6 @@
     <string name="reverting_settings">Возврат к предыдущим настройкам…</string>
     <string name="response_error">Неожиданный ответ сети</string>
     <string name="exception_error">Ошибка сети или SIM карты</string>
-    <string name="stk_cc_ss_to_dial_error">SS запрос преобразован в DIAL запрос.</string>
-    <string name="stk_cc_ss_to_ussd_error">SS запрос преобразован в USSD запрос.</string>
-    <string name="stk_cc_ss_to_ss_error">SS запрос преобразован в новый SS запрос.</string>
     <string name="fdn_check_failure">Включена функция набора фиксированных номеров. В результате чего, некоторые функции, связанные с вызовом могут не работать.</string>
     <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
     <string name="close_dialog">ОК</string>
@@ -616,6 +621,7 @@
     <string name="online_check_warning_info_by_cmb">Всегда проверяйте личность человека по телефону, прежде чем отвечать на вопросы, связанные с вашими личными данными.</string>
     <string name="online_check_warning_type_by_cmb">Спам</string>
     <string name="livetalk_provider_info">Поддержка: %s</string>
+    <string name="livetalk_waiting">Ожидание…</string>
     <string name="description_direction_down_left">Вниз влево</string>
     <string name="description_direction_down_right">Вниз вправо</string>
     <string name="description_direction_left">Влево для %s</string>
@@ -642,4 +648,7 @@
     <string name="reset_my_choice_hint">В настройках вызовов можно изменить аккаунт SIP телефонии, который используется по умолчанию при выполнении вызовов. Для этого выберите другой аккаунт в настройках SIP вызовов</string>
     <string name="sip_always_send_keepalive">Отправлять всегда</string>
     <string name="sip_system_decide">Автоматически</string>
+    <string name="stk_cc_ss_to_dial_error">SS запрос преобразован в DIAL запрос.</string>
+    <string name="stk_cc_ss_to_ss_error">SS запрос преобразован в новый SS запрос.</string>
+    <string name="stk_cc_ss_to_ussd_error">SS запрос преобразован в USSD запрос.</string>
 </resources>

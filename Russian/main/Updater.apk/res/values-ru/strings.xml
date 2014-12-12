@@ -20,12 +20,12 @@
     <string name="set_only_wifi">Установить проверку только по Wi-Fi</string>
     <string name="test">Тест</string>
     <string name="miui_summary_has_new_version">"  доступно обновление  "</string>
-    <string name="miui_summary_now_version">Текущая версия</string>
+    <string name="miui_summary_now_version">Включите интернет для обновления</string>
     <string name="miui_summary_no_new_version">Нет обновлений</string>
     <string name="button_text_check">Проверить обновление</string>
     <string name="button_text_update">Обновить</string>
     <string name="button_text_reboot">Перезагрузить</string>
-    <string name="button_text_reboot_hm">После перезагрузки</string>
+    <string name="button_text_reboot_hm">Перезагрузить</string>
     <string name="button_text_later_reboot">Позже</string>
     <string name="download_title_first">Получение данных обновления</string>
     <string name="download_title_full_download">Прошивка загружена и готова к установке</string>
@@ -101,8 +101,8 @@
     <string name="updater_nolog">Отчет отсутствует</string>
     <string name="notification_load_title_alpha">Войдите в Mi аккаунт</string>
     <string name="notification_load_title_dev">Войдите в Mi аккаунт</string>
-    <string name="notification_load_body_dev">Войдите в Mi аккаунт для получения обновлений, доступных для вашего аккаунта.</string>
-    <string name="notification_load_body_alpha">Войдите в Mi аккаунт для получения обновления</string>
+    <string name="notification_load_body_dev">Получите еженедельные обновления</string>
+    <string name="notification_load_body_alpha">Получите экспериментальные обновления</string>
     <string name="new_updates_found_notification_title">Обновление системы</string>
     <string name="network_error">Ошибка подключения к сети</string>
     <string name="monthly_build">ежемесячная сборка</string>
@@ -140,10 +140,15 @@
     <string name="auto_update">Автообновление</string>
     <string name="update_downfull_no_info_title">Не удается загрузить</string>
     <string name="update_downfull_no_info_sum">Не удается загрузить. Проверьте обновление повторно.</string>
+    <string name="set_auto_update_title">Включить автоматическое обновление?</string>
+    <string name="set_auto_msg">При выходе новой версии прошивка будет загружаться по сети Wi-Fi и устанавливаться автоматически</string>
+    <string name="open_now">ОК</string>
+    <string name="not_open">Отмена</string>
+    <string name="title_toast_auto">Автоматическая установка обновлений включена</string>
     <string name="update_feedback">Оставить отзыв</string>
     <string name="update_feedback_end">Опрос уже закончен на этой неделе</string>
     <string name="update_feedback_end_sum">Вы можете оставлять отзыв каждый вторник</string>
-    <string name="update_feedback_need_update">Вы используете не самую новую версию прошивки. Обновите вашу прошивку перед еженедельным голосованием.</string>
+    <string name="update_feedback_need_update">Необходимо обновить прошивку перед еженедельным голосованием</string>
     <string name="update_feedback_expired">"Вы не успели оставить отзыв на этой неделе. 
 Вы можете оставить его в следующий вторник."</string>
     <string name="update_happy">Отличное</string>
@@ -176,7 +181,7 @@
     <string name="comment_upload_success">Отзыв отправлен!</string>
     <string name="comment_invalid">Нажмите на звезды, чтобы оценить.</string>
     <string name="comment_upload_not_logined">Сначала войдите в Mi аккаунт</string>
-    <string name="fourgrid_hint_text">Спасибо, что используете сборки MIUI для разработчиков. Пожалуйста, пишите свои предложения, как сделать MIUI лучше.</string>
+    <string name="fourgrid_hint_text">Спасибо, что используете еженедельные сборки MIUI (для разработчиков). Напишите свои предложения, как сделать MIUI лучше.</string>
     <string name="fourgrid_notificaiont">Отображать в строке состояния</string>
     <string name="fourgrid_no_notificaiont">Не отображать в строке состояния</string>
     <string name="submit_progress">Отправка…</string>
@@ -263,8 +268,4 @@
     <string name="view_install_log">Просмотр журнала</string>
     <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
     <string name="wifi_not_available_title">Wi-Fi не подключен</string>
-	 <string name="set_auto_update_title">Включение автоматической загрузки обновлений</string>
-    <string name="set_auto_msg">При выходе свежей версии прошивки вам не нужно обновлять ее вручную, при подключении к интернету система обновится автоматически.</string>
-	 <string name="open_now">Включить</string>
-    <string name="not_open">Не включать</string>
 </resources>

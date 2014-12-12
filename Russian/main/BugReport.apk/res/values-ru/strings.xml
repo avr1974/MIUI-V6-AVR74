@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Отчеты</string>
-    <string name="app_title">Отчеты</string>
     <string name="report_miui">Отчет MIUI</string>
     <string name="menu_copy">Копировать</string>
-    <string name="menu_attach_screenshot">Прикрепить скриншот</string>
-    <string name="menu_discard">Отменить</string>
     <string name="description">Описание (обязательно)</string>
     <string name="suggestion_description">Напишите предложение (на английском)</string>
     <string name="nonsystemapp_description">Опишите проблему (на английском)</string>
@@ -20,8 +17,6 @@
     <string name="err_type_systemapp">Система</string>
     <string name="err_type_nonsystemapp">Приложения</string>
     <string name="err_type_suggestion">Предложения</string>
-    <string name="status_msg_pending_upload">Загружается отчетов: %d…</string>
-    <string name="status_msg_collecting_log">Сбор логов…</string>
     <string name="action_submit">Отправить</string>
     <string name="action_cancel">Отмена</string>
     <string name="action_confirm">Выбрать</string>
@@ -48,10 +43,6 @@
     <string name="network_unavailable_dialog_title">Сеть недоступна</string>
     <string name="network_unavailable_dialog_content">Ваш отчет будет отправлен, как только сеть будет доступна</string>
     <string name="network_unavailable_dialog_button_ok">ОК</string>
-    <string name="wlan_unavailable_dialog_title">Сеть Wi-Fi отсутствует</string>
-    <string name="wlan_unavailable_dialog_content">Отправка отчета использует мобильного трафика: %s. Вы можете отправить его сейчас или подождать сеть Wi-Fi.</string>
-    <string name="wlan_unavailable_dialog_button_sent">Отправить</string>
-    <string name="wlan_unavailable_dialog_button_ok">ОК</string>
     <string name="packaging_dialog_content">Создание отчета…</string>
     <string name="loading_apps">Загрузка списка приложений…</string>
     <string name="loading_hot_problem">Загрузка…</string>
@@ -87,4 +78,13 @@
     <string name="cta_not_show_again">Запомнить</string>
     <string name="cta_cancel">Отмена</string>
     <string name="cta_confirm">ОК</string>
+    <string name="menu_attach_screenshot">Прикрепить скриншот</string>
+    <string name="menu_discard">Отменить</string>
+    <string name="status_msg_collecting_log">Сбор логов…</string>
+    <string name="status_msg_pending_upload">Загружается отчетов: %d…</string>
+    <string name="wlan_unavailable_dialog_button_ok">ОК</string>
+    <string name="wlan_unavailable_dialog_button_sent">Отправить</string>
+    <string name="wlan_unavailable_dialog_content">Отправка отчета использует мобильного трафика: %s. Вы можете отправить его сейчас или подождать сеть Wi-Fi.</string>
+    <string name="wlan_unavailable_dialog_title">Сеть Wi-Fi отсутствует</string>
+    <string name="app_title">Отчеты</string>
 </resources>

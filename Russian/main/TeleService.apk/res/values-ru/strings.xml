@@ -707,7 +707,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="pocket_mode_summary">Телефон заблокируется автоматически при помещении в карман</string>
     <string name="pocket_mode_title">Блокировка в кармане</string>
     <string name="antispam_notification_title">Неизвестный номер</string>
-    <string name="enable_antispam_strange_title">Неизвестные номера без звука</string>
+    <string name="enable_antispam_strange_title">Неизвестный вызов без звука</string>
     <string name="enable_antispam_strange_summary">Не уведомлять о первом входящем вызове от неизвестного номера</string>
     <string name="reject_via_sms">Быстрые ответы</string>
     <string name="reject_via_sms_summary">Шаблоны для быстрых ответов по SMS</string>
@@ -811,6 +811,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="uplmn_list_setting_add_plmn">Добавить PLMN</string>
     <string name="gsm_umts_network_preferences_title">Режим сети</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
+    <string name="uplmn_numeric_is_empty">Введите ID сети</string>
     <string name="msim_setting_screen_title">SIM карты и мобильные сети</string>
     <string name="msim_setting_categery_title">Информация SIM карты</string>
     <string name="msim_general_setting">Общие</string>
@@ -847,7 +848,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
     <string name="preference_telocation_summary_countrycode_on">набирать код страны.</string>
     <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
-    <string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
+    <string name="preference_dial_pad_touch_tone_piano">Пианино</string>
     <string name="preference_telocation_summary_countrycode_off">не набирать код страны.</string>
     <string name="telephony_setting">Вызовы</string>
 </resources>

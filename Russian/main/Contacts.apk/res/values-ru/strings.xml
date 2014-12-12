@@ -4,14 +4,13 @@
     <string name="deselect_all">Снять выбор</string>
     <string name="resource_app_name">Диспетчер ресурсов</string>
     <string name="resource_delete">Удалить</string>
-    <string name="resource_price_free">Беспл.</string>
-    <string name="resource_price_unit">MiCredits</string>
+    <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="sdcard_not_mounted_dialog_title">SD карта отсутствует</string>
     <string name="sdcard_not_mounted_dialog_message">"Вставьте SD карту 
 "</string>
     <string name="resource_mute">Без звука</string>
-    <string name="resource_default">Стандарт</string>
+    <string name="resource_default">Мелодия по умолчанию</string>
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_notification_default">Уведомления</string>
     <string name="resource_alarm_default">Будильник</string>
@@ -19,76 +18,78 @@
     <string name="description_author">Автор:</string>
     <string name="description_size">Размер:</string>
     <string name="description_uploadtime">Обновлено:</string>
-    <string name="description_download">Скачано:</string>
+    <string name="description_download">Загрузок:</string>
     <string name="description_version">Версия:</string>
     <string name="description_summary">Инфо:</string>
     <string name="description_version_szie">Версия: %1$s | Размер: %2$s</string>
-    <string name="resource_local">Локально: %1$s</string>
-    <string name="resource_online">Онлайн: %1$s</string>
+    <string name="resource_local">Локально %1$s</string>
+    <string name="resource_online">Онлайн %1$s</string>
     <string name="resource_selected">Новые</string>
     <string name="resource_ranking">Топ</string>
     <string name="resource_ranking_free">Бесплатные</string>
     <string name="resource_ranking_purchase">Платные</string>
     <string name="resource_category">Категории</string>
     <string name="resource_my">Локальные</string>
-    <string name="resource_pack_price_info">%1$s оригинал</string>
-    <string name="resource_pack_discount_info">%1$s сохранено!</string>
-    <string name="resource_pack_confirm">Куплено элементов: %1$d, но эта цена выгоднее чем индивидуальная покупка, продолжить?</string>
-    <string name="resource_pack_warning">Куплено элементов: %1$d, выгодней будет купить их индивидуально.</string>
-    <string name="resource_title">Сведения</string>
+    <string name="resource_pack_price_info">"Цена: 
+%1$s"</string>
+    <string name="resource_pack_discount_info">"Экономия: 
+%1$s"</string>
+    <string name="resource_pack_confirm">Куплено компонентов темы: %1$d. Будет выгоднее купить полный комплект, чем докупить по одному компоненту.</string>
+    <string name="resource_pack_warning">Куплено компонентов темы: %1$d. Будет выгоднее купить остальные компоненты по одному, чем полный комплект.</string>
+    <string name="resource_title">Информация</string>
     <string name="resource_download">Скачать</string>
-    <string name="resource_downloading">Скачивание</string>
-    <string name="resource_waiting_download">Ожидание…</string>
-    <string name="resource_import_successful">Загрузка завершена.</string>
+    <string name="resource_downloading">Загрузка</string>
+    <string name="resource_waiting_download">Ожидание</string>
+    <string name="resource_import_successful">Загрузка завершена</string>
     <string name="resource_import_failed">Ошибка импортирования</string>
     <string name="resource_delta_update_successful">Обновление завершено</string>
-    <string name="resource_delta_update_failed">Ошибка обновления</string>
+    <string name="resource_delta_update_failed">Ошибка обновления. Повторная загрузка темы…</string>
     <string name="resource_delta_update_total">Обновлений: %1$d (%2$s)</string>
     <string name="resource_apply">Применить</string>
-    <string name="resource_update">Обн.</string>
+    <string name="resource_update">Обновить</string>
     <string name="resource_select">Выбрать</string>
     <string name="resource_buy">Купить</string>
-    <string name="resource_importing">Импорт…</string>
+    <string name="resource_importing">Импортирование…</string>
     <string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
-    <string name="online_no_network">Невозможно подключиться к сети</string>
+    <string name="online_no_network">Не удается подключиться к сети</string>
     <string name="online_search_hint">Введите ключевые слова</string>
     <string name="loading">Загрузка…</string>
     <string name="download_failed">Ошибка загрузка</string>
-    <string name="download_preview_failed">Не удалось загрузить изображение</string>
+    <string name="download_preview_failed">Не удалось загрузить эскиз</string>
     <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурс</string>
-    <string name="resource_detail">Подробно</string>
-    <string name="resource_detail_window_title">%1$s инфо</string>
+    <string name="resource_detail">Информация</string>
+    <string name="resource_detail_window_title">%1$s: информация</string>
     <string name="resource_detail_update_log_title">Обновления</string>
     <string name="resource_detail_comment_title">Отзывы</string>
     <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора \"%1$s\"</string>
     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
     <string name="resource_detail_jump_to_online_title">Онлайн</string>
     <string name="resource_detail_jump_to_same_author_title">От автора</string>
-    <string name="resource_detail_recommend_desiner_themes">Темы от %1$s</string>
+    <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
     <string name="resource_share_title">Отправить</string>
     <string name="resource_share_subject">Отправить тему: %1$s</string>
-    <string name="resource_share_text">Я отправил вам тему: %1$s! Скачать можно по ссылке: %2$s</string>
+    <string name="resource_share_text">Я отправил вам тему \"%1$s\". Скачать: %2$s</string>
     <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
     <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
     <string name="resource_system_title">Системные</string>
     <string name="resource_downloaded_title">Скачанные</string>
-    <string name="resource_see_more">Подробнее</string>
+    <string name="resource_see_more">Еще</string>
     <string name="resource_no_result">Нет результатов</string>
     <string name="resource_unable_to_access">Содержимое, которое вы ищите, недоступно в вашей стране.</string>
-    <string name="resource_list_title">Последние</string>
+    <string name="resource_list_title">Последние выбранные</string>
     <string name="resource_get_auth_checking">Проверка…</string>
     <string name="resource_get_auth_retrieving">Получение авторизации…</string>
-    <string name="resource_get_auth_missing">Тема скачана с неофициального маркета. Пожалуйста, скачайте аналогичную тему из официального маркета.</string>
+    <string name="resource_get_auth_missing">Темы загруженные из сторонних источников не поддерживаются</string>
     <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Тема не может работать на текущем устройстве с вашего аккаунта, т.к. ограничение составляет до 10 мобильных устройств каждый год. Пожалуйста, попробуйте другие аккаунты Xiaomi.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте.</string>
     <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
-    <string name="resource_server_alert_dialog_title">Удалено</string>
+    <string name="resource_server_alert_dialog_title">Мы скоро вернемся…</string>
     <string name="resource_purchase_getting_order">Получение информации заказа…</string>
     <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
     <string name="resource_purchase_verifying_payment">Проверка платежа…</string>
-    <string name="resource_download_trial">Демо</string>
+    <string name="resource_download_trial">Пробная версия</string>
     <string name="resource_apply_trial">Применить</string>
     <string name="resource_on_trial">Применение пробной версии: %1$s</string>
     <string name="resource_trial_time">(пробное время: %1$d мин.)</string>
@@ -96,7 +97,7 @@
     <string name="resource_trial_fail_message">Убедитесь, что в вашем телефоне установлено правильное время.</string>
     <string name="resource_trial_fail_cancel">ОК</string>
     <string name="resource_trial_fail_go_settings">Настройки</string>
-    <string name="resource_trial_end_title">Пробное время вышло</string>
+    <string name="resource_trial_end_title">Пробный период окончен</string>
     <string name="resource_trial_end_message">Пробный период %1$s окончен. Если вам понравилось, вы можете приобрести полную версию.</string>
     <string name="resource_trial_end_restore">Отмена</string>
     <string name="resource_trial_end_purchase">Приобрести</string>
@@ -104,14 +105,14 @@
     <string name="resource_title_select_ringtone">Выберите мелодию</string>
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
-    <string name="loading_resource_detail_fail">Ошибка загрузки</string>
+    <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
     <string name="resource_expand_full_text">Развернуть</string>
     <string name="resource_account_login">Вход</string>
     <string name="resource_account_switch">Переключить</string>
     <string name="resource_account_login_title">Вход</string>
-    <string name="resource_account_fail_to_add">Ошибка добавления аккаунта</string>
-    <string name="resource_account_abnormal_state">Ошибка аккаунта. Пожалуйста, попробуйте позже.</string>
-    <string name="resource_account_login_before_action">Сначала необходимо авторизироваться в Mi аккаунте</string>
+    <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
+    <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>
+    <string name="resource_account_login_before_action">Войдите в ваш Mi аккаунт</string>
     <string name="resource_send">Отправить</string>
     <string name="resource_save_to_note">Сохранить в заметки</string>
     <string name="resource_present">Подарить</string>
@@ -121,7 +122,7 @@
     <string name="resource_exchange_window_title">Выкупить</string>
     <string name="resource_exchange_universal_goon">Этот код может использоваться для загрузки любой темы в маркете.</string>
     <string name="resource_exchange_universal_finish">Используйте этот код для загрузки темы из маркета.</string>
-    <string name="resource_exchange_empty_format">Введите подарочный код!</string>
+    <string name="resource_exchange_empty_format">Введите подарочный код</string>
     <string name="resource_exchange_wrong_format_by_local">Неверный формат кода</string>
     <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что вы ввели его корректно.</string>
     <string name="resource_exchange_has_used">Введенный код уже используется</string>
@@ -138,7 +139,7 @@
     <string name="resource_comment_bad_comments">Плохие</string>
     <string name="resource_comment_average_score">Оценка</string>
     <string name="resource_comment_score_count">Оценок: %1$s</string>
-    <string name="resource_comment_no_average_score">Н/Д</string>
+    <string name="resource_comment_no_average_score">-/-</string>
     <string name="resource_comment_5_star">5</string>
     <string name="resource_comment_4_star">4</string>
     <string name="resource_comment_3_star">3</string>
@@ -147,19 +148,19 @@
     <string name="resource_comment_footer">Пустые отзывы не отображаются</string>
     <string name="resource_comment_no_comment">Нет отзывов</string>
     <string name="resource_comment_current_version">Текущая версия</string>
-    <string name="resource_comment_upload_hint">Ваш отзыв будет отображаться после проверки модераторов.</string>
+    <string name="resource_comment_upload_hint">Отзыв будет опубликован после проверки</string>
     <string name="resource_comment_sending">Отправка отзыва…</string>
-    <string name="resource_comment_upload_failed">Ошибка отправки отзыва</string>
-    <string name="resource_comment_upload_success">Отзыв отправлен! Ваш отзыв будет отображаться после проверки модераторов.</string>
-    <string name="resource_comment_upload_data_invalid">Неверный отзыв</string>
-    <string name="resource_comment_upload_not_logined">Сначала необходимо авторизироваться</string>
+    <string name="resource_comment_upload_failed">Не удалось отправить отзыв</string>
+    <string name="resource_comment_upload_success">Отзыв отправлен</string>
+    <string name="resource_comment_upload_data_invalid">Некорректный отзыв</string>
+    <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
     <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, необходимо применить тему.</string>
     <string name="resource_comment_invalid">Нажмите на звезды, чтобы оценить.</string>
     <string name="resource_comment_expand_full_text">Развернуть▼</string>
     <string name="resource_comment_title">Отзывов: %1$s</string>
-    <string name="resource_comment_edit_title">Изменить отзыв: %1$s</string>
+    <string name="resource_comment_edit_title">Отзыв к теме: %1$s</string>
     <string name="resource_comment_edit_comment">Добавить отзыв</string>
-    <string name="resource_comment_edit_comment_waiting">Загрузка истории…</string>
+    <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
     <string name="resource_comment_edit_text_default">Оставить отзыв</string>
     <string name="resource_comment_publish">" Отправить "</string>
     <string name="resource_comment_name_default">Пользователь %1$s</string>
@@ -306,60 +307,61 @@
     <string name="simContacts_title">Контакты на SIM карте</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
-    <string name="noContactsHelpText">"Нет контактов для показа.
+    <string name="noContactsHelpText">"У вас нет контактов для отображения.
 
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
-
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
+Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
  
-Новый контакт: добавление контакта.
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SIM или SD карты
+"</li></font></b></string>
+    <string name="noContactsHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)
+
+Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
  
-Импорт и экспорт: импорт контактов с SIM или SD карты.
-"</string>
-    <string name="noContactsHelpTextWithSync">"Нет контактов для показа. Если Вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Параметры отображения для выбора отображаемых контактов
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SIM или SD карты
+"</li></font></b></string>
+    <string name="noContactsNoSimHelpText">"У вас нет контактов для отображения.
 
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
-
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-
-Фильтр контактов: настройка параметров показа контактов.
-
-Новый контакт: добавление контакта.
+Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
  
-Импорт и экспорт: импорт контактов с SIM или SD карты.
-"</string>
-    <string name="noContactsNoSimHelpText">"Нет контактов для показа.
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SD карты
+"</li></font></b></string>
+    <string name="noContactsNoSimHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)
 
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
+Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
  
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
- 
-Новый контакт: добавление контакта.
- 
-Импорт и экспорт: импорт контактов с SD карты.
-"</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для показа. Если вы только что добавили аккаунт, синхронизация контактов может занять несколько минут.
-
-Чтобы добавить контакты, нажмите Меню и выберите один из вариантов.
-
-Аккаунты: добавление или настройка аккаунта с контактами, которые можно синхронизировать с телефоном.
-
-Фильтр контактов: настройка параметров показа контактов.
-
-Новый контакт: добавление контакта.
- 
-Импорт и экспорт: импорт контактов с SD карты.
-"</string>
+"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Параметры отображения для выбора отображаемых контактов
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SD карты
+"</li></font></b></string>
     <string name="noFavoritesHelpText">"У вас нет избранных контактов.
 
-Чтобы сделать контакт избранным,
+Чтобы добавить контакт в избранное:
 
-        нажмите вкладку Контакты;
- 
-нажмите контакт, который нужно сделать избранным;
- 
-нажмите звездочку возле имени контакта.
-"</string>
+
+"<li>нажмите вкладку <b>Контакты</b>"
+"</li>" 
+"<li>"нажмите контакт, который нужно сделать избранным;
+"</li>" 
+"<li>"нажмите звездочку возле имени контакта.
+"</li></string>
     <string name="dialer_useDtmfDialpad">Использовать тональную клавиатуру</string>
     <string name="dialer_returnToInCallScreen">Вернуться к вызову</string>
     <string name="dialer_addAnotherCall">Добавить вызов</string>
@@ -405,7 +407,7 @@
     <string name="import_one_vcard_string">Импорт vCard</string>
     <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
     <string name="import_all_vcard_string">Импорт всех VCard</string>
-    <string name="searching_vcard_message">Поиск данных vCard на SD карте…</string>
+    <string name="searching_vcard_message">Поиск данных vCard на накопителе…</string>
     <string name="scanning_sdcard_failed_title">Невозможно просканировать накопитель</string>
     <string name="scanning_sdcard_failed_message">Причина: \"%s\".</string>
     <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
@@ -437,7 +439,7 @@
     <string name="exporting_contact_failed_message">"Не удалось экспортировать данные.
 Причина: %s"</string>
     <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта</string>
-    <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD карте</string>
+    <string name="fail_reason_too_many_vcard">Слишком много файлов vCard на накопителе</string>
     <string name="fail_reason_too_long_filename">Слишком длинное название: %s</string>
     <string name="exporting_vcard_finished_title">Экспортирование завершено: %s</string>
     <string name="exporting_vcard_canceled_title">Экспортирование отменено: %s</string>
@@ -480,8 +482,8 @@
     <string name="groupsLabel">Группы</string>
     <string name="dialog_new_contact_account">Создать контакт в аккаунте</string>
     <string name="dialog_new_group_account">Создать группу в аккаунте</string>
-    <string name="menu_sync_remove">Удалить группу синхронизации</string>
-    <string name="dialog_sync_add">Добавить группу синхронизации</string>
+    <string name="menu_sync_remove">Отключить синхронизацию группы</string>
+    <string name="dialog_sync_add">Включить синхронизацию группы</string>
     <string name="display_more_groups">Другие группы…</string>
     <string name="display_ungrouped">Все остальные контакты</string>
     <string name="display_all_contacts">Все контакты</string>
@@ -710,7 +712,7 @@
 • Синхронизировать все контакты – Вы никогда не потеряете их"</string>
     <string name="generic_no_account_prompt">Держите свои контакты в безопасности, даже если Вы потеряете свой телефон: синхронизация с онлайн-сервисом</string>
     <string name="generic_no_account_prompt_title">Добавить аккаунт</string>
-    <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Интернете?</string>
+    <string name="contact_editor_prompt_zero_accounts">Резервная копия нового контакта не будет сохранена. Добавить аккаунт для сохранения контактов в Mi Cloud?</string>
     <string name="contact_editor_prompt_one_account">Контакт будет добавлен в аккаунт \"%1$s\"</string>
     <string name="contact_editor_prompt_multiple_accounts">Выберите аккаунт, в который следует добавить новый контакт</string>
     <string name="keep_local">Сохранить локально</string>
@@ -747,15 +749,15 @@
     <string name="sim_contact_existing">Контакт на SIM карте уже существует</string>
     <string name="sim_contact_invalid">Некорректный контакт SIM карты</string>
     <string name="pref_key_sim_manage">Контакты SIM карты</string>
-    <string name="pref_key_sim_manage1">Управление SIM картой 1</string>
+    <string name="pref_key_sim_manage1">Контакты SIM карты 1</string>
     <string name="pref_key_sim_manage2">Контакты SIM карты 2</string>
     <string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM карты</string>
     <string name="readingSimContacts">Чтение контактов с SIM карты…</string>
     <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
 Контактов: %d"</string>
-    <string name="importing_sim_contacts_miui">Импорт контактов с SIM карты…</string>
+    <string name="importing_sim_contacts_miui">Импортирование контактов с SIM карты…</string>
     <string name="import_sim_entries_finish">Импорт контактов с SIM карты завершен</string>
-    <string name="deleting_sim_entry_miui">Удаление контактов с SIM карты</string>
+    <string name="deleting_sim_entry_miui">Удаление контактов с SIM карты…</string>
     <string name="delete_sim_entries_finish">Контакты с SIM карты удалены</string>
     <string name="simContacts_empty">Нет контактов на SIM карте</string>
     <string name="sim_account_name">SIM</string>
@@ -783,12 +785,11 @@
     <string name="callrecordview_menu_delete_accepted">Очистить журнал входящих вызовов</string>
     <string name="callrecordview_menu_delete_stranger">Открыть непринятые вызовы</string>
     <string name="callrecordview_menu_delete_new">Удалить журнал вызовов новых контактов</string>
-    <string name="callrecordview_menu_delete_sim">Очистить журнал вызовов: %s</string>
-    <string name="callrecordview_menu_delete_confirm">Очистить журнал вызовов?</string>
-    <string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
+    <string name="callrecordview_menu_delete_sim">Очистить вызовы (%s)</string>
+    <string name="callrecordview_menu_delete_one">Удалить вызов</string>
     <string name="callrecordview_menu_add_call_note">Добавить заметку</string>
     <string name="callrecordview_menu_edit_call_note">Редактировать заметку</string>
-    <string name="delete_call_log_title">Выбрать журналы для удаления?</string>
+    <string name="delete_call_log_title">Удалить выбранный вызов?</string>
     <string name="menu_dialpad_text">Клавиатура</string>
     <string name="dialer_empty_text_no_search_result">Контакты не найдены</string>
     <string name="dialer_empty_text_loading">Загрузка…</string>
@@ -797,12 +798,12 @@
     <string name="callrecordview_menu_show">Отображение вызовов</string>
     <string name="callrecordview_menu_paste">Вставить</string>
     <string name="openDialKeyboard">Клавиатура</string>
-    <string name="t9_search_guide_pinyin">Введите номер телефона или найдите контакт с помощью T9</string>
-    <string name="t9_search_guide_zhuyin">Введите номер телефона или найдите контакт с помощью T9</string>
+    <string name="t9_search_guide_pinyin">Введите \"2\" и \"5\" для поиска \"Владимир Путин\"</string>
+    <string name="t9_search_guide_zhuyin">Введите \"2\" и \"5\" для поиска \"Владимир Путин\"</string>
     <string name="date_time_set">Настроить</string>
     <string name="service_provider">Сервисные контакты</string>
     <string name="zero_items_selected">Выберите контакты</string>
-    <string name="select_none">Выберите хотя бы один контакт</string>
+    <string name="select_none">Необходимо выбрать контакты</string>
     <string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>
     <string name="toast_finish_delete_selected_call_log">Удаление завершено</string>
     <string name="confirm_delete_contact_all_call_logs">Удалить все вызовы контакта?</string>
@@ -812,8 +813,8 @@
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
     <string name="menu_call_ip_number">Вызов через IP (вызов %s)</string>
     <string name="menu_dial_ip_number">Совершить IP-вызов</string>
-    <string name="delete_contact_calllog_title">Записи удалены</string>
-    <string name="delete_unknown_contact_calllog_title">Запись журнала вызововов неизвестного контакта будет удалена</string>
+    <string name="delete_contact_calllog_title">Удалить журнал вызовов?</string>
+    <string name="delete_unknown_contact_calllog_title">Удаление вызовов</string>
     <string name="callrecordview_menu_batch_delete">Пакетное удаление</string>
     <string name="delete_call_log_selected_title">Удалить выбранные вызовы?</string>
     <string name="edit_contact_card_title">Изменить контакт</string>
@@ -826,7 +827,7 @@
     <string name="remove_blacklist">Удалить из черного списка</string>
     <string name="empty_divider_title">Вы можете</string>
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в Mi аккаунте и MiTalk</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в Mi аккаунте</string>
     <string name="recent_contacts_label">Недавние</string>
     <string name="noRecentContacts">Нет контактов</string>
     <string name="loading_groups">Загрузка групп…</string>
@@ -855,8 +856,8 @@
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Импорт и экспорт</string>
     <string name="preference_import_export_title">Импорт и экспорт</string>
-    <string name="import_vcard_description">Импорт контактов из накопителя</string>
-    <string name="export_vcard_description">Экспорт vCard на накопитель</string>
+    <string name="import_vcard_description">Импорт контактов из памяти телефона</string>
+    <string name="export_vcard_description">Экспорт vCard в память телефона</string>
     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="export_sim_contact_finish_failure">"Недостаточно места. 
 
@@ -875,15 +876,15 @@
     <string name="pref_key_rebuild_t9_index_title">Обновить индекс Т9</string>
     <string name="pref_key_rebuild_t9_index_message">Обновление индексации контактов для поиска с помощью T9</string>
     <string name="pref_key_photo">Фото</string>
-    <string name="pref_key_photo_word_title">Изображение контакта</string>
-    <string name="pref_key_photo_word_summary">Автоматический выбор изображений для контактов без фото</string>
+    <string name="pref_key_photo_word_title">Иконка контакта без фото</string>
+    <string name="pref_key_photo_word_summary">Создание иконки для контактов без фото</string>
     <string name="remove_duplicate">"Система поможет найти дубликаты контактов и объединить их.
 
 Нажмите кнопку \"Объединить\", чтобы продолжить."</string>
     <string name="ic_menu_back">Назад</string>
     <string name="preference_display">Отображение</string>
     <string name="preference_simple_mode_title">Простой режим</string>
-    <string name="preference_simple_mode_description">Не отображать фото, продолжительность разговора и другие данные в журнале вызовов и списке контактов.</string>
+    <string name="preference_simple_mode_description">Скрыть фото и другие данные контактов</string>
     <string name="preference_contacts">Контакты</string>
     <string name="preference_contacts_display">Отображение</string>
     <string name="preference_contacts_more">Дополнительно</string>
@@ -891,19 +892,19 @@
     <string name="preference_telocation_title">Местоположение</string>
     <string name="preference_telocation_summary_teloc_on">Показывать местоположение</string>
     <string name="preference_telocation_summary_teloc_off">Скрывать местоположение</string>
-    <string name="preference_telocation_summary_countrycode_on">автоматически добавлять код страны.</string>
-    <string name="preference_telocation_summary_countrycode_off">не добавлять автоматически код страны.</string>
+    <string name="preference_telocation_summary_countrycode_on">Добавлять код страны автоматически</string>
+    <string name="preference_telocation_summary_countrycode_off">Не добавлять код страны автоматически</string>
     <string name="preference_phone">Телефон</string>
-    <string name="preference_dial_pad_touch_tone_title">Номеронабиратель</string>
+    <string name="preference_dial_pad_touch_tone_title">Звук при наборе номера</string>
     <string name="preference_auto_ip_title">Автонабор IP</string>
     <string name="preference_auto_ip_summary_disable">Не включено</string>
-    <string name="preference_auto_ip_summary_on">Префикс оператора: %s</string>
+    <string name="preference_auto_ip_summary_on">IP префикс оператора: %s</string>
     <string name="preference_phone_more_title">Вызовы</string>
     <string name="preference_dial_pad_touch_tone_switch">Звук при наборе номера</string>
     <string name="preference_tone_title">Выбрать звук</string>
     <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
-    <string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
-    <string name="preference_dial_pad_touch_tone_human">Голос человека</string>
+    <string name="preference_dial_pad_touch_tone_piano">Пианино</string>
+    <string name="preference_dial_pad_touch_tone_human">Голос</string>
     <string name="ic_menu_done">Готово</string>
     <string name="cloud_antispam_title">Определение номеров</string>
     <string name="share_over_limit">Не удается отправить. Лимит превышен.</string>
@@ -938,15 +939,15 @@
     <string name="send_contact_shortcut_todesktop_success">Ярлык на рабочем столе создан</string>
     <string name="date_picker_label">Напомнить за 3 дня и в день рождения</string>
     <string name="today">Сегодня</string>
-    <string name="next_birthday">Следующий День рождения: %s</string>
+    <string name="next_birthday">Следующий день рождения: %s</string>
     <string name="ringLabelsGroup">Мелодия</string>
     <string name="default_ringtone">Мелодия по умолчанию</string>
-    <string name="recent_number">Недавний</string>
+    <string name="recent_number">Последний</string>
     <string name="cloud_antispam_mark">Отметить</string>
-    <string name="antispam_mark_my_contribution">Метка</string>
+    <string name="antispam_mark_my_contribution">Показывать другим пользователям, что я отметил этот номер.</string>
     <string name="antispam_provider_format">Поддержка: %s</string>
     <string name="type_mx_msg">Облачные сообщения</string>
-    <string name="qr_card_card">Мой QR код</string>
+    <string name="qr_card_card">QR код</string>
     <string name="menu_new_favorite_action_bar">Добавить в избранные</string>
     <string name="click_close">Нажмите, чтобы закрыть</string>
     <string name="phone_primary">Основной</string>
@@ -958,15 +959,15 @@
     <string name="menu_bar_group_delete">Удалить</string>
     <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
     <string name="group_rename_dialog_title">Переименование группы</string>
-    <string name="group_sms_progress_msg">Подготовка к групповой отправке SMS…</string>
-    <string name="group_create_success_toast">Группа успешно создана</string>
-    <string name="group_rename_success_toast">Группа успешно переименована</string>
-    <string name="group_delete_success_toast">Группа успешно удалена</string>
+    <string name="group_sms_progress_msg">Создание группы…</string>
+    <string name="group_create_success_toast">Группа создана</string>
+    <string name="group_rename_success_toast">Группа переименована</string>
+    <string name="group_delete_success_toast">Группа удалена</string>
     <string name="group_create_fail_toast">Не удалось создать группу</string>
     <string name="group_rename_fail_toast">Не удалось переименовать группу</string>
     <string name="contact_unfavorite_toast">Контакт удален из избранных</string>
-    <string name="group_member_remove_toast">Контакт успешно удален из группы</string>
-    <string name="contact_delete_toast">Контакт успешно удален</string>
+    <string name="group_member_remove_toast">Контакт удален из группы</string>
+    <string name="contact_delete_toast">Контакт удален</string>
     <string name="duplicate_group_name">Группа уже существует</string>
     <string name="all_list_empty">Нет контактов</string>
     <string name="favorites_list_empty">Нет избранных</string>
@@ -974,23 +975,23 @@
     <string name="single_group_list_empty">Нет контактов в группе</string>
     <string name="picker_recent_list_empty">Нет недавних контактов</string>
     <string name="picker_all_list_empty">Нет контактов</string>
-    <string name="picker_favorites_list_empty">Нет избранных контактов</string>
+    <string name="picker_favorites_list_empty">Нет избранных</string>
     <string name="picker_groups_list_empty">Нет групп</string>
-    <string name="contact_edit_title_insert">Создать контакт %s</string>
+    <string name="contact_edit_title_insert">Добавить в %s</string>
     <string name="contact_edit_title_edit">Редактирование</string>
-    <string name="contact_edit_title_readonly">Только на чтение контакта</string>
+    <string name="contact_edit_title_readonly">Контакт только для чтения</string>
     <string name="account_container_title">Из аккаунта</string>
     <string name="save_photo_progress">Сохранение фотографии…</string>
-    <string name="move_and_resize">Изменение размера и положения</string>
-    <string name="btn_rotation">Повернуть</string>
+    <string name="move_and_resize">Размер и положение</string>
+    <string name="btn_rotation">Поворот</string>
     <string name="contact_pick_photo">Фото</string>
-    <string name="select_photo_from_photo_package">Выбрать из фото-пакета</string>
-    <string name="select_new_photo_from_photo_package">Выбрать из фото-пакета</string>
-    <string name="photo_package_activity_title">Фото-пакет</string>
-    <string name="btn_delete_one_contact">Удалить контакт</string>
-    <string name="btn_delete_multi_contacts">Удалить контакты: %d</string>
+    <string name="select_photo_from_photo_package">Выбрать фото из пакета</string>
+    <string name="select_new_photo_from_photo_package">Выбрать новое фото из пакета</string>
+    <string name="photo_package_activity_title">Фото из пакета</string>
+    <string name="btn_delete_one_contact">Удалить</string>
+    <string name="btn_delete_multi_contacts">Удалить контакты (%d)</string>
     <string name="btn_split_contact">Разделить контакт</string>
-    <string name="use_photo_as_primary2">Установить как фото: %s</string>
+    <string name="use_photo_as_primary2">Использовать фото контакта %1$s</string>
     <string name="label_custom_type">Пользовательский</string>
     <string name="pkgLabel">Контакты и телефон</string>
     <string name="preference_smart_group_title">Умная группировка</string>
@@ -1005,8 +1006,8 @@
     <string name="smart_group_company_label">По компаниям</string>
     <string name="smart_group_location_label">По местоположению</string>
     <string name="smart_group_frequency_label">По последним вызовам</string>
-    <string name="smart_group_company_unavailable">Другие</string>
-    <string name="smart_group_location_unavailable">Другие</string>
+    <string name="smart_group_company_unavailable">Нет компании</string>
+    <string name="smart_group_location_unavailable">Нет адреса</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
     <string name="smart_group_frequency_2">В течение 3 месяцев</string>
     <string name="smart_group_frequency_3">В течение 6 месяцев</string>
@@ -1015,63 +1016,60 @@
     <string name="contact_detail_calllog_call_note_tips">Заметка вызова</string>
     <string name="import_from_other_phone">Импорт из другого телефона</string>
     <string name="device_brand_title">Выберите марку телефона</string>
-    <string name="device_version_title">Выберите версию мобильного телефона</string>
-    <string name="device_list_title">Выберите телефон для сопряжения</string>
+    <string name="device_version_title">Выберите модель телефона</string>
+    <string name="device_list_title">Выберите телефон</string>
     <string name="next">Далее</string>
     <string name="previous">Назад</string>
-    <string name="scan">сканировать устройство</string>
+    <string name="scan">Поиск устройств</string>
     <string name="device_bluetooth_title">Передача контактов</string>
     <string name="device_version_header_no_bluetooth">Импорт контактов с SIM карты</string>
     <string name="device_version_header_bluetooth">Импортирование контактов через Bluetooth</string>
-    <string name="scanning">поиск устройств…</string>
-    <string name="select_device">выберите устройство для подключения</string>
     <string name="none_paired">Нет сопряженных устройств</string>
-    <string name="none_found">Устройства не найдены</string>
     <string name="device_pairing_dialog_title">Сопряжение устройства</string>
-    <string name="device_pairing_dialog_message">Возможно Вам придется подтвердить сопряжение на другом телефоне</string>
-    <string name="device_paired_dialog_title">Устройства сопряжены, доставка контактов</string>
-    <string name="device_paired_dialog_message">Возможно, Вам придется подтвердить на другом телефоне</string>
-    <string name="no_contacts_dialog_title">Контакт не найден</string>
-    <string name="no_contacts_dialog_message">Человек не найден в ваших контактах. Возможно он находится в списке контактов на SIM карте. Для поиска , сделайте импорт всех контактов с SIM карты.</string>
-    <string name="cancel_import_dialog_title">Остановить импорт</string>
+    <string name="device_pairing_dialog_message">Сопряжение…</string>
+    <string name="device_paired_dialog_title">Устройства сопряжены</string>
+    <string name="device_paired_dialog_message">Получение контактов…</string>
+    <string name="no_contacts_dialog_title">Контакты не найдены</string>
+    <string name="no_contacts_dialog_message">Не найдено соответствий в ваших контактах. Возможно контакты находятся на SIM карте. Для поиска импортируйте их в телефон.</string>
+    <string name="cancel_import_dialog_title">Остановить</string>
     <string name="cancel_import_dialog_message">Остановить импорт контактов?</string>
-    <string name="title_paired_devices">Сопряжение устройств</string>
+    <string name="title_paired_devices">Сопряженные устройства</string>
     <string name="title_other_devices">Другие доступные устройства</string>
     <string name="button_scan">Cканировать</string>
     <string name="button_cancel_scan">Остановить</string>
     <string name="device_other_title">Другой телефон</string>
-    <string name="device_other_guide">Если вашей марки телефона нет в списке, попробуйте воспользоваться этой инструкцией.</string>
-    <string name="my_phone_provider_bluetooth">Телефон с поддержкой Bluetooth</string>
-    <string name="my_phone_not_provider_bluetooth">Телефон без поддержки Bluetooth</string>
+    <string name="device_other_guide">Если вашего телефона нет в списке, воспользуйтесь инструкцией ниже.</string>
+    <string name="my_phone_provider_bluetooth">Мой телефон поддерживает Bluetooth</string>
+    <string name="my_phone_not_provider_bluetooth">Мой телефон не поддерживает Bluetooth</string>
     <string name="other_phone">Другие телефоны</string>
-    <string name="device_import_title">Импортирование…</string>
-    <string name="device_import_progress_begin_message">Подготовка к импорту…</string>
+    <string name="device_import_title">Импорт</string>
+    <string name="device_import_progress_begin_message">Импортирование…</string>
     <string name="device_import_progress_end_message">Импорт завершен</string>
     <string name="device_import_progress_message">Импортирование…</string>
-    <string name="device_import_failed_message">Ошибка импорта!</string>
+    <string name="device_import_failed_message">Ошибка импорта</string>
     <string name="hint_distance">Держать дистанцию</string>
-    <string name="hint_more_contact">Использовать объединение контактов</string>
+    <string name="hint_more_contact">Объединить дубликаты контактов</string>
     <string name="device_import_account_dialog_title">Выберите аккаунт для импорта</string>
     <string name="device_import_account_dialog_title_suffix">"
 (найдено контактов: %1$s)"</string>
     <string name="device_import_local_account">Локальный аккаунт</string>
-    <string name="import_name">имя</string>
+    <string name="import_name">Имя</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">Проверить другой телефон</string>
-    <string name="prepare_import">подготовка импорта</string>
-    <string name="device_import_message">Импорт</string>
+    <string name="prepare_import">Импорт контактов</string>
+    <string name="device_import_message">Импортирование</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
     <string name="device_import_progress_toast">Импортировано контактов: %1$d</string>
     <string name="no_contact_in_other_phone">Нет контактов</string>
-    <string name="import_weibo_dialog_title">Импорт контактов sina weibo</string>
-    <string name="import_weibo_fetch_followers">Получение пользователей weibo…</string>
+    <string name="import_weibo_dialog_title">Импорт контактов Sina Weibo</string>
+    <string name="import_weibo_fetch_followers">Получение контактов Sina Weibo…</string>
     <string name="import_weibo_progress_name">Совпадение \"%1$s\"…</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
-    <string name="import_weibo_notification_title_done">Обновлено контактов sina weibo: %s</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Нет телефонов в Mi аккаунте</string>
+    <string name="import_weibo_notification_title_done">Обновлено контактов: %s</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Нет контактов в Mi аккаунте</string>
     <string name="import_weibo_error_no_matched_contacts">Нет совпадающих контактах</string>
-    <string name="import_weibo_error_no_network">Ошибка сети</string>
+    <string name="import_weibo_error_no_network">Ошибка подключения к сети</string>
     <string name="import_weibo_error_user_cancel">Отменено пользователем</string>
     <string name="import_weibo_error_unknown">Неизвестная ошибка</string>
     <string name="add_xiaomi_account_dialog_title">Выберите аккаунт</string>
@@ -1083,7 +1081,7 @@
 
 Контактов: %d 
 
-Если вы используете облачное хранилище, то данные контактов будут также удалены с сервера."</string>
+Данные, которые хранятся в Mi Cloud так же будут удалены."</string>
     <string name="starred_contacts">Избранные</string>
     <string name="other_contacts">Другие</string>
     <string name="set_photo_failed_msg">Ошибка установки фото</string>
@@ -1108,8 +1106,8 @@
     <string name="delete_dial_input">Удалить</string>
     <string name="clear_digits">Очистить номер телефона</string>
     <string name="call_record_setting_miui">Запись вызовов</string>
-    <string name="accessibility_calllog_detail">Инфо вызовов</string>
-    <string name="select_groups">Выбрать группу</string>
+    <string name="accessibility_calllog_detail">Журнал вызовов</string>
+    <string name="select_groups">Выбрать группы</string>
     <string name="sim_capacity_content" formatted="false">Всего: %d | Использовано: %d</string>
     <string name="sim_error_generic_failure">Ошибка</string>
     <string name="sim_error_storage_full">SIM карта заполнена</string>
@@ -1134,13 +1132,14 @@
     <string name="yellowpage_navigation_search_result_average_price">В среднем %d Ұ</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
-    <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка загрузки. Проверьте параметры сети.</string>
+    <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка подключения к сети</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
     <string name="yellowpage_navigation_network_location_enable">Включить</string>
     <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
     <string name="yellowpage_user_profile">Профиль</string>
     <string name="yellowpage_navigation_more_items">Еще</string>
+    <string name="yellowpage_navigation_more_items_title">Другие сервисы</string>
     <string name="imei_invalid">Неверный IMEI</string>
     <string name="meid_invalid">Неверный MEID</string>
     <string name="firewall_setting">Черный список</string>
@@ -1152,6 +1151,9 @@
     <string name="scan_qrcode_card_hint1">Сканируйте QR код,</string>
     <string name="scan_qrcode_card_hint2">чтобы добавить в список контактов.</string>
     <string name="create_qrcode_fail_message">Ошибка создания QR кода</string>
+    <string name="none_found">Устройства не найдены</string>
+    <string name="scanning">Поиск устройств…</string>
+    <string name="select_device">Выберите устройство</string>
     <string name="resource_failed_to_load_list">Не удалось загрузить список</string>
     <string name="resource_search_list_empty">Ничего не найдено</string>
 </resources>

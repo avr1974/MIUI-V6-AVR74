@@ -18,7 +18,7 @@
     <string name="menu_login">Вход</string>
     <string name="menu_account">Аккаунт</string>
     <string name="menu_install_all">Установить все</string>
-    <string name="menu_download_manager">Менеджер загрузок</string>
+    <string name="menu_download_manager">Загрузки</string>
     <string name="menu_refresh">Обновить</string>
     <string name="menu_clear_search_history">Очистить историю поиска</string>
     <string name="menu_clear_update_history">Очистить историю обновлений</string>
@@ -171,8 +171,6 @@
     <string name="permissions_title">Разрешения для \"%1$s\"</string>
     <string name="permissions_expand_title">Другие разрешения</string>
     <string name="version_name">Версия: %1$s</string>
-    <string name="search_other_market">Поиск других приложений</string>
-    <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
     <string name="search_not_found">\"%1$s\" не найдено</string>
     <string name="show_all_local_app">Показать все</string>
     <string name="show_all_local_app_with_count">Все приложения (%1$d)</string>
@@ -198,11 +196,12 @@
     <string name="update_source">Обновлено: %1$s</string>
     <string name="connect_fail">Ошибка соединения, установка прервана.</string>
     <string name="connect_no_fit_fail">Ошибка установки. Приложение несовместимо.</string>
-    <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
+    <string name="connect_no_enough_space_title">Память заполнена</string>
+    <string name="connect_no_enough_space_message">Недостаточно места на устройстве</string>
     <string name="download_start_fail">Ошибка загрузки</string>
     <string name="download_fail">Ошибка загрузки</string>
     <string name="install_hash_fail">Ошибка установки</string>
-    <string name="install_parse_fail">Установка не удалась. Пожалуйста загрузите повторно.</string>
+    <string name="install_parse_fail">Ошибка установки. Повторите загрузку.</string>
     <string name="install_inconsistent_fail">Ошибка установки. Подписи несовместимы.</string>
     <string name="install_verification_fail">Установка не завершена. Не удался процессе проверки.</string>
     <string name="install_missing_shared_library">В системе отсутствуют необходимые компоненты</string>
@@ -262,7 +261,7 @@
     <string name="already_bottom">Вы достигли конца страницы</string>
     <string name="install_title">Установка приложения</string>
     <string name="install_no_network_description">Нет сетевого подключения, подключитесь и попробуйте еще раз</string>
-    <string name="install_on_data_description">Загрузка по 2G/3G может чрезмерно потреблять трафик, продолжить загрузку приложений %1$s и %2$s?</string>
+    <string name="install_on_data_description">Загрузка по мобильному интернету может чрезмерно потреблять трафик, продолжить загрузку приложений %1$s и %2$s?</string>
     <string name="install_all_title">Установить все</string>
     <string name="install_all_description">Установить приложения %1$s и %2$s сейчас?</string>
     <string name="install_btn_cancel">Отмена</string>
@@ -328,6 +327,11 @@
     <string name="no_download_history">Нет загруженных приложений</string>
     <string name="no_favorites">Нет избранного</string>
     <string name="download_history_login_hint">Войдите в Mi аккаунт для просмотра истории установленных приложений</string>
+    <string name="delete_download_history_failed">Не удалось удалить историю загрузки</string>
+    <string name="delete_download_history_success">История загрузки удалена</string>
+    <string name="delete_download_history_partition_failed">Не удалось удалить некоторые записи истории</string>
+    <string name="delete_download_history_confirm">Удалить выбранные записи? (%1$s)</string>
+    <string name="delete_selected_download_history">Удалить записи</string>
     <string name="expansion_main_download_name">%1$s пак.1</string>
     <string name="expansion_append_download_name">%1$s пак.2</string>
     <string name="expansion_game_download_name">%1$s пак</string>
@@ -351,4 +355,15 @@
     <string name="user_agreement_remind_never">Больше не показывать</string>
     <string name="user_agreement_remind_again">Показывать условия пользования</string>
     <string name="user_agreement_remind_summary">Показывать условия пользования при каждом запуске приложения</string>
+    <string name="look_more">Еще</string>
+    <string name="app_detail_result_tip">Информация о приложении из %1$s</string>
+    <string name="search_other_market">Поиск других приложений</string>
+    <string name="progress_downloading">Загрузка</string>
+    <string name="progress_paused">Пауза</string>
+    <string name="progress_installing">Установка</string>
+    <string name="progress_pending">Ожидание</string>
+    <string name="select_item">Выбрано: 0</string>
+    <string name="items_selected">Выбрано: %1$s</string>
+    <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
+    <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
 </resources>

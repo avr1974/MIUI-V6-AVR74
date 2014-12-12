@@ -44,12 +44,12 @@
     <string name="nowifi_alert_dialog_message">Продолжить воспроизведение видео?</string>
     <string name="nowifi_alert_dialog_continue">ОК</string>
     <string name="nowifi_alert_dialog_exit">Отмена</string>
-    <string name="menu_item_enable_audio_enhance">Вкл. улучшение звука</string>
-    <string name="menu_item_disable_audio_enhance">Выкл. улучшение звука</string>
+    <string name="menu_item_enable_audio_enhance">Вкл. 3D звук</string>
+    <string name="menu_item_disable_audio_enhance">Выкл. 3D звук</string>
     <string name="vp_next_ci">Следующий эпизод</string>
-    <string name="vp_standard_definition">SD</string>
+    <string name="vp_standard_definition">Стандартное</string>
     <string name="vp_high_definition">HD</string>
-    <string name="vp_super_definition">FullHD</string>
+    <string name="vp_super_definition">Отличное</string>
     <string name="vp_full_high_definition">1080P</string>
     <string name="vp_content_description">Описание</string>
     <string name="vp_get_url_error">Не удается найти URL этого видео</string>
@@ -57,10 +57,10 @@
     <string name="vp_back">Назад</string>
     <string name="vp_newest_ep">Новые</string>
     <string name="vp_loading_video">Загрузка…</string>
-    <string name="vp_select_source">Выбор ресурса</string>
+    <string name="vp_select_source">Выбор источника</string>
     <string name="vp_select_ci">Антология</string>
     <string name="vp_offline">Автономный режим</string>
-    <string name="vp_milink">MiLink</string>
+    <string name="vp_milink">Mi Link</string>
     <string name="vp_function">Настройки</string>
     <string name="vp_select_video_source">Выбор ресурса</string>
     <string name="vp_select_ep">Выберите эпизод</string>
@@ -77,13 +77,13 @@
     <string name="vp_using_16_9">16:9</string>
     <string name="vp_using_4_3">4:3</string>
     <string name="vp_loading_download"><CDATA>загрузка </CDATA></string>
-    <string name="vp_install_title">Установка</string>
-    <string name="vp_install">Установить</string>
+    <string name="vp_install_title">Установка HD</string>
+    <string name="vp_install">Установить HD компоненты?</string>
     <string name="vp_confirm">ОК</string>
     <string name="vp_retry">Повтор</string>
     <string name="vp_cancel">Отмена</string>
     <string name="vp_download_file_fail">Ошибка загрузки. Убедитесь, что на устройстве достаточно свободной памяти.</string>
-    <string name="vp_download_connect_fail">Не удается найти URL. Проверьте параметры сети и повторите попытку.</string>
+    <string name="vp_download_connect_fail">Проверьте параметры сети и повторите попытку</string>
     <string name="vp_loading">Загрузка…</string>
     <string name="vp_client_message">Установить \"%1$s\"?</string>
     <string name="vp_plugin_message">Установить плагин для улучшения звука?</string>
@@ -115,6 +115,7 @@
     <string name="declaration">Условия пользования</string>
     <string name="no_longer_tips">Запомнить</string>
     <string name="more">Еще</string>
+    <string name="partner_specials">Партнер</string>
     <string name="local_video">Локальные</string>
     <string name="my_favorite">Избранные</string>
     <string name="my_offline">Загруженные</string>
@@ -193,7 +194,7 @@
     <string name="positive_comment">Положительные</string>
     <string name="negative_comment">Отрицательный</string>
     <string name="comment_review_list_empty_hint">Нет отзывов</string>
-    <string name="xiaomi_user">Mi аккаунт</string>
+    <string name="xiaomi_user">Пользователь</string>
     <string name="star5">5</string>
     <string name="star4">4</string>
     <string name="star3">3</string>
@@ -232,6 +233,8 @@
     <string name="select_count_xiang">Выбрано: %d</string>
     <string name="setting">Настройки</string>
     <string name="offline_setting">Автономный режим</string>
+    <string name="use_cellular_offlinedownload_title">Мобильный интернет</string>
+    <string name="use_cellular_offlinedownload_summary">Разрешить загрузку видео по мобильному интернету</string>
     <string name="use_cellular_play_title">Уведомление о трафике</string>
     <string name="use_cellular_play_summary">Показывать уведомление при загрузке видео через мобильный интернет</string>
     <string name="use_cellular_network">Мобильный интернет</string>
@@ -262,6 +265,15 @@
     <string name="forecasts">Погода</string>
     <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
     <string name="vp_support_by">Поддержка: %1$s</string>
+    <string name="update_button">Обновить</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="update_title">Доступно обновление</string>
+    <string name="update_version_prefix"><CDATA>Обновление до версии:</CDATA></string>
+    <string name="update_size_prefix"><CDATA>Размер:</CDATA></string>
+    <string name="update_apk_statusbar">Загрузка…</string>
+    <string name="select_media_source">Выберите источник</string>
+    <string name="hint_can_not_get_source_info">Не удалось получить информацию о видео</string>
+    <string name="hint_without_selected_set">Автоматический поиск источника контента</string>
     <string name="app_name">Видео</string>
     <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает Mi аккаунт</string>
     <string name="no_login_xiaomi_account">Необходимо войти в Mi аккаунт</string>
@@ -291,9 +303,9 @@
     <string name="addon_install_complete_disc">Загружено в %s</string>
     <string name="addon_update_desc">Доступна новая версия. Обновить?</string>
     <string name="upgrade">Обновить</string>
-    <string name="sdcard_storage">SD карта</string>
+    <string name="sdcard_storage">Внутренняя память</string>
     <string name="disk_volume">Внешняя память</string>
-    <string name="gong_count_dlna">Файлов: %d</string>
+    <string name="gong_count_dlna">DLNA: %d</string>
     <string name="gong_count_xiang">Файлов: %d</string>
     <string name="count_ge">Файлов: %d</string>
     <string name="video">" "</string>
@@ -324,8 +336,6 @@
     <string name="clarity_standard">Стандартное</string>
     <string name="vp_unknown_source">Неизвестный источник</string>
     <string name="airkan_video_playing">Воспроизведение…</string>
-    <string name="use_cellular_offlinedownload_title">Мобильный интернет</string>
-    <string name="use_cellular_offlinedownload_summary">Разрешить загрузку видео по мобильному интернету</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">Xiaomi Inc.</string>
     <string name="menu_item_about_label">Информация</string>
@@ -334,6 +344,6 @@
     <string name="menu_item_orientation_auto_sensor_action">Включить автоповорот</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
     <string name="menu_item_sub_title">Субтитры</string>
-    <string name="toast_message_set_misound">MiSound</string>
+    <string name="toast_message_set_misound">Настройте Mi Sound</string>
     <string name="vp_error_get_play_url_back_to_continue">Не удается найти URL этого видео</string>
 </resources>

@@ -12,7 +12,7 @@
     <string name="backup_failed">Ошибка создания бэкапа</string>
     <string name="backup_recently">(последний)</string>
     <string name="sdcard_unmounted">SD карта не найдена</string>
-    <string name="backup_progress">Выполняется резервное копирование…</string>
+    <string name="backup_progress">Создание бэкапа…</string>
     <string name="button_ok">OК</string>
     <string name="button_continue">Продолжить</string>
     <string name="backup_finished">Создание бэкапа завершено</string>
@@ -24,14 +24,14 @@
     <string name="delete_backup_process">Удаление…</string>
     <string name="backup_error">Ошибка бэкапа</string>
     <string name="delete_failed_backup_confirm">Бэкап имеет ошибки и не может использоваться для восстановления</string>
-    <string name="batch_delete_backup_confirm">"Удалить резервные копии? 
+    <string name="batch_delete_backup_confirm">"Удалить выбранные бэкапы? 
 
-Копий: %d"</string>
+Бэкапов: %d"</string>
     <string name="start_restore">Восстановить</string>
-    <string name="backup_file_error">Резерная копия повреждена. Пперация не можеть быть завершена.</string>
+    <string name="backup_file_error">Бэкап поврежден</string>
     <string name="unit_byte">б</string>
     <string name="unit_piece">" "</string>
-    <string name="restore_finished">Восстановление завершено</string>
+    <string name="restore_finished">"Восстановление завершено "</string>
     <string name="restore_report">Журнал восстановления</string>
     <string name="restore_progress">Восстановление…</string>
     <string name="restore_contacts_hit">Для восстановления контактов необходимо войти в аккаунт</string>
@@ -50,7 +50,7 @@
     <string name="findlost_contact">Восстановить контакты</string>
     <string name="findlost_contact_online">Онлайн восстановление контактов</string>
     <string name="cloud_backup_login">Войти в Mi аккаунт</string>
-    <string name="cloud_backup_hint">Необходимо авторизироваться для резервного копирования онлайн</string>
+    <string name="cloud_backup_hint">Необходимо авторизироваться для создания бэкапа онлайн</string>
     <string name="cloud_backup_window_title">Бэкап Mi Cloud</string>
     <string name="cloud_restore_window_title">Восстановление из Mi Cloud</string>
     <string name="cloud_restore_title">Восстановить</string>
@@ -81,7 +81,7 @@
     <string name="task_failed_local">Ошибка в задачах (%s)</string>
     <string name="task_failed_all_local">Ошибки во всех задачах</string>
     <string name="task_backup_finished_local">Создание бэкапа завершено</string>
-    <string name="task_restore_finished_local">Восстановление завершено</string>
+    <string name="task_restore_finished_local">"Восстановление завершено "</string>
     <string name="task_restore_none">Восстановление не требуется</string>
     <string name="task_stopped_exception">Восстановление отменено</string>
     <string name="sdcard_no_enough_space">Недостаточно свободного места</string>
@@ -127,12 +127,12 @@
     <string name="local_select_sysdata">Настройки системы</string>
     <string name="local_select_userapp">Приложения</string>
     <string name="local_select_account_contact">Аккаунты и контакты</string>
-    <string name="local_no_backup">Нет резервных копий</string>
+    <string name="local_no_backup">Нет бэкапов</string>
     <string name="auto_backup_setting">Бэкап</string>
     <string name="auto_backup_open">Бэкап по расписанию</string>
     <string name="auto_backup_only_wifi">Только по Wi-Fi</string>
-    <string name="auto_backup_date">Дни копирования</string>
-    <string name="auto_backup_time">Время копирования</string>
+    <string name="auto_backup_date">Дни создания бэкапа</string>
+    <string name="auto_backup_time">Время создания бэкапа</string>
     <string name="auto_backup_choose_title">Автосоздание бэкапа</string>
     <string name="auto_backup_choose">Выбранные элементы</string>
     <string name="auto_backup_choose_empty">Нет бэкапов</string>
@@ -149,8 +149,6 @@
     <string name="cloud_no_backup">Нет бэкапов</string>
     <string name="current_account">Аккаунт %s</string>
     <string name="current_sim">Текущая SIM карта</string>
-    <string name="date_format">dd.MM.yyyy HH:mm:ss</string>
-    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="no_network">Сеть недоступна</string>
     <string name="retry">Повторить</string>
     <string name="select_all">Выбрать все</string>
@@ -163,7 +161,7 @@
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Установите MiTalk и войдите в него
 \u0009http://www.miliao.com
 
-2.\u0009Зайдите в настройки MiTalk и создайте резервную копию контактов в Mi Аккаунт"</string>
+2.\u0009Зайдите в настройки MiTalk и создайте бэкап контактов в Mi Аккаунт"</string>
     <string name="import_from_xiaomi_account_hint2">Перейдите к следующему шагу, если бэкап уже существует.</string>
     <string name="import_from_xiaomi_account_hint_title">Используйте MiTalk для создания бэкапа контактов на других устройствах</string>
     <string name="guarded_mode_dialog_title">Активен режим \"Гость\"</string>
@@ -176,7 +174,7 @@
     <string name="already_enable_encrypt">Шифрование включено</string>
     <string name="enable_encrypt_summery1">Войдите в Mi аккаунт для использования шифрованных бэкапов</string>
     <string name="enable_encrypt_summery2">Ваши бэкапы будут автоматически зашифрованы. Войдите в свой Mi аккаунт для использования шифрованных бэкапов.</string>
-    <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удалите текущий аккаунт, и войдите в %2$s для восстановления данных.</string>
+    <string name="enable_encrypt_xiaomi_account">Этот бэкап был создан %1$s. Удалите текущий аккаунт и войдите в %2$s для восстановления данных.</string>
     <string name="enable_encrypt_ok">ОК</string>
     <string name="no_encrypt_password">Нет пароля шифрования</string>
     <string name="enable_encrypt_fail">Включение шифрования не удалось</string>

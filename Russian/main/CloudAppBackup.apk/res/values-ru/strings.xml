@@ -6,8 +6,6 @@
     <string name="button_return">Назад</string>
     <string name="button_next">Далее</string>
     <string name="button_finish">Готово</string>
-    <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
-    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="sdcard_unmounted">Накопитель не подключен</string>
     <string name="sdcard_no_enough_space">Недостаточно памяти</string>
     <string name="retry">Повтор</string>

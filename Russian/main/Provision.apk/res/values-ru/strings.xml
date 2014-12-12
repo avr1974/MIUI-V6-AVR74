@@ -40,9 +40,9 @@
     <string name="setting_locale">Настройки местоположения…</string>
     <string name="miui_terms_no_network">Сеть недоступна. Просмотрите условия пользования на %s</string>
     <string name="miui_privacy_policy_no_network">Сеть недоступна. Просмотрите политику конфиденциальности на %s</string>
-    <string name="terms_of_service">Условия пользования</string>
     <string name="locale_picker_title">Выберите местоположение</string>
     <string name="locale_picker_desc">Если вы хотите изменить местоположение позже, потребуется сделать общий сброс настроек.</string>
     <string name="locale_picker_confirm_dialog_title">Местоположение</string>
     <string name="locale_picker_confirm_dialog_desc">Выбрать \"%s\" как ваше местоположение?</string>
+    <string name="terms_of_service">Условия пользования</string>
 </resources>

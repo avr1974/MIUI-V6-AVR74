@@ -85,13 +85,13 @@
     <string name="pref_special_traffic_exceed_limit">Уведомлять, когда трафик достигает предела.</string>
     <string name="pref_special_traffic_limit_warn">Уведомления о трафике</string>
     <string name="pref_connect_settings_enable_background">Фоновые соединения</string>
-    <string name="pref_connect_settings_enable_background_hint">Разрешить приложениям использовать мобильный интернет в фоновом режиме.</string>
+    <string name="pref_connect_settings_enable_background_hint">Разрешить приложениям использовать мобильный интернет в фоновом режиме</string>
     <string name="pref_title_network_diagnostics">Диагностика сети</string>
     <string name="pref_check_network_diagnostics">Проверка интернет соединения</string>
     <string name="pref_category_title_other">Дополнительно</string>
     <string name="pref_title_update_notification">Уведомления о трафике</string>
     <string name="pref_title_traffic_speed_state">Скорость сети</string>
-    <string name="pref_show_mobile_traffic">Отображать использонный трафик в спящем режиме после разблокировки экрана. Телефон должен находиться в режиме сна не менее 3 минут.</string>
+    <string name="pref_show_mobile_traffic">Отображать использованный трафик в спящем режиме после разблокировки экрана. Телефон должен находиться в режиме сна не менее 3 минут.</string>
     <string name="pref_title_mobile_traffic">Трафик при разблокировке</string>
     <string name="pref_title_declaration">Отказ от ответственности</string>
     <string name="pref_about">О программе</string>
@@ -131,7 +131,7 @@
     <string name="input_traffic_pkg">Дополнительный пакет трафика</string>
     <string name="begin_date">Дата начала учета</string>
     <string name="tips_dialog_title">Информация</string>
-    <string name="tips_message">Если вы не знаете какой объем трафика предоставляется на вашем тарфином плане, пожалуйста, обратитесь к оператору мобильной связи для выяснения подробностей.</string>
+    <string name="tips_message">Если вы не знаете какой объем трафика предоставляется на вашем тарифном плане, обратитесь к оператору для выяснения подробностей. Номер %2$s (%1$s).</string>
     <string name="daily_pkg_traffic">Ввод предела трафика</string>
     <string name="input_aviable_traffic">Предел трафика</string>
     <string name="pkg_traffic">Введите предел трафика</string>
@@ -191,7 +191,7 @@
     <string name="free_time_traffic_title">Введите предел трафика</string>
     <string name="free_time_traffic_hint">Введите предел трафика</string>
     <string name="traffic_protection_label">Предупреждение о трафике</string>
-    <string name="traffic_protection_summary">Введите предел трафика</string>
+    <string name="traffic_protection_summary">Уведомления о превышении предела трафика</string>
     <string name="traffic_protection_unknown"><u>Пропустить</u></string>
     <string name="traffic_protection_text_hint">Установить предел трафика для %s</string>
     <string name="traffic_protection_next">Далее</string>
@@ -245,7 +245,7 @@
     <string name="datausage_purchase_time_in">" в "</string>
     <string name="datausage_purchase_order_failure">Ошибка платежа</string>
     <string name="datausage_purchase_order_failure_cause">Не удалось произвести оплату…</string>
-    <string name="traffic_saving_tecsupport">Поддержка: Opera Max</string>
+    <string name="traffic_saving_tecsupport">Поддержка: Opera</string>
     <string name="traffic_saving_notify_start_title">Экономия трафика</string>
     <string name="traffic_saving_notify_start_content">За месяц: %s</string>
     <string name="traffic_saving_toast_start_mobile">Экономия трафика включена</string>
@@ -284,7 +284,7 @@
     <string name="traffic_saving_whitelist_btn_added">Добавлено</string>
     <string name="traffic_saving_whitelist_btn_remove">Удалить</string>
     <string name="traffic_saving_whitelist_btn_removed">Приложение удалено из списка исключений</string>
-    <string name="traffic_saving_whitelist_count">Приложения без сжатия трафика (%1$d)</string>
+    <string name="traffic_saving_whitelist_count">"Приложения без сжатия трафика (&lt;font color='#4DAA0F'>%1$d&lt;/font>)"</string>
     <string name="traffic_saving_whitelist_no_app">Нет приложений</string>
     <string name="online_songs">Прослушивание</string>
     <string name="online_chat">Общение</string>
@@ -316,9 +316,9 @@
     <string name="tc_sms_report_get_success_notify_title">Получен отчет о трафике по SMS</string>
     <string name="tc_sms_report_get_success_notify_body">Убедитесь, что отчет корректный и отправьте его MIUI.</string>
     <string name="tc_sms_report_upload_success">Отчет о трафике отправлен</string>
-    <string name="tc_sms_report_upload_when_net">Отчет будет отправлен при подключении к интернету</string>
+    <string name="tc_sms_report_upload_when_net">Спасибо за ваш отчет!</string>
     <string name="tc_sms_report_notify_get_timeout_title">Не удается получить отчет о трафике</string>
-    <string name="tc_sms_report_notify_get_timeout_body">Время ожидания вышло. Убедитесь, что код запроса корректный.</string>
+    <string name="tc_sms_report_notify_get_timeout_body">Время ожидания истекло. Убедитесь, что код запроса корректный.</string>
     <string name="tc_sms_report_notify_get_failure_title">Не удается получить отчет о трафике</string>
     <string name="tc_sms_report_notify_correction_failure_title">Не удается обновить информацию о трафике</string>
     <string name="tc_sms_report_notify_correction_body">Перейдите в приложение \"Трафик\" и попробуйте обновить вручную</string>
@@ -326,7 +326,7 @@
     <string name="tc_sms_report_tips_dialog_title">Отчет о трафике по SMS</string>
     <string name="tc_sms_report_tips_dialog_message">Для получения информации о трафике от оператора используется специальный формат SMS. Если функция работает некорректно, попробуйте обновить формат SMS. Обновленный формат будет загружен на наш сервер.</string>
     <string name="tc_sms_report_get_sms_failure">Не удается получить формат SMS для отчета трафика</string>
-    <string name="tc_sms_report_get_sms_timeout">Не удается получить формат SMS для отчета трафика. Время ожидания вышло.</string>
+    <string name="tc_sms_report_get_sms_timeout">Не удается получить формат SMS для отчета трафика. Время ожидания истекло.</string>
     <string name="tc_sms_report_get_sms_successs">Формат SMS для трафика обновлен</string>
     <string name="privacy_declare_dialog_title">Предупреждение</string>
     <string name="privacy_declare_dialog_message">При использовании этого сервиса, вы соглашаетесь с &lt;a href=http://max.oupeng.com/eula.html>условиями пользования&lt;/a> компании Opera.</string>
