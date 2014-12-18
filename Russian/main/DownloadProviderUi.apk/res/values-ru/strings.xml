@@ -106,6 +106,10 @@
     <string name="download_list_intoAuthAlert">Загрузка…</string>
     <string name="unbind_xunlei_success">Аккаунт Xunlei отвязан</string>
     <string name="unbind_xunlei_2_success">Аккаунт Xunlei изменен</string>
+    <string name="privacy_tip_title">Использовать сервис Xunlei?</string>
+    <string name="privacy_tip_content">Сервис ускорения Xunlei позволяет загружать файлы на максимальной скорости. Ваша информация о Mi аккаунта будет синхронизирована для проверки активных подписок на этот сервис.</string>
+    <string name="privacy_tip_cancel">Отмена</string>
+    <string name="privacy_tip_ok">ОК</string>
     <string name="app_label">Загрузки</string>
     <string name="download_title">Загрузки</string>
     <string name="download_title_sorted_by_date">Загрузки – по дате</string>
