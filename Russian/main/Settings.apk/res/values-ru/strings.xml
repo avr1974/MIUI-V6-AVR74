@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="music_audio_effect_optimize">Гарнитура</string>
+    <string name="music_audio_effect_optimize_summary">Дополнительные настройки звука и гарнитуры</string>
+    <string name="music_audio_effect_optimize_summary_with_hifi">Дополнительные настройки звука, Hi-Fi и гарнитуры.</string>
     <string name="music_headset_settings">Гарнитура</string>
-    <string name="music_headset_button_settings">Функции клавиш</string>
+    <string name="music_headset_button_settings">Клавиши</string>
+    <string name="music_headset_mode_settings">Функции клавиш</string>
     <string name="music_headset_mode_volume">Регулировка громкости</string>
     <string name="music_headset_mode_music">Переключение треков</string>
     <string name="music_headset_calibrate">Калибровка клавиш</string>
@@ -15,7 +19,8 @@
     <string name="music_headset_calibrate_confirm">Применить настройки?</string>
     <string name="music_headset_no_contected">Гарнитура не подключена</string>
     <string name="music_headset_calibrate_wrong_key">Неверная клавиша</string>
-    <string name="music_HiFi_title">Звук Hi-Fi</string>
+    <string name="music_hifi_title">Звук Hi-Fi</string>
+    <string name="music_hifi_summary">Снижение шума и искажений для улучшения качества звука. Эта функция повышает использование батареи.</string>
     <string name="music_mi_effect_title">Усилитель звука \"Mi Sound\"</string>
     <string name="music_mi_effect_summary">Всегда использовать усилитель \"Mi Sound\" при воспроизведении звука через наушники</string>
     <string name="music_headphone_settings">Тип наушников</string>
@@ -32,6 +37,7 @@
     <string name="music_dirac_mode_piston_basic">Обычные пистоны</string>
     <string name="music_audio_effect_settings">Звук</string>
     <string name="music_equalizer">Эквалайзер</string>
+    <string name="music_equalizer_summary">Индивидуальные установки для различных типов музыки</string>
     <string name="menu_item_show_more">Показать еще</string>
     <string name="ringtone_mute">Без звука</string>
     <string name="title_system_resource">Системные ресурсы</string>
@@ -51,7 +57,7 @@
     <string name="status_bar_settings_show_statusBar_notification">На экране блокировки и в окне</string>
     <string name="status_bar_settings_show_statusBar_notification_summary">Показывать уведомления на экране блокировки и во всплывающем окне</string>
     <string name="status_bar_filter_item_preview_image">Просмотр</string>
-    <string name="status_bar_filter_item_description">Для настройки уведомлений перейдите в \"Настройки > Панель уведомлений > Управление уведомлениями\"</string>
+    <string name="status_bar_filter_item_description">Для настройки уведомлений перейдите в Настройки > Панель уведомлений > Управление уведомлениями</string>
     <string name="status_bar_settings_notification_bar">Панель уведомлений</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="status_bar_settings_show_screenshot_notification">Уведомление о скриншоте</string>
@@ -822,12 +828,12 @@
 Возможно, код введен неверно"</string>
     <string name="sim_change_succeeded">PIN код SIM карты успешно изменен</string>
     <string name="sim_lock_failed">"Не удалось изменить состояние блокировки SIM карты.
-Возможно, введен неверный PIN код"</string>
+Возможно, введен неверный PIN код."</string>
     <string name="sim_enter_ok">ОК</string>
     <string name="sim_enter_cancel">Отмена</string>
     <string name="wrong_pin_code_pukked">Неверный PIN код SIM карты. Вы можете обратиться к вашему оператору для выяснения информации по поводу разблокировки.</string>
     <string name="pin_failed">Ошибка PIN кода</string>
-    <string name="device_info_settings">Состояние телефона</string>
+    <string name="device_info_settings">О телефоне</string>
     <string name="system_update_settings_list_item_title">Обновление системы</string>
     <string name="firmware_version">Версия Android</string>
     <string name="model_number">Модель</string>
@@ -1388,8 +1394,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
+"<ul><li>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -2188,6 +2194,9 @@
     <string name="wallpaper_desktop">Рабочий стол</string>
     <string name="wallpaper_lockscreen">Экран блокировки</string>
     <string name="wallpaper_live">Живые обои</string>
+    <string name="title_font">Шрифт</string>
+    <string name="title_font_current">Выбор шрифта</string>
+    <string name="title_layout_current">Используется</string>
     <string name="key_settings_title">Клавиши</string>
     <string name="key_settings">Клавиши</string>
     <string name="screen_key_press">Простое нажатие</string>
@@ -2267,7 +2276,8 @@
     <string name="pref_button_light">Подсветка клавиш</string>
     <string name="pref_button_light_summary">Подсветка клавиш \"Меню\", \"Назад\", \"Домой\"</string>
     <string name="button_light_timeout">Время подсветки клавиш</string>
-    <string name="sim_change_failed_enable_sim_lock">Включить блокировку SIM карты</string>
+    <string name="sim_change_failed_enable_sim_lock">"Не удалось изменить PIN код.
+Включите блокировку SIM карты."</string>
     <string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM карты</string>
     <string name="apn_new">Добавить</string>
     <string name="apn_save">Сохранить?</string>
@@ -2355,7 +2365,10 @@
     <string name="volume_restore">Сброс настроек</string>
     <string name="volume_restore_alert">Восстановить настройки громкости по умолчанию?</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">Настройка размера шрифта системы</string>
+    <string name="font_size_summary">Настройка размера шрифта системы.</string>
+    <string name="font_size_summary1">"
+Если у вас плохое зрение, попробуйте "</string>
+    <string name="font_size_summary2">рабочий стол Necta</string>
     <string name="font_size_small">Мелкий</string>
     <string name="font_size_normal">Нормальный</string>
     <string name="font_size_medium">Средний</string>
@@ -2474,7 +2487,7 @@
     <string name="wifi_enable">Включить Wi-Fi</string>
     <string name="bluetooth_enable">Включить Bluetooth</string>
     <string name="sync_enable">Включить синхронизацию</string>
-    <string name="accessibility_enable">Включить заголовки</string>
+    <string name="accessibility_enable">Включить возможность</string>
     <string name="development_enable">Режим разработчика</string>
     <string name="device_name">Имя устройства</string>
     <string name="device_edit_title">Имя устройства</string>
@@ -2521,7 +2534,7 @@
     <string name="application_item_disable">Запретить</string>
     <string name="application_item_permission">Разрешить</string>
     <string name="application_item_already_permission">Разрешено</string>
-    <string name="application_forbid_auto_startup">Отключить автозапуск приложения \"%s\" в фоне?</string>
+    <string name="application_forbid_auto_startup">Отключить автозапуск \"%s\" в фоне?</string>
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрыть всплывающие окна</string>
     <string name="app_floating_window_dlg_enable">"При включении всплывающих окон приложение \"%1$s\" будет закрыто. 
@@ -2554,7 +2567,7 @@
     <string name="internal_media_format_title">Очистить внутреннюю память</string>
     <string name="internal_format">Очистить внутреннюю память</string>
     <string name="internal_format_summary">Удалить все данные из внутренней памяти</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибках</string>
     <string name="bugreport_tool_log_toast">Отчет сохранен в %s</string>
     <string name="bugreport_tool_log">Создать отчет об ошибке</string>
     <string name="modem_tool_log">Создать отчет модема</string>
@@ -2742,6 +2755,9 @@
     <string name="system_backup_section_title">Бэкап системы</string>
     <string name="local_backup_section_title">Локальный бэкап</string>
     <string name="local_backup_section_summary">Резервное копирование данных</string>
+    <string name="local_auto_backup_section_title">Бэкап по расписанию</string>
+    <string name="local_auto_backup_on">Вкл.</string>
+    <string name="local_auto_backup_off">Выкл.</string>
     <string name="other_personal_settings">Дополнительно</string>
     <string name="other_advanced_settings">Дополнительно</string>
     <string name="recent_location_requests_title">Доступ к местоположению</string>
@@ -2800,6 +2816,43 @@
 Еженедельная"</string>
     <string name="stable_build">"
 Стабильная"</string>
+    <string name="layout_size_small">Мелкий</string>
+    <string name="layout_size_normal">Нормальный</string>
+    <string name="layout_size_medium">Средний</string>
+    <string name="layout_size_large">Большой</string>
+    <string name="page_layout_confirm_title">Изменена плотность экрана</string>
+    <string name="page_layout_confirm_message">Обновить положение иконок на рабочем столе?</string>
+    <string name="page_layout_1">Вс, 16 августа</string>
+    <string name="page_layout_2">Камера</string>
+    <string name="page_layout_3">Галерея</string>
+    <string name="page_layout_4">Музыка</string>
+    <string name="page_layout_5">Видео</string>
+    <string name="page_layout_6">Погода</string>
+    <string name="page_layout_7">Заметки</string>
+    <string name="page_layout_8">Календарь</string>
+    <string name="page_layout_9">Почта</string>
+    <string name="page_layout_10">Новости</string>
+    <string name="page_layout_11">Безопасность</string>
+    <string name="page_layout_12">Настройки</string>
+    <string name="page_layout_13">Инструменты</string>
+    <string name="page_layout_14">Игры</string>
+    <string name="page_layout_15">Приложения</string>
+    <string name="page_layout_16">Темы</string>
+    <string name="page_layout_17">Жизнь</string>
+    <string name="page_layout_18">Недавние</string>
+    <string name="page_layout_19">Контакты</string>
+    <string name="page_layout_20">Сервисы</string>
+    <string name="page_layout_21">816 контактов</string>
+    <string name="page_layout_22">Создать профиль</string>
+    <string name="page_layout_23">Мои группы</string>
+    <string name="page_layout_24">ИЗБРАННЫЕ</string>
+    <string name="page_layout_25">Папа</string>
+    <string name="page_layout_26">Андрей</string>
+    <string name="page_layout_27">Владимир</string>
+    <string name="page_layout_28">Евгений</string>
+    <string name="page_layout_29">Илья</string>
+    <string name="page_layout_30">Сергей</string>
+    <string name="page_layout_31">Роман</string>
     <string name="miracast_settings_category">Настройки Wi-Fi дисплея</string>
     <string name="miracast_display_category">Дисплеи</string>
     <string name="miracast_menu_search">Поиск</string>
@@ -2846,5 +2899,5 @@
     <string name="cmcc_dm_settings_enable_summary">Включить автозагрузку</string>
     <string name="cmcc_dm_settings_title">Управление разрешениями</string>
     <string name="experimental_build">(экспериментальная сборка)</string>
-	<string name="title_font">Шрифт</string>
+    <string name="music_HiFi_title">Звук Hi-Fi</string>
 </resources>
