@@ -46,4 +46,5 @@
     <string name="using_camera_confirm_message">Разрешить приложению использовать камеру?</string>
     <string name="using_camera_confirm_ok">ОК</string>
     <string name="using_camera_confirm_cancel">Отмена</string>
+    <string name="shake_enter_tip">Встряхните для калибровки</string>
 </resources>

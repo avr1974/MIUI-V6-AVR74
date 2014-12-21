@@ -18,8 +18,8 @@
     <string-array name="alarm_repeat_type">
         <item>Однократно</item>
         <item>Ежедневно</item>
-        <item>"Рабочие дни "</item>
-        <item>С понедельника по пятницу</item>
+        <item>"В рабочие дни "</item>
+        <item>По будням</item>
         <item>Выбрать дни</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">

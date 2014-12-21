@@ -174,6 +174,9 @@ d MMMM yyyy"</string>
     <string name="ext_media_mountable_notification_title">USB накопитель подключен</string>
     <string name="ext_media_mountable_notification_message">Нажмите для просмотра</string>
     <string name="ext_media_safe_remove">Отключить</string>
+    <string name="status_bar_network_flow_today">Сегодня: %1$s</string>
+    <string name="status_bar_network_flow">Сегодня: %1$s | Осталось: %2$s | Всего: %3$s</string>
+    <string name="status_bar_network_flow_exceed">Сегодня: %1$s | Превышение: &lt;font color=%2$s>%3$s&lt;/font> | Всего: %4$s</string>
     <string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
     <string name="no_notification_tips">Нет уведомлений</string>
     <string name="notification_otg_mouse_in">Мышь подключена</string>
@@ -206,6 +209,7 @@ d MMMM yyyy"</string>
     <string name="headset_custom">Настроить</string>
     <string name="usb_share_net_info">Использовать интернет компьютера</string>
     <string name="hint_for_long_press_app_switch_key">Удерживайте для входа в меню</string>
+    <string name="battery_profiles">Режимы батареи</string>
     <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
     <string name="screen_button_enabled_message">Клавиши навигации включены</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован</string>

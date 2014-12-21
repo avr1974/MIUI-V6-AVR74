@@ -58,6 +58,7 @@
     <string name="operation_delete_confirm_message">Удаление</string>
     <string name="operation_delete_confirm_message_folder">"При удалении папки будут удалены все файлы внутри нее.
 "</string>
+    <string name="delete_dialog_button">Удалить</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="sd_card_size">Всего: %1$s</string>
     <string name="sd_card_available">Свободно: %1$s</string>
@@ -214,7 +215,7 @@
     <string name="rename_description">Переименование…</string>
     <string name="share_link_failed">Ошибка создания внешней ссылки на папку</string>
     <string name="choose_send_type">Выбор метода отправки</string>
-    <string name="download_link_completed">Я поделился \"%1$s\" через KuaiPan. Перейдите по ссылке для просмотра:</string>
+    <string name="download_link_completed">Я поделился \"%1$s\" через KuaiPan. Просмотр:</string>
     <string name="transing">В процессе</string>
     <string name="finished">Завершено</string>
     <string name="uploading">Загрузка</string>

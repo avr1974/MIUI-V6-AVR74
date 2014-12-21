@@ -89,7 +89,7 @@
     <string name="pref_title_network_diagnostics">Диагностика сети</string>
     <string name="pref_check_network_diagnostics">Проверка интернет соединения</string>
     <string name="pref_category_title_other">Дополнительно</string>
-    <string name="pref_title_update_notification">Уведомления о трафике</string>
+    <string name="pref_title_update_notification">Трафик в панели уведомлений</string>
     <string name="pref_title_traffic_speed_state">Скорость сети</string>
     <string name="pref_show_mobile_traffic">Отображать использованный трафик в спящем режиме после разблокировки экрана. Телефон должен находиться в режиме сна не менее 3 минут.</string>
     <string name="pref_title_mobile_traffic">Трафик при разблокировке</string>
@@ -214,6 +214,10 @@
 Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
 Данные мобильного оператора показывают, что дополнительного трафика осталось: %s. Локальный трафик не установлен."</string>
+    <string name="traffic_config_alert_body_extra">"
+Вы приобрели %1$s дополнительного трафика в этом месяце. Это отличается от %2$s, который вы добавили вручную."</string>
+    <string name="traffic_config_alert_body_extra_notset">"
+Вы приобрели %s дополнительного трафика в этом месяце. Это не влияет на месячный трафик, который вы ввели вручную."</string>
     <string name="traffic_config_alert_setted">Ввести трафик</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
@@ -238,7 +242,7 @@
     <string name="datausage_purchase_backto_ns">Назад</string>
     <string name="datausage_purchase_goto_monthsetting">Изменить трафик</string>
     <string name="datausage_purchase_pkglist_nodata">Обнаружен конфликт вашего тарифного плана и текущего заказа. Обратитесь к мобильному оператору для выяснения информации.</string>
-    <string name="datausage_purchase_pkglist_networkerror">Сеть недоступна</string>
+    <string name="datausage_purchase_pkglist_networkerror">Интернет недоступен</string>
     <string name="datausage_purchase_pkglist_servererror">Ошибка сервера</string>
     <string name="datausage_purchase_order_history">История</string>
     <string name="datausage_purchase_none_history">Нет платежей</string>
@@ -300,6 +304,8 @@
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_service_traffic_detail">Информация о Framework</string>
     <string name="none_mi_service_app_detail">Пусто</string>
+    <string name="show_traffic_dialog_title">Предупреждение</string>
+    <string name="show_traffic_dialog_message">Отображать трафик в панели уведомлений?</string>
     <string name="tc_sms_report_title">Отправлять отчеты</string>
     <string name="tc_sms_report_summary">Помогать разработчикам улучшить мониторинг трафика с помощью отправки отчетов</string>
     <string name="tc_sms_report_direction">Запрос кода по SMS</string>
@@ -328,10 +334,16 @@
     <string name="tc_sms_report_get_sms_failure">Не удается получить формат SMS для отчета трафика</string>
     <string name="tc_sms_report_get_sms_timeout">Не удается получить формат SMS для отчета трафика. Время ожидания истекло.</string>
     <string name="tc_sms_report_get_sms_successs">Формат SMS для трафика обновлен</string>
+    <string name="tc_sms_report_get_default">Будет отправлено бесплатное SMS сообщение, чтобы получить статистику использования трафика от вашего оператора.</string>
     <string name="privacy_declare_dialog_title">Предупреждение</string>
     <string name="privacy_declare_dialog_message">При использовании этого сервиса, вы соглашаетесь с &lt;a href=http://max.oupeng.com/eula.html>условиями пользования&lt;/a> компании Opera.</string>
     <string name="sc_allow_network_dialog_tiltle">Предупреждение</string>
     <string name="sc_allow_network_dialog_message">Для полноценной работы функции сжатия трафика необходимо разрешить приложению доступ в интернет</string>
+    <string name="privacy_prompt_upload">Уведомление о конфиденциальности</string>
+    <string name="privacy_prompt_traffic_adjust_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы обновить шаблон запроса SMS и проверить доступность этой возможности в вашем регионе.</string>
+    <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить информацию о способах оплаты.</string>
+    <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить информацию о трафике.</string>
+    <string name="privacy_prompt_purchase_history_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить историю платежей.</string>
     <string name="pkg_total_traffic">Всего: %s</string>
     <string name="remained_traffic">Осталось: %s</string>
     <string name="today_used_traffic">Сегодня: %s</string>

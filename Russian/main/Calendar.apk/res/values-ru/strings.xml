@@ -187,7 +187,7 @@
     <string name="event_action_edit">Изменить</string>
     <string name="lunar_date">Лунная дата</string>
     <string name="widget_select_style">Выберите стиль</string>
-    <string name="widget_events">Следующие мероприятия</string>
+    <string name="widget_events">Следующее мероприятие</string>
     <string name="widget_no_events">Нет мероприятий</string>
     <string name="month_medium_january">Январь</string>
     <string name="month_medium_february">Февраль</string>
@@ -239,6 +239,8 @@
     <string name="can_not_modify_event">Не удается изменить</string>
     <string name="can_not_modify_allday_event">Не удается изменить мероприятие, которое установлено на целый день.</string>
     <string name="can_not_modify_repeating_acrossing_days_event">Не удается изменить мероприятие, которое установлено на несколько дней с повтором.</string>
+    <string name="can_not_create_long_event">Слишком продолжительное мероприятие</string>
+    <string name="from_google_group_calendar">Календарь Google</string>
     <string name="more_string">Еще %1$s…</string>
     <string name="copy_email">Скопировать адрес Email</string>
     <string name="copy_number">Скопировать номер телефона</string>

@@ -24,9 +24,9 @@
         <item>1 Гб</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Только уведомлять</item>
-        <item>Только очищать</item>
-        <item>Уведомлять и очищать</item>
+        <item>Спрашивать перед очисткой</item>
+        <item>Очищать в фоне</item>
+        <item>Уведомлять после очистки</item>
     </string-array>
     <string-array name="auto_memory_clean">
         <item>Через 1 минуту</item>

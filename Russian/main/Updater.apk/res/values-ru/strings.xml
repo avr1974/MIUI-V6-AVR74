@@ -67,6 +67,8 @@
     <string name="notification_new_version">Доступна новая версия %s</string>
     <string name="notification_update_now">Обновить</string>
     <string name="notification_reboot_title">Обновление завершено</string>
+    <string name="notification_reboot_title_hm">Обновление установлено</string>
+    <string name="notification_reboot_summary_hm">Нажмите для перезагрузки</string>
     <string name="notification_reboot_des">Обновлено завершено: %s. Требуется перезагрузка.</string>
     <string name="notification_reboot_btn">Перезагрузить</string>
     <string name="notification_reboot_seccess_title">Обновление завершено</string>
@@ -96,8 +98,19 @@
     <string name="user_intertup_download_title">Продолжить загрузку?</string>
     <string name="user_intertup_download_msg">Загрузка обновления остановлена</string>
     <string name="check_update_when_wifi_available_sum">Проверять обновления только по сети Wi-Fi</string>
+    <string name="important_suggestion">Политика конфиденциальности изменена</string>
+    <string name="auto_dialog_msg">"Внимательно прочтите измененную политику конфиденциальности перед обновлением. "</string>
+    <string name="auto_button_examine">Показать</string>
+    <string name="auto_check_clause_msg">"Необходимо принять измененную политику конфиденциальности перед обновлением. "</string>
+    <string name="auto_check_clause_button">Показать</string>
+    <string name="auto_agree_clause">"Наша обновленная политика конфиденциальности уже вступила в силу. "</string>
+    <string name="auto_dialog_title_check_again">Отменить обновление?</string>
+    <string name="auto_dialog_msg_check_again">"Необходимо принять измененную политику конфиденциальности перед обновлением. "</string>
+    <string name="auto_button_examine_immediately">Показать</string>
+    <string name="auto_button_sure_cancel">Отмена</string>
     <string name="auto_update_sum">Устанавливать обновление автоматически после загрузки</string>
-    <string name="updater_nonetwork">Включите интернет, чтобы получить отчет.</string>
+    <string name="updater_nonetwork">Включите интернет для просмотра списка изменений</string>
+    <string name="updater_nonetwork_clause">Включите интернет для просмотра измененной политики конфиденциальности</string>
     <string name="updater_nolog">Отчет отсутствует</string>
     <string name="notification_load_title_alpha">Войдите в Mi аккаунт</string>
     <string name="notification_load_title_dev">Войдите в Mi аккаунт</string>
@@ -268,4 +281,11 @@
     <string name="view_install_log">Просмотр журнала</string>
     <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
     <string name="wifi_not_available_title">Wi-Fi не подключен</string>
+    <string name="button_text_reboot_now">Перезагрузка</string>
+    <string name="download_rom_update_timer">Загрузка прошивки через %d сек.</string>
+    <string name="notify_title_reboot_now">Требуется перезагрузка</string>
+    <string name="toast_msg_reboot">Обновление завершено. Требуется перезагрузка.</string>
+    <string name="toast_need_login">Войдите в Mi аккаунт</string>
+    <string name="toast_not_enough_free_space">Недостаточно места для OTA</string>
+    <string name="toast_update_failed_hints">Не удалось обновить. Для повторной попытки требуется перезагрузка.</string>
 </resources>

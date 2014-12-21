@@ -12,6 +12,9 @@
         <item quantity="other">Треков загружено: %d</item>
         <item quantity="one">Трек загружен</item>
     </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">Новых: %d</item>
+    </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>

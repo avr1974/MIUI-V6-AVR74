@@ -37,6 +37,9 @@
     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
     <string name="start_up">Старт</string>
     <string name="cancel">Сброс</string>
+    <string name="timer_message_00">%1$d мин. %2$d сек.</string>
+    <string name="timer_message_01">%1$d мин. %2$d сек.</string>
+    <string name="timer_message_10">%1$d мин. %2$d сек.</string>
     <string name="timer_message">Таймер на %1$d мин.</string>
     <string name="timer_item_picker_minute">М</string>
     <string name="timer_item_picker_second">С</string>

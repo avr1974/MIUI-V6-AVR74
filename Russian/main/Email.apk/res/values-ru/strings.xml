@@ -15,7 +15,7 @@
     <string name="abc_shareactionprovider_share_with">Способ отправки</string>
     <string name="abc_shareactionprovider_share_with_application">Отправить с помощью %s</string>
     <string name="account_cache_provider">Хранилище кэша аккаунта</string>
-    <string name="account_duplicate_dlg_message_fmt">Имя пользователя уже используется в аккаунте \"%s\"</string>
+    <string name="account_duplicate_dlg_message_fmt">Это имя пользователя уже используется в аккаунте \"%s\"</string>
     <string name="account_duplicate_dlg_title">Предупреждение</string>
     <string name="account_folder_list_summary_drafts">Черновики</string>
     <string name="account_folder_list_summary_inbox">Входящие</string>
@@ -35,7 +35,7 @@
     <string name="account_set_up_notice">Несколько шагов для настройки аккаунта почты</string>
     <string name="account_settings_action">Настройки аккаунта</string>
     <string name="account_settings_background_attachments_label">Автозагрузка вложений</string>
-    <string name="account_settings_background_attachments_summary">Автоматически загружать вложения при активной сети Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary">Автозагрузка вложений по Wi-Fi</string>
     <string name="account_settings_chat_mode_enable">Режим диалогов</string>
     <string name="account_settings_chat_mode_summary">Нажмите для объединения сообщений в диалог</string>
     <string name="account_settings_data_usage">Использование данных</string>
@@ -229,6 +229,7 @@
     <string name="attachment_mgr_name">Вложения</string>
     <string name="attachment_not_exists">Вложение недоступно</string>
     <string name="attachment_not_found">Не удалось загрузить вложение</string>
+    <string name="attachment_stop_all">Остановить</string>
     <string name="attachment_text">Текст</string>
     <string name="attachment_type_blocked">Невозможно сохранить или открыть это вложение</string>
     <string name="attachment_unknown">Файл: %s</string>
@@ -364,14 +365,14 @@
     <string name="done_action">Готово</string>
     <string name="downlaod_cancel_confirm_download">ОК</string>
     <string name="downlaod_cancel_continue_download">Отмена</string>
-    <string name="downlaod_confirm_download">Загрузить</string>
+    <string name="downlaod_confirm_download">ОК</string>
     <string name="downlaod_nonWifi_confirm_message">При загрузке возможно чрезмерное потребление трафика, продолжить загрузку?</string>
     <string name="download_again">Повторить загрузку</string>
     <string name="download_before_sharing">" еще не загружено"</string>
     <string name="download_before_view">Сначала необходимо загрузить</string>
     <string name="download_cancel_confirm_title">Отменить загрузку?</string>
     <string name="download_complete_not_cancel">Загрузка уже завершена</string>
-    <string name="download_confirm_message">Чтобы открыть этот файл, необходимо скачать 180 Кб %1$s</string>
+    <string name="download_confirm_message">Загрузить вложение размером %1$s?</string>
     <string name="download_confirm_title">Подтверждение загрузки</string>
     <string name="download_failed">Невозможно загрузить. Нажмите для повтора.</string>
     <string name="download_show_image">Загружать и отображать изображения</string>
@@ -458,7 +459,7 @@
     <string name="loading_conversations">Загрузка…</string>
     <string name="loading_from_remote">Поиск на сервере…</string>
     <string name="local_search">Локальный поиск</string>
-    <string name="local_search_result">Сообщений в телефоне найдено: %s</string>
+    <string name="local_search_result">Найдено: %s</string>
     <string name="login">Вход</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
@@ -852,4 +853,8 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступная версия: %1$s 
 Размер Delta обновления: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s обновлено</string>
+    <string name="account_setup_index_label">Добавить аккаунт</string>
+    <string name="account_setup_index_other_mails">Прочие</string>
+    <string name="accounts_heading">Аккаунты</string>
+    <string name="from_label">Аккаунт отправителя</string>
 </resources>

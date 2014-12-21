@@ -86,14 +86,14 @@
     <string name="start_micloud">Начать</string>
     <string name="micloud_proceed">Продолжить</string>
     <string name="master_alert_notif_title">Последняя синхронизация: %s дн. назад</string>
-    <string name="sub_alert_notif_title">Не синхронизировано</string>
-    <string name="alert_notif_title_dspt">Не синхронизировано</string>
-    <string name="noRemind">Запомнить</string>
+    <string name="sub_alert_notif_title">Синхронизировать данные?</string>
+    <string name="alert_notif_title_dspt">Синхронизировать данные?</string>
+    <string name="noRemind">Отмена</string>
     <string name="restoreSync">Синхронизировать</string>
-    <string name="enableAll">Включить все</string>
+    <string name="enableAll">ОК</string>
     <string name="master_alert_notif_dspt_add">Не синхронизировано: %s</string>
     <string name="master_alert_notif_dspt_no">Данные синхронизированы</string>
-    <string name="sub_alert_notif_dspt_add">Не синхронизировано: %s</string>
+    <string name="sub_alert_notif_dspt_add">Не синхронизировано %s</string>
     <string name="sub_alert_notif_dspt_no">Синхронизировано</string>
     <string name="micloud_space_full_influence"><u>Подробнее</u></string>
     <string name="micloud_storage_usage" formatted="false">Занято: %s | Всего: %s</string>
@@ -167,9 +167,9 @@
     <string name="micloud_main_syncing">Синхронизация…</string>
     <string name="micloud_main_last_sync_time">Последняя синхронизация: %s</string>
     <string name="micloud_main_synced_data_count">Синхронизировано: %d</string>
-    <string name="micloud_main_wlan_sync_data_count">Не синхронизировано (Wi-Fi): %d</string>
+    <string name="micloud_main_wlan_sync_data_count">Не синхронизировано по Wi-Fi: %d</string>
     <string name="micloud_main_space_full">Память заполнена</string>
-    <string name="micloud_main_space_risk">Синхронизировано: %d</string>
+    <string name="micloud_main_space_risk">Не синхронизировано: %d. Необходимо расширить место в Mi Cloud.</string>
     <string name="micloud_main_update_space">Получить больше места</string>
     <string name="micloud_detail_syncing">Синхронизация</string>
     <string name="micloud_detail_pending">Ожидание</string>
@@ -182,11 +182,9 @@
     <string name="micloud_detail_wlan_contact">"Не синхронизировано
 фото контактов: %d"</string>
     <string name="micloud_detail_wlan_mms">Не синхронизировано MMS: %d</string>
-    <string name="micloud_check_sim_title">"SIM карты заменены. Войдите в
-Mi аккаунт для повторной активации Mi Cloud."</string>
-    <string name="micloud_check_sim_notify_title">Повторная активация Mi Cloud</string>
-    <string name="micloud_check_sim_notify_text">"SIM карты заменены. Войдите в
-Mi аккаунт для повторной активации Mi Cloud."</string>
+    <string name="micloud_check_sim_title">SIM карта заменена. Войдите в Mi аккаунт для повторной активации сервисов Mi Cloud.</string>
+    <string name="micloud_check_sim_notify_title">Активировать Mi Cloud</string>
+    <string name="micloud_check_sim_notify_text">SIM карта заменена. Войдите в Mi аккаунт для повторной активации сервисов Mi Cloud.</string>
     <string name="upgrade_space_gb">Гб</string>
     <string name="upgrade_space_tb">Тб</string>
     <string name="upgrade_space_mibipreyear">%s Mi Credits в год</string>
@@ -215,8 +213,8 @@ Mi аккаунт для повторной активации Mi Cloud."</strin
     <string name="buy_space_sulotion_renew_title">Выберите способ обновления</string>
     <string name="buy_space_sulotion_message">Купить %s Гб дополнительного места</string>
     <string name="buy_space_sulotion_renew_message">Действует до %s</string>
-    <string name="buy_space_sulotion_auto_renew">Обновлять автоматически</string>
-    <string name="buy_space_sulotion_not_auto_renew">Не обновлять автоматически</string>
+    <string name="buy_space_sulotion_auto_renew">Продливать автоматически</string>
+    <string name="buy_space_sulotion_not_auto_renew">Не продливать автоматически</string>
     <string name="cloud_space_upgrade_title">Получить место в Mi Cloud</string>
     <string name="cloud_space_upgrade_message">Нажмите для получения %s Гб места в Mi Cloud</string>
     <string name="cloud_space_upgrade_no_quota_info">Ошибка загрузки. Попробуйте позже.</string>

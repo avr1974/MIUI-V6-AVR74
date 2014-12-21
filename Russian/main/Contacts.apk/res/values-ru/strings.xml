@@ -959,7 +959,7 @@
     <string name="menu_bar_group_delete">Удалить</string>
     <string name="menu_bar_group_ringtone_largeui">Мелодия</string>
     <string name="group_rename_dialog_title">Переименование группы</string>
-    <string name="group_sms_progress_msg">Создание группы…</string>
+    <string name="group_sms_progress_msg">Группировка SMS…</string>
     <string name="group_create_success_toast">Группа создана</string>
     <string name="group_rename_success_toast">Группа переименована</string>
     <string name="group_delete_success_toast">Группа удалена</string>
@@ -977,7 +977,7 @@
     <string name="picker_all_list_empty">Нет контактов</string>
     <string name="picker_favorites_list_empty">Нет избранных</string>
     <string name="picker_groups_list_empty">Нет групп</string>
-    <string name="contact_edit_title_insert">Добавить в %s</string>
+    <string name="contact_edit_title_insert">Добавить %s</string>
     <string name="contact_edit_title_edit">Редактирование</string>
     <string name="contact_edit_title_readonly">Контакт только для чтения</string>
     <string name="account_container_title">Из аккаунта</string>

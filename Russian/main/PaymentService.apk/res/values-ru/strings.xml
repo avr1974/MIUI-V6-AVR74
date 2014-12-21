@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="hfb_step_2">Следуйте инструкции</string>
+    <string name="hfb_step_3">Нажмите \"Купить\"</string>
+    <string name="hfb_succ_service_phone_tip">Обслуживание клиентов: 4006125880 (Китай)</string>
+    <string name="hfb_retry_query">Попробуйте снова</string>
     <string name="app_name">Mi Credits</string>
     <string name="format_time">d MMMM yyyy hh:mmaa</string>
     <string name="format_date">d MMMM yyyy</string>
@@ -215,6 +219,8 @@
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi Credits (бесплатная раздача)</string>
     <string name="recharge_push_notification_prime_title">%1$d добавлено %2$s Mi Credits в ваш аккаунт</string>
     <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
+    <string name="giftcard_expire_notification_prime_title">Истекает срок действия кода…</string>
+    <string name="giftcard_expire_notification_sub_title">Срок действия подарочной карты Mi Credit истекает %1$s</string>
     <string name="title_mili_center">Mi Credits</string>
     <string name="title_recharge_record">История пополнений</string>
     <string name="title_pay_record">История платежей</string>

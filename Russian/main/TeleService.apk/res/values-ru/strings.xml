@@ -136,12 +136,16 @@
     <string name="roaming_warning">Разрешить интернет-роуминг? Возможны высокие расходы за использование роуминга</string>
     <string name="always_enable_mms">Всегда принимать MMS</string>
     <string name="always_enable_mms_summary">Принимать MMS, даже когда мобильный интернет отключен.</string>
+    <string name="network_unlock">Разблокировать</string>
+    <string name="sim_cards_network_mode_changed_title">Обнаружена новая SIM карта</string>
+    <string name="sim_cards_network_mode_changed_summary">Нажмите для просмотра настроек</string>
     <string name="networks_title">Операторы связи</string>
     <string name="network_settings_warn_message">Использовать только ту сеть, которую выбрали вручную.</string>
     <string name="network_settings_auto_select_title">Не выбирать сеть автоматически</string>
     <string name="network_settings_next">Далее</string>
     <string name="network_settings_confirm_message">Сеть может быть недоступна</string>
     <string name="network_settings_query_failed_message">Ошибка запроса в сети. Повторить попытку?</string>
+    <string name="retry_btn">Повтор</string>
     <string name="network_settings_information">Информация</string>
     <string name="network_settings_duringcall">Операция недоступна во время вызова</string>
     <string name="network_settings_data_connected_change">Невозможно изменить тип сети во время активного интернет соединения. Отключить текущее интернет соединение и переключить сеть?</string>
@@ -163,6 +167,7 @@
     <string name="preferred_network_type_3g_only_warning">"Убедитесь, что ваша SIM карта поддерживает режим 3G, иначе сеть может быть недоступна! 
 
 Включить режим 3G?"</string>
+    <string name="preferred_network_restrict_network_changed_incall">Невозможно изменить мобильную сеть во время разговора</string>
     <string name="callwait_open_hint">Услуга \"Ожидание вызова\" предоставляется оператором, если вы получаете ошибку кода MMI, обратитесь к вашему оператору для выяснения подробностей.</string>
     <string name="open_miui">Открыть</string>
     <string name="cdma_system_select_title">Выбор системы</string>
@@ -643,6 +648,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="call_recording_notification_title">Уведомление о записи</string>
     <string name="call_recording_notification_title_error">Ошибка записи вызова</string>
     <string name="call_recording_setting">Запись вызовов</string>
+    <string name="call_recording_notification_toggle_title">Уведомление о записи</string>
     <string name="call_recording_notification_summary">Показывать уведомление в строке состояния при окончании записи</string>
     <string name="call_recording_notification_message_low_storage">Запись остановлена. Недостаточно памяти.</string>
     <string name="call_recording_notification_message">%s</string>

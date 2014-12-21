@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="device_picker">Выбор Bluetooth устройств</string>
+    <string name="bluetooth_preference_scan_title">Сканирование устройств</string>
+    <string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
+    <string name="bluetooth_preference_found_devices">Доступные устройства</string>
+    <string name="progress_scanning">Поиск…</string>
+    <string name="bluetooth_search_for_devices">Поиск устройств</string>
     <string name="miui_transfer_history_title">История</string>
     <string name="miui_transfer_inbound_title">Входящие</string>
     <string name="miui_transfer_outbound_title">Исходящие</string>
@@ -122,10 +128,6 @@
     <string name="notify_server">Уведомить TCP-сервер</string>
     <string name="ble_device_connected">Устройство подключено</string>
     <string name="bluetooth_no_devices_found">Нет доступных Bluetooth устройств</string>
-    <string name="bluetooth_preference_found_devices">Доступные устройства</string>
-    <string name="bluetooth_preference_scan_title">Сканирование устройств</string>
-    <string name="device_picker">Выбор Bluetooth устройств</string>
-    <string name="progress_scanning">Поиск…</string>
     <string name="bt_advanced_settings">Дополнительные настройки</string>
     <string name="map_datasource_mms_name">MMS</string>
     <string name="map_datasource_sms_name">SMS</string>

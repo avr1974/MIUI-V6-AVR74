@@ -7,7 +7,7 @@
     <string name="company">Компания:</string>
     <string name="title">Должность:</string>
     <string name="phone">Телефон:</string>
-    <string name="email">Почта:</string>
+    <string name="email">Email:</string>
     <string name="web">Сайт:</string>
     <string name="address">Адрес:</string>
     <string name="birthday">День рождения:</string>
@@ -38,8 +38,8 @@
     <string name="wechat_details">Информация WeChat:</string>
     <string name="qr_code_details">Информация QR кода:</string>
     <string name="import_contact">Импорт контакта</string>
-    <string name="secure_access_web_url">Безопасный доступ</string>
-    <string name="not_recommend_access_web_url">Безопасный доступ (не рекомендуется)</string>
+    <string name="secure_access_web_url">Открыть сайт</string>
+    <string name="not_recommend_access_web_url">Открыть сайт (не рекомендуется)</string>
     <string name="continue_access_web_url">Открыть сайт</string>
     <string name="download_by_browser">Загрузить через браузер</string>
     <string name="launch_market">Открыть Mi Маркет</string>
@@ -78,4 +78,5 @@
     <string name="not_tips">Запомнить</string>
     <string name="settings">Настройки</string>
     <string name="not_insert_contact">Не добавлять контакт</string>
+    <string name="choose_picture">Выбрать фото с QR кодом</string>
 </resources>

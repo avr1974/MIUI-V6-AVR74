@@ -10,6 +10,7 @@
     <string name="aqi_quality_index_hazardous">ИКВ %1$s</string>
     <string name="aqi_quality_index_break">ИКВ %1$s</string>
     <string name="view_indexes_wind_unit">км/ч</string>
+    <string name="view_realtime_clear_substitution">Ясно</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">C</string>
@@ -52,7 +53,7 @@
     <string name="view_indexes_title_wind">Ветер</string>
     <string name="view_indexes_title_pressure">Давление (гПа)</string>
     <string name="view_indexes_title_feel">Ощущается (°C)</string>
-    <string name="view_dropwater_title">Вероятность выпадения осадков</string>
+    <string name="view_dropwater_title">Вероятность осадков</string>
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_today">Сегодня</string>
     <string name="view_indexes_item_tommorrow">Завтра</string>
@@ -70,4 +71,7 @@
     <string name="activity_main_time_format">d MMM</string>
     <string name="view_aqi_detail_item_unit">мкг/м<sup><small>3</small></sup></string>
     <string name="view_aqi_detail_title">Информация ИКВ</string>
+    <string name="first_start_network_msg">Для получения прогноза погоды необходимо подключиться к интернету</string>
+    <string name="first_start_network_title">Предупреждение</string>
+    <string name="international_detail_menu_title">Информация</string>
 </resources>

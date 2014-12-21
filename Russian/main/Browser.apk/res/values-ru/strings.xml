@@ -155,7 +155,7 @@
     <string name="pref_privacy_clear_cookies_summary">Удалить все файлы cookie браузера</string>
     <string name="pref_privacy_clear_cookies_dlg">Удалить все файлы cookie?</string>
     <string name="pref_privacy_clear_history">Очистить историю</string>
-    <string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
+    <string name="pref_privacy_clear_history_summary">Очистить список посещенных в интернете страниц</string>
     <string name="pref_privacy_formdata_title">Данные форм</string>
     <string name="pref_privacy_clear_form_data">Очистить данные формы</string>
     <string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
@@ -273,7 +273,7 @@
 Разрешить браузеру загружать связанные веб страницы в фоновом режиме."</string>
     <string name="share_page">Поделиться</string>
     <string name="pref_video_preload_summary">"
-Разрешить браузеру загружать видео."</string>
+Разрешить браузеру загружать видео"</string>
     <string name="pref_content_block_float_popups">Блокировать плавающие окна</string>
     <string name="webpage_title">Закладки и история</string>
     <string name="video_title">Видео</string>
@@ -400,7 +400,8 @@
     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении</string>
     <string name="pref_images_preload_dialogtitle">Загрузка изображений</string>
     <string name="pref_images_preload_title">Загрузка изображений</string>
-    <string name="pref_images_preload_summary">Разрешить браузеру загружать изображения</string>
+    <string name="pref_images_preload_summary">"
+Разрешить браузеру загружать изображения"</string>
     <string name="pref_images_preload_value_never_summary">Запретить браузеру загружать изображения</string>
     <string name="pref_images_preload_value_wifi_only_summary">Разрешить браузеру загружать изображения только по Wi-Fi</string>
     <string name="pref_images_preload_value_always_summary">Разрешить браузеру загружать изображения</string>
@@ -650,7 +651,7 @@
     <string name="url_suggest_indicator_bookmark">Закладки/История</string>
     <string name="url_suggest_indicator_mostvisited">Часто посещаемые</string>
     <string name="url_find_on_page_result">Показать в браузере</string>
-    <string name="url_find_on_page_result_item">Показать весь текст по тегу \"%s\"</string>
+    <string name="url_find_on_page_result_item">Поиск на странице: %s</string>
     <string name="find_on_page_prev">Назад</string>
     <string name="find_on_page_next">Далее</string>
     <string name="find_on_page_cancel">Отмена</string>
@@ -715,6 +716,7 @@
     <string name="video_project_title">Внешний экран</string>
     <string name="video_project_msg">Отображение на %s</string>
     <string name="video_project_button">Стоп</string>
+    <string name="clear_history_by_group_alert">Очистить историю %s?</string>
     <string name="webapp_app_name">Веб маркет приложений</string>
     <string name="webapp_dialog_title">Добавить приложение на рабочий стол</string>
     <string name="webapp_add_to_desktop">На рабочий стол</string>

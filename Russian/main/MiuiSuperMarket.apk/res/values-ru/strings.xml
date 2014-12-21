@@ -212,7 +212,7 @@
     <string name="system_app_sign_not_match_fail">Ошибка установки. Несовместимая подпись приложения.</string>
     <string name="remove_package_fail">Ошибка установки. Превышено время ожидания.</string>
     <string name="expansion_fail">Не удается загрузить файл</string>
-    <string name="no_network">Сеть недоступна</string>
+    <string name="no_network">Интернет недоступен</string>
     <string name="no_data">Сеть недоступна</string>
     <string name="no_fitness">Нет подходящих программ, попробуйте найти вручную.</string>
     <string name="no_update">Обновлений нет</string>

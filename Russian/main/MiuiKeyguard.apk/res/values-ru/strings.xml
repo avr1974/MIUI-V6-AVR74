@@ -52,6 +52,7 @@ EEEE"</string>
     <string name="keyguard_torch_cover_text">Чтобы фонарик не выключился, нажмите клавишу питания.</string>
     <string name="confirm_pin_msg">Введите PIN повторно</string>
     <string name="invalid_confirm_pin_hint">PIN коды не совпадают</string>
+    <string name="unlock_string">ОК</string>
     <string name="lockscreen_emergency_call">Экстренный вызов</string>
     <string name="lockscreen_forgot_pattern_button_text">Восстановить</string>
     <string name="lockscreen_transport_prev_description">Назад</string>
@@ -70,7 +71,6 @@ EEEE"</string>
     <string name="puk_operation_failed">Ошибка PUK кода</string>
     <string name="pin_operation_failed">Ошибка PIN кода</string>
     <string name="return_to_me_message">Вы можете вернуться</string>
-    <string name="unlock_string">ОК</string>
     <string name="lockscreen_glogin_instructions">Войдите в Mi аккаунт для разблокировки</string>
     <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
     <string name="screen_on_proximity_sensor_summary">Использовать датчик приближения для предотвращения случайных нажатий на экран заблокированного телефона</string>

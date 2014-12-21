@@ -27,6 +27,7 @@
     <timezone id="Pacific/Guam">Гуам</timezone>
     <timezone id="Australia/Darwin">Дарвин</timezone>
     <timezone id="America/Denver">Денвер</timezone>
+    <timezone id="Asia/Jakarta">Джакарта</timezone>
     <timezone id="Asia/Dubai">Дубай</timezone>
     <timezone id="Asia/Yekaterinburg">Екатеринбург</timezone>
     <timezone id="Asia/Yerevan">Ереван</timezone>
@@ -39,7 +40,6 @@
     <timezone id="Asia/Karachi">Карачи</timezone>
     <timezone id="Africa/Casablanca">Касабланка</timezone>
     <timezone id="Asia/Katmandu">Катманду</timezone>
-    <timezone id="Europe/Kiev">Киев</timezone>
     <timezone id="Asia/Colombo">Коломбо</timezone>
     <timezone id="America/Costa_Rica">Коста-Рика</timezone>
     <timezone id="Asia/Krasnoyarsk">Красноярск</timezone>
@@ -70,6 +70,7 @@
     <timezone id="America/St_Johns">Сент-Джонс</timezone>
     <timezone id="Asia/Seoul">Сеул</timezone>
     <timezone id="Australia/Sydney">Сидней</timezone>
+    <timezone id="Asia/Singapore">Сингапур</timezone>
     <timezone id="Asia/Taipei">Тайбэй</timezone>
     <timezone id="Asia/Tbilisi">Тбилиси</timezone>
     <timezone id="Asia/Tehran">Тегеран</timezone>
@@ -85,5 +86,4 @@
     <timezone id="America/Chihuahua">Чиуауа</timezone>
     <timezone id="Atlantic/South_Georgia">Ю.Джорджия и Ю.Сэндвинчевы о-ва</timezone>
     <timezone id="Asia/Yakutsk">Якутск</timezone>
-    <timezone id="Asia/Jakarta">Джакарта</timezone>
 </timezones>
