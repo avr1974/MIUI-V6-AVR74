@@ -12,8 +12,8 @@
     <string name="find_device_stop_noise">Выключить</string>
     <string name="find_device_noise_title">Звук поиска устройства</string>
     <string name="error_title">Не удается синхронизировать</string>
-    <string name="error_unauthorized">Синхронизация была отключена из-за большого количества попыток входа в систему</string>
-    <string name="error_forbidden">Синхронизация была отключена из-за проблем с Mi аккаунтом</string>
+    <string name="error_unauthorized">Синхронизация отключена из-за большого количества попыток входа в систему</string>
+    <string name="error_forbidden">Синхронизация отключена из-за проблем с Mi аккаунтом</string>
     <string name="error_not_acceptable">Синхронизация отключена</string>
     <string name="error_data_in_transfer_title">Mi Cloud недоступен</string>
     <string name="error_data_in_transfer">Синхронизация завершится в течении %s ч.</string>
@@ -42,16 +42,21 @@
     <string name="mx_sub_dspt_provision">Облачные сообщения</string>
     <string name="phone_number_may_required_dspt_provision">"Этот сервис может запросить ваш номер телефона. "</string>
     <string name="phone_number_required_dspt_provision">"Этот сервис запрашивает ваш номер телефона. "</string>
+    <string name="sync_resend_sms_dspt_provision">. Если вы смените SIM карту, ваш оператор может взимать плату за SMS для повторной активации этого сервиса.</string>
     <string name="sync_dspt_provision">"Mi Cloud позволяет синхронизировать фото, контакты, сообщения и другие данные между устройствами. Также вы можете просматривать данные с компьютера через сайт "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision3">".
 "</string>
+    <string name="sync_dspt_entrance_provision">Синхронизируйте фото, контакты и сообщения.</string>
+    <string name="sync_dspt_entrance_provision_2">Подробнее</string>
     <string name="find_device_dspt_provision">"Если вы потеряли свое устройство, перейдите на сайт "</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_3">" для поиска, блокировки и очистки данных.
 "</string>
     <string name="find_device_send_sms_alert">Если вы заменили SIM карту, автоматически будет отправлена SMS для повторной активации сервисов.</string>
     <string name="mx_dspt_provision">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно</string>
+    <string name="mx_dspt_provision_privacy">"Сервис может запрашивать ваш номер телефона. Ваш оператор может взимать плату за SMS для активации этого сервиса.
+Эта функция шифрует и загружает ID устройства на сервер Xiaomi."</string>
     <string name="user_agreement_p6">"При использовании облачных сервисов вы соглашаетесь с "</string>
     <string name="user_agreement_p7">условиями пользования Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
@@ -122,7 +127,7 @@
 Когда Mi Cloud будет заполнен, ваши новые данные не будут синхронизироваться.
 
 Чтобы это избежать, удалите ненужные данные для освобождения памяти. Также вы ежемесячно можете расширять место Mi Cloud через сайт i.mi.com."</string>
-    <string name="micloud_upgrade_space">Получить больше места</string>
+    <string name="micloud_upgrade_space">Добавить место</string>
     <string name="enable_sync_dspt">Синхронизация отключена</string>
     <string name="enable_sync">Включить</string>
     <string name="cloud_find_device">Поиск устройства</string>

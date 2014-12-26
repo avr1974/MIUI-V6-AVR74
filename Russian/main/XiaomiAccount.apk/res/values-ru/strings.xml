@@ -155,6 +155,7 @@
     <string name="login_failed">Неверное имя пользователя или пароль</string>
     <string name="logout_failed">Не удается выйти из аккаунта</string>
     <string name="timeout_retry">Время ожидания запроса истекло</string>
+    <string name="no_response_retry">Сервер не отвечает</string>
     <string name="verification_failed">Ошибка проверки</string>
     <string name="error_network">Не удалось подключиться к сети</string>
     <string name="error_ssl_hand_shake">Ошибка подключения. Проверьте настройки времени.</string>
@@ -209,12 +210,12 @@
     <string name="bind_facebook">Добавить аккаунт Facebook</string>
     <string name="binded">Привязан</string>
     <string name="nobind">Не привязан</string>
-    <string name="button_unbind"><u>Отвязать</u></string>
+    <string name="button_unbind">Отвязать</string>
     <string name="unbind_weibo_description">Найдите и синхронизируйте контакты своих друзей из Sina Weibo</string>
     <string name="unbind_sns_description">После отвязки не будет возможности авторизоваться в Mi аккаунте с помощью %s</string>
     <string name="confirm_unbind">Отвязать?</string>
     <string name="binded_description" formatted="false">"%s привязан.
-Дополните свой профиль личной информацией из %s."</string>
+Дополните свой профиль личной информацией из аккаунта \"%s\"."</string>
     <string name="update_contacts">Обновление контактов</string>
     <string name="update_contacts_description">Разрешить Sina Weibo использовать ваш Mi аккаунт для синхронизации контактов между платформами</string>
     <string name="updated_nothing">Все обновлено</string>
@@ -289,6 +290,7 @@
     <string name="no_network_title">Не удается подключиться к сети</string>
     <string name="no_network_btn">Обновить</string>
     <string name="get_device_list_failed">Не удается получить список устройств</string>
+    <string name="delete_device_failed">Не удалось удалить устройство</string>
     <string name="account_dspt">С помощью Mi аккаунта вы сможете синхронизировать любые данные</string>
     <string name="account_hint_text">Email или номер телефона</string>
     <string name="account_not_activated">Аккаунт не активирован</string>

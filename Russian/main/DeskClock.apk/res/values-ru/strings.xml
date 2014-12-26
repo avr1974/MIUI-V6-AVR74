@@ -47,8 +47,8 @@
     <string name="timer_new_item">Добавить</string>
     <string name="timer_item_label_hint">Описание</string>
     <string name="shutdown_alarm_title">Включать телефон</string>
-    <string name="shutdown_alarm_enable_summary">Автоматическое включение телефона, если настроен будильник</string>
-    <string name="shutdown_alarm_disable_summary">Не включать телефон, если настроен будильник</string>
+    <string name="shutdown_alarm_enable_summary">Автоматическое включение телефона, если настроен будильник.</string>
+    <string name="shutdown_alarm_disable_summary">Не включать телефон, если настроен будильник.</string>
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="system_time_setting">Настройки</string>
     <string name="lap_num">Круг</string>
@@ -64,6 +64,7 @@
     <string name="alarm_screen">Тема</string>
     <string name="slider_text">Отключить</string>
     <string name="snooze_message">Отложить на %d мин.</string>
+    <string name="snooze_confirm_cancel">Выключить</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Часы</string>
@@ -106,7 +107,6 @@
     <string name="silent_alarm_summary">Без звука</string>
     <string name="alarm_notify_text">Отложить/выключить будильник</string>
     <string name="alarm_notify_snooze_label">Будильник: %s</string>
-    <string name="snooze_confirm_cancel">Выключить</string>
     <string name="volume_button_setting_title">Клавиши громкости</string>
     <string name="volume_button_setting_summary">Функция клавиш громкости во время срабатывания будильника</string>
     <string name="menu_item_dock_settings">Настройки док-станции</string>

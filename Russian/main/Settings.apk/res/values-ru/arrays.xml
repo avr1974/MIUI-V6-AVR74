@@ -525,8 +525,8 @@
         <item>Сбалансированный</item>
     </string-array>
     <string-array name="msd_pc_system">
-        <item>Windows XP и ранние версии</item>
-        <item>Windows Vista и версии новее</item>
+        <item>Windows XP и версии ниже</item>
+        <item>Windows Vista и версии выше</item>
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
@@ -538,7 +538,7 @@
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>Если вы установите этот драйвер, память телефона появится на компьютере.</item>
-        <item>В Windows Vista или версиях новее, музыкальный проигрыватель появится на вашем компьютере автоматически.</item>
+        <item>В Windows Vista или версиях выше, музыкальный проигрыватель появится на вашем компьютере автоматически.</item>
         <item>Если вы установите этот драйвер, компьютер автоматически откроет и прочитает память телефона.</item>
         <item></item>
     </string-array>

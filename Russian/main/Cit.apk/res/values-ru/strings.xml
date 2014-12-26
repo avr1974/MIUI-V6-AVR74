@@ -146,8 +146,10 @@
     <string name="cit_audio_cali_valueR">"Сопротивление: "</string>
     <string name="cit_audio_cali_valueT">"tCoef: "</string>
     <string name="cit_audio_cali_valueF0">"F0: "</string>
+    <string name="cit_audio_cali_valueC">Счетчик:</string>
     <string name="cit_audio_cali_failed">Ошибка калибровки</string>
     <string name="cit_aud_spkcal">Калибровка</string>
+    <string name="cit_audio_calibrating">Продолжается калибровка…</string>
     <string name="cit_OTG_plugin_check_summary">Проверка подключения OTG</string>
     <string name="cit_OTG_plugout_check_summary">Проверка отключения OTG</string>
     <string name="cit_vibrator_short">Короткая</string>

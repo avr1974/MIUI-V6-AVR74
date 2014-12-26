@@ -26,8 +26,6 @@
     <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
     <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
     <string name="time_of_day" formatted="false">%-k:%M:%S</string>
-    <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
-    <string name="date_time">%2$s, %1$s</string>
     <string name="icu_abbrev_wday_month_day_no_year">eeedMMM</string>
     <string name="byteShort">б</string>
     <string name="kilobyteShort">Кб</string>
@@ -35,9 +33,6 @@
     <string name="gigabyteShort">Гб</string>
     <string name="terabyteShort">Tб</string>
     <string name="petabyteShort">Пб</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
-    <string name="ellipsis">…</string>
-    <string name="ellipsis_two_dots">..</string>
     <string name="mmiError">Неполадки подключения или неверный код MMI</string>
     <string name="mmiFdnError">Операция возможна только для разрешенных номеров</string>
     <string name="serviceEnabled">Служба включена</string>
@@ -53,7 +48,7 @@
     <string name="invalidPin">Введите PIN код (от 4 до 8 цифр)</string>
     <string name="invalidPuk">Введите PUK код из 8 или более цифр</string>
     <string name="needPuk">SIM карта заблокирована с помощью PUK кода. Для разблокировки введите PUK код.</string>
-    <string name="needPuk2">Для разблокировки SIM карты введите PUK код 2</string>
+    <string name="needPuk2">Для разблокировки SIM карты введите PUK2</string>
     <string name="enablePin">Не удалось. Включите SIM/RUIM блокировку.</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
@@ -252,21 +247,21 @@
     <string name="permlab_processOutgoingCalls">Перехват исходящих вызовов</string>
     <string name="permdesc_processOutgoingCalls">Позволяет приложению обрабатывать исходящие вызовы. Вредоносные приложения могут отслеживать, перенаправлять или запрещать исходящие вызовы.</string>
     <string name="permlab_receiveSms">Получение SMS</string>
-    <string name="permdesc_receiveSms">Позволяет приложению получать и обрабатывать SMS-сообщения. Вредоносные приложения могут отслеживать ваши сообщения или удалять их без уведомлений.</string>
+    <string name="permdesc_receiveSms">Позволяет приложению получать и обрабатывать SMS сообщения. Вредоносные приложения могут отслеживать ваши сообщения или удалять их без уведомлений.</string>
     <string name="permlab_receiveMms">Получение MMS</string>
-    <string name="permdesc_receiveMms">Позволяет приложению получать и обрабатывать MMS-сообщения. Вредоносные приложения могут отслеживать ваши сообщения или удалять их без уведомлений.</string>
+    <string name="permdesc_receiveMms">Позволяет приложению получать и обрабатывать MMS сообщения. Вредоносные приложения могут отслеживать ваши сообщения или удалять их без уведомлений.</string>
     <string name="permlab_receiveEmergencyBroadcast">Получение широковещательных сообщений</string>
     <string name="permdesc_receiveEmergencyBroadcast">Позволяет системному приложению принимать и обрабатывать широковещательные сообщения.</string>
     <string name="permlab_readCellBroadcasts">Чтение широковещательных сообщений</string>
     <string name="permdesc_readCellBroadcasts">Позволяет приложению получать доступ к широковещательным сообщениям.</string>
     <string name="permlab_sendSms">Отправка SMS</string>
-    <string name="permdesc_sendSms">Позволяет приложению отправлять SMS-сообщения.</string>
+    <string name="permdesc_sendSms">Позволяет приложению отправлять SMS сообщения.</string>
     <string name="permlab_sendRespondViaMessageRequest">Отправка сообщений в ответ на звонки</string>
     <string name="permdesc_sendRespondViaMessageRequest">Приложение сможет отправлять запросы другим программам обмена сообщениями, чтобы на звонки можно было отвечать текстовыми сообщениями.</string>
     <string name="permlab_readSms">Чтение SMS и MMS</string>
-    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, которые хранятся в памяти телефона или на SIM карте.</string>
+    <string name="permdesc_readSms">Позволяет приложению считывать SMS сообщения, которые хранятся в памяти устройства или на SIM карте.</string>
     <string name="permlab_writeSms">Изменение сообщений</string>
-    <string name="permdesc_writeSms">Позволяет приложению изменять SMS-сообщения.</string>
+    <string name="permdesc_writeSms">Позволяет приложению изменять SMS сообщения, которые хранятся в памяти устройства или на SIM карте.</string>
     <string name="permlab_receiveWapPush">Получение WapPush-сообщений</string>
     <string name="permdesc_receiveWapPush">Позволяет приложению получать и обрабатывать WapPush-сообщения. Вредоносные приложения могут отслеживать ваши сообщения или удалять их без уведомлений.</string>
     <string name="permlab_getTasks">Информация о процессах</string>
@@ -326,7 +321,7 @@
     <string name="permlab_broadcastSmsReceived">Доставка SMS</string>
     <string name="permdesc_broadcastSmsReceived">Позволяет приложению уведомлять о доставке SMS. Вредоносные приложения могут использовать эту возможность для имитации доставки SMS.</string>
     <string name="permlab_broadcastWapPush">Рассылка WAP-сообщений</string>
-    <string name="permdesc_broadcastWapPush">Позволяет приложению отправлять уведомления о получении WAP-сообщения поставщика услуг. Вредоносные приложения могут использовать эту возможность для имитации получения MMS-сообщения или замены содержимого любой веб-страницы на вредоносное без уведомления.</string>
+    <string name="permdesc_broadcastWapPush">Позволяет приложению отправлять уведомления о получении WAP-сообщения поставщика услуг. Вредоносные приложения могут использовать эту возможность для имитации получения MMS сообщения или замены содержимого любой веб-страницы на вредоносное без уведомления.</string>
     <string name="permlab_setProcessLimit">Ограничение процессов</string>
     <string name="permdesc_setProcessLimit">Позволяет системному приложению управлять максимальным количеством выполняемых процессов.</string>
     <string name="permlab_setAlwaysFinish">Закрытие фоновых приложений</string>
@@ -747,7 +742,7 @@
     <string name="lockscreen_missing_sim_message_short">Нет SIM карты</string>
     <string name="lockscreen_missing_sim_message">SIM карта не установлена</string>
     <string name="lockscreen_missing_sim_instructions">Вставьте SIM карту</string>
-    <string name="lockscreen_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM карта отсутствует или не читается. Вставьте SIM карту.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">SIM карта повреждена</string>
     <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM карта окончательно заблокирована.
 Чтобы получить новую SIM карту, обратитесь к оператору мобильной связи"</string>
@@ -759,7 +754,7 @@
     <string name="emergency_calls_only">SOS</string>
     <string name="lockscreen_sim_error_message_short">Ошибка SIM карты</string>
     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM карта заблокирована с помощью кода PUK</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM карта заблокирована с помощью PUK кода</string>
     <string name="lockscreen_sim_puk_locked_instructions">См. руководство пользователя или свяжитесь со службой поддержки</string>
     <string name="lockscreen_sim_locked_message">SIM карта заблокирована</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
@@ -818,15 +813,11 @@
     <string name="keyguard_accessibility_password_unlock">Пароль</string>
     <string name="keyguard_accessibility_pattern_area">Поле графического ключа</string>
     <string name="keyguard_accessibility_slide_area">Поле для слайда</string>
-    <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">АБВ</string>
-    <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="granularity_label_character">символ</string>
     <string name="granularity_label_word">слово</string>
     <string name="granularity_label_link">ссылка</string>
     <string name="granularity_label_line">линия</string>
-    <string name="hour_ampm" formatted="false">%-l%P</string>
-    <string name="hour_cap_ampm" formatted="false">%-l%p</string>
     <string name="factorytest_failed">Ошибка теста</string>
     <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app</string>
     <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
@@ -843,10 +834,6 @@
     <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб</string>
     <string name="autofill_this_form">Автозаполнение</string>
     <string name="setup_autofill">Нужна настройка</string>
-    <string name="autofill_address_name_separator">" "</string>
-    <string name="autofill_address_summary_name_format">$1$2$3</string>
-    <string name="autofill_address_summary_separator">", "</string>
-    <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_province">Провинция</string>
     <string name="autofill_postal_code">Почтовый индекс</string>
     <string name="autofill_state">Штат</string>
@@ -916,13 +903,10 @@
     <string name="weeks">нед.</string>
     <string name="year">г.</string>
     <string name="years">г.</string>
-    <string name="relative_time">%1$s, %2$s</string>
     <string name="noon">полдень</string>
     <string name="Noon">Полдень</string>
     <string name="midnight">полночь</string>
     <string name="Midnight">Полночь</string>
-    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
-    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="replace">Заменить</string>
     <string name="delete">Удалить</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
@@ -989,14 +973,14 @@
     <string name="volume_music">Медиа</string>
     <string name="volume_music_hint_playing_through_bluetooth">Воспроизведение по каналу Bluetooth</string>
     <string name="volume_music_hint_silent_ringtone_selected">Выбран режим \"Без звука\"</string>
-    <string name="volume_call">Голос</string>
+    <string name="volume_call">Разговор</string>
     <string name="volume_bluetooth_call">Bluetooth</string>
     <string name="volume_alarm">Будильник</string>
     <string name="volume_notification">Громкость уведомления</string>
     <string name="volume_unknown">Громкость</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_ringer">Мелодия</string>
-    <string name="volume_icon_description_incall">Вызов</string>
+    <string name="volume_icon_description_incall">Разговор</string>
     <string name="volume_icon_description_media">Медиа</string>
     <string name="volume_icon_description_notification">Уведомление</string>
     <string name="ringtone_default">Мелодия по умолчанию</string>
@@ -1024,7 +1008,7 @@
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="wifi_p2p_frequency_conflict_message">Телефон будет временно отключен от сети Wi-Fi во время подключения к %1$s</string>
     <string name="select_character">Введите символ</string>
-    <string name="sms_control_title">Отправка SMS-сообщений</string>
+    <string name="sms_control_title">Отправка SMS сообщений</string>
     <string name="sms_control_message">Приложение \"%1$s\" пытается отправить большое количество SMS сообщений. Разрешить отправку?</string>
     <string name="sms_control_yes">ОК</string>
     <string name="sms_control_no">Отмена</string>
@@ -1038,7 +1022,7 @@
     <string name="sms_short_code_confirm_always_allow">Разрешить</string>
     <string name="sms_short_code_confirm_never_allow">Запретить</string>
     <string name="sim_removed_title">SIM карта удалена</string>
-    <string name="sim_removed_message">Пока вы не вставите действующую SIM карту, мобильная сеть будет недоступна</string>
+    <string name="sim_removed_message">Пока вы не вставите действующую SIM карту, мобильная сеть будет недоступна.</string>
     <string name="sim_done_button">Готово</string>
     <string name="sim_added_title">SIM карта добавлена</string>
     <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство</string>
@@ -1066,7 +1050,7 @@
     <string name="usb_storage_stop_error_message">При выключении USB накопителя произошла неполадка. Убедитесь, что USB-хост отключен, и повторите попытку</string>
     <string name="dlg_confirm_kill_storage_users_title">Включение USB накопителя</string>
     <string name="dlg_confirm_kill_storage_users_text">При включении USB накопителя некоторые используемые приложения могут прекратить работу и оставаться недоступными до отключения USB накопителя</string>
-    <string name="dlg_error_title">Ошибка при подключении USB</string>
+    <string name="dlg_error_title">USB операция не удалась</string>
     <string name="dlg_ok">ОК</string>
     <string name="usb_mtp_notification_title">Подключен как устройство хранения данных</string>
     <string name="usb_ptp_notification_title">Подключен как камера</string>
@@ -1084,21 +1068,19 @@
     <string name="hardware">Аппаратная часть</string>
     <string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
     <string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры</string>
-    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="candidates_style">Кандидаты</string>
-    <string name="ext_media_checking_notification_title">Подготовка карты SD</string>
+    <string name="ext_media_checking_notification_title">Подготовка SD карты</string>
     <string name="ext_media_checking_notification_message">Проверка ошибок</string>
     <string name="ext_media_nofs_notification_title">SD карта пуста</string>
-    <string name="ext_media_nofs_notification_message">SD карта пуста или использует неподдерживаемую файловую систему</string>
+    <string name="ext_media_nofs_notification_message">SD карта пуста или не поддерживается</string>
     <string name="ext_media_unmountable_notification_title">SD карта повреждена</string>
-    <string name="ext_media_unmountable_notification_message">SD карта повреждена. Попробуйте отформатировать ее.</string>
+    <string name="ext_media_unmountable_notification_message">Требуется форматирование</string>
     <string name="ext_media_badremoval_notification_title">SD карта неожиданно извлечена</string>
-    <string name="ext_media_badremoval_notification_message">Перед извлечением карты SD отключите ее во избежание потери данных</string>
-    <string name="ext_media_safe_unmount_notification_title">Безопасное удаление SD карты</string>
+    <string name="ext_media_badremoval_notification_message">Безопасно извлеките SD карту перед отключением</string>
+    <string name="ext_media_safe_unmount_notification_title">SD карта отключена</string>
     <string name="ext_media_safe_unmount_notification_message">Можно безопасно извлечь SD карту</string>
-    <string name="ext_media_nomedia_notification_title">Отсутствует SD карта</string>
-    <string name="ext_media_nomedia_notification_message">SD карта извлечена. Вставьте новую карту.</string>
+    <string name="ext_media_nomedia_notification_title">SD карта отключена</string>
+    <string name="ext_media_nomedia_notification_message">Можно подключить другую SD карту</string>
     <string name="activity_list_empty">Подходящих действий не найдено</string>
     <string name="permlab_pkgUsageStats">Обновление статистики</string>
     <string name="permdesc_pkgUsageStats">Позволяет системному приложению изменять собранную статистику использования компонентов.</string>

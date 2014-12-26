@@ -95,9 +95,9 @@
     <string-array name="sync_status">
         <item>Готово</item>
         <item>Нет соединения</item>
-        <item>Невозможно авторизироваться</item>
+        <item>Невозможно авторизоваться</item>
         <item>Ошибка безопасности</item>
         <item>Невозможно синхронизировать</item>
-        <item>Внутренняя ошибка</item>
+        <item>Ошибка сервера</item>
     </string-array>
 </resources>

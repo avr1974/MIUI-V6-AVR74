@@ -208,12 +208,10 @@
     <string name="traffic_config_alert_nomore">Запомнить</string>
     <string name="traffic_config_alert_body">"Данные мобильного оператора показывают, что трафика осталось: %s.
 Обновить локальные данные трафика?"</string>
-    <string name="traffic_config_alert_body_normal">"
-Данные мобильного оператора показывают, что трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
-    <string name="traffic_config_alert_body_leisure">"
-Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Это значение отличается от локального на %2$s."</string>
+    <string name="traffic_config_alert_body_normal">Данные мобильного оператора показывают, что трафика осталось: %1$s. Это значение отличается от локального на %2$s.</string>
+    <string name="traffic_config_alert_body_leisure">Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Это значение отличается от локального на %2$s.</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-Данные мобильного оператора показывают, что дополнительного трафика осталось: %s. Локальный трафик не установлен."</string>
+Данные мобильного оператора показывают, что дополнительного трафика осталось: %1$s. Локальный трафик не установлен."</string>
     <string name="traffic_config_alert_body_extra">"
 Вы приобрели %1$s дополнительного трафика в этом месяце. Это отличается от %2$s, который вы добавили вручную."</string>
     <string name="traffic_config_alert_body_extra_notset">"
@@ -236,7 +234,7 @@
     <string name="datausage_purchase_get_captcha_failed">Не удается получить проверочный код. Проверьте параметры сети.</string>
     <string name="datausage_purchase_confirm_tip">Заказ:</string>
     <string name="datausage_purchase_ordering">Покупка…</string>
-    <string name="datausage_purchase_result_ok">"Вы приобрели %s
+    <string name="datausage_purchase_result_ok">"Вы приобрели %s.
 Прочтите полученную SMS для получения подробной информации."</string>
     <string name="datausage_purchase_result_failed">Не удается завершить покупку</string>
     <string name="datausage_purchase_backto_ns">Назад</string>

@@ -242,7 +242,7 @@
     <string name="can_not_create_long_event">Слишком продолжительное мероприятие</string>
     <string name="from_google_group_calendar">Календарь Google</string>
     <string name="more_string">Еще %1$s…</string>
-    <string name="copy_email">Скопировать адрес Email</string>
-    <string name="copy_number">Скопировать номер телефона</string>
+    <string name="copy_email">Копировать адрес Email</string>
+    <string name="copy_number">Копировать номер телефона</string>
     <string name="done">Готово</string>
 </resources>

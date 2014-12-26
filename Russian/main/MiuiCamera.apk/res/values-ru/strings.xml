@@ -27,7 +27,7 @@
     <string name="pref_video_quality_entry_720p">HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>
     <string name="pref_video_time_lapse_frame_interval_title">Интервал</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_2">Интервал 0.16 сек.(2 раза)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_2">Интервал 0.06 сек.(2 раза)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">Интервал 0.12 сек.(4 раза)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Интервал 0.3 сек.(10 раз)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_30">Интервал 1 сек.(30 раз)</string>
@@ -138,7 +138,7 @@
     <string name="pref_camera_scenemode_entry_beach">Пляж</string>
     <string name="pref_camera_scenemode_entry_snow">Снег</string>
     <string name="pref_camera_scenemode_entry_sunset">Закат</string>
-    <string name="pref_camera_scenemode_entry_fireworks">Фейрверк</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Фейерверк</string>
     <string name="pref_camera_scenemode_entry_sports">Спорт</string>
     <string name="pref_camera_scenemode_entry_backlight">Подсветка</string>
     <string name="pref_camera_scenemode_entry_flowers">Цветы</string>
@@ -283,7 +283,7 @@
     <string name="pref_capture_settings">Съемка фото</string>
     <string name="pref_camcorder_settings">Съемка видео</string>
     <string name="pref_advance_settings">Дополнительно</string>
-    <string name="pref_camera_auto_chroma_flash_title">Режим Chroma Flash</string>
+    <string name="pref_camera_auto_chroma_flash_title">Вспышка Chroma</string>
     <string name="pref_camera_ubifocus_title">Комбо фокус</string>
     <string name="simple_mode_button_text_ubifocus">Отключить комбо фокус</string>
     <string name="cannot_move_warning_message">При съемке не двигайте устройство</string>
@@ -309,6 +309,7 @@
     <string name="pref_camera_long_press_shutter_feature_title">Удерживание клавиши съемки</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокус</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Снимок</string>
+    <string name="pref_camera_asd_title">Автоопределение сцен</string>
     <string name="edit">Изменить</string>
     <string name="details">Информация</string>
     <string name="path">Путь</string>
@@ -353,7 +354,7 @@
     <string name="contact_birthday">День рождения</string>
     <string name="contact_company">Компаниия</string>
     <string name="contact_details">Информация о контакте:</string>
-    <string name="contact_email">Почта</string>
+    <string name="contact_email">Email</string>
     <string name="contact_name">Имя</string>
     <string name="contact_nickname">Ник</string>
     <string name="contact_note">Заметка</string>
@@ -386,7 +387,7 @@
     <string name="effect_silly_faces">Смешные рожицы</string>
     <string name="error_app_unsupported">Данный вид кодировки не поддерживает это разрешение</string>
     <string name="error_app_unsupported_hfr_720p">Разрешение 720p поддерживает до 90 FPS</string>
-    <string name="error_app_unsupported_hfr_codec">Поддердживается только формат H264, когда HFR включен.</string>
+    <string name="error_app_unsupported_hfr_codec">Поддерживается только формат H264, когда HFR включен.</string>
     <string name="error_app_unsupported_raw_wavelet">Устранение шумов не работает при съемке в формате RAW</string>
     <string name="exposure_time">Выдержка</string>
     <string name="face_beauty_intelligent_title">Улучшение тона кожи</string>

@@ -24,8 +24,8 @@
     <string name="miui_summary_no_new_version">Нет обновлений</string>
     <string name="button_text_check">Проверить обновление</string>
     <string name="button_text_update">Обновить</string>
-    <string name="button_text_reboot">Перезагрузить</string>
-    <string name="button_text_reboot_hm">Перезагрузить</string>
+    <string name="button_text_reboot">Перезагрузка</string>
+    <string name="button_text_reboot_hm">Перезагрузка</string>
     <string name="button_text_later_reboot">Позже</string>
     <string name="download_title_first">Получение данных обновления</string>
     <string name="download_title_full_download">Прошивка загружена и готова к установке</string>
@@ -70,7 +70,7 @@
     <string name="notification_reboot_title_hm">Обновление установлено</string>
     <string name="notification_reboot_summary_hm">Нажмите для перезагрузки</string>
     <string name="notification_reboot_des">Обновлено завершено: %s. Требуется перезагрузка.</string>
-    <string name="notification_reboot_btn">Перезагрузить</string>
+    <string name="notification_reboot_btn">Перезагрузка</string>
     <string name="notification_reboot_seccess_title">Обновление завершено</string>
     <string name="notification_reboot_seccess_des">Рассказать друзьям</string>
     <string name="notification_share">Поделиться</string>
@@ -89,7 +89,7 @@
     <string name="space_not_enough_msg">Недостаточно места для загрузки прошивки</string>
     <string name="no_wifi_title">Предупреждение</string>
     <string name="no_wifi_msg">Размер прошивки слишком большой, рекомендуется скачать его по сети Wi-Fi. Продолжить загрузку через мобильный интернет?</string>
-    <string name="go_on_download">Продолжить загрузку</string>
+    <string name="go_on_download">Загрузить</string>
     <string name="pause">Пауза</string>
     <string name="repeat">Повтор</string>
     <string name="user_begin">ОК</string>

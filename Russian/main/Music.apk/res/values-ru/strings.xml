@@ -15,7 +15,7 @@
     <string name="lrc_search_failed">Текст песни не найден</string>
     <string name="lrc_searching">Поиск текста песни…</string>
     <string name="lyric_open_other_connect">Загрузка текстов через мобильный интернет</string>
-    <string name="playback_failed_no_title_by_bad_file">Невозможно воспроизвести трек. Файл не существует или не поддерживается.</string>
+    <string name="playback_failed_no_title_by_bad_file">Тип файла не поддерживается или файл не существует</string>
     <string name="streamloadingtext">Подключение к %s</string>
     <string name="error_title">Не удается синхронизировать</string>
     <string name="error_unauthorized">Синхронизация отключена из-за большого количества попыток авторизации</string>
@@ -88,7 +88,7 @@
     <string name="format_unsupported">Тип файла не поддерживается</string>
     <string name="fail_to_play">Не удается воспроизвести трек</string>
     <string name="my_music_empty">Нет треков</string>
-    <string name="my_music_empty_goto_online">Плейлист пуст. Добавьте треки из вкладки \"Онлайн\".</string>
+    <string name="my_music_empty_goto_online">Нет треков</string>
     <string name="click_to_shuffle">Перемешать</string>
     <string name="send_to_title">Отправить (%1$s)</string>
     <string name="dialog_title_add_playlist">Добавить плейлист</string>
@@ -128,7 +128,7 @@
     <string name="download_auto_when_all_network">Загрузка по мобильному интернету и сети Wi-Fi</string>
     <string name="download_auto_quality_alert_title">Качество загружаемой музыки</string>
     <string name="download_auto_quality_alert_sub_title_for_expired">Ваш период подписки истек. Выберите другое качество музыки.</string>
-    <string name="download_auto_quality_alert_sub_title_for_login">Для включения этой функции войдите в Mi аккаунт</string>
+    <string name="download_auto_quality_alert_sub_title_for_login">Для включения этой функции необходимо войти в Mi аккаунт</string>
     <string name="download_auto_cancel">Режим загрузки избранных отключен</string>
     <string name="download_auto_message">Избранные треки будут загружаться автоматически при активной сети Wi-Fi. Вы можете отключить загрузку в настройках музыки.</string>
     <string name="download_quality">Качество загрузки</string>
@@ -193,7 +193,7 @@
     <string name="search_title_album">Альбомы</string>
     <string name="search_title_song">Треки</string>
     <string name="metered_alert">Предупреждение</string>
-    <string name="metered_alert_msg">Разрешить загрузку онлайн музыки по мобильному интернету?</string>
+    <string name="metered_alert_msg">Разрешить загрузку музыки по мобильному интернету?</string>
     <string name="metered_allow">ОК</string>
     <string name="metered_disallow">Отмена</string>
     <string name="metered_play_toast">Воспроизведение музыки онлайн</string>
@@ -228,7 +228,7 @@
     <string name="filter_by_duration_min">0 сек.</string>
     <string name="filter_by_duration_max">5 мин.</string>
     <string name="filter_by_duration_format">%2$d мин. %5$2d сек.</string>
-    <string name="no_local_source_find">Ошибка отправки. Не удается найти локальные треки.</string>
+    <string name="no_local_source_find">Файл не найден</string>
     <string name="start_to_play">Играть</string>
     <string name="can_not_find_resource">Не удается найти ресурсы</string>
     <string name="modify_song_info">Изменить информацию о треке</string>
@@ -257,7 +257,7 @@
     <string name="modify_progress_helper">Прокручивайте текст</string>
     <string name="no_introduction">Нет описания</string>
     <string name="lyric_is_empty">Текст песни недоступен</string>
-    <string name="format_not_support">Формат файла не поддерживается</string>
+    <string name="format_not_support">Тип файла не поддерживается</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="device_connected">Подключено</string>
     <string name="device_not_connected">Не подключено</string>

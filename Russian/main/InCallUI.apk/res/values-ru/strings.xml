@@ -12,7 +12,7 @@
     <string name="inCallLabel">Интерфейс вызовов</string>
     <string name="onscreen_add_call_text">Добавить</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
-    <string name="onscreen_audio_mode_handset">Громкая связь</string>
+    <string name="onscreen_audio_mode_handset">Динамик телефона</string>
     <string name="onscreen_audio_mode_headset">Гарнитура</string>
     <string name="onscreen_audio_mode">Способ ответа</string>
     <string name="onscreen_audio_mode_speaker">Громкая связь</string>
@@ -470,7 +470,6 @@
 Возможно, вам следует найти зону с более высоким уровнем сигнала (у окна или на улице).
 
 Повторите попытку или свяжитесь со службой поддержки"</string>
-    <string name="ota_spc_failure">ПРЕВЫШЕНИЕ ЧИСЛА ОШИБОК SPC</string>
     <string name="ota_call_end">Назад</string>
     <string name="ota_try_again">Повторите попытку</string>
     <string name="ota_next">Далее</string>

@@ -4,14 +4,11 @@
     <string name="audio_effect_info">Улучшение звука</string>
     <string name="audio_effect_custom">Настроить</string>
     <string name="app_label">Панель уведомлений</string>
-    <string name="status_bar_recent_inspect_item_title">О приложении</string>
     <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
     <string name="battery_low_title">Батарея разряжена</string>
-    <string name="battery_low_subtitle">Подключите зарядное устройство</string>
     <string name="battery_low_percent_format">Осталось %d%%</string>
     <string name="invalid_charger">"Зарядка по USB-порту не поддерживается.
 Используйте зарядное устройство из комплекта поставки"</string>
-    <string name="battery_low_why">Статистика</string>
     <string name="status_bar_settings_airplane">Режим полета</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
@@ -210,9 +207,12 @@ d MMMM yyyy"</string>
     <string name="usb_share_net_info">Использовать интернет компьютера</string>
     <string name="hint_for_long_press_app_switch_key">Удерживайте для входа в меню</string>
     <string name="battery_profiles">Режимы батареи</string>
+    <string name="battery_low_subtitle">Подключите зарядное устройство</string>
+    <string name="battery_low_why">Статистика</string>
     <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
     <string name="screen_button_enabled_message">Клавиши навигации включены</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован</string>
+    <string name="status_bar_recent_inspect_item_title">О приложении</string>
     <string name="status_bar_toggle_ac">Доступ</string>
     <string name="status_bar_toggle_auto_brightness">Подсветка</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -241,4 +241,6 @@ d MMMM yyyy"</string>
     <string name="status_bar_toggle_vibrate">Вибрация</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
+    <string name="status_sim_1">SIM 1</string>
+    <string name="status_sim_2">SIM 2</string>
 </resources>

@@ -194,7 +194,7 @@
     <string name="open_single_image_failure">Не удалось загрузить изображение</string>
     <string name="damaged_file">Файл поврежден</string>
     <string name="must_pick_file">Выберите изображение</string>
-    <string name="set_lock_or_wallpaper">Как фон</string>
+    <string name="set_lock_or_wallpaper">Как обои</string>
     <string name="set_lock_and_wallpaper">Установка обоев…</string>
     <string name="set_wallpaper">Установка обоев на рабочий стол…</string>
     <string name="set_lockscreen">Установка обоев на экран блокировки…</string>
@@ -281,7 +281,7 @@
     <string name="error_should_not_select_image">Тип файла не поддерживается</string>
     <string name="error_should_not_select_video">Тип файла не поддерживается</string>
     <string name="storage_all_volumes">Все накопители</string>
-    <string name="settings_i_xiaomi_com">i.mi.com</string>
+    <string name="settings_i_xiaomi_com">Посетите сайт i.mi.com для просмотра фото и видео с любого устройства</string>
     <string name="big_screen_alertdialog_title">Список устройств</string>
     <string name="cloud_gallery_space_full">Облачное хранилище заполнено</string>
     <string name="share_album_space_full">Выбранный альбом заполнен</string>

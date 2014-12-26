@@ -175,7 +175,7 @@
     <string name="account_setup_security_policies_required_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства. Завершить настройку этого аккаунта?</string>
     <string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
     <string name="account_setup_server_acc_manager_title">Аккаунт</string>
-    <string name="account_setup_service_not_set">Почтовая служба еще не настроена</string>
+    <string name="account_setup_service_not_set">Аккаунт еще не настроен</string>
     <string name="account_setup_username_password_toast">Введите действительный адрес Email и пароль</string>
     <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, создайте новый аккаунт.</string>
     <string name="account_sync_off">Синхронизация аккаунта выключена</string>
@@ -202,7 +202,7 @@
     <string name="allread">Прочитать все</string>
     <string name="always_bcc_myself">Отправлять копию себе</string>
     <string name="always_show_images">Всегда показывать изображения</string>
-    <string name="always_show_images_toast">Изображения от этого отправителя будут отображаться всегда автоматически</string>
+    <string name="always_show_images_toast">Изображения от этого отправителя всегда будут отображаться автоматически</string>
     <string name="annex_size">Вложения</string>
     <string name="app_name">Почта</string>
     <string name="archive">Архивировать</string>
@@ -264,7 +264,7 @@
     <string name="cc_attribution">Копия: %1$s</string>
     <string name="cc_bcc">Копия</string>
     <string name="cc_heading">"Копия: "</string>
-    <string name="change_account_confirm">Улалить аккаунт \"%1$s\"?</string>
+    <string name="change_account_confirm">Удалить аккаунт \"%1$s\"?</string>
     <string name="change_account_type">Изменить тип аккаунта</string>
     <string name="change_folders_selection_dialog_title">Изменить папку</string>
     <string name="change_sync_settings">Настройки синхронизации</string>
@@ -276,7 +276,7 @@
     <string name="chat_view_retract_quote_text">---Скрыть цитируемый текст---</string>
     <string name="chat_view_title">Показывать диалоги</string>
     <string name="check_setup_data">Проверка параметров сервера…</string>
-    <string name="checking_for_mail">Проверка почты</string>
+    <string name="checking_for_mail">Проверка почты…</string>
     <string name="choosertitle_sharevia">Отправить через</string>
     <string name="clear">Очистить</string>
     <string name="clear_display_images_whitelist_dialog_message">Не отображать принятые изображения автоматически</string>
@@ -320,14 +320,14 @@
     <string name="contextmenu_sharelink">Отправить ссылку</string>
     <string name="contextmenu_sms_dot">SMS…</string>
     <string name="conversation_content_provider">Хранилище диалогов</string>
-    <string name="conversation_folder_moved">Перемещено в %1$s</string>
+    <string name="conversation_folder_moved">Перемещено в \"%1$s\"</string>
     <string name="conversation_item_mark_read">Прочитано</string>
     <string name="conversation_item_mark_unread">Не прочитано</string>
     <string name="conversation_list_net_check">Не удается подключиться к интернету</string>
     <string name="conversation_overload_toast">Это сообщение слишком большое, прочтите его с компьютера.</string>
     <string name="conversation_photo_welcome_text">Нажмите на иконку контакта для выбора диалога</string>
-    <string name="copy_email">Скопировать адрес почты</string>
-    <string name="copy_number">Скопировать номер телефона</string>
+    <string name="copy_email">Копировать адрес Email</string>
+    <string name="copy_number">Копировать номер телефона</string>
     <string name="create_action">Создать</string>
     <string name="custom_from_account_label">Отправить сообщение как:</string>
     <string name="date_heading">"Дата: "</string>
@@ -409,11 +409,11 @@
     <string name="flow_saved_preference_total">Экономия трафика: %1$s</string>
     <string name="folder_icon_desc">Иконка папки</string>
     <string name="folder_picker_title">Выбор папки</string>
-    <string name="folder_removed">Удалено из %1$s</string>
+    <string name="folder_removed">Удалено из \"%1$s\"</string>
     <string name="folder_shortcut_widget_label">Папка почты</string>
     <string name="forward">Переслать</string>
     <string name="forward_attachment">Далее</string>
-    <string name="forward_attribution">---------- Перенаправленное сообщение ----------От: %1$s | Дата: %2$s | Тема: %3$s | Кому: %4$s</string>
+    <string name="forward_attribution">---------- Перенаправленное сообщение ----------&lt;br>От: %1$s | &lt;br>Дата: %2$s | &lt;br>Тема: %3$s | &lt;br>Кому: %4$s</string>
     <string name="forward_attribution_no_headers">---------- Перенаправленное сообщение ----------</string>
     <string name="forward_download_failed_ticker">Ошибка при пересылке вложений</string>
     <string name="forward_download_failed_title">Не удалось переслать вложение</string>
@@ -451,7 +451,7 @@
     <string name="inline_picture_deleted">Загрузка изображения…</string>
     <string name="inline_picture_download_complete">Загрузка изображения завершена</string>
     <string name="input_password_prompt">Введите пароль:</string>
-    <string name="invalid_recipient">Неверный адрес почты \"%s\"</string>
+    <string name="invalid_recipient">Неверный адрес \"%s\"</string>
     <string name="kilobytes">%s Кб</string>
     <string name="load_from_remote">Продолжить поиск на сервере</string>
     <string name="load_more">Загрузить еще</string>
@@ -628,9 +628,9 @@
     <string name="permission_read_attachment_desc">Разрешить приложению открывать вложения в электронной почте</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
     <string name="phone">телефон</string>
-    <string name="photo_load_failed">Невозможно загрузить изображение</string>
+    <string name="photo_load_failed">Не удалось загрузить изображение</string>
     <string name="photo_view_count" formatted="false">%d из %d</string>
-    <string name="please_fill_in_your_mailbox_information">Введите ваши данные аккаунта: %s</string>
+    <string name="please_fill_in_your_mailbox_information">Введите ваши данные аккаунта %s:</string>
     <string name="please_fill_in_your_mailbox_information2">Введите данные:</string>
     <string name="please_wait">Пожалуйста, подождите…</string>
     <string name="policy_app_blacklist">Запретить выбранные приложения</string>
@@ -672,9 +672,9 @@
     <string name="preference_removal_action_title">Архивация и удаление</string>
     <string name="preference_sender_image_description">Отображать иконки контактов рядом с именем в списке диалогов</string>
     <string name="preference_sender_image_title">Иконки контактов</string>
-    <string name="preference_swipe_description">Действие слайдом в списке диалогов</string>
-    <string name="preference_swipe_title_archive">Архивирование слайдом</string>
-    <string name="preference_swipe_title_delete">Удаление слайдом</string>
+    <string name="preference_swipe_description">Сдвиньте влево в списке диалогов для отметки или удаления</string>
+    <string name="preference_swipe_title_archive">Архивирование жестом</string>
+    <string name="preference_swipe_title_delete">Удаление и отметка жестом</string>
     <string name="preferences_default_reply_all_summary">Использовать как шаблон сообщения</string>
     <string name="preferences_default_reply_all_title">Ответить всем</string>
     <string name="preferences_signature_dialog_title">Подпись</string>
@@ -715,11 +715,11 @@
     <string name="remote_search_result">Сообщений на сервере найдено: %s</string>
     <string name="remove_account">Удалить аккаунт</string>
     <string name="remove_account_confirm">Удалить аккаунт \"%1$s\"?</string>
-    <string name="remove_folder">Удалить из %1$s</string>
+    <string name="remove_folder">Удалить из \"%1$s\"</string>
     <string name="remove_star">Из избранных</string>
     <string name="reply">Ответить</string>
     <string name="reply_all">Ответить всем</string>
-    <string name="reply_attribution" formatted="false">%s | Дата: %s | Сообщение:</string>
+    <string name="reply_attribution" formatted="false">%s | От: %s | Сообщение:</string>
     <string name="reply_subject_label">"Re: "</string>
     <string name="replyto_heading">"Ответить: "</string>
     <string name="report">Отчет</string>
@@ -789,7 +789,7 @@
     <string name="str_select_all">Выбрать все</string>
     <string name="str_select_none">Снять выбор</string>
     <string name="subject_hint">Тема</string>
-    <string name="swipe_down_to_refresh">Обновление слайдом вниз</string>
+    <string name="swipe_down_to_refresh">Потяните вниз для обновления</string>
     <string name="switch_as_tranditional_view">Стандартный режим</string>
     <string name="sync_error">Ошибка синхронизации</string>
     <string name="sync_error_message">Недостаточно памяти для синхронизации</string>
@@ -826,7 +826,8 @@
     <string name="validation_failed_prompt">Проверка не завершена. Проверьте параметры сервера: %s</string>
     <string name="via_domain">через %1$s</string>
     <string name="view_more_conversations">Показать другие диалоги</string>
-    <string name="wait_for_manual_sync_body">Этот аккаунт не настроен для автоматической синхронизации</string>
+    <string name="wait_for_manual_sync_body">"Этот аккаунт не настроен для автоматической синхронизации.
+Нажмите "<b>Синхронизировать</b> для синхронизации или <b>Настройки синхронизации</b> для настройки синхронизации.</string>
     <string name="wait_for_sync_body">Почта скоро появится</string>
     <string name="wait_for_sync_body_2">Сервер Exchange будет открыт в течение 1-30 секунд. Пожалуйста, подтвердите параметры безопасности и активируйте аккаунт. Обратите внимание на систему оповещения.</string>
     <string name="wait_for_sync_body_txt_array_1">Сервер Exchange ответит в течение</string>
