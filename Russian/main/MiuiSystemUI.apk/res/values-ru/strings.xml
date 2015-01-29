@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="audio_effect_settings">Тип гарнитуры</string>
-    <string name="audio_effect_info">Улучшение звука</string>
-    <string name="audio_effect_custom">Настроить</string>
-    <string name="app_label">Панель уведомлений</string>
+    <string name="app_label">Уведомления</string>
     <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
     <string name="battery_low_title">Батарея разряжена</string>
     <string name="battery_low_percent_format">Осталось %d%%</string>
@@ -98,8 +95,8 @@ d MMMM yyyy"</string>
     <string name="description_direction_up">Вверх для %s</string>
     <string name="description_direction_left">Влево для %s</string>
     <string name="description_target_search">Поиск</string>
-    <string name="status_bar_recent_memory_info1">"%s "</string>
-    <string name="status_bar_recent_memory_info2">" %s доступно"</string>
+    <string name="status_bar_recent_memory_info1">Свободно %1$s из %2$s</string>
+    <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">USB накопитель</string>
     <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
     <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
@@ -207,6 +204,11 @@ d MMMM yyyy"</string>
     <string name="usb_share_net_info">Использовать интернет компьютера</string>
     <string name="hint_for_long_press_app_switch_key">Удерживайте для входа в меню</string>
     <string name="battery_profiles">Режимы батареи</string>
+    <string name="oldman_airplane_mode_text">полет</string>
+    <string name="oldman_incall_text">вызов</string>
+    <string name="audio_effect_settings">Тип гарнитуры</string>
+    <string name="audio_effect_info">Улучшение звука</string>
+    <string name="audio_effect_custom">Настроить</string>
     <string name="battery_low_subtitle">Подключите зарядное устройство</string>
     <string name="battery_low_why">Статистика</string>
     <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>

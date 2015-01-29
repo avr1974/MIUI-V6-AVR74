@@ -19,6 +19,7 @@
     <string name="error_data_in_transfer">Синхронизация завершится в течении %s ч.</string>
     <string name="activate">Активировать</string>
     <string name="no_sim">Нет SIM карты</string>
+    <string name="find_device_status_ok">Поиск вашего устройства через сайт i.mi.com</string>
     <string name="account">Аккаунт</string>
     <string name="verify">Проверить</string>
     <string name="next">Далее</string>
@@ -60,6 +61,7 @@
     <string name="user_agreement_p6">"При использовании облачных сервисов вы соглашаетесь с "</string>
     <string name="user_agreement_p7">условиями пользования Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
+    <string name="user_agreement_title">Условия пользования Mi Cloud</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="loading">Загрузка…</string>
     <string name="license_host_unreachable">Не удается подключиться к интернету. Для просмотра информации, перейдите на %s.</string>
@@ -190,6 +192,12 @@
     <string name="micloud_check_sim_title">SIM карта заменена. Войдите в Mi аккаунт для повторной активации сервисов Mi Cloud.</string>
     <string name="micloud_check_sim_notify_title">Активировать Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">SIM карта заменена. Войдите в Mi аккаунт для повторной активации сервисов Mi Cloud.</string>
+    <string name="micloud_setting_contact_summary">Фото и данные контактов</string>
+    <string name="micloud_setting_sms_summary">SMS и MMS сообщения</string>
+    <string name="micloud_setting_gallery_summary">Фото и видео</string>
+    <string name="micloud_setting_browser_summary">Закладки и история</string>
+    <string name="micloud_setting_music_summary">Плейлисты и избранное</string>
+    <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
     <string name="upgrade_space_gb">Гб</string>
     <string name="upgrade_space_tb">Тб</string>
     <string name="upgrade_space_mibipreyear">%s Mi Credits в год</string>

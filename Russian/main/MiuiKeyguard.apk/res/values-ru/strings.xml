@@ -9,7 +9,7 @@
     <string name="forget_password_string">Забыли пароль</string>
     <string name="input_puk_code">Введите PUK код</string>
     <string name="unlocking_sim_card">Разблокировка SIM карты</string>
-    <string name="input_pin_code">Введите PIN код</string>
+    <string name="input_pin_code">Введите PIN</string>
     <string name="incorrect_pukcode_remaining_attempts">Неверный PUK код. Осталось попыток: %d</string>
     <string name="incorrect_pincode_remaining_attempts">Неверный PIN код. Осталось попыток: %d</string>
     <string name="incorrect_pukcode">Неверный PUK код</string>
@@ -34,7 +34,7 @@ EEEE"</string>
     <string name="phone_locked_timeout_seconds_string">Повторите попытку через %s сек.</string>
     <string name="phone_locked_timeout_minutes_string">Повторите попытку через %s мин.</string>
     <string name="input_password_hint_text">Введите пароль</string>
-    <string name="unlock_sim_string">Разблокировать SIM карту</string>
+    <string name="unlock_sim_string">Введите PIN</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="lockscreen_access_pattern_start">Начало ключа</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>
@@ -53,6 +53,9 @@ EEEE"</string>
     <string name="confirm_pin_msg">Введите PIN повторно</string>
     <string name="invalid_confirm_pin_hint">PIN коды не совпадают</string>
     <string name="unlock_string">ОК</string>
+    <string name="open_camera_hint_text">Проведите влево для доступа к камере</string>
+    <string name="open_remote_center_hint_text">Проведите влево для доступа к Mi пульту</string>
+    <string name="click_to_enter_text">Открыть</string>
     <string name="lockscreen_emergency_call">Экстренный вызов</string>
     <string name="lockscreen_forgot_pattern_button_text">Восстановить</string>
     <string name="lockscreen_transport_prev_description">Назад</string>

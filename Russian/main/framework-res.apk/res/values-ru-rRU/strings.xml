@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Отмена</string>
-    <string name="copy">Копир.</string>
+    <string name="copy">Копировать</string>
     <string name="copyUrl">Копировать URL</string>
     <string name="cut">Вырезать</string>
     <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
@@ -12,7 +12,7 @@
     <string name="ok">ОК</string>
     <string name="paste">Вставить</string>
     <string name="search_go">Поиск</string>
-    <string name="selectAll">Выбр.все</string>
+    <string name="selectAll">Выбрать</string>
     <string name="unknownName">(Неизвестно)</string>
     <string name="untitled">&lt;без названия></string>
     <string name="VideoView_error_button">ОК</string>
@@ -124,9 +124,9 @@
     <string name="httpErrorFileNotFound">Не удалось найти указанные файлы</string>
     <string name="httpErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее</string>
     <string name="notification_title">Ошибка входа (%1$s)</string>
-    <string name="contentServiceSync">Синхр.</string>
-    <string name="contentServiceSyncNotificationTitle">Синхр.</string>
-    <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений %s</string>
+    <string name="contentServiceSync">Синхронизация</string>
+    <string name="contentServiceSyncNotificationTitle">Синхронизация</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений: %s</string>
     <string name="low_memory">Память телефона заполнена! Удалите файлы, чтобы освободить место</string>
     <string name="ssl_ca_cert_warning">Сеть может контролироваться</string>
     <string name="ssl_ca_cert_noti_by_unknown">От неизвестного</string>
@@ -1154,7 +1154,7 @@
     <string name="media_removed">SD карта была отключена</string>
     <string name="media_shared">Сейчас SD карта используется компьютером</string>
     <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
-    <string name="share">Отпр.</string>
+    <string name="share">Отправить</string>
     <string name="find">Найти</string>
     <string name="websearch">Поиск</string>
     <string name="find_next">Найти далее</string>
@@ -1424,4 +1424,33 @@
     <string name="webviewchromium_profiler_stopped_toast">Профилировщик остановлен. Результат: %1$s.</string>
     <string name="webviewchromium_profiler_no_storage_toast">Не удается запустить профилировщик. Внешняя память не готова.</string>
     <string name="webviewchromium_profiler_error_toast">Не удалось запустить профилировщик</string>
+    <string name="global_action_reboot">Перезагрузка</string>
+    <string name="reboot_title">Перезагрузка</string>
+    <string name="tethered_notification_multi_device_message">Подключенных устройств: %1$s</string>
+    <string name="tethered_notification_no_device_message">Нет подключенных устройств</string>
+    <string name="tethered_notification_one_device_message">Подключенных устройств: %1$s</string>
+    <string name="transport_destination_string">Бэкап только для отладки кэша</string>
+    <string name="usb_charging_notification_title">Подключено в режиме зарядки</string>
+    <string name="edp_brightness_limited">Предел яркости</string>
+    <string name="edp_camera_flash_limited">Предел вспышки камеры</string>
+    <string name="edp_volume_limited">Предел громкости</string>
+    <string name="global_action_sleep">Сон</string>
+    <string name="global_actions_miracast_connection_failed_status">Ошибка подключения</string>
+    <string name="global_actions_miracast_connection_progress_status">Подключение к дисплею</string>
+    <string name="global_actions_miracast_mode_airplane_on_status">Недоступно в режиме полета</string>
+    <string name="global_actions_miracast_mode_cancel_connection_status">Отмена подключения</string>
+    <string name="global_actions_miracast_mode_off_status_many_paired">Подключиться к ранее привязанному дисплею</string>
+    <string name="global_actions_miracast_mode_off_status_no_paired">Подключиться к дисплею</string>
+    <string name="global_actions_miracast_mode_off_status_single_paired">"Подключиться к "</string>
+    <string name="global_actions_miracast_mode_on_status">Остановить вещание</string>
+    <string name="global_actions_miracast_mode_pc2thor_on_status">Вещание недоступно из-за защиты ПК</string>
+    <string name="global_actions_miracast_mode_wifi_off_status">Для подключения необходимо активное соединение к сети Wi-Fi</string>
+    <string name="global_actions_miracast_sink_not_found_status">Не удается найти дисплей</string>
+    <string name="global_actions_miracast_sink_search_status">Поиск дисплея...</string>
+    <string name="global_actions_toggle_miracast_mode">Беспроводной дисплей Miracast</string>
+    <string name="p2p_wifi_frequency_conflict_message">Wi-Fi Direct отключен. Продолжить?</string>
+    <string name="permdesc_nvidiaCPUPower">Позволяет приложению изменять настройки процессора NVIDA Tegra</string>
+    <string name="permlab_nvidiaCPUPower">настройка процессора NVIDIA Tegra</string>
+    <string name="progress_erasing_internal">Очистка внутренней памяти…</string>
+    <string name="progress_unmounting_internal">Отключение внутренней памяти…</string>
 </resources>

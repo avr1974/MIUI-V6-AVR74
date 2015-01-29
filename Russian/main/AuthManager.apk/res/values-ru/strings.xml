@@ -79,8 +79,8 @@
     <string name="HIPS_Perm_Mobile_Connectivity_Desc">Доступ к подключению по мобильной сети</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Hint">Доступ к подключению по мобильной сети (%1$s)</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Изменение состояния Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение/выключегние Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Hint">Включение/выключегние Wi-Fi (%1$s)</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Включение/выключение Wi-Fi</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Hint">Включение/выключение Wi-Fi (%1$s)</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Изменение состояния Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Включение/выключение Bluetooth</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">Включение/выключение Bluetooth (%1$s)</string>

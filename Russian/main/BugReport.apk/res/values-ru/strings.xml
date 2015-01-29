@@ -5,7 +5,6 @@
     <string name="menu_copy">Копировать</string>
     <string name="description">Описание (обязательно)</string>
     <string name="suggestion_description">Напишите предложение (на английском)</string>
-    <string name="nonsystemapp_description">Опишите проблему (на английском)</string>
     <string name="btn_send">Отправить</string>
     <string name="err_type">Тип отчета</string>
     <string name="err_type_reboot">Перезагрузка</string>
@@ -100,8 +99,10 @@
     <string name="submit_dialog_content">Ваш отчет со всеми журналами ошибок будет отправлен на сервер Xiaomi</string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">ОК</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибках…</string>
-    <string name="bugreport_tool_log_toast">Отчет сохранен в %s</string>
+    <string name="bugreport_dump_start_notification_title">Создание отчета…</string>
+    <string name="bugreport_dump_start_notification_summary">Подождите…</string>
+    <string name="bugreport_dump_complete_notification_title">Отчет создан</string>
+    <string name="bugreport_dump_complete_notification_summary">Нажмите для просмотра</string>
     <string name="menu_attach_screenshot">Прикрепить скриншот</string>
     <string name="menu_discard">Отменить</string>
     <string name="status_msg_collecting_log">Сбор логов…</string>
@@ -111,6 +112,9 @@
     <string name="wlan_unavailable_dialog_content">Отправка отчета использует мобильного трафика: %s. Вы можете отправить его сейчас или подождать сеть Wi-Fi.</string>
     <string name="wlan_unavailable_dialog_title">Сеть Wi-Fi отсутствует</string>
     <string name="app_title">Отчеты</string>
+    <string name="nonsystemapp_description">Опишите проблему (на английском)</string>
     <string name="err_type_mysuggestion">Предложения</string>
     <string name="err_type_mysuggestion_summary">Поделитесь с нами идеями</string>
+    <string name="bugreport_tool_log_toast">Отчет сохранен в %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибках…</string>
 </resources>

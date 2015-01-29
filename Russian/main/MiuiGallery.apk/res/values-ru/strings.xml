@@ -266,16 +266,12 @@
     <string name="operation_set_as_screensaver">Установить альбом на заставку</string>
     <string name="operation_unset_as_screensaver">Отменить заставку</string>
     <string name="operation_add_picture">Добавить фото</string>
-    <string name="operation_add_secret">Добавить секрет</string>
-    <string name="operation_remove_secret">Удалить секрет</string>
-    <string name="how_many_videos">Видео: %d</string>
-    <string name="how_many_sub_folders">Папок: %d</string>
+    <string name="operation_add_secret">В секрет</string>
+    <string name="operation_remove_secret">Из секрета</string>
     <string name="directory_info_divider">"  |  "</string>
-    <string name="how_many_pics">Фото: %d</string>
     <string name="global_setting">Настройки</string>
     <string name="no_storage_disable_cloud_albums">Облачные альбомы недоступны</string>
     <string name="message_no_delete_access">Нет доступа для удаления: %s</string>
-    <string name="message_no_delete_access_with_count">Нет доступа к этим файлам (%d)</string>
     <string name="fail_init_gallery_db_helper">Ошибка загрузки базы данных галереи</string>
     <string name="crop_fail_to_load_image">Не удалось загрузить фото</string>
     <string name="error_should_not_select_image">Тип файла не поддерживается</string>
@@ -306,6 +302,7 @@
     <string name="initial_cloud_button_text">Начать использование</string>
     <string name="storage_no_space">Не хватает памяти</string>
     <string name="add_to_cloud_album">В Mi Cloud</string>
+    <string name="choose_cloud_album">Выберите альбом</string>
     <string name="move_to_cloud_album">Переместить</string>
     <string name="move">Переместить</string>
     <string name="cloud_folder_chooser_move">Удалить фото из оригинального альбома</string>
@@ -319,15 +316,16 @@
     <string name="file_not_exist_message">Файл не существует</string>
     <string name="add_to_cloud_failed_message_with_count">Невозможно добавить %2$s фото в облачный альбом: %1$s.</string>
     <string name="add_to_cloud_unknow_reasons">Неизвестная ошибка</string>
-    <string name="add_to_secret_successfully_message">Добавлено в скрытый альбом</string>
-    <string name="add_to_secret_failed_message_with_count">%2$s фото/видео не удается загрузить в скрытый альбом: %1$s.</string>
-    <string name="remove_from_secret_successfully_message">Удалено из скрытого альбома</string>
-    <string name="remove_from_secret_failed_message_with_count">%2$s фото/видео не могут быть удалены из скрытого альбома: %1$s.</string>
+    <string name="add_to_secret_successfully_message">Добавлено в секретный альбом</string>
+    <string name="add_to_secret_failed_message_with_count">%2$s фото/видео не удается загрузить в секретный альбом: %1$s.</string>
+    <string name="remove_from_secret_successfully_message">Удалено из секретного альбома</string>
+    <string name="remove_from_secret_failed_message_with_count">%2$s фото/видео не могут быть удалены из секретного альбома: %1$s.</string>
     <string name="add_to_cloud_unfinished_message_with_count">%1$s фото/видео не загружены в альбом</string>
-    <string name="add_to_secret_unfinished_message_with_count">%1$s фото/видео не загружены в скрытый альбом</string>
-    <string name="remove_from_secret_unfinished_message_with_count">%1$s фото/видео не удалены из скрытого альбома</string>
-    <string name="alert_secret_album_title">Скрытый альбом</string>
-    <string name="alert_secret_album_message">Вы можете прокручивать облачные фото и видео в скрытом альбоме</string>
+    <string name="add_to_secret_unfinished_message_with_count">%1$s фото/видео не загружены в секретный альбом</string>
+    <string name="remove_from_secret_unfinished_message_with_count">%1$s фото/видео не удалены из секретного альбома</string>
+    <string name="alert_secret_album_title">Секретный альбом</string>
+    <string name="alert_secret_album_message">Вы можете прокрутить вниз облачные фото и видео для доступа секретный альбом</string>
+    <string name="alert_secret_album_set_pattern">Графический ключ</string>
     <string name="cant_delete_cloud_album">"Не удалось удалить.
 %s - системный альбом или отправлен от другого пользователя."</string>
     <string name="cannot_delete_sharer_photo">"Ошибка удаления.
@@ -450,7 +448,7 @@
     <string name="unpublish_failed">Ошибка закрытия доступа</string>
     <string name="send_public_url">Отправить ссылку на альбом</string>
     <string name="public_url_descript">Любой пользователь может просмотреть ваш альбом, используя эту ссылку.</string>
-    <string name="share_public_url_text">Я отправил вам альбом \"%1$s\". Просмотреть можно по ссылке: %2$s</string>
+    <string name="share_public_url_text">Я отправил вам альбом %1$s. Просмотреть можно по ссылке: %2$s</string>
     <string name="unpublishing">Закрытие доступа…</string>
     <string name="operation_too_often">Выполняется слишком много действий, попробуйте позже.</string>
     <string name="cannot_remove_creator">Невозможно удалить отправителя</string>
@@ -489,7 +487,7 @@
     <string name="cloud_camera_display_name">Камера</string>
     <string name="camera_folder_display_name">Камера</string>
     <string name="cloud_screenshots_display_name">Скриншоты</string>
-    <string name="secret_album_display_name">Скрытый альбом</string>
+    <string name="secret_album_display_name">Секретный альбом</string>
     <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
     <string name="internal_camera_folder_display_name">Камера</string>
     <string name="internal_miui_capture_screen_folder_display_name">Скриншоты в памяти телефона</string>
@@ -504,7 +502,7 @@
     <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
     <string name="baidu_flyflow_downloads">Браузер Baidu</string>
     <string name="yellow_page">Сервисы</string>
-    <string name="sdcard_root">Корневая папка SD карты</string>
+    <string name="sdcard_root">Накопитель</string>
     <string name="internal_sdcard_root">Корневая папка во внутренней памяти</string>
     <string name="external_sdcard_root">Корневая папка во внешней памяти</string>
     <string name="miui_wallpaper">Обои</string>
@@ -518,7 +516,6 @@
     <string name="picker_no_items_selected">Файлы не выбраны</string>
     <string name="picker_select_album_title_empty">Выбрать альбом</string>
     <string name="picker_no_album_selected">Альбомы не выбраны</string>
-    <string name="pick_with_limited_upper_bound_title">Вы можете выбрать %d фото</string>
     <string name="download">Загрузка</string>
     <string name="confirm_download">Загрузить файл \"%s\"?</string>
     <string name="download_fail">Ошибка загрузки</string>
@@ -565,6 +562,11 @@
     <string name="enable">Вкл.</string>
     <string name="same_name_album_exists_alert">Альбом с таким именем уже существует. Загружать фото в этот альбом автоматически?</string>
     <string name="auto_upload_album_comfirm_to_share">Этот альбом будет загружен автоматически в Mi Cloud, поделиться им?</string>
+    <string name="no_such_album">Альбом не найден</string>
+    <string name="auto_upload_guide_title">Включить автозагрузку?</string>
+    <string name="auto_upload_guide_msssage">" "<Data> Автоматически загружать фото из других приложений в Mi Cloud. Функция доступна в &lt;font color=#323232>&lt;b>Настройки галереи > Облачные альбомы > Автозагрузка альбомов&lt;/b>&lt;/font>. </Data>" "</string>
+    <string name="not_now">Отмена</string>
+    <string name="go_setting">ОК</string>
     <string name="paint_crop_tips">Для получения лучшего эффекта попробуйте поместить интересующую часть фото в сетку</string>
     <string name="action_fail_unknown_error">Произошла неизвестная ошибка</string>
     <string name="add_to_cloud_fail_too_many_items">Выбрано слишком много элементов</string>
@@ -576,6 +578,10 @@
     <string name="confirm_delete_this_picture">Удалить изображение?</string>
     <string name="confirm_delete_this_video">Удалить видео?</string>
     <string name="confirm_delete_videos">Видео: %s</string>
+    <string name="how_many_pics">Фото: %d</string>
+    <string name="how_many_sub_folders">Папок: %d</string>
+    <string name="how_many_videos">Видео: %d</string>
+    <string name="message_no_delete_access_with_count">Нет доступа к этим файлам (%d)</string>
     <string name="screensaver_category">Заставка</string>
     <string name="screensaver_path">"Альбом заставки: "</string>
     <string name="screensaver_path_not_set">не задан</string>
@@ -586,4 +592,8 @@
     <string name="photo_paint_rotate">Перевернуть</string>
     <string name="mipc_1">Карманная камера</string>
     <string name="auto_upload_tip">После включения этой функции будет создан альбом с тем же именем. Существующий альбом будет объединен с новым.</string>
+    <string name="pick_with_limited_upper_bound_title">Вы можете выбрать %d фото</string>
+    <string name="auto_upload_guide">Автоматически загружать фото из других приложений в Mi Cloud</string>
+    <string name="auto_upload_setting_toast">Показать дополнительные функции этой возможности в настройках Mi Cloud?</string>
+    <string name="new_feature">Новая возможность</string>
 </resources>

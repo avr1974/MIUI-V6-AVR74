@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">Отправка…</string>
-    <string name="sina_share_success">Отправлено</string>
-    <string name="sina_share_fail">Ошибка отправки</string>
-    <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
-    <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
-    <string name="sina_share_fail_content_repeat">Не удается отправить. Содержимое уже существует.</string>
     <string name="app_label">Желтые страницы</string>
     <string name="phone_info_divider">" | "</string>
     <string name="call">Вызов</string>
@@ -202,6 +196,8 @@
     <string name="express_inquiry_trace_success">Отслежено</string>
     <string name="express_inquiry_untrace_success">Не отслежено</string>
     <string name="express_inquiry_trace_user_notice_content">Вы получите уведомление, когда статус заказа изменится.</string>
+    <string name="express_inquiry_trace_device_login_notice">Вы используете этот сервис на другом устройстве. Для отслеживания статуса посылки необходимо подтвердить Mi аккаунт.</string>
+    <string name="express_inquiry_clipboard_number_message">Отследить скопированный номер?</string>
     <string name="express_send">Отправка</string>
     <string name="express_sender_info">Инфoрмация об отправителе</string>
     <string name="express_addressee_info">Информация о получателе</string>
@@ -334,6 +330,15 @@
     <string name="web_permission_message">%1$s запрашивает доступ к %2$s</string>
     <string name="remember_preference">Запомнить</string>
     <string name="allow">Разрешить</string>
+    <string name="pull_to_refresh_pull_label">Потяните для обновления…</string>
+    <string name="pull_to_refresh_release_label">Отпустите для обновления…</string>
+    <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+    <string name="sina_share_pendding">Отправка…</string>
+    <string name="sina_share_success">Отправлено</string>
+    <string name="sina_share_fail">Ошибка отправки</string>
+    <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
+    <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
+    <string name="sina_share_fail_content_repeat">Не удается отправить. Содержимое уже существует.</string>
     <string name="express_company_empty">Нет компаний</string>
     <string name="express_inquiry_logistics_empty">Выберите логистику</string>
     <string name="express_inquiry_logistics_indication">Курьерская компания</string>
@@ -438,7 +443,7 @@
     <string name="resource_exchange_hint">Введите подарочный код</string>
     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
     <string name="resource_exchange_share_code_content">Вы получили подарочный код для темы %1$s. Код темы: %2$s. Нажмите для использования: %3$s.</string>
-    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы приобрели для темы %1$sis: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
+    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы приобрели для темы %1$s: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
     <string name="resource_exchange_share_code_dlg_title">Отправка…</string>
     <string name="resource_exchange_success">Готово!</string>
     <string name="resource_exchange_unavailable">Тема с этим кодом недоступна</string>
@@ -476,7 +481,7 @@
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="resource_price_unit">Mi Credits</string>
-    <string name="resource_purchase_getting_order">Получение информации заказа…</string>
+    <string name="resource_purchase_getting_order">Получение информации о заказе…</string>
     <string name="resource_purchase_verifying_payment">Проверка платежа…</string>
     <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
     <string name="resource_ranking">Топ</string>

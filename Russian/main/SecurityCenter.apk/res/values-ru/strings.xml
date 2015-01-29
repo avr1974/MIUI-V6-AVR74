@@ -7,13 +7,13 @@
     <string name="cta_button_text_agree">ОК</string>
     <string name="cta_settings">Разрешить доступ к интернету</string>
     <string name="title_optimizer">Предупреждение</string>
-    <string name="header_optimizer">При использовании сервиса очистки вы соглашаетесь с <a href="http://www.cmcm.com/about/privacy_zh.html?p=cm">условиями пользования</a> от Clean Master</string>
+    <string name="header_optimizer">При использовании сервиса очистки вы соглашаетесь с условиями пользования от Clean Master (%s)</string>
     <string name="name_optimizer">Политика конфиденциальности Cheetah Mobile</string>
     <string name="text_optimizer">Использовать сервис очистки онлайн</string>
     <string name="summary_optimizer">Загружать названия неизвестных файлов и приложений на сервер и проверять на наличие мусора</string>
     <string name="button_optimizer">ОК</string>
     <string name="title_antivirus">Предупреждение</string>
-    <string name="header_antivirus">При использовании сервиса антивируса вы соглашаетесь с <a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7">условиями пользования</a> от Tencent</string>
+    <string name="header_antivirus">При использовании сервиса антивируса вы соглашаетесь с условиями пользования от Tencent (%s)</string>
     <string name="name_antivirus">Политика конфиденциальности Tencent</string>
     <string name="text_antivirus">Использовать сервис антивируса онлайн</string>
     <string name="text_antivirus_oversea">Обновление базы антивируса</string>
@@ -25,10 +25,10 @@
     <string name="power_center_custom_title">Экономия батареи</string>
     <string name="power_center_auto_shutdown">Таймер питания</string>
     <string name="power_center_auto_shutdown_summary_default">Включение и выключение устройства в заданное время</string>
-    <string name="power_center_ontime_boot">Включать по времени</string>
+    <string name="power_center_ontime_boot">Включать по расписанию</string>
     <string name="power_center_time_to_boot">Время включения</string>
     <string name="power_center_repeat">Повтор</string>
-    <string name="power_center_ontime_shutdown">Выключать по времени</string>
+    <string name="power_center_ontime_shutdown">Выключать по расписанию</string>
     <string name="power_center_time_to_shutdown">Время выключения</string>
     <string name="power_center_custom_summary_default">Настройки экономии батареи</string>
     <string name="power_center_low_battery_title">Автопереключение</string>
@@ -129,7 +129,7 @@
     <string name="power_save_low_battery_title">Автопереключение</string>
     <string name="power_save_low_battery_auto_save_title">Автопереключение</string>
     <string name="power_save_low_battery_seekbar_title">Переключать режим, когда заряда менее %1$d%%</string>
-    <string name="power_save_low_battery_option_title">Выбор режима</string>
+    <string name="power_save_low_battery_option_title">Если батарея разряжена</string>
     <string name="power_save_low_battery_option_summary">Когда заряд батареи будет выше установленного порога, устройство вернется к недавнему режиму.</string>
     <string name="power_save_low_battery_percentage_ten">10%</string>
     <string name="power_save_low_battery_percentage_twenty">20%</string>
@@ -160,16 +160,16 @@
     <string name="power_save_on_time_goout_title">Режим по окончании периода</string>
     <string name="power_save_choose_recovery_mode">Режим</string>
     <string name="power_new_choose_mode">Выбор режима</string>
-    <string name="power_save_low_battery_option_recovery_title">Режим при зарядке</string>
+    <string name="power_save_low_battery_option_recovery_title">Если батарея заряжена</string>
     <string name="power_save_on_time_option_recovery_title">Режим по окончании периода</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Телефон настроен на переключение к этому режиму, когда батарея заряжается. Необходимо изменить параметры перед удалением.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Телефон настроен на переключение к этому режиму по расписанию. Необходимо изменить параметры перед удалением.</string>
     <string name="power_mode_chooser_button_text">Применить</string>
     <string name="power_20s_enter_mode">%1$d сек. переключиться в режим %2$s</string>
     <string name="power_notify_lowbattery">заряд менее %1$d%%</string>
-    <string name="power_recovery_mode">Восстановить \"%1$s\"</string>
-    <string name="power_subtitle_lowbattery">энергосбережение при разряженной батарее</string>
-    <string name="power_subtitle_ontime">энергосбережение по времени</string>
+    <string name="power_recovery_mode">Восстановлен \"%1$s\"</string>
+    <string name="power_subtitle_lowbattery">Энергосбережение при разряженной батарее</string>
+    <string name="power_subtitle_ontime">Энергосбережение по расписанию</string>
     <string name="power_exitlowbattery_whencharge">Выход при зарядке</string>
     <string name="power_button_delete">удалить</string>
     <string name="power_mode_my_mode">свой режим</string>
@@ -190,8 +190,8 @@
     <string name="battery_desc_display">Использование батареи подсветкой</string>
     <string name="battery_desc_apps">Использование батареи приложениями</string>
     <string name="percentage">%d%%</string>
-    <string name="usage_type_data_recv">Мобильный интернет - получено</string>
-    <string name="usage_type_data_send">Мобильный интернет - отправлено</string>
+    <string name="usage_type_data_recv">Моб. интернет - получено</string>
+    <string name="usage_type_data_send">Моб. интернет - отправлено</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_gps">GPS</string>
     <string name="process_kernel_label">Ядро Android</string>
@@ -231,6 +231,9 @@
     <string name="boot_reminder_day">Устройство будет включено через %1$d дн. %2$d ч. %3$d мин.</string>
     <string name="boot_reminder_hour">Устройство будет включено через %1$d ч. %2$d мин.</string>
     <string name="boot_reminder_minute">Устройство будет включено через %1$d мин.</string>
+    <string name="boot_reminder_only_hour">Устройство будет включено через %1$d ч.</string>
+    <string name="boot_reminder_only_day">Устройство будет включено через %1$d дн.</string>
+    <string name="boot_reminder_day_hour">Устройство будет включено через %1$d дн. %2$d ч.</string>
     <string name="boot_reminder">Включение устройства в заданное время</string>
     <string name="shutdown_cancel_reminder">Предупреждение</string>
     <string name="shutdown_cancel_reminder_detail">Устройство не было выключено в заданное время, так как совершался вызов.</string>
@@ -252,7 +255,7 @@
     <string name="cancel">Отмена</string>
     <string name="score_pts">%</string>
     <string name="btn_text_start_check">Проверка</string>
-    <string name="btn_text_quick_cleanup">Очистка</string>
+    <string name="btn_text_quick_cleanup">Очистка памяти</string>
     <string name="btn_text_quick_scan">Сканировать</string>
     <string name="btn_text_done">Готово</string>
     <string name="btn_text_quick_optimize">Оптимизировать</string>
@@ -429,7 +432,7 @@
     <string name="hints_risk_name_title">Угроза:</string>
     <string name="hints_risk_descx_title">Описание:</string>
     <string name="hints_storage_free">Свободно</string>
-    <string name="hints_storage_free_size">%s доступно</string>
+    <string name="hints_storage_free_size">Свободно: %s</string>
     <string name="activity_title_cache">Кэш</string>
     <string name="activity_title_ad">Реклама</string>
     <string name="activity_title_apk">APK</string>
@@ -642,6 +645,8 @@
     <string name="summary_cloud_account">Чтобы получить доступ ко всем сервисам необходимо войти в Mi аккаунт</string>
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="summary_cloud_service">Используйте Mi Cloud для создания облачного бэкапа</string>
+    <string name="title_network_switch">Разрешить доступ к интернету</string>
+    <string name="summary_network_switch">Разрешить приложению доступ к интернету</string>
     <string name="title_power_optimizer">Производительность включена</string>
     <string name="summary_power_optimizer">Отключите режим во избежание высокого потребления батареи</string>
     <string name="title_data_flow">Трафик не установлен</string>
@@ -650,6 +655,7 @@
     <string name="summary_telecom_operator">Статистика трафика не синхронизирована с оператором</string>
     <string name="title_flow_verify">Статистика трафика от оператора</string>
     <string name="summary_flow_verify">Статистика трафика не синхронизирована с оператором более %d дн.</string>
+    <string name="summary_never_flow_verify">Никогда не проверять поток</string>
     <string name="title_saving_switch">Экономия трафика отключена</string>
     <string name="summary_saving_switch">Включите сжатие трафика для его экономии</string>
     <string name="title_flow_notification">Отчеты трафика</string>
@@ -672,6 +678,7 @@
     <string name="summary_virus_cloudscan">Загружать названия неизвестных файлов и приложений на сервер и проверять на наличие вирусов</string>
     <string name="title_cleaner_cloudscan">Сервис очистки онлайн</string>
     <string name="summary_cleaner_cloudscan">Загружать названия неизвестных папок на сервер и проверять на наличие мусора</string>
+    <string name="toast_network_switch">Приложение может подключаться к интернету</string>
     <string name="toast_flow_notification">Уведомления о трафике включены</string>
     <string name="toast_show_notification">Виджет в панели уведомлений включен</string>
     <string name="toast_virus_cloudscan">Сервис антивируса онлайн включен</string>
@@ -701,10 +708,18 @@
     <string name="clean_content_three">Не очищать: %s</string>
     <string name="clean_content_all">Очищать все</string>
     <string name="notification_summary_after_auto_cleanup">Очищено %s мусора</string>
-    <string name="pref_category_title_lock_screen_memory_clean">Очищать на экране блокировки</string>
-    <string name="pref_title_lock_screen_memory_clean">Очищать на экране блокировки</string>
-    <string name="pref_summary_lock_screen_memory_clean">Очищать автоматически, когда устройство заблокировано.</string>
-    <string name="summary_never_flow_verify">Никогда не проверять поток</string>
+    <string name="pref_category_title_lock_screen_memory_clean">Очистка ОЗУ</string>
+    <string name="pref_title_lock_screen_memory_clean">Очистка в заблокированном режиме</string>
+    <string name="pref_summary_lock_screen_memory_clean">Очищать оперативную память автоматически, когда устройство заблокировано.</string>
+    <string name="title_delete_large_file">Удалить выбранные файлы?</string>
+    <string name="summary_delete_large_file">Удаление может повлиять на работоспособность некоторых приложений</string>
+    <string name="title_delete_cache">Очистить кэш?</string>
+    <string name="summary_delete_cache">Очистка может повлиять на работоспособность некоторых приложений</string>
+    <string name="positive_confirm">ОК</string>
+    <string name="title_auto_cleaner">Очищать автоматически?</string>
+    <string name="summary_auto_cleaner">Мусор будет очищаться автоматически в установленное в настройках время</string>
+    <string name="confirm_auto_cleaner">ОК</string>
+    <string name="auto_cleaner_open">ОК</string>
     <string name="hints_apps_perm_count">Разрешений: %d</string>
     <string name="hints_auto_start_disable_title">Приложения без автозапуска (%d)</string>
     <string name="hints_auto_start_enable_title">Приложения с автозапуском (%d)</string>

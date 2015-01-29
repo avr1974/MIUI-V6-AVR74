@@ -6,6 +6,23 @@
     <string name="bluetooth_preference_found_devices">Доступные устройства</string>
     <string name="progress_scanning">Поиск…</string>
     <string name="bluetooth_search_for_devices">Поиск устройств</string>
+    <string name="mi_key_alert_dialog_title">Уведомление MiKey</string>
+    <string name="mi_key_alert_dialog_message">Выключить будильник?</string>
+    <string name="ble_device_address">Устройства BLE MAC</string>
+    <string name="disconnect">Отключить</string>
+    <string name="ble_device_unbind">Очистить настройки</string>
+    <string name="ble_device_profile_header_title">Профили</string>
+    <string name="ble_device_profile_title">Устройство BLE подключено</string>
+    <string name="mi_band_vibrate_incall">Вибрировать при вызове</string>
+    <string name="mi_band_vibrate_incall_in_contacts">Вибрировать при вызове от номеров из списка контактов</string>
+    <string name="mi_band_vibrate_incall_no_contacts">Вибрировать при вызове от неизвестных номеров</string>
+    <string name="mi_band_vibrate_sms">Вибрировать при получении SMS</string>
+    <string name="mi_band_vibrate_sms_in_contacts">Вибрировать при получении SMS от номера из списка контактов</string>
+    <string name="mi_band_vibrate_sms_no_contacts">Вибрировать при получении SMS от неизвестного номера</string>
+    <string name="mi_band_vibrate_alarm">Вибрировать при будильнике</string>
+    <string name="mi_key_take_photo">Снять фото</string>
+    <string name="mi_key_find_phone">Поиск устройства</string>
+    <string name="mi_key_find_mikey">Поиск MiKey</string>
     <string name="miui_transfer_history_title">История</string>
     <string name="miui_transfer_inbound_title">Входящие</string>
     <string name="miui_transfer_outbound_title">Исходящие</string>
@@ -147,4 +164,6 @@
     <string name="profile_description_pan">Профиль личной сети</string>
     <string name="profile_description_sap">Профиль доступа к SIM</string>
     <string name="title_bt_mse_settings">Дополнительные настройки</string>
+    <string name="bluetooth_in_airplane_mode">В режиме полета</string>
+    <string name="upload_fail_waiting">Файл автоматически будет отправлен позже</string>
 </resources>

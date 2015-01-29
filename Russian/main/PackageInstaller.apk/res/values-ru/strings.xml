@@ -99,4 +99,22 @@
     <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+    <string name="all">Все разрешения</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="button_continue_install">Продолжить</string>
+    <string name="button_install_lastest">Установить</string>
+    <string name="button_install_official">Установить</string>
+    <string name="button_next">Далее</string>
+    <string name="button_remove">Удалить</string>
+    <string name="installer_name">Источник: %1$s</string>
+    <string name="main_title">Установить приложение</string>
+    <string name="permission_warn_hint">Разрешения приложения:</string>
+    <string name="permission_warn_title">Приложение загружено из неизвестного истончика</string>
+    <string name="progress_verifying">Проверка…</string>
+    <string name="update_log_default">Нет списка изменений</string>
+    <string name="update_time">%4$s дата выпуска: %2$s/%3$s/%1$s.</string>
+    <string name="update_title">%1$s обновлено</string>
+    <string name="warn_message">Ваши личные данные более уязвимы для атак приложений из неизвестных источников</string>
+    <string name="warn_title">Подозрительное приложение</string>
 </resources>

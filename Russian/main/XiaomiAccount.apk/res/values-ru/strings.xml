@@ -38,6 +38,7 @@
     <string name="passport_reg_via_sms_alert">При активации по SMS может взиматься дополнительная плата оператором</string>
     <string name="passport_reg_sms_send_prompt">Отправить проверочный код на %s</string>
     <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учетом регистра.</string>
+    <string name="passport_error_empty_email">Введите адрес Email</string>
     <string name="passport_error_email">Неверный Email</string>
     <string name="passport_activing_account">Активация…</string>
     <string name="passport_account_not_actived">Ваш аккаунт не активирован</string>
@@ -199,6 +200,7 @@
     <string name="hide_mibi_info">Информация о Mi Credit скрыта</string>
     <string name="failed_get_mibi_info">Не удается получить Mi Credit</string>
     <string name="mipay_center">Аккаунт банка</string>
+    <string name="mi_service">Поддержка</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Привязка Sina Weibo</string>
     <string name="bind_weibo_description">Sina WeiBo — китайский сервис микроблогов, с помощью которого вы сможете найти информацию о контактах.</string>

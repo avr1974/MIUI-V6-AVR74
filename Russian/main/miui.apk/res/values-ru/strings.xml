@@ -39,8 +39,8 @@
     <string name="mibi_license">Пользовательское соглашение Mi Credit</string>
     <string name="user_manual">Руководство пользователя</string>
     <string name="license_host_unreachable">Ошибка подключения к сети. Чтобы просмотреть эту информацию, перейдите на %s.</string>
-    <string name="perm_payment_lab">Mi Payment</string>
-    <string name="perm_payment_dspt">Разрешить приложению оплату через Mi Payment</string>
+    <string name="perm_payment_lab">Mi Pay</string>
+    <string name="perm_payment_dspt">Разрешить приложению оплату через Mi Pay</string>
     <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
     <string name="no_sim">SIM карта не обнаружена</string>
     <string name="activating">Активация…</string>

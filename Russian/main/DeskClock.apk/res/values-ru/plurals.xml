@@ -16,6 +16,10 @@
         <item quantity="other">%1$d мин.</item>
         <item quantity="one">1 мин.</item>
     </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Отложить на %d мин.</item>
+        <item quantity="one">Отложить на %d мин.</item>
+    </plurals>
     <plurals name="Nhours_description">
         <item quantity="other">%d ч.</item>
         <item quantity="one">1 ч.</item>

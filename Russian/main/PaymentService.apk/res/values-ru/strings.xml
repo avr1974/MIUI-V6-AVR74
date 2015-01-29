@@ -47,8 +47,6 @@
     <string name="button_count_down_finish">ОК(%1$s)</string>
     <string name="payment_title">Подтверждение оплаты</string>
     <string name="payment_with_login_title">Введите пароль Mi аккаунта</string>
-    <string name="payment_recharge_group_favorite">Способы пополнения</string>
-    <string name="payment_recharge_group_familiar">Выберите способ пополнения</string>
     <string name="recharge_grid_item_more">Еще</string>
     <string name="milicenter_title">Mi Credits</string>
     <string name="balance_title">Баланс</string>
@@ -71,9 +69,6 @@
     <string name="error_cert_date_summary">"Ошибка данных сертификата. 
 Проверьте локальные данные и повторите попытку."</string>
     <string name="title_recharge">Пополнить Mi Credits</string>
-    <string name="recharge_group_familiar">Способы пополнения</string>
-    <string name="recharge_group_favorite">Используемые способы пополнения</string>
-    <string name="recharge_group_others">Другие способы пополнения</string>
     <string name="recharge_prepaid_title">Карты оплаты</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
@@ -222,8 +217,6 @@
     <string name="giftcard_expire_notification_prime_title">Истекает срок действия кода…</string>
     <string name="giftcard_expire_notification_sub_title">Срок действия подарочной карты Mi Credit истекает %1$s</string>
     <string name="title_mili_center">Mi Credits</string>
-    <string name="title_recharge_record">История пополнений</string>
-    <string name="title_pay_record">История платежей</string>
     <string name="title_transaction">История</string>
     <string name="title_giftcard">Акции</string>
     <string name="giftcard_record">Подарочная карта Mi Credits</string>
@@ -232,11 +225,8 @@
     <string name="fee">Mi Credits: %1$s</string>
     <string name="fee_with_giftcard"> (%1$s)</string>
     <string name="fee_with_mibi_giftcard"> %1$s-Подарочная карта Mi Credits</string>
-    <string name="recharge_record_empty">Нет истории пополнений</string>
-    <string name="pay_record_empty">Нет истории платежей</string>
     <string name="progress_downloading">Загрузка…</string>
     <string name="btn_net_connection_retry">Повторить</string>
-    <string name="pay_record_typeall">Все</string>
     <string name="mibi_license_title">Предупреждение</string>
     <string name="mibi_license_message">Принять %1$s?</string>
     <string name="mibi_license_message_span">пользовательское соглашение Mi Credits</string>
@@ -305,6 +295,16 @@
 %1$s"</string>
     <string name="btn_recharge_success">Готово</string>
     <string name="button_recharge">Пополнить</string>
+    <string name="pay_record_empty">Нет истории платежей</string>
+    <string name="pay_record_typeall">Все</string>
     <string name="payment_actionbar_title">Подтвердить</string>
     <string name="pc_pay_login">Авторизуйтесь</string>
+    <string name="recharge_group_familiar">Способы пополнения</string>
+    <string name="recharge_group_favorite">Используемые способы пополнения</string>
+    <string name="recharge_group_others">Другие способы пополнения</string>
+    <string name="recharge_record_empty">Нет истории пополнений</string>
+    <string name="title_pay_record">История платежей</string>
+    <string name="title_recharge_record">История пополнений</string>
+    <string name="payment_recharge_group_familiar">Выберите способ пополнения</string>
+    <string name="payment_recharge_group_favorite">Способы пополнения</string>
 </resources>

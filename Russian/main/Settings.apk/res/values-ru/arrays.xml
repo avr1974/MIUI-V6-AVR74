@@ -564,6 +564,16 @@
         <item>Яркая</item>
         <item>Стандартная</item>
     </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Автоматическая контрастность</item>
+        <item>Увеличение контрастности</item>
+        <item>По умолчанию</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Оптимизировать контрастность по окружающей освещенности</item>
+        <item>Увеличить контрастность</item>
+        <item>Не изменять контрастность</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Разрешить</item>
         <item>С запросом</item>
@@ -626,6 +636,20 @@
         <item>Низкая</item>
         <item>Средняя</item>
         <item>Высокая</item>
+    </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 дюйма</item>
+        <item>4.0 дюйма</item>
+        <item>3.5 дюйма</item>
+    </string-array>
+    <string-array name="agps_network_entries">
+        <item>Домашняя сеть</item>
+        <item>Все сети</item>
+    </string-array>
+    <string-array name="agps_reset_type_entries">
+        <item>ГОРЯЧИЙ</item>
+        <item>ТЕПЛЫЙ</item>
+        <item>ХОЛОДНЫЙ</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Производительность</item>

@@ -57,7 +57,6 @@
     <string name="button_delete">Удалить</string>
     <string name="customization"><u>Настройки</u></string>
     <string name="self_phone">Это устройство</string>
-    <string name="skip_recovery">Пропустить</string>
     <string name="process_whole_recovery">Восстановление из \"%s\"</string>
     <string name="backup_immediately">Создать бэкап</string>
     <string name="app_installed">Установленные</string>
@@ -70,7 +69,7 @@
     <string name="dialog_disable_backup">Отключить создание бэкапа</string>
     <string name="no_backup">Нет бэкапов</string>
     <string name="confirm_disable_backup">Отключить и удалить \"%s\"?</string>
-    <string name="already_deleted">(удалено)</string>
+    <string name="already_deleted">%s (удалено)</string>
     <string name="datasize_unknown">Неизвсетно</string>
     <string name="recovering">Восстановление: %s</string>
     <string name="start_recover">Восстановить %s</string>
@@ -84,7 +83,6 @@
     <string name="backup_to_cloud">Бэкап в Mi Cloud</string>
     <string name="restoreing_file_tile">Восстановление файлов (%d)</string>
     <string name="listview_empty_no_results">Нет результатов</string>
-    <string name="display_early_backup">Показывать предыдущий бэкап</string>
     <string name="dialog_prompt_stop_backup">Остановить создание бэкапа?</string>
     <string name="menu_item_sort">Сортировка</string>
     <string name="menu_item_sort_name">По имени</string>
@@ -105,8 +103,15 @@
     <string name="open_wifi">Включить</string>
     <string name="open_wifi_description">Для восстановления приложений и данных требуется подключение к сети Wi-Fi</string>
     <string name="open_wifi_setting">Настройки</string>
-    <string name="select_backup_data">Выберите бэкап</string>
     <string name="name_model">Устройство: %2$s (%1$s)</string>
+    <string name="select_backup_data">Выберите бэкап</string>
+    <string name="cloud_app_backup_already">Бэкан создан</string>
+    <string name="explantion_of_data_size">Сохраненное место с помощью Mi Маркета</string>
+    <string name="about_cloud_app_backup">О приложении</string>
+    <string name="download_settings">Загрузить настройки рабочего стола</string>
+    <string name="recover_settings">Восстановить настройки рабочего стола</string>
+    <string name="cancel_recover_settings"><u>Отмена</u></string>
+    <string name="recover_settings_description">Не выключайте устройство</string>
     <string name="button_abandon">Перезаписать</string>
     <string name="button_finish">Готово</string>
     <string name="button_return">Назад</string>
@@ -128,11 +133,13 @@
     <string name="cloud_app_restore_query_error_prompt">Не удалось получить данные из Mi Cloud. Приложения и данные будут восстановлены автоматически после того, как устройство получит данные.</string>
     <string name="cloud_app_restore_summary">Восстановление приложений и данных</string>
     <string name="customization_under_wifi_prompt">Поддерживается только при подключенной сети Wi-Fi</string>
+    <string name="display_early_backup">Показывать предыдущий бэкап</string>
     <string name="dont_backup">Не создавать бэкап</string>
     <string name="intro_v5tov6">MIUI V6 использует новую структуру резервного копирования для лучшей производительности. Потребуется некоторое время, чтобы перенести резервные копии на новую структуру.</string>
     <string name="just_support_op_with_wifi_connected">Использование этой функции возможно только при соединении по Wi-Fi</string>
     <string name="my_phone">Мое устройство</string>
     <string name="network_timeout">Время ожидания подключения истекло</string>
+    <string name="skip_recovery">Пропустить</string>
     <string name="start_whole_recovery">Начать восстановление из \"%s\"</string>
     <string name="v5tov6_complete">Перенос завершен</string>
 </resources>

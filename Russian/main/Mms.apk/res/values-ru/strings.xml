@@ -506,6 +506,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="file_create_time">Время создания:</string>
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
+    <string name="festival_networking_title">Предупреждение</string>
     <string name="festival_networking_desc">Разрешить приложению доступ к интернету?</string>
     <string name="festival_continue">ОК</string>
     <string name="festival_never_remind">Запомнить</string>
@@ -523,15 +524,17 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="release_cancel">Отпустите для отправки</string>
     <string name="press_recording">Нажмите и удерживайте иконку микрофона для записи</string>
     <string name="warning_show">Отправка через %d сек.</string>
+    <string name="audio_playing_seconds">%d сек.</string>
     <string name="playing_failed">Не удается воспроизвести</string>
     <string name="cannot_resend_audio">Не удалось отправить запись</string>
     <string name="recording_failed">Не удалось записать</string>
-    <string name="downloading_file_can_not_play">Дождитесь окончания загрузки записи</string>
+    <string name="downloading_file_can_not_play">Загрузка записи…</string>
     <string name="guild_msim_switcher">Намжите для смены SIM карты</string>
     <string name="sdcard_has_not_enough_space">Недостаточно места на накопителе</string>
     <string name="snippet_audio">[запись]</string>
     <string name="snippet_picture">[фото]</string>
     <string name="audio_download_failed">Не удалось загрузить запись</string>
+    <string name="hms_uri_param_err">ID запроса URL Mipub не может быть пустым</string>
     <string name="add_bookmark">Избранные</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>

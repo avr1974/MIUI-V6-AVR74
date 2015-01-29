@@ -111,6 +111,11 @@
     <string name="privacy_tip_content">Сервис ускорения Xunlei позволяет загружать файлы на максимальной скорости. Ваша информация о Mi аккаунта будет синхронизирована для проверки активных подписок на этот сервис.</string>
     <string name="privacy_tip_cancel">Отмена</string>
     <string name="privacy_tip_ok">ОК</string>
+    <string name="xunlei_close_tips_title">Бесплатное ускорение загрузки</string>
+    <string name="xunlei_close_tips_content">95% пользователей выбирают Xunlei</string>
+    <string name="xunlei_close_tips_button">Ускорить</string>
+    <string name="toast_xunlei_engine_open">"Сервис ускорения загрузки Xunlei включен.
+Настройки сервиса доступны в правом верхнем углу."</string>
     <string name="app_label">Загрузки</string>
     <string name="download_title">Загрузки</string>
     <string name="download_title_sorted_by_date">Загрузки – по дате</string>
