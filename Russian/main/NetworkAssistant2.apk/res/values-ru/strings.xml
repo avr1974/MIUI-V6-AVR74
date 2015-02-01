@@ -38,6 +38,7 @@
     <string name="main_secondary_message_traffic_detail_leisure">"
 Дополнительный трафик: %1$s осталось | %2$s использовано"</string>
     <string name="main_secondary_message_traffic_used_noleisure">%s превышение | дополнительный трафик недоступен</string>
+    <string name="main_alert_message_month_limit_error">Введен неверный предел трафика</string>
     <string name="firewall_activity_lable">Ограничение трафика приложений</string>
     <string name="firewall_applist">Приложения</string>
     <string name="firewall_rule_group_title_mobile">2G/3G</string>
@@ -187,6 +188,10 @@
     <string name="network_assistant_upgraded_body">Нажмите для настройки</string>
     <string name="lock_screen_traffic_warn_title">Предупреждение о трафике</string>
     <string name="lock_screen_traffic_notify_body">Трафик при выключенном экране: %s</string>
+    <string name="lock_screen_setting_summary">Показывать уведомления после использования 100 Кб</string>
+    <string name="timeshow_h_m">%1$d ч. %2$d мин.</string>
+    <string name="timeshow_m_s">%1$d мин. %2$d сек.</string>
+    <string name="timeshow_s">%d сек.</string>
     <string name="free_time_traffic_title">Введите предел трафика</string>
     <string name="free_time_traffic_hint">Введите предел трафика</string>
     <string name="traffic_protection_label">Предупреждение о трафике</string>
@@ -216,6 +221,10 @@
     <string name="traffic_config_alert_body_extra_notset">"
 Вы приобрели %s дополнительного трафика в этом месяце. Это не влияет на месячный трафик, который вы ввели вручную."</string>
     <string name="traffic_config_alert_setted">Ввести трафик</string>
+    <string name="traffic_limit_error_alert_title">Напоминание о трафике %s</string>
+    <string name="traffic_limit_error_alert_iknow">ОК</string>
+    <string name="traffic_limit_error_alert_reset">Сбросить трафик</string>
+    <string name="traffic_limit_error_alert_body">Данные вашего оператора указывают, что в этом месяце превышено %1$s. Это больше, чем вы установили предел трафика вручную %2$s.</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="datausage_purchase_title_pkglist">Купить трафик</string>
@@ -341,7 +350,6 @@
     <string name="privacy_prompt_traffic_adjust_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы обновить шаблон запроса SMS и проверить доступность этой возможности в вашем регионе.</string>
     <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить информацию о способах оплаты.</string>
     <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить информацию о трафике.</string>
-    <string name="privacy_prompt_purchase_history_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить историю платежей.</string>
     <string name="title_limit_traffic_per_day">Ежедневный трафик</string>
     <string name="pref_title_traffic_limit_number">Предел трафика</string>
     <string name="pref_title_over_traffic_limit_warning">Действие</string>
@@ -382,16 +390,24 @@
     <string name="traffic_setting_step_num">Настройки тарифа</string>
     <string name="traffic_setting_open">Включено</string>
     <string name="traffic_setting_app_count">Приложений: %d</string>
+    <string name="traffic_setting_update_template_falure">Не удается подключиться к интернету</string>
     <string name="traffic_warning_purchase_title">Уведомлять, если баланс меньше %d%%</string>
     <string name="traffic_purchase_body">Рекомендуется пополнить счет</string>
     <string name="traffic_purchse_suggestion">Время пополнить счет</string>
     <string name="traffic_over_purchase_title">Трафик превышен</string>
     <string name="traffic_over_purchase_body">Нажмите для просмотра</string>
     <string name="traffic_over_purchase_link">"Достигнут предел трафика.&lt;br/>За дальнейшее использование мобильного интернета может взиматься дополнительная плата оператором.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Рекомендуется пополнить трафик.&lt;/U>&lt;/font>"</string>
+    <string name="notify_setting_pkg_title">Установить ежемесячный трафик</string>
+    <string name="notify_weekly_pkg_body">На этой неделе: %s. Нажмите для изменения.</string>
+    <string name="notify_daily_data_usage_body">Сегодня: %s. Нажмите для изменения.</string>
+    <string name="notify_month_traffic_body">В этом месяце: %s. Нажмите для изменения.</string>
+    <string name="notify_daily_limit_title">Установить ежедневный трафик</string>
+    <string name="notify_daily_limit_body">На этой неделе: %s. Нажмите для изменения.</string>
     <string name="notification_content_title">Использовано трафика в режиме сна: %1$s</string>
     <string name="notification_title">%1$s-%2$s: %3$s использовано</string>
     <string name="pkg_total_traffic">Всего: %s</string>
     <string name="remained_traffic">Осталось: %s</string>
     <string name="today_used_traffic">Сегодня: %s</string>
     <string name="total_over_flow">Превышение: %s</string>
+    <string name="privacy_prompt_purchase_history_message">Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить историю платежей.</string>
 </resources>

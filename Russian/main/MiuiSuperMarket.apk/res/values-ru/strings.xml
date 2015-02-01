@@ -313,6 +313,8 @@
     <string name="search_recommend_ingored_text">Не рекомендовать</string>
     <string name="search_recommend_no_net">Сеть недоступна. Пожалуйста, попробуйте позже.</string>
     <string name="search_recommend_no_data">Нет рекомендуемых приложений</string>
+    <string name="search_popular_hint_title">Популярные</string>
+    <string name="search_history_title">История</string>
     <string name="diagnostics_title">Диагностика сети</string>
     <string name="diagnostics_desc">Диагности поможет избежать проблемы сети. Будет создан журнал отладки и отправлен разработчикам.</string>
     <string name="diagnostics_content_hint">Диагностика:</string>
@@ -385,6 +387,8 @@
     <string name="progress_pending">Ожидание</string>
     <string name="select_item">Выбрано: 0</string>
     <string name="items_selected">Выбрано: %1$s</string>
+    <string name="collapse_rank_list">Установить фильтр</string>
+    <string name="relate_apps">Похожие приложения</string>
     <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
     <string name="pref_title_hotsubjects_notification">Коллекции</string>
     <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>

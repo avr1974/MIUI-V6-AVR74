@@ -306,6 +306,7 @@
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
     <string name="pref_summary_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
     <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
+    <string name="pref_title_ringtone_repeat_summary">Количество звуковых уведомлений при приеме сообщений, когда экран выключен:</string>
     <string name="pref_other_title">Другие</string>
     <string name="pref_system_title">Системные</string>
     <string name="pref_advanced_settings_title">Дополнительно</string>

@@ -187,7 +187,7 @@
     <string name="resource_title_rank">Топ</string>
     <string name="resource_title_category">Категории</string>
     <string name="resource_title_subject">Новые</string>
-    <string name="resource_title_local">Телефон</string>
+    <string name="resource_title_local">Локально</string>
     <string name="resource_title_hot_subject">Популярные</string>
     <string name="resource_download_notification_title_one">Скачивание темы завершено</string>
     <string name="resource_download_notification_title_many">Скачано тем: %1$s</string>

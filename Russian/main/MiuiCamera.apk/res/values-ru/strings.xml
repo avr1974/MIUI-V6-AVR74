@@ -306,7 +306,7 @@
     <string name="audio_focus_exit_button_text">Отключить голосовой фокус</string>
     <string name="pref_camera_long_press_shutter_feature_title">Удерживание клавиши съемки</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокус</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Снимок</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Мультисъемка</string>
     <string name="pref_camera_hdr_entry_auto">Авто</string>
     <string name="pref_camera_hdr_entry_off">Выключен</string>
     <string name="pref_camera_hdr_entry_normal">Нормальный</string>

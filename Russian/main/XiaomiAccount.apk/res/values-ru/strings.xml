@@ -242,8 +242,8 @@
     <string name="account_user_name">Имя пользователя</string>
     <string name="account_user_avatar">Фото профиля</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_gender_female">Жен.</string>
-    <string name="account_user_gender_male">Муж.</string>
+    <string name="account_user_gender_female">Женский</string>
+    <string name="account_user_gender_male">Мужской</string>
     <string name="account_user_birthday">Дата рождения</string>
     <string name="account_user_id">ID Mi аккаунта</string>
     <string name="account_user_details">Информация о пользователе</string>
@@ -323,12 +323,12 @@
     <string name="account_not_activated">Аккаунт не активирован</string>
     <string name="account_sec_dspt">MIUI, Mi Cloud, Mi Маркет.</string>
     <string name="activating">Активация…</string>
+    <string name="add_weibo_account">Добавить аккаунт</string>
     <string name="btn_activate">Активировать</string>
     <string name="captcha">Код на картинке</string>
     <string name="change_account"><u>Изменить аккаунт</u></string>
     <string name="check_phone_error_title">Не удалось активировать синхронизацию</string>
     <string name="check_phone_io_error">Ошибка сети</string>
-    <string name="choose_which_one_sim">Выберите номер телефона</string>
     <string name="cloud_messaging">Облачные сообщения</string>
     <string name="dirty_contacts_count">Контактов: %d</string>
     <string name="dirty_image_count">Фото: %d</string>
@@ -346,6 +346,7 @@
     <string name="error_verify_code">Код введен неверно</string>
     <string name="failed_to_send_activate_email">Не удалось отправить письмо активации</string>
     <string name="find_device_dspt">Блокировка или очистка данных удаленным способом</string>
+    <string name="foreign_login"><u>Страна</u></string>
     <string name="get_verify_code">Получить код</string>
     <string name="getting_verify_code">Получение…</string>
     <string name="header_data_and_synchronization">Данные и синхронизация</string>
@@ -353,6 +354,7 @@
     <string name="input_phone_hint">Введите номер телефона</string>
     <string name="input_vcode_prompt">Введите проверочный код</string>
     <string name="input_verify_code_hint">Введите проверочный код</string>
+    <string name="int_phone_user_notice">При авторизации в Mi аккаунте с помощью мобильного номера указывайте код страны. Например: +7</string>
     <string name="internet_comm">Сервисы сообщений</string>
     <string name="login_notice">Авторизация…</string>
     <string name="login_step2_title">Двухэтапная авторизация</string>
@@ -425,7 +427,6 @@
     <string name="remove_unactivated_account_notice">Mi аккаунт не активирован</string>
     <string name="show_password">Показать пароль</string>
     <string name="sim_changed_notification_content">SIM карта не активирована</string>
-    <string name="sim_index_info">SIM карта %1$d - %2$s</string>
     <string name="skip_login">Пропустить</string>
     <string name="skip_login_u"><u>Пропустить</u></string>
     <string name="skip_setup_account_msg">Вы можете настроить Mi аккаунт позже в настройках.</string>
@@ -511,8 +512,7 @@
     <string name="activate_status_desc_wait_for_sms_success">SMS для активации получено</string>
     <string name="activate_status_title_activating">Активация SIM карты</string>
     <string name="activate_status_title_activating_msim">Активация SIM карты %s</string>
-    <string name="add_weibo_account">Добавить аккаунт</string>
-    <string name="foreign_login"><u>Страна</u></string>
-    <string name="int_phone_user_notice">При авторизации в Mi аккаунте с помощью мобильного номера указывайте код страны. Например: +7</string>
     <string name="sim_unactivated_title">Ваша SIM карта не активирована</string>
+    <string name="choose_which_one_sim">Выберите номер телефона</string>
+    <string name="sim_index_info">SIM карта %1$d - %2$s</string>
 </resources>

@@ -33,6 +33,9 @@
     <string name="date_picker_dialog_title">Установить дату</string>
     <string name="time_picker_dialog_title">Установить время</string>
     <string name="date_time_picker_dialog_title">Установить дату и время</string>
+    <string name="app_name_which_call">Приложение: %s</string>
+    <string name="app_version_which_call">Версия: %s</string>
+    <string name="policy_name">Политика: %s</string>
     <string name="copyright">Авторские права</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="privacy_policy">Политика конфиденциальности</string>

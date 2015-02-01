@@ -64,6 +64,8 @@
     <string name="alarm_screen">Тема</string>
     <string name="slider_text">Отключить</string>
     <string name="snooze_confirm_cancel">Выключить</string>
+    <string name="menu_item_sort_by_gmt_offset">Сортировка по времени</string>
+    <string name="menu_item_sort_by_name">Сортировка по названию</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="elapsed_time_format">+%s</string>
     <string name="app_label">Часы</string>
@@ -176,8 +178,6 @@
     <string name="menu_item_help">Помощь</string>
     <string name="menu_item_night_mode">Ночной режим</string>
     <string name="menu_item_settings">Настройки</string>
-    <string name="menu_item_sort_by_gmt_offset">Сортировка по времени</string>
-    <string name="menu_item_sort_by_name">Сортировка по названию</string>
     <string name="menu_stopwatch">Секундомер</string>
     <string name="menu_timer">Таймер</string>
     <string name="minute_picker_description">Круглый слайдер минут</string>

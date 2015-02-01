@@ -754,6 +754,10 @@
     <string name="search_result">"Результаты поиска: "</string>
     <string name="search_results_header">Результаты</string>
     <string name="search_results_searching_header">Поиск…</string>
+    <string name="search_tabs_name_all">Все</string>
+    <string name="search_tabs_name_recipient">Получатель</string>
+    <string name="search_tabs_name_sender">Отправитель</string>
+    <string name="search_tabs_name_subject">Тема</string>
     <string name="search_title">Поиск</string>
     <string name="search_txt_size_limit_prompt">Запрос поиска должен содержать более 3 символов</string>
     <string name="search_unsupported">Поиск недоступен для этого аккаунта</string>

@@ -188,7 +188,7 @@
     <string name="resource_title_rank">Топ</string>
     <string name="resource_title_category">Категории</string>
     <string name="resource_title_subject">Новые</string>
-    <string name="resource_title_local">Телефон</string>
+    <string name="resource_title_local">Локально</string>
     <string name="resource_title_hot_subject">Популярные</string>
     <string name="resource_download_notification_title_one">Скачивание темы завершено</string>
     <string name="resource_download_notification_title_many">Скачано тем: %1$s</string>
@@ -1139,6 +1139,7 @@
     <string name="yellowPageNavigationIconLabel">Сервисы</string>
     <string name="login_ok">Вход</string>
     <string name="yellowpage_navigation_no_content">Нет результатов</string>
+    <string name="yellowpage_navigation_clear_search_history">Очистить историю</string>
     <string name="yellowpage_navigation_search_offline_hint">Интернет недоступен</string>
     <string name="refresh">Обновить</string>
     <string name="yellowpage_navigation_search_city_name_hint">Город</string>

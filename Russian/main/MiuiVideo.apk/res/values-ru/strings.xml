@@ -126,6 +126,7 @@
     <string name="menu_item_enable_audio_enhance">Улучшение звука</string>
     <string name="menu_item_disable_audio_enhance">Улучшение звука</string>
     <string name="vp_next_ci">Следующий эпизод</string>
+    <string name="vp_low_definition">Низкое</string>
     <string name="vp_standard_definition">Стандартное</string>
     <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">Отличное</string>
@@ -137,7 +138,7 @@
     <string name="vp_newest_ep">Новые</string>
     <string name="vp_loading_video">Загрузка…</string>
     <string name="vp_select_source">Выбор источника</string>
-    <string name="vp_select_ci">Антология</string>
+    <string name="vp_select_ci">Список</string>
     <string name="vp_offline">Автономный режим</string>
     <string name="vp_offline_title">Автономный режим</string>
     <string name="vp_milink">Mi Link</string>
@@ -151,6 +152,7 @@
     <string name="vp_offline_status_fail">Ошибка</string>
     <string name="vp_offline_title_name">Эпизод %d</string>
     <string name="vp_select_video_source">Выбор ресурса</string>
+    <string name="vp_select_video_definition">Выберите разрешение</string>
     <string name="vp_select_ep">Выберите эпизод</string>
     <string name="vp_device_list">Устройства</string>
     <string name="vp_select_function">Настройки</string>
@@ -181,6 +183,11 @@
     <string name="vp_maintitlearea">Наслаждайтесь звуком высокой четкости, высокой скоростью загрузки и множеством видео онлайн! Загрузить плагин?</string>
     <string name="vp_toast_downloadapk">Загрузка приложения в фоне…</string>
     <string name="vp_video_loading"><CDATA>Загрузка…</CDATA></string>
+    <string name="vp_datastream_alert_play">При воспроизведении видео по мобильному интернету может взиматься дополнительная плата за трафик</string>
+    <string name="vp_datastream_alert_hint">Вы можете выключить уведомление о трафике в настройках видео</string>
+    <string name="vp_datastream_alert_positive_button">Продолжить</string>
+    <string name="vp_datastream_alert_negative_button">Отмена</string>
+    <string name="vp_datastream_alert_title">Предупреждение о трафике</string>
     <string name="declaration_allow">ОК</string>
     <string name="declaration_content_td_custom">Разрешить доступ к мобильному интернету для просмотра видео?</string>
     <string name="declaration_content">Принять <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">условия пользования</a> Sohu Video и iQiyi и других поставщиков?</string>
@@ -244,11 +251,11 @@
     <string name="connecting">Подключение…</string>
     <string name="introduce">Описание</string>
     <string name="comment">Отзывы</string>
-    <string name="douban_score">Отзывы</string>
+    <string name="douban_score">Оценка</string>
     <string name="write_comment">Добавить</string>
     <string name="see_all_count_comment">Еще отзывов: %d</string>
     <string name="detail_comment_empty">Пусто</string>
-    <string name="offline">Не в сети</string>
+    <string name="offline">Скачать</string>
     <string name="add_favorite_success">Видео добавлено в избранные</string>
     <string name="cancel_favorite_success">Из избранных</string>
     <string name="all">Все</string>
@@ -256,7 +263,7 @@
     <string name="channel_hot">Лучшие</string>
     <string name="channel_new">Новые</string>
     <string name="channel_choice">Выбор редактора</string>
-    <string name="channel_score">Отзывы</string>
+    <string name="channel_score">Оценка</string>
     <string name="channel_latest">Новые</string>
     <string name="channel_variety_choice">Рекомендуемые</string>
     <string name="channel_variety_hot">Лучшие</string>
@@ -429,8 +436,6 @@
     <string name="toast_message_set_misound">Настройте Mi Sound</string>
     <string name="vp_error_get_play_url_back_to_continue">Не удается найти URL этого видео</string>
     <string name="vp_support_by">Поддержка: %1$s</string>
-    <string name="vp_datastream_alert_hint">Вы можете выключить уведомление о трафике в настройках видео</string>
-    <string name="vp_datastream_alert_play">При воспроизведении видео по мобильному интернету может взиматься дополнительная плата за трафик</string>
     <string name="select_media_source">Выберите источник</string>
     <string name="hint_can_not_get_source_info">Не удалось получить информацию о видео</string>
     <string name="hint_without_selected_set">Автоматический поиск источника контента</string>
