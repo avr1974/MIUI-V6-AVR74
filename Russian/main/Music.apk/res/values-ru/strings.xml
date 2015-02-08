@@ -188,8 +188,8 @@
     <string name="no_favorites_songs">Нет треков</string>
     <string name="no_local_songs">Нет треков</string>
     <string name="no_local_songs_selected">Невозможно отправить трек, который не загружен.</string>
-    <string name="track_main_fragment_tab_track">Трек</string>
-    <string name="track_main_fragment_tab_album">Альбом</string>
+    <string name="track_main_fragment_tab_track">Треки</string>
+    <string name="track_main_fragment_tab_album">Альбомы</string>
     <string name="no_online_song_selected">Треки не выбраны</string>
     <string name="is_loading_data">Загрузка треков…</string>
     <string name="search_title_singer">Исполнители</string>
@@ -276,6 +276,11 @@
     <string name="bill_list_fragment_title">Чарты</string>
     <string name="nowplaying_menu_item_delete">Удалить</string>
     <string name="similar_songs">Похожие треки</string>
+    <string name="search_for_artist">Исполнитель</string>
+    <string name="search_for_album">Альбом</string>
+    <string name="support_online_only">Доступно только онлайн</string>
+    <string name="no_artist_info">Нет информации об исполнителе</string>
+    <string name="no_album_info">Нет информации об альбоме</string>
     <string name="download_auto_after_preference_summary">Автоматически скачивать треки, которые вы отметили как избранные.</string>
     <string name="download_auto_after_preference_title">Скачивать избранные</string>
     <string name="dialog_button_agree">ОК</string>

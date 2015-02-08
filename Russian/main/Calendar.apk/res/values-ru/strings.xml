@@ -191,7 +191,7 @@
     <string name="event_action_edit">Изменить</string>
     <string name="lunar_date">Лунная дата</string>
     <string name="widget_select_style">Выберите стиль</string>
-    <string name="widget_events">Следующее мероприятие</string>
+    <string name="widget_events">Просмотр мероприятий</string>
     <string name="widget_no_events">Нет мероприятий</string>
     <string name="month_medium_january">Январь</string>
     <string name="month_medium_february">Февраль</string>

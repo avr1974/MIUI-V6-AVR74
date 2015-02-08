@@ -496,6 +496,7 @@
     <string name="mishop_saved_folder_display_name">Изображения Mi Маркета</string>
     <string name="demo_video_folder_display_name">Демо видео</string>
     <string name="androidesk_wallpapers">Обои Android</string>
+    <string name="mtxx">Telegram</string>
     <string name="tencent_qq_hd_pic">QQ HD</string>
     <string name="immomo_camera">Immomo</string>
     <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -555,6 +556,7 @@
     <string name="impunity_declaration_title">Разрешить приложению доступ к интернету?</string>
     <string name="impunity_declaration">При использовании облачных альбомов требуется доступ к интернету</string>
     <string name="impunity_declaration_ignore">Запомнить</string>
+    <string name="impunity_declaration_positive_text">Продолжить</string>
     <string name="impunity_declaration_settings">Запрашивать доступ к интернету</string>
     <string name="impunity_declaration_summary">Запрос доступа к интернету при каждом запуске приложения</string>
     <string name="auto_upload_title">Автозагрузка альбомов</string>
@@ -562,6 +564,8 @@
     <string name="enable">Вкл.</string>
     <string name="same_name_album_exists_alert">Альбом с таким именем уже существует. Загружать фото в этот альбом автоматически?</string>
     <string name="auto_upload_album_comfirm_to_share">Этот альбом будет загружен автоматически в Mi Cloud, поделиться им?</string>
+    <string name="uc">UC Browser</string>
+    <string name="qzone">Одноклассники</string>
     <string name="no_such_album">Альбом не найден</string>
     <string name="auto_upload_guide_title">Включить автозагрузку?</string>
     <string name="auto_upload_guide_msssage">" "<Data> Автоматически загружать фото из других приложений в Mi Cloud. Функция доступна в &lt;font color=#323232>&lt;b>Настройки галереи > Облачные альбомы > Автозагрузка альбомов&lt;/b>&lt;/font>. </Data>" "</string>

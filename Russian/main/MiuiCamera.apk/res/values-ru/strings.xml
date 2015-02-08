@@ -14,8 +14,8 @@
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_location_title">Сохранять местоположение</string>
     <string name="confirm_location_message">Сохранять местоположение в сведениях о фото?</string>
-    <string name="save">ОК</string>
-    <string name="no_save">Отмена</string>
+    <string name="confirm_location_alert">Информация о местоположении</string>
+    <string name="start_capture">Начать запись</string>
     <string name="pref_camera_recordlocation_title">Сохранять местоположение</string>
     <string name="pref_camera_recordlocation_entry_off">Выключено</string>
     <string name="pref_camera_recordlocation_entry_on">Включено</string>
@@ -265,9 +265,6 @@
     <string name="face_beauty_age_alias_female_45_60">Женский 45-60</string>
     <string name="face_beauty_age_alias_female_60_m">Женский 60+</string>
     <string name="simple_mode_button_text_face_beauty">Отключить улучшение тона кожи</string>
-    <string name="pref_camera_multiple_face_beauty_title">Улучшение тона кожи</string>
-    <string name="pref_camera_multiple_face_beauty_entry_off">1 человек</string>
-    <string name="pref_camera_multiple_face_beauty_entry_on">2 человека</string>
     <string name="pref_face_beauty_title">Тон кожи</string>
     <string name="toast_cannot_preview_image_when_screen_locked">Невозможно просматривать фото или видео, когда экран заблокирован.</string>
     <string name="pref_priority_storage_title">Сохранять на внешнюю память</string>
@@ -340,6 +337,11 @@
     <string name="location">Местоположение</string>
     <string name="duration">Длительность</string>
     <string name="flash">Вспышка</string>
+    <string name="save">ОК</string>
+    <string name="no_save">Отмена</string>
+    <string name="pref_camera_multiple_face_beauty_title">Улучшение тона кожи</string>
+    <string name="pref_camera_multiple_face_beauty_entry_off">1 человек</string>
+    <string name="pref_camera_multiple_face_beauty_entry_on">2 человека</string>
     <string name="Import">Импорт</string>
     <string name="accessibilit_camera_video_switch_picker_and_state">Переключение фото и видео камеры (используется %s)</string>
     <string name="accessibility_camera_auto_flashmode">Автовспышка</string>

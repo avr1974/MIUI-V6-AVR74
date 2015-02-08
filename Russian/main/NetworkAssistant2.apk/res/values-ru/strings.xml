@@ -187,7 +187,7 @@
     <string name="network_assistant_upgraded_title">Предел трафика не установлен</string>
     <string name="network_assistant_upgraded_body">Нажмите для настройки</string>
     <string name="lock_screen_traffic_warn_title">Предупреждение о трафике</string>
-    <string name="lock_screen_traffic_notify_body">Трафик при выключенном экране: %s</string>
+    <string name="lock_screen_traffic_notify_body">Экран заблокирован: %1$s | Использовано данных: %2$s</string>
     <string name="lock_screen_setting_summary">Показывать уведомления после использования 100 Кб</string>
     <string name="timeshow_h_m">%1$d ч. %2$d мин.</string>
     <string name="timeshow_m_s">%1$d мин. %2$d сек.</string>
