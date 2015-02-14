@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="menu_theme_setting">
-        <item>" "</item>
-        <item>" "</item>
-        <item>" "</item>
-        <item>" "</item>
-        <item>" "</item>
-        <item>" "</item>
+        <item>Белая</item>
+        <item>Желтая</item>
+        <item>Серая</item>
+        <item>Коричневая</item>
+        <item>Зеленая</item>
+        <item>Синяя</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Главная страница</item>
-        <item>Установить свою</item>
+        <item>Стартовая страница</item>
+        <item>Пользовательская</item>
+    </string-array>
+    <string-array name="bookmarks_cu_customization">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
@@ -24,12 +28,12 @@
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Переключение страниц</item>
-        <item>Переключение вкладок</item>
+        <item>Переключение окон</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
-        <item>Маленький</item>
+        <item>Мелкий</item>
         <item>Средний</item>
-        <item>Большой</item>
+        <item>Крупный</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Никогда</item>
@@ -38,16 +42,16 @@
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Мелкий</item>
-        <item>Нормальный</item>
-        <item>Средний</item>
+        <item>Маленький</item>
+        <item>Обычный</item>
         <item>Большой</item>
         <item>Огромный</item>
     </string-array>
     <string-array name="pre_webapp_text_sizes">
+        <item>Огромный</item>
         <item>Большой</item>
-        <item>Средний</item>
-        <item>Нормальный</item>
-        <item>Мелкий</item>
+        <item>Обычный</item>
+        <item>Маленький</item>
     </string-array>
     <string-array name="google">
         <item>Google</item>
@@ -99,7 +103,7 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
-        <item>Латинская (ISO-8859-1)</item>
+        <item>Латиница (ISO-8859-1)</item>
         <item>Юникод (UTF-8)</item>
         <item>Китайская (GBK)</item>
         <item>Китайская (Big5)</item>
@@ -122,5 +126,45 @@
         <item>Никогда</item>
         <item>Только по Wi-Fi</item>
         <item>Всегда</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>VK</item>
+        <item>http://vk.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>DimonVideo.Ru</item>
+        <item>http://m.dimonvideo.ru/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>Romz.Bz</item>
+        <item>http://www.romz.bz/</item>
+        <item>NY Times</item>
+        <item>http://www.nytimes.com/</item>
+        <item>ESPN</item>
+        <item>http://espn.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+    </string-array>
+    <string-array name="readmode_theme_fontsizenames">
+        <item>М</item>
+        <item>С</item>
+        <item>Б</item>
+    </string-array>
+    <string-array name="readmode_theme_names">
+        <item>Белая</item>
+        <item>Желтая</item>
+        <item>Черная</item>
     </string-array>
 </resources>
