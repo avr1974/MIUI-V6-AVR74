@@ -24,7 +24,7 @@
     <string name="rank_tag">Топ</string>
     <string name="category_tag">Категории</string>
     <string name="guess_tag">Предположение</string>
-    <string name="management_tag">Телефон</string>
+    <string name="management_tag">Устройство</string>
     <string name="category_recommend_tag">Рекомендации</string>
     <string name="hot_rank_tag">Популярные</string>
     <string name="new_app_tag">Новые</string>
@@ -308,9 +308,7 @@
     <string name="first_recommend_enter">Пропустить</string>
     <string name="search_recommend_source">Похоже на %1$s</string>
     <string name="search_recommend_source_default">Популярные</string>
-    <string name="search_recommend_ingore">Скрыть</string>
     <string name="search_recommend_hint">Рекомендуемые приложения</string>
-    <string name="search_recommend_ingored_text">Не рекомендовать</string>
     <string name="search_recommend_no_net">Сеть недоступна. Пожалуйста, попробуйте позже.</string>
     <string name="search_recommend_no_data">Нет рекомендуемых приложений</string>
     <string name="search_popular_hint_title">Популярные</string>
@@ -353,7 +351,6 @@
     <string name="delete_download_history_failed">Не удалось удалить историю загрузки</string>
     <string name="delete_download_history_success">История загрузки удалена</string>
     <string name="delete_download_history_partition_failed">Не удалось удалить некоторые записи истории</string>
-    <string name="delete_download_history_confirm">Удалить выбранные записи? (%1$s)</string>
     <string name="delete_selected_download_history">Удалить записи</string>
     <string name="expansion_main_download_name">%1$s пак.1</string>
     <string name="expansion_append_download_name">%1$s пак.2</string>
@@ -392,4 +389,7 @@
     <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
     <string name="pref_title_hotsubjects_notification">Коллекции</string>
     <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
+    <string name="search_recommend_ingore">Скрыть</string>
+    <string name="search_recommend_ingored_text">Не рекомендовать</string>
+    <string name="delete_download_history_confirm">Удалить выбранные записи? (%1$s)</string>
 </resources>

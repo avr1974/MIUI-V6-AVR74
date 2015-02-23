@@ -17,12 +17,12 @@
         <item quantity="one">Удалить %s видео?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Удалить %s фото из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
-        <item quantity="one">Удалить %s фото из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="other">Удалить %s фото из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Удалить %s фото из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Удалить %s видео из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
-        <item quantity="one">Удалить %s видео из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="other">Удалить %s видео из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Удалить %s видео из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>

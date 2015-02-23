@@ -124,7 +124,6 @@
     <string name="nowifi_alert_dialog_continue">ОК</string>
     <string name="nowifi_alert_dialog_exit">Отмена</string>
     <string name="menu_item_enable_audio_enhance">Улучшение звука</string>
-    <string name="menu_item_disable_audio_enhance">Улучшение звука</string>
     <string name="vp_next_ci">Следующий эпизод</string>
     <string name="vp_low_definition">Низкое</string>
     <string name="vp_standard_definition">Стандартное</string>
@@ -206,6 +205,7 @@
     <string name="search_recommend_word_hint">Топ</string>
     <string name="filter_program">Фильтр</string>
     <string name="hot">Лучшие</string>
+    <string name="baodian">Категории</string>
     <string name="category">Категории</string>
     <string name="choice">Топ</string>
     <string name="my">Локальные</string>
@@ -229,7 +229,7 @@
     <string name="error_empty_title">Ошибка</string>
     <string name="error_empty_filter_title">Нет результатов</string>
     <string name="local_media_empty_title">Нет видео</string>
-    <string name="local_media_empty_sub_title">Загрузить и просмотреть видео в автономном режиме</string>
+    <string name="local_media_empty_sub_title">Загрузка и просмотр видео локально</string>
     <string name="play_his_empty_title">Пусто</string>
     <string name="local_favorite_empty_title">Пусто</string>
     <string name="offline_media_empty_title">Пусто</string>
@@ -277,6 +277,10 @@
     <string name="tv_series">ТВ сериалы</string>
     <string name="film">Фильмы</string>
     <string name="variety">Рекомендуемые</string>
+    <string name="catoon">Мультфильмы</string>
+    <string name="usa">Американское ТВ</string>
+    <string name="hollywood">Голливуд</string>
+    <string name="koreak">Корейское ТВ</string>
     <string name="recent_play">Недавние</string>
     <string name="offline_media">Локальные</string>
     <string name="tv">ТВ</string>
@@ -376,6 +380,7 @@
     <string name="maintitle_prefix">Доступно обновление</string>
     <string name="subtitle_prefix">"Версия: "</string>
     <string name="hot_recommend">Популярные</string>
+    <string name="app_recommend">Рекомендуемые</string>
     <string name="actor_colon">"Актеры: "</string>
     <string name="all_comment">Все отзывы</string>
     <string name="area_colon">"Страна: "</string>
@@ -408,6 +413,7 @@
     <string name="local_media_empty_hint">Нет видео</string>
     <string name="manage">Выбор</string>
     <string name="manage_offline_media">Управление загрузками</string>
+    <string name="menu_item_disable_audio_enhance">Улучшение звука</string>
     <string name="my_video">Локально</string>
     <string name="offline_media_empty_hint">Нет видео</string>
     <string name="offline_no_wifi">Вы не подключены к сети Wi-Fi. Для загрузки включите в настройках функцию \"Мобильный интернет\".</string>
@@ -445,4 +451,5 @@
     <string name="search_result_recommend_hint">Рекомендуемые</string>
     <string name="search_result_recommend_empty">Нет результатов</string>
     <string name="offline_video">Локальные</string>
+    <string name="japank">Японское ТВ</string>
 </resources>

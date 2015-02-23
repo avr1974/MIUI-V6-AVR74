@@ -11,7 +11,7 @@
     <string name="retry">Повтор</string>
     <string name="cloud_app_backup_title">Бэкап приложений</string>
     <string name="cloud_app_mine">Приложения</string>
-    <string name="cloud_app_backup_summary">Автоматическое создание бэкапа данных приложений, когда телефон заряжается и подключен к Wi-Fi.</string>
+    <string name="cloud_app_backup_summary">Автоматическое создание бэкапа данных приложений, когда устройство заряжается и подключен к Wi-Fi.</string>
     <string name="cloud_app_function_summary">Если вы создадите бэкап в Mi Cloud, то сможете восстановить его на любом устройстве.</string>
     <string name="cloud_app_restore_action_bar_title">%1$s: бэкап создан</string>
     <string name="cloud_app_current_device">Текущее устройство</string>

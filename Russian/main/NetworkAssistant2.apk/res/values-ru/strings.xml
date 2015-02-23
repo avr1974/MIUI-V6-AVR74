@@ -391,7 +391,7 @@
     <string name="traffic_setting_open">Включено</string>
     <string name="traffic_setting_app_count">Приложений: %d</string>
     <string name="traffic_setting_update_template_falure">Не удается подключиться к интернету</string>
-    <string name="traffic_warning_purchase_title">Уведомлять, если баланс меньше %d%%</string>
+    <string name="traffic_warning_purchase_title">Предупреждение о трафике</string>
     <string name="traffic_purchase_body">Рекомендуется пополнить счет</string>
     <string name="traffic_purchse_suggestion">Время пополнить счет</string>
     <string name="traffic_over_purchase_title">Трафик превышен</string>

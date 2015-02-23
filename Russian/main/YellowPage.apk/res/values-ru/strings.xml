@@ -466,7 +466,7 @@
     <string name="resource_local">Локально %1$s</string>
     <string name="resource_menu_refresh">Обновить</string>
     <string name="resource_mute">Нет</string>
-    <string name="resource_my">Телефон</string>
+    <string name="resource_my">Локально</string>
     <string name="resource_no_result">Нет результатов</string>
     <string name="resource_notification_default">Уведомл.</string>
     <string name="resource_on_trial">Применение пробной версии: %1$s</string>
