@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miui.player.ui.view.CheckableRelativeLayout style="@style/Widget.ListView.Item"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:player="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/play_indicator1" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/indicator_play_status" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toLeftOf="@id/play_indicator2" android:layout_toRightOf="@id/play_indicator1">
+        <miui.widget.ImageTextView android:entries="@array/number_key_entries" android:orientation="horizontal" android:id="@id/number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:layout_marginRight="@dimen/item_horizontal_spacing" android:layout_alignTop="@id/secondary_title" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:entryValues="?listItemNumber" />
+        <TextView android:id="@id/secondary_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/number" style="@style/TextAppearance.List.Primary" />
+        <TableLayout android:id="@id/title_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:shrinkColumns="0" android:layout_toRightOf="@id/number" android:layout_below="@id/secondary_title" android:layout_alignLeft="@id/secondary_title">
+            <TableRow>
+                <TextView android:id="@id/title" android:paddingRight="4.669983dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_column="0" style="@style/TextAppearance.List.Secondary" />
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/hq_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?listItemHQ" android:layout_column="1" />
+            </TableRow>
+        </TableLayout>
+    </RelativeLayout>
+    <view android:id="@id/play_indicator2" android:visibility="gone" android:layout_width="14.0dip" android:layout_height="13.329987dip" android:layout_marginLeft="5.0dip" android:layout_toLeftOf="@id/icon_container" android:layout_centerVertical="true" player:bar_count="4" player:bar_color="@color/dance_bar_color" player:bar_max_speed="6" player:bar_min_speed="3" player:bar_dance_interval="40" class="com.miui.player.phone.ui.view.DanceBar" />
+    <view android:layout_gravity="center" android:id="@android:id/progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/icon_container" android:layout_centerVertical="true" class="miui.widget.ProgressBar" style="?android:attr/progressBarStyleSmall" />
+    <FrameLayout android:id="@id/icon_container" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:translationX="@dimen/track_list_fragment_item_padding">
+        <ImageView android:id="@id/favorite" android:paddingLeft="@dimen/track_list_fragment_item_padding" android:paddingRight="@dimen/track_list_fragment_item_padding" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="?listItemFavorite" />
+        <ImageView android:id="@id/download" android:paddingLeft="@dimen/track_list_fragment_item_padding" android:paddingRight="@dimen/track_list_fragment_item_padding" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="?listItemDownload" />
+    </FrameLayout>
+    <CheckBox android:id="@android:id/checkbox" android:background="@null" android:focusable="false" android:visibility="gone" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:button="@drawable/checkbox_bg" android:layout_alignParentRight="true" android:variablePadding="true" />
+</com.miui.player.ui.view.CheckableRelativeLayout>
