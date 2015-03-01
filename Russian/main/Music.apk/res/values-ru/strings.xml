@@ -202,7 +202,7 @@
     <string name="metered_play_toast">Воспроизведение музыки онлайн</string>
     <string name="no_results_return">Нет результатов</string>
     <string name="list_item_play_FM_radio">Воспроизвести радио</string>
-    <string name="baidu_music">Музыка Baidu</string>
+    <string name="baidu_music">Baidu</string>
     <string name="local_music">Локальные</string>
     <string name="local_tracks_short">Локальные</string>
     <string name="tab_local_track_list">Треки</string>
@@ -239,7 +239,7 @@
     <string name="can_not_find_resource">Не удается найти ресурсы</string>
     <string name="modify_song_info">Изменить информацию о треке</string>
     <string name="song_name">Трек</string>
-    <string name="artist_name">Исполн.</string>
+    <string name="artist_name">Исполнитель</string>
     <string name="album_name">Альбом</string>
     <string name="lyric">Текст песни</string>
     <string name="click_modify">Нажмите для изменения текста</string>

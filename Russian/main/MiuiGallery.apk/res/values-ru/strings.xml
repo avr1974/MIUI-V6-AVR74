@@ -563,7 +563,9 @@
     <string name="select_auto_upload_albums">Выберите альбомы для загрузки в Mi Cloud</string>
     <string name="enable">Вкл.</string>
     <string name="same_name_album_exists_alert">Альбом с таким именем уже существует. Загружать фото в этот альбом автоматически?</string>
-    <string name="auto_upload_album_comfirm_to_share">Этот альбом будет загружен автоматически в Mi Cloud, поделиться им?</string>
+    <string name="auto_upload_album_comfirm_to_share">"Поделиться альбомом?
+
+Фото из этого альбома автоматически загружаются в Mi Cloud."</string>
     <string name="uc">UC Browser</string>
     <string name="qzone">Одноклассники</string>
     <string name="no_such_album">Альбом не найден</string>

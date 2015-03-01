@@ -53,7 +53,7 @@ EEEE"</string>
     <string name="confirm_pin_msg">Введите PIN повторно</string>
     <string name="invalid_confirm_pin_hint">PIN коды не совпадают</string>
     <string name="unlock_string">ОК</string>
-    <string name="open_camera_hint_text">Проведите влево для доступа к камере</string>
+    <string name="open_camera_hint_text">Открыть камеру</string>
     <string name="open_remote_center_hint_text">Открыть телефон</string>
     <string name="click_to_enter_text">Открыть</string>
     <string name="lockscreen_emergency_call">Экстренный вызов</string>

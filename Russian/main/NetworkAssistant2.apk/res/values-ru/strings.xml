@@ -187,8 +187,8 @@
     <string name="network_assistant_upgraded_title">Предел трафика не установлен</string>
     <string name="network_assistant_upgraded_body">Нажмите для настройки</string>
     <string name="lock_screen_traffic_warn_title">Предупреждение о трафике</string>
-    <string name="lock_screen_traffic_notify_body">Экран заблокирован: %1$s | Использовано данных: %2$s</string>
-    <string name="lock_screen_setting_summary">Показывать уведомления после использования 100 Кб</string>
+    <string name="lock_screen_traffic_notify_body">Спящий режим: %1$s | Трафик: %2$s</string>
+    <string name="lock_screen_setting_summary">Показывать уведомление, если использовано более 100 Кб в заблокированном режиме.</string>
     <string name="timeshow_h_m">%1$d ч. %2$d мин.</string>
     <string name="timeshow_m_s">%1$d мин. %2$d сек.</string>
     <string name="timeshow_s">%d сек.</string>
@@ -391,7 +391,7 @@
     <string name="traffic_setting_open">Включено</string>
     <string name="traffic_setting_app_count">Приложений: %d</string>
     <string name="traffic_setting_update_template_falure">Не удается подключиться к интернету</string>
-    <string name="traffic_warning_purchase_title">Предупреждение о трафике</string>
+    <string name="traffic_warning_purchase_title">Трафик в спящем режиме</string>
     <string name="traffic_purchase_body">Рекомендуется пополнить счет</string>
     <string name="traffic_purchse_suggestion">Время пополнить счет</string>
     <string name="traffic_over_purchase_title">Трафик превышен</string>
