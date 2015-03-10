@@ -37,7 +37,7 @@
     <string name="account_settings_background_attachments_label">Автозагрузка вложений</string>
     <string name="account_settings_background_attachments_summary">Автозагрузка вложений по Wi-Fi</string>
     <string name="account_settings_chat_mode_enable">Режим диалогов</string>
-    <string name="account_settings_chat_mode_summary">Нажмите для объединения сообщений в диалог</string>
+    <string name="account_settings_chat_mode_summary">Объединить сообщения в диалог</string>
     <string name="account_settings_data_usage">Использование данных</string>
     <string name="account_settings_description_label">Название аккаунта</string>
     <string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
@@ -88,6 +88,7 @@
     <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
     <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
     <string name="account_setup_creating_account_msg">Авторизация аккаунта…</string>
+    <string name="account_setup_deleting_account_msg">Удаление аккаунта…</string>
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
     <string name="account_setup_exchange_device_id_label">Идентификатор мобильного устройства</string>
     <string name="account_setup_exchange_no_certificate">Не используется</string>
@@ -467,7 +468,7 @@
     <string name="loading_conversations">Загрузка…</string>
     <string name="loading_from_remote">Поиск на сервере…</string>
     <string name="local_search">Локальный поиск</string>
-    <string name="local_search_result">Найдено сообщений в телефоне: %s</string>
+    <string name="local_search_result">Найдено сообщений на устройстве: %s</string>
     <string name="login">Вход</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>

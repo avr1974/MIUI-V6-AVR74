@@ -301,6 +301,23 @@
     <string name="copy_file_to_kuaipan">Копировать в Kuaipan</string>
     <string name="downloading_in_3g">Загрузка по сети 3G…</string>
     <string name="operate_confirm_in_3g">Загрузить этот файл по сети 3G?</string>
+    <string name="files">Файлы</string>
+    <string name="get_cloud_space">Добавить 500 Гб</string>
+    <string name="kp_category_all">Категории</string>
+    <string name="kp_category_doc">Word</string>
+    <string name="kp_category_excel">Excel</string>
+    <string name="kp_category_ppt">PowerPoint</string>
+    <string name="kp_category_pdf">PDF</string>
+    <string name="kp_category_txt">Текст</string>
+    <string name="no_display_file">Не удается отобразить %1$s</string>
+    <string name="delete_selected_tasks">Удалить выбранное?</string>
+    <string name="kuaipan_data_formater_with_year">d MMMM yyyy</string>
+    <string name="kuaipan_data_formater_without_year">d MMMM</string>
+    <string name="kuaipan_photo_locate">%1$s</string>
+    <string name="kuaipan_root_fooder">Домой</string>
+    <string name="kuaipan_cloud_photo">Фото KuaiPan</string>
+    <string name="kuaipan_create_shortcut_success">Ярлык создан</string>
+    <string name="kuaipan_delete_success">Фото удалено</string>
     <string name="system_alert">Напомнить</string>
     <string name="network_connect_confirm_des">Разрешить приложению доступ к интернету?</string>
     <string name="operation_agree">ОК</string>
@@ -320,4 +337,8 @@
     <string name="image_share">Отправить</string>
     <string name="init">Запуск…</string>
     <string name="category_recent">Недавние</string>
+    <string name="no_enough_space">Недостаточно памяти</string>
+    <string name="ui_bar_txt_download_progress">Осталось файлов: %1$d</string>
+    <string name="ui_bar_txt_upload_progress">Загрузка</string>
+    <string name="kuaipan_delete_guide_des">Удалить руководство пользователя?</string>
 </resources>

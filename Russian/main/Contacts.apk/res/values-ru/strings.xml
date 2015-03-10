@@ -1139,6 +1139,7 @@
     <string name="yellowPageNavigationIconLabel">Сервисы</string>
     <string name="login_ok">Вход</string>
     <string name="yellowpage_navigation_no_content">Нет результатов</string>
+    <string name="yellowpage_navigation_search_history">История</string>
     <string name="yellowpage_navigation_clear_search_history">Очистить историю</string>
     <string name="yellowpage_navigation_search_offline_hint">Интернет недоступен</string>
     <string name="refresh">Обновить</string>

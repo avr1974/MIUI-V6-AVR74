@@ -2063,6 +2063,8 @@
     <string name="user_image_take_photo">Снять фото</string>
     <string name="user_image_choose_photo">Выбрать из галереи</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Беспроводной дисплей отключен. Нет подключения к сети Wi-Fi.</string>
+    <string name="screen_timeout_title">Спящий режим</string>
+    <string name="sim_status_title">Статус SIM карты</string>
     <string name="do_not_disturb_mode">Не беспокоить</string>
     <string name="dndm_notification">Режим \"Не беспокоить\"</string>
     <string name="dndm_open">Не беспокоить</string>
@@ -2172,7 +2174,6 @@
     <string name="access_control_app_entry_single">Открыть приложение</string>
     <string name="access_control_app_entry_multiple">Открыть %s</string>
     <string name="apn_general">Общие</string>
-    <string name="screen_timeout_title">Спящий режим</string>
     <string name="touch_title">Сенсор</string>
     <string name="touch_sensitive_title">Режим \"В перчатках\"</string>
     <string name="touch_sensitive_summary">Включить высокую чувствительность сенсора для возможности управления в перчатках</string>
@@ -2575,7 +2576,6 @@
     <string name="android_beam_witch_label">Включить Android Beam</string>
     <string name="sim_management_title">Управление SIM картой</string>
     <string name="sim_radio_off">Не активировано</string>
-    <string name="sim_status_title">Статус SIM карты</string>
     <string name="slot_status_title">Информация о IMEI</string>
     <string name="next_button_label">Далее</string>
     <string name="internal_media_format_final_desc">Очистить память устройства? Это необратимое действие! Устройство будет перезагружено после завершения очистки.</string>
@@ -2915,6 +2915,7 @@
     <string name="wifi_connect_cmcc_dialog_confirm">ОК</string>
     <string name="wifi_notify_cmcc_connected_title">Уведомление о сети CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Показывать уведомление при подключении к сети CMCC</string>
+    <string name="wifi_datanetwork_switch_not_remind">Запомнить</string>
     <string name="miracast_settings_category">Настройки Wi-Fi дисплея</string>
     <string name="miracast_display_category">Дисплеи</string>
     <string name="miracast_menu_search">Поиск</string>

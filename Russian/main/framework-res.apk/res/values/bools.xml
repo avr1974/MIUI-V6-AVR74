@@ -78,7 +78,7 @@
     <bool name="config_syncstorageengine_masterSyncAutomatically">true</bool>
     <bool name="config_enableWifiDisplay">false</bool>
     <bool name="config_useDevInputEventForAudioJack">true</bool>
-    <bool name="config_safe_media_volume_enabled">true</bool>
+    <bool name="config_safe_media_volume_enabled">false</bool>
     <bool name="config_wifiDisplaySupportsProtectedBuffers">false</bool>
     <bool name="config_camera_sound_forced">true</bool>
     <bool name="config_dontPreferApn">false</bool>

@@ -3,12 +3,11 @@
     <string name="photoeditor_name">Фотостудия</string>
     <string name="loading_failure">Не удалось загрузить изображение</string>
     <string name="saving_failure">Не удалось сохранить фото</string>
-    <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
     <string name="edited_photo_bucket_name">Измененные</string>
     <string name="save_photo">Сохранить изменения?</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
-    <string name="save">Готово</string>
+    <string name="save">Сохранить</string>
     <string name="autofix">Авто</string>
     <string name="crop">Обрезать</string>
     <string name="crossprocess">Кросс-обработка</string>
@@ -51,7 +50,15 @@
     <string name="frame_movie">Фильм</string>
     <string name="photo_paint_adjust">Регулировка</string>
     <string name="photo_paint_effect">Эффект</string>
-    <string name="original">Исходный</string>
+    <string name="original">Оригинал</string>
+    <string name="early_bird">Осень</string>
+    <string name="brannan">Утро</string>
+    <string name="cool">Холод</string>
+    <string name="rise">Рост</string>
+    <string name="cool_portrait">Свежесть</string>
+    <string name="old">Старое</string>
+    <string name="camera_black_white">Моно</string>
+    <string name="black_white">Черно-белое</string>
     <string name="app_name">Галерея</string>
     <string name="loading">Загрузка…</string>
     <string name="no_thumbnail">Нет изображения для предварительного просмотра</string>
@@ -268,6 +275,7 @@
     <string name="operation_add_picture">Добавить фото</string>
     <string name="operation_add_secret">В секрет</string>
     <string name="operation_remove_secret">Из секрета</string>
+    <string name="operation_remove_from_face_album">Удалить обложку</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="global_setting">Настройки</string>
     <string name="no_storage_disable_cloud_albums">Облачные альбомы недоступны</string>
@@ -381,7 +389,7 @@
     <string name="fail_to_download_n_items">Ошибка загрузки файлов: %s</string>
     <string name="cloud_album_more_settings">Облачные альбомы</string>
     <string name="browse_category">Просмотр изображений</string>
-    <string name="photo_page_save_image">Сохранить</string>
+    <string name="photo_page_save_image">ОК</string>
     <string name="photo_page_save_uri_image_ok">Фото сохранено в папку камеры</string>
     <string name="photo_page_save_uri_image_fail">Не удалось сохранить фото</string>
     <string name="albumset_page_title_separator"> | </string>
@@ -496,7 +504,6 @@
     <string name="mishop_saved_folder_display_name">Изображения Mi Маркета</string>
     <string name="demo_video_folder_display_name">Демо видео</string>
     <string name="androidesk_wallpapers">Обои Android</string>
-    <string name="mtxx">Telegram</string>
     <string name="tencent_qq_hd_pic">QQ HD</string>
     <string name="immomo_camera">Immomo</string>
     <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -528,6 +535,7 @@
     <string name="home_page_tab_photo">Все</string>
     <string name="home_page_tab_cloud">Облачные</string>
     <string name="home_page_tab_local">Локальные</string>
+    <string name="home_page_tab_face">Обложка</string>
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Ошибка синхронизации: слишком много попыток авторизации.</string>
     <string name="error_forbidden">Синхронизация отключена из-за проблем с Mi аккаунтом</string>
@@ -543,7 +551,7 @@
     <string name="ubifocus_guide_text">Удерживайте для повторной фокусировки</string>
     <string name="priority_storage">Сохранение на SD карту</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на SD карту, когда она подключена.</string>
-    <string name="abandon">Отказ</string>
+    <string name="abandon">Отмена</string>
     <string name="paint_cancel_title">Отмена</string>
     <string name="paint_cancel_context">Отменить редактирование?</string>
     <string name="paint_crop_cancel_title">Не изменять</string>
@@ -553,12 +561,14 @@
     <string name="free">Свободно</string>
     <string name="square">Площадь</string>
     <string name="original_scale">Исходный размер</string>
+    <string name="photo_save_succeed">Успешно сохранено</string>
     <string name="impunity_declaration_title">Разрешить приложению доступ к интернету?</string>
     <string name="impunity_declaration">При использовании облачных альбомов требуется доступ к интернету</string>
     <string name="impunity_declaration_ignore">Запомнить</string>
     <string name="impunity_declaration_positive_text">Продолжить</string>
     <string name="impunity_declaration_settings">Запрашивать доступ к интернету</string>
     <string name="impunity_declaration_summary">Запрос доступа к интернету при каждом запуске приложения</string>
+    <string name="face_album">Обложка альбома</string>
     <string name="auto_upload_title">Автозагрузка альбомов</string>
     <string name="select_auto_upload_albums">Выберите альбомы для загрузки в Mi Cloud</string>
     <string name="enable">Вкл.</string>
@@ -567,13 +577,34 @@
 
 Фото из этого альбома автоматически загружаются в Mi Cloud."</string>
     <string name="uc">UC Browser</string>
-    <string name="qzone">Одноклассники</string>
     <string name="no_such_album">Альбом не найден</string>
     <string name="auto_upload_guide_title">Включить автозагрузку?</string>
     <string name="auto_upload_guide_msssage">" "<Data> Автоматически загружать фото из других приложений в Mi Cloud. Функция доступна в &lt;font color=#323232>&lt;b>Настройки галереи > Облачные альбомы > Автозагрузка альбомов&lt;/b>&lt;/font>. </Data>" "</string>
     <string name="not_now">Отмена</string>
     <string name="go_setting">ОК</string>
+    <string name="face_albumset_use_tip">Помогает найти красивые обложки, что делает его простым для просмотра и управления фото.</string>
+    <string name="face_albumset_detecting_tip">"Обнаружение обложек…
+Обложка альбома скоро будет доступена"</string>
+    <string name="face_albumset_empty">Лицо не обнаружено. Попробуйте использовать больше фото.</string>
+    <string name="start_to_use_face_albumset">Начать использовать обложек альбомов</string>
+    <string name="face_album_not_named">Без названия</string>
+    <string name="rename_face_album">Изменить имя</string>
+    <string name="rename_fail_msg">Не удалось изменить имя</string>
+    <string name="merge_album_positive_button_text">ОК</string>
+    <string name="confirm_merge_face_albums">" "<Data> Объединить этот альбом с альбомом &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="create_new_face">Новая обложка</string>
+    <string name="preparing_data">Подготовка данных…</string>
+    <string name="ignore_face">Игнорировать эту обложку</string>
+    <string name="who_is_this">Кто это?</string>
+    <string name="view_face_album">Показать альбом</string>
+    <string name="name_wrong">Неверное имя %s</string>
+    <string name="face_album_rename_hint">Введите имя</string>
+    <string name="face_move_dialog_title">Выберите обложку альбома</string>
     <string name="paint_crop_tips">Для получения лучшего эффекта попробуйте поместить интересующую часть фото в сетку</string>
+    <string name="adjust">Улучшение</string>
+    <string name="effect">Фильтры</string>
+    <string name="highlight2">Яркость</string>
+    <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
     <string name="action_fail_unknown_error">Произошла неизвестная ошибка</string>
     <string name="add_to_cloud_fail_too_many_items">Выбрано слишком много элементов</string>
     <string name="cloud_share_guide_message">Вы можете делиться своими альбомами, просматривать альбомы друзей, а также добавлять фото в альбом вместе!</string>

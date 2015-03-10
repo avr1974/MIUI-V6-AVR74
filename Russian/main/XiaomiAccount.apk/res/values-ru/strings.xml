@@ -200,7 +200,7 @@
     <string name="hide_mibi_info">Информация о Mi Credit скрыта</string>
     <string name="failed_get_mibi_info">Не удается получить Mi Credit</string>
     <string name="mipay_center">Аккаунт банка</string>
-    <string name="mi_service">Поддержка</string>
+    <string name="mi_support_service">Поддержка</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Привязка Sina Weibo</string>
     <string name="bind_weibo_description">Sina WeiBo — китайский сервис микроблогов, с помощью которого вы сможете найти информацию о контактах.</string>
@@ -260,6 +260,8 @@
     <string name="account_error_user_birthday">Неверная дата рождения</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
     <string name="sns_access_token_expired_warning">Время авторизации вышло. Войдите повторно в этот аккаунт.</string>
+    <string name="user_avatar_uploading">Загрузка…</string>
+    <string name="user_avatar_update_title">Фото профиля</string>
     <string name="bind_settings">Дополнительные аккаунты</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Дополнительные аккаунты</string>
@@ -517,4 +519,5 @@
     <string name="sim_unactivated_title">Ваша SIM карта не активирована</string>
     <string name="choose_which_one_sim">Выберите номер телефона</string>
     <string name="sim_index_info">SIM карта %1$d - %2$s</string>
+    <string name="mi_service">Поддержка</string>
 </resources>
