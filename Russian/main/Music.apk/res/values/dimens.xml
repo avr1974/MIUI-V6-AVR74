@@ -61,6 +61,7 @@
     <dimen name="search_view_height">20.0dip</dimen>
     <dimen name="nowplaying_page_time_text_size">7.3299866sp</dimen>
     <dimen name="time_indicator_thumb_offset">13.0dip</dimen>
+    <dimen name="lyric_current_margin_bottom">0.0dip</dimen>
     <dimen name="fm_cover_margin_top">65.0dip</dimen>
     <dimen name="pop_window_width">170.0dip</dimen>
     <dimen name="dialog_fragment_button_margin">30.0dip</dimen>

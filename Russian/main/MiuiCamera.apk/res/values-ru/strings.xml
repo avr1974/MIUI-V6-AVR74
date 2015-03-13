@@ -324,6 +324,9 @@
     <string name="pref_camera_asd_night_title">Ночной режим</string>
     <string name="pref_camera_asd_popup_title">Уведомлять, когда требуется вспышка.</string>
     <string name="simple_mode_button_text_scene">Отключить режим сцены</string>
+    <string name="pref_camera_peak_title">Фокус пикинг</string>
+    <string name="pref_camera_peak_entry_off">выключен</string>
+    <string name="pref_camera_peak_entry_on">включен</string>
     <string name="edit">Изменить</string>
     <string name="details">Информация</string>
     <string name="path">Путь</string>
