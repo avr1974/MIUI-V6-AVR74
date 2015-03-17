@@ -842,6 +842,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="msim_select_default_time_left">(%d сек.)</string>
     <string name="msim_switch_data_conn_toast">Проверьте доступ к сети. Тип сети изменен на 4G.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM карта 2 поддерживает только сети GSM. Тип сети данной SIM карты будет изменен на 2G.</string>
+    <string name="msim_has_been_disabled">(отключено)</string>
     <string name="select_voice_call_sim">Выберите SIM карту</string>
     <string name="general_setting">Общие</string>
     <string name="call_record_setting">Запись вызовов</string>

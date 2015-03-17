@@ -297,6 +297,8 @@
     <string name="share_box_receive">Принятые</string>
     <string name="file_not_exist">Файл не существует</string>
     <string name="open_file_failed">Не удалось открыть файл</string>
+    <string name="action_mode_deselect_all">Снять выбор</string>
+    <string name="action_mode_select_all">Выбрать все</string>
     <string name="file_already_downlaoded">Файл сохранен в \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Копировать в Kuaipan</string>
     <string name="downloading_in_3g">Загрузка по сети 3G…</string>

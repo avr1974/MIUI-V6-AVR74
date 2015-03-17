@@ -192,7 +192,7 @@
     <string name="resource_title_hot_subject">Популярные</string>
     <string name="resource_download_notification_title_one">Скачивание темы завершено</string>
     <string name="resource_download_notification_title_many">Скачано тем: %1$s</string>
-    <string name="resource_download_notification_content">Нажмите для просмотра</string>
+    <string name="resource_tab_to_view">Нажмите для просмотра</string>
     <string name="launcherDialer">Телефон</string>
     <string name="people">Контакты</string>
     <string name="contactsList">Контакты</string>
@@ -222,7 +222,7 @@
     <string name="menu_addStar">В избранные</string>
     <string name="menu_removeStar">Из избранных</string>
     <string name="menu_editContact">Изменить</string>
-    <string name="menu_deleteContact">Удалить контакт</string>
+    <string name="menu_deleteContact">Удалить</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_create_contact_shortcut">Ярлык на рабочий стол</string>
     <string name="menu_call">Вызов</string>
@@ -755,9 +755,6 @@
     <string name="sim_card_no_free_space_title">SIM карта заполнена!</string>
     <string name="sim_card_no_free_space_message">Недостаточно памяти</string>
     <string name="sim_contacts">Контакты на SIM карте</string>
-    <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
-
-Свободно: %d"</string>
     <string name="export_sim_contact_finish">Экспорт завершен</string>
     <string name="sim_export_loading">Чтение SIM карты…</string>
     <string name="sim_capacity">Емкость SIM карты</string>
@@ -769,8 +766,6 @@
     <string name="pref_key_sim_manage2">Контакты SIM карты 2</string>
     <string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM карты</string>
     <string name="readingSimContacts">Чтение контактов с SIM карты…</string>
-    <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
-Контактов: %d"</string>
     <string name="importing_sim_contacts_miui">Импортирование контактов с SIM карты…</string>
     <string name="import_sim_entries_finish">Импорт контактов с SIM карты завершен</string>
     <string name="deleting_sim_entry_miui">Удаление контактов с SIM карты…</string>
@@ -876,7 +871,6 @@
     <string name="preference_import_export_title">Импорт и экспорт</string>
     <string name="import_vcard_description">Импорт контактов из памяти телефона</string>
     <string name="export_vcard_description">Экспорт vCard в память телефона</string>
-    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="export_sim_contact_finish_failure">"Недостаточно места. 
 
 Скопировано: %1$d 
@@ -1006,8 +1000,6 @@
     <string name="select_photo_from_photo_package">Выбрать фото из пакета</string>
     <string name="select_new_photo_from_photo_package">Выбрать новое фото из пакета</string>
     <string name="photo_package_activity_title">Фото из пакета</string>
-    <string name="btn_delete_one_contact">Удалить</string>
-    <string name="btn_delete_multi_contacts">Удалить контакты (%d)</string>
     <string name="btn_split_contact">Разделить контакт</string>
     <string name="use_photo_as_primary2">Использовать фото контакта %1$s</string>
     <string name="label_custom_type">Пользовательский</string>
@@ -1095,11 +1087,6 @@
     <string name="add_xiaomi_account_dialog_btn">В Mi аккаунт</string>
     <string name="keep_local_btn">В телефон</string>
     <string name="batch_delete">Пакетное удаление</string>
-    <string name="batch_delete_msg">"Удалить выбранные контакты? 
-
-Контактов: %d 
-
-Данные, которые хранятся в Mi Cloud так же будут удалены."</string>
     <string name="starred_contacts">Избранные</string>
     <string name="other_contacts">Другие</string>
     <string name="set_photo_failed_msg">Ошибка установки фото</string>
@@ -1163,7 +1150,6 @@
     <string name="imei_invalid">Неверный IMEI</string>
     <string name="meid_invalid">Неверный MEID</string>
     <string name="firewall_setting">Черный список</string>
-    <string name="callNoAnswerTimeFormat">" | Гудков: %s"</string>
     <string name="menu_edit_mode">Режим редактирования</string>
     <string name="clip_dialog_title">Вызвать скопированный номер?</string>
     <string name="edit_contact_photo">Изменить фото контакта</string>
@@ -1174,12 +1160,27 @@
     <string name="pull_to_refresh_pull_label">Потяните для обновления</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+    <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
+
+Свободно: %d"</string>
+    <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
+Контактов: %d"</string>
+    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
+    <string name="btn_delete_one_contact">Удалить</string>
+    <string name="btn_delete_multi_contacts">Удалить контакты (%d)</string>
+    <string name="batch_delete_msg">"Удалить выбранные контакты? 
+
+Контактов: %d 
+
+Данные, которые хранятся в Mi Cloud так же будут удалены."</string>
+    <string name="callNoAnswerTimeFormat">" | Гудков: %s"</string>
     <string name="none_found">Устройства не найдены</string>
     <string name="resource_get_auth_missing">Темы загруженные из сторонних источников не поддерживаются</string>
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="scanning">Поиск устройств…</string>
     <string name="select_device">Выберите устройство</string>
     <string name="resource_unable_to_access">Содержимое, которое вы ищите, недоступно в вашей стране.</string>
+    <string name="resource_download_notification_content">Нажмите для просмотра</string>
     <string name="check_unsynchronized_accounts">Уведомлять о синхронизации аккаунтов</string>
     <string name="contact_detail_picture_description">Изменить фото</string>
     <string name="device_import_done_toast">Контактов импортировано: %1$d</string>

@@ -280,6 +280,7 @@
     <string name="micloud_sync_state_synced">Данные синхронизированы</string>
     <string name="micloud_sync_state_syncing">Синхронизация…</string>
     <string name="micloud_sync_state_stop">Синхронизация остановлена</string>
+    <string name="micloud_sync_state_pending">Ожидание</string>
     <string name="micloud_sync_state_need_wifi">Ожидание сети Wi-Fi</string>
     <string name="micloud_space_info">Свободно: %s</string>
     <string name="loading_micloud_sync_data">Загрузка…</string>

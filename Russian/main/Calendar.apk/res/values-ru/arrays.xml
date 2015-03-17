@@ -256,7 +256,7 @@
     <string-array name="repeat_choose_end">
         <item>Никогда</item>
         <item>Время</item>
-        <item>Таймер</item>
+        <item>Счетчик</item>
     </string-array>
     <string-array name="preferences_skip_reminders_labels">
         <item>Только при отказе</item>

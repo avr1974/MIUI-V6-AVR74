@@ -541,6 +541,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="pref_title_sms_validity_period">Период действия SMS</string>
     <string name="pref_title_mms_validity_period">Период действия MMS</string>
     <string name="open_url_with_web">Разрешить открывать ссылки из сообщений?</string>
+    <string name="block_messaging_entry_title">Блокированные SMS</string>
     <string name="add_bookmark">Избранные</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>

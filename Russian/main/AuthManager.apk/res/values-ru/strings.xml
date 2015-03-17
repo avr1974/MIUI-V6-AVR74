@@ -143,7 +143,7 @@
     <string name="HIPS_Perm_Recorder_VoiceCall">записать вызов</string>
     <string name="HIPS_Perm_Read_SMS">Чтение SMS сообщений</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Доступ к чтению SMS сообщений</string>
-    <string name="HIPS_Perm_Read_SMS_Hint">Доступ к чтению sMS сообщений (%1$s)</string>
+    <string name="HIPS_Perm_Read_SMS_Hint">Доступ к чтению SMS сообщений (%1$s)</string>
     <string name="HIPS_Perm_Read_MMS">Чтение MMS сообщений</string>
     <string name="HIPS_Perm_Read_MMS_Desc">Доступ к чтению MMS сообщений</string>
     <string name="HIPS_Perm_Read_MMS_Hint">Доступ к чтению MMS сообщений (%1$s)</string>

@@ -373,7 +373,7 @@
     <string name="security_passwords_title">Пароли</string>
     <string name="crypt_keeper_settings_title">Шифрование</string>
     <string name="crypt_keeper_encrypt_title">Зашифровать телефон</string>
-    <string name="crypt_keeper_encrypt_summary">Запрос числового PIN кода или пароля для дешифрования при каждом включении устройства</string>
+    <string name="crypt_keeper_encrypt_summary">Запрос цифрового PIN кода или пароля для дешифрования при каждом включении устройства</string>
     <string name="crypt_keeper_encrypted_summary">Зашифровано</string>
     <string name="crypt_keeper_desc">"Шифрование доступно для аккаунтов, настроек, загруженных приложений и их данных, а также для мультимедийных и прочих файлов. После шифрования данных устройства при каждом его включении необходимо будет вводить числовой PIN код или пароль, чтобы выполнить дешифрование данных. Единственный способ отключить шифрование – сброс настроек, в результате которого все данные будут потеряны.
 
@@ -2720,6 +2720,8 @@
     <string name="alert_show_screensaver_when_not_charging_msg">"Батарея будет садиться гораздо быстрее во время показа заставки, если зарядка не подключена. 
 Отключить этот пункт?"</string>
     <string name="toast_need_login">Войдите в Mi аккаунт</string>
+    <string name="location_access_on">Включено</string>
+    <string name="location_access_off">Выключено</string>
     <string name="preferred_app_settings">Приложения по умолчанию</string>
     <string name="preferred_app_settings_default">MIUI</string>
     <string name="preferred_app_settings_reset">Сброс настроек</string>
@@ -2760,6 +2762,8 @@
     <string name="launching_rep">Отправка отчета об ошибках…</string>
     <string name="status_serialno">серийный номер</string>
     <string name="provision_next">Далее</string>
+    <string name="privacy_mode_title">Защита данных</string>
+    <string name="privacy_mode_summary">Защита данных от пользователей</string>
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
     <string name="privacy_mode_dialog_message">Скрыть журнал вызовов, сообщения, заметки, фото и другую личную информацию.</string>
     <string name="lockscreen_glogin_submit_button">Вход</string>
@@ -2782,6 +2786,8 @@
     <string name="permission_manager">Разрешения</string>
     <string name="security_keyguard_category_name">Блокировка экрана</string>
     <string name="security_password_category_name">Пароль</string>
+    <string name="device_security_settings_title">Безопасность</string>
+    <string name="enable_crypt_keeper_encrypt">Включить шифрование</string>
     <string name="bluetooth_unlock_title">Разблокировка Bluetooth устройством</string>
     <string name="bluetooth_unlock_turned_off">Выключено</string>
     <string name="bluetooth_unlock_turned_on">Включено</string>
@@ -2798,6 +2804,11 @@
     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки экрана</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">Удалить устройство?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Заменить старое устройство на новое?</string>
+    <string name="bluetooth_unlock_state_label">Статус:</string>
+    <string name="bluetooth_unlock_state_disconnected">Отключено</string>
+    <string name="bluetooth_unlock_state_key_error">Неверный ключ</string>
+    <string name="bluetooth_unlock_state_too_far">Слишком далеко</string>
+    <string name="bluetooth_unlock_state_ok">Успешно разблокировано</string>
     <string name="virus_scan">Антивирус</string>
     <string name="network_assistant">Трафик</string>
     <string name="anti_spam">Черный список</string>
@@ -2817,6 +2828,7 @@
     <string name="free_wifi_user_agreement_title">Предупреждение</string>
     <string name="translation_contributors_title">Авторы перевода</string>
     <string name="wifi_type_approval_title">Подтверждение типа</string>
+    <string name="wifi_type_approval_dialog_title">Номер NTC</string>
     <string name="status_sim">Статус SIM</string>
     <string name="status_sim_1">SIM1</string>
     <string name="status_sim_2">SIM2</string>
