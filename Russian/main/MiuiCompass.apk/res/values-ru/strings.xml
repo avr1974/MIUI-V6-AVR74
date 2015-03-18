@@ -18,7 +18,8 @@
     <string name="calibrate_failed">Ошибка калибровки высоты</string>
     <string name="pressure_title">Давление</string>
     <string name="altitude_title">Высота</string>
-    <string name="pressure_unit">мм рт.ст.</string>
+    <string name="pressure_unit">"
+мм рт.ст."</string>
     <string name="altitude_unit">м</string>
     <string name="dialog_title_no_network">Не удалось подключиться к интернету</string>
     <string name="dialog_calibrat_altitude">Калибровка…</string>

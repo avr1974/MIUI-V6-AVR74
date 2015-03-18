@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/menu_list_phone" style="@style/menu_list_item_style">
+        <TextView android:text="@string/phone" style="@style/MenuListItemNameStyle" />
+        <include layout="@layout/menu_list_phone_info_layout" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/menu_list_router" android:visibility="gone" style="@style/menu_list_item_style">
+        <TextView android:text="@string/mi_router_label" style="@style/MenuListItemNameStyle" />
+        <include layout="@layout/ico_go_layout" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/menu_list_usb" android:visibility="gone" style="@style/menu_list_item_style">
+        <TextView android:text="@string/usb_label" style="@style/MenuListItemNameStyle" />
+        <include layout="@layout/ico_go_layout" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/menu_list_kuaipan" style="@style/menu_list_item_style">
+        <TextView android:text="@string/kuaipan_label" style="@style/MenuListItemNameStyle" />
+        <include layout="@layout/ico_go_layout" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/menu_list_header_tool" style="@style/menu_list_item_header_style">
+        <TextView android:text="@string/tools" style="@style/menu_list_item_header_text_style" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/menu_list_clean" style="@style/menu_list_item_style">
+        <TextView android:text="@string/menu_item_cleanup" style="@style/MenuListItemNameStyle" />
+        <include layout="@layout/ico_go_layout" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/menu_list_ftp" style="@style/menu_list_item_style">
+        <TextView android:text="@string/menu_item_ftp" style="@style/MenuListItemNameStyle" />
+        <include layout="@layout/ico_go_layout" />
+    </FrameLayout>
+</LinearLayout>
