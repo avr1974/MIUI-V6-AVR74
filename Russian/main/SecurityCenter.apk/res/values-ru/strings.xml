@@ -720,6 +720,9 @@
     <string name="summary_auto_cleaner">Мусор будет очищаться автоматически в установленное в настройках время</string>
     <string name="confirm_auto_cleaner">ОК</string>
     <string name="auto_cleaner_open">ОК</string>
+    <string name="title_default_app">MIUI %s не установлено по умолчанию</string>
+    <string name="summary_default_app">%s не установлено как приложение по умолчанию</string>
+    <string name="toast_default_app">%1$s установлено по умолчанию %2$s</string>
     <string name="hints_apps_perm_count">Разрешений: %d</string>
     <string name="hints_auto_start_disable_title">Приложения без автозапуска (%d)</string>
     <string name="hints_auto_start_enable_title">Приложения с автозапуском (%d)</string>

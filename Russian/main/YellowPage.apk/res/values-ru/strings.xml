@@ -56,6 +56,8 @@
     <string name="content_desc_send_sms">Отправить сообщение</string>
     <string name="currency_character">Ұ</string>
     <string name="app_recommendation_install">Установить</string>
+    <string name="menu_follow_yellow_page">Подписаться</string>
+    <string name="menu_unfollow_yellow_page">Отписаться</string>
     <string name="menu_add_to_favorite">В избранные</string>
     <string name="menu_remove_from_favorite">Из избранныех</string>
     <string name="menu_correct_yellow_page">Корректировка</string>
@@ -94,6 +96,7 @@
     <string name="agree">ОК</string>
     <string name="enable_now">Включить</string>
     <string name="dont_enable">Отмена</string>
+    <string name="user_notice_title">Уведомление пользователя</string>
     <string name="user_notice_identify_summary_format">"Определение неизвестных номеров работает с помощью онлайн сервиса. 
 Прочтите перед использованием: %1$s и %2$s"</string>
     <string name="user_notice_yp_detail_summary_format">"Принять условия пользования? 
@@ -135,6 +138,7 @@
     <string name="recharge_payment_result_failed_title">Ошибка пополнения</string>
     <string name="recharge_payment_result_failed_summary">Пожалуйста, повторите попытку.</string>
     <string name="recharge_payment_result_progress_summary">Проверка платежа…</string>
+    <string name="recharge_payment_error">Заказ закрыт или произошла ошибка. Попторите попытку.</string>
     <string name="recharge_phone_number_error">Неверный номер телефона</string>
     <string name="recharge_phone_number_empty">Номер не может быть пустым</string>
     <string name="recharge_user_confirm_title">ОК</string>
@@ -306,6 +310,15 @@
     <string name="general_cancel_favorite_ok">Удалено из избранного</string>
     <string name="general_delete_recent_ok">Последние удалены</string>
     <string name="general_favorite_ok">Добавлено в избранное</string>
+    <string name="general_menu_unfollow">Отписаться</string>
+    <string name="general_btn_follow_ok">Вы успешно подписаны</string>
+    <string name="general_btn_follow">Подписаться</string>
+    <string name="general_follow_hint">"При подписке на %1$s вы сможете получать информацию от %1$s, а также получить больше сервисов %1$s.
+
+Подписаться на эту страницу?"</string>
+    <string name="general_unfollow_hint">Отписаться от %1$s?</string>
+    <string name="general_cancel_followed_ok">Вы успешно отписались</string>
+    <string name="general_follow_hint_title">Предупреждение</string>
     <string name="nearby_yellow_page_title">Поблизости</string>
     <string name="nearby_no_yellow_page">Нет результатов</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
@@ -329,6 +342,7 @@
     <string name="web_permission_message">%1$s запрашивает доступ к %2$s</string>
     <string name="remember_preference">Запомнить</string>
     <string name="allow">Разрешить</string>
+    <string name="view_orders">Показать заказы</string>
     <string name="pull_to_refresh_pull_label">Потяните для обновления…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления…</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
@@ -338,12 +352,12 @@
     <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
     <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
     <string name="sina_share_fail_content_repeat">Не удается отправить. Содержимое уже существует.</string>
-    <string name="recharge_pay_hint">При поддержке Xiaomi</string>
     <string name="express_company_empty">Нет компаний</string>
     <string name="express_inquiry_logistics_empty">Выберите логистику</string>
     <string name="express_inquiry_logistics_indication">Курьерская компания</string>
     <string name="express_no_tracking_number">Нет номера отслеживания</string>
     <string name="menu_about_yellow_page">О странице</string>
+    <string name="recharge_pay_hint">При поддержке Xiaomi</string>
     <string name="select">Выбрать</string>
     <string name="account_unactivated">Mi аккаунт не активирован</string>
     <string name="all_resources">Все</string>

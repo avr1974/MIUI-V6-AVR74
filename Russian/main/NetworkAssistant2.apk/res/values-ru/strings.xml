@@ -192,6 +192,12 @@
     <string name="timeshow_h_m">%1$d ч. %2$d мин.</string>
     <string name="timeshow_m_s">%1$d мин. %2$d сек.</string>
     <string name="timeshow_s">%d сек.</string>
+    <string name="timeshow_m">%d мин.</string>
+    <string name="timeshow_h">%.1f ч.</string>
+    <string name="timeshow_h_int">%d ч.</string>
+    <string name="lock_screen_traffic_guide_notification_title">Использовано трафика: %s</string>
+    <string name="lock_screen_traffic_guide_notification_summary">Использованный трафик при выключенном экране</string>
+    <string name="lock_screen_traffic_purchase_textview">Купить трафик</string>
     <string name="free_time_traffic_title">Введите предел трафика</string>
     <string name="free_time_traffic_hint">Введите предел трафика</string>
     <string name="traffic_protection_label">Предупреждение о трафике</string>

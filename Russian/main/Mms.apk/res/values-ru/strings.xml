@@ -37,6 +37,7 @@
     <string name="add_slide_hint">Добавить новый слайд</string>
     <string name="discard_slideshow">Отменить слайд-шоу</string>
     <string name="slide_show_part">Часть %1$s из %2$s</string>
+    <string name="select_copy_text">Скопировать текст</string>
     <string name="remove_text">Удалить текст</string>
     <string name="add_picture">Изображение</string>
     <string name="remove_picture">Удалить изображение</string>
@@ -266,6 +267,7 @@
     <string name="message_pending">Отправка</string>
     <string name="message_readed">Прочитано</string>
     <string name="message_rejected">Отклонено</string>
+    <string name="message_expired">Срок действия истек</string>
     <string name="resent_message">Повторить</string>
     <string name="group_resend_message">Переслать (%d)</string>
     <string name="nosend_message">Не отправлено</string>
@@ -542,6 +544,8 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="pref_title_mms_validity_period">Период действия MMS</string>
     <string name="open_url_with_web">Разрешить открывать ссылки из сообщений?</string>
     <string name="block_messaging_entry_title">Блокированные SMS</string>
+    <string name="message_contact">Контакт:</string>
+    <string name="message_number">Номер телефона:</string>
     <string name="add_bookmark">Избранные</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>

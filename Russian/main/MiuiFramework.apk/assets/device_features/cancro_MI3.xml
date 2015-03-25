@@ -67,7 +67,7 @@
     <!--whether the device supports screen effect-->
     <bool name="support_screen_effect">true</bool>
     <!--whether the device supports agps-->
-    <bool name="support_agps">false</bool>
+    <bool name="support_agps">true</bool>
     <!--whether the device supports feedback level-->
     <bool name="support_feedback_level">true</bool>
     <!--whether the device supports miui lite-->
@@ -76,6 +76,10 @@
     <bool name="support_steps_provider">false</bool>
     <!--whether the device supports hifi-->
     <bool name="support_hifi">false</bool>
+    <!--whether the device supports agps parameters-->
+    <bool name="support_agps_paras">true</bool>
+    <!--whether the device supports agps roaming-->
+    <bool name="support_agps_roaming">false</bool>
     <!--the vendor feature, it's value may be qcom,mediatek,leadcore or nvidia-->
     <string name="vendor">qcom</string>
     <!--screen saturation, vivid or standard-->

@@ -2913,6 +2913,10 @@
     <string name="location_agps_def_network_mode">HOME</string>
     <string name="location_agps_def_reset_type">HOT</string>
     <string name="location_agps_def_location_mode">MSB</string>
+    <string name="agps_roaming">A-GPS в роуминге</string>
+    <string name="agps_roaming_summary">Использовать поиск местоположения A-GPS по мобильному интернету в роуминге</string>
+    <string name="agps_roaming_dia_title">A-GPS в роуминге</string>
+    <string name="agps_roaming_dia">При использовании A-GPS возможно чрезмерное потребление трафика, за который может взиматься дополнительная плата оператором.</string>
     <string name="wifi_disconnected_notification_title">Сеть Wi-Fi отключена</string>
     <string name="wifi_disconnected_notification_summary">Повторите попытку или подключитесь к другой сети</string>
     <string name="wifi_off_airplane_on_title">Включить сеть Wi-Fi?</string>

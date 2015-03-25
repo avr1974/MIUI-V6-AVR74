@@ -1096,7 +1096,7 @@
     <string name="toast_copying">Копирование…</string>
     <string name="toast_copy_done">Копирование завершено</string>
     <string name="group_name">Группы</string>
-    <string name="starred_yellowpage">Избранные сервисы</string>
+    <string name="followed_yellowpage">Отслеживаемые сервисы</string>
     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="import_sim_entry_miui">Импорт</string>
     <string name="delete_sim_entry_miui">Удалить</string>
@@ -1160,20 +1160,21 @@
     <string name="pull_to_refresh_pull_label">Потяните для обновления</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
-    <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
-
-Свободно: %d"</string>
-    <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
-Контактов: %d"</string>
-    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
-    <string name="btn_delete_one_contact">Удалить</string>
-    <string name="btn_delete_multi_contacts">Удалить контакты (%d)</string>
+    <string name="starred_yellowpage">Избранные сервисы</string>
     <string name="batch_delete_msg">"Удалить выбранные контакты? 
 
 Контактов: %d 
 
 Данные, которые хранятся в Mi Cloud так же будут удалены."</string>
+    <string name="btn_delete_multi_contacts">Удалить контакты (%d)</string>
+    <string name="btn_delete_one_contact">Удалить</string>
     <string name="callNoAnswerTimeFormat">" | Гудков: %s"</string>
+    <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
+Контактов: %d"</string>
+    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
+    <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
+
+Свободно: %d"</string>
     <string name="none_found">Устройства не найдены</string>
     <string name="resource_get_auth_missing">Темы загруженные из сторонних источников не поддерживаются</string>
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>

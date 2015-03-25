@@ -42,7 +42,7 @@
     <string name="background">Скрыть</string>
     <string name="no_file">Нет файлов</string>
     <string name="tab_category">Категории</string>
-    <string name="tab_path">Путь</string>
+    <string name="tab_path">Папки</string>
     <string name="category_all">Все</string>
     <string name="category_music">Музыка</string>
     <string name="category_video">Видео</string>
@@ -275,7 +275,7 @@
     <string name="category_type_meida">Медиа</string>
     <string name="category_type_document">Документы</string>
     <string name="category_type_other">Другое</string>
-    <string name="phone">Телефон</string>
+    <string name="phone">Устройство</string>
     <string name="category">Категории</string>
     <string name="my_app">Данные приложений</string>
     <string name="my_bak">Бэкап</string>
@@ -299,6 +299,7 @@
     <string name="open_file_failed">Не удалось открыть файл</string>
     <string name="action_mode_deselect_all">Снять выбор</string>
     <string name="action_mode_select_all">Выбрать все</string>
+    <string name="can_not_send_with_too_many">Не удается отправить так много файлов</string>
     <string name="file_already_downlaoded">Файл сохранен в \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Копировать в Kuaipan</string>
     <string name="downloading_in_3g">Загрузка по сети 3G…</string>
@@ -313,6 +314,7 @@
     <string name="kp_category_txt">Текст</string>
     <string name="no_display_file">Не удается отобразить %1$s</string>
     <string name="delete_selected_tasks">Удалить выбранное?</string>
+    <string name="kuaipan_delete_guide_des">Удалить руководство пользователя?</string>
     <string name="kuaipan_data_formater_with_year">d MMMM yyyy</string>
     <string name="kuaipan_data_formater_without_year">d MMMM</string>
     <string name="kuaipan_photo_locate">%1$s</string>
@@ -342,5 +344,4 @@
     <string name="no_enough_space">Недостаточно памяти</string>
     <string name="ui_bar_txt_download_progress">Осталось файлов: %1$d</string>
     <string name="ui_bar_txt_upload_progress">Загрузка</string>
-    <string name="kuaipan_delete_guide_des">Удалить руководство пользователя?</string>
 </resources>
