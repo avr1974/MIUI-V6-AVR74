@@ -208,6 +208,7 @@
     <string name="delete_wallpaper_message">Удалить обои? (%1$d)</string>
     <string name="delete_wallpapers_message">Удалить обои? (%1$d)</string>
     <string name="is_system_wallpaper_message">Невозможно удалить системные обои</string>
+    <string name="cloud_app_restore_title">Ожидание</string>
     <string name="app_category_finance">Финансы</string>
     <string name="app_category_social">Общение</string>
     <string name="app_category_travel">Карты</string>

@@ -328,6 +328,7 @@
     <string name="callNoAnswerTimeFormat">Вызовов: %s</string>
     <string name="account_yellowpage_recent">История</string>
     <string name="account_yellowpage_favorite">Избранное</string>
+    <string name="account_yellowpage_followed">Проверенные аккаунты</string>
     <string name="account_order">Мои заказы</string>
     <string name="account_address">Мои адреса</string>
     <string name="account_title">Профиль</string>
@@ -346,6 +347,11 @@
     <string name="pull_to_refresh_pull_label">Потяните для обновления…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления…</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Предупреждение</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Разрешить доступ к вашему местоположения для улучшения поиска?</string>
+    <string name="yellowpage_navigation_network_location_enable">Разрешить</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>
+    <string name="yellowpage_navigation_network_location_enabled">Доступ к местоположению разрешен, вы сможете отключить его в настройках.</string>
     <string name="sina_share_pendding">Отправка…</string>
     <string name="sina_share_success">Отправлено</string>
     <string name="sina_share_fail">Ошибка отправки</string>

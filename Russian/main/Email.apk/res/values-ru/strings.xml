@@ -759,6 +759,7 @@
     <string name="save_power_title">Экономия батареи</string>
     <string name="saved">"Загружено: %s | "</string>
     <string name="saving">Сохранение…</string>
+    <string name="sdcard_cannot_use">Накопитель недоступен</string>
     <string name="search_attachment">Поиск</string>
     <string name="search_hint">Искать в электронной почте</string>
     <string name="search_result">"Результаты поиска: "</string>
@@ -848,6 +849,11 @@
     <string name="unsent_messages_in_outbox">Не отправленные (%1$s) в \"%2$s\"</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
     <string name="updated_just_now">Обновлено только что</string>
+    <string name="upload_log">Загрузить отчет</string>
+    <string name="upload_log_failed">Ошибка загрузки отчета</string>
+    <string name="upload_log_success">Отчет успешно загружен</string>
+    <string name="upload_log_title">Загрузить отчет диагностики?</string>
+    <string name="uploading_logs">Загрузка отчета…</string>
     <string name="validation_failed_prompt">Проверка не завершена. Проверьте настройки сервера \"%s\"</string>
     <string name="via_domain">через %1$s</string>
     <string name="view_more_conversations">Показать другие диалоги</string>
@@ -867,6 +873,7 @@
     <string name="widget_other_views">Нажмите, чтобы изменить.</string>
     <string name="wrong_password">Неверный пароль</string>
     <string name="yes">ОК</string>
+    <string name="you_are_in_mobile_network">При загрузке через мобильный интернет может взиматься дополнительная плата оператором</string>
     <string name="zip_viewer_no_file">Нет файлов</string>
     <string name="message_invite_label_attending">Перейти?</string>
     <string name="account_setup_options_mail_check_frequency_15min">Каждые 15 минут</string>

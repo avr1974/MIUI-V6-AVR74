@@ -460,7 +460,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="sp_category_all">Все служебные сообщения</string>
     <string name="sp_category_bank">Сообщения от банков</string>
     <string name="refill_now">Пополнить</string>
-    <string name="toast_feedback_start">Сбор данных журнала…</string>
+    <string name="toast_feedback_start">Сбор данных отчета…</string>
     <string name="toast_feedback_finish">Отчет будет отправлен автоматически при подключении к сети Wi-Fi</string>
     <string name="toast_feedback_max">Вы можете отправлять не более трех отчетов в день</string>
     <string name="toast_description_required">Невозможно отправить пустое сообщение</string>

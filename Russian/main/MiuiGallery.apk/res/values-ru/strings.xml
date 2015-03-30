@@ -514,6 +514,7 @@
     <string name="internal_sdcard_root">Корневая папка во внутренней памяти</string>
     <string name="external_sdcard_root">Корневая папка во внешней памяти</string>
     <string name="miui_wallpaper">Обои</string>
+    <string name="sports_camera">Yi Camera</string>
     <string name="pocket_camera_picture">Фото карманной камеры</string>
     <string name="pocket_camera_video">Видео карманной камеры</string>
     <string name="moman_camera_picture">Изображения Moman</string>
@@ -559,8 +560,8 @@
     <string name="do_not_save">Не сохранять</string>
     <string name="photo_paint_crop">Обрезать</string>
     <string name="free">Свободно</string>
-    <string name="square">Площадь</string>
-    <string name="original_scale">Исходный размер</string>
+    <string name="square">Квадратом</string>
+    <string name="original_scale">Пропорционально</string>
     <string name="photo_save_succeed">Успешно сохранено</string>
     <string name="impunity_declaration_title">Разрешить приложению доступ к интернету?</string>
     <string name="impunity_declaration">При использовании облачных альбомов требуется доступ к интернету</string>
@@ -599,7 +600,13 @@
     <string name="name_wrong">Неверное имя %s</string>
     <string name="face_album_rename_hint">Введите имя</string>
     <string name="face_move_dialog_title">Выберите лица альбома</string>
+    <string name="always_rotate_alert_title">Включить автоповорот фото?</string>
+    <string name="always_rotate_alert_msg">Вы можете выключить эту функцию в настройках галереи</string>
+    <string name="always_rotate_alert_positive_button_text">ОК</string>
     <string name="paint_crop_tips">Для получения лучшего эффекта попробуйте поместить интересующую часть фото в сетку</string>
+    <string name="saturation_abbr">Н</string>
+    <string name="highlight_abbr">Я</string>
+    <string name="contrast_abbr">К</string>
     <string name="photo_paint_adjust">Регулировка</string>
     <string name="photo_paint_effect">Эффект</string>
     <string name="highlight2">Яркость</string>

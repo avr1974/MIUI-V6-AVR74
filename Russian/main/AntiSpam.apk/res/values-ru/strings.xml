@@ -301,6 +301,15 @@
     <string name="call_transfer_block_type">Блокировать переадресованные вызовы</string>
     <string name="call_transfer_info">Блокировать переадресованные вызовы от неизвестных номеров</string>
     <string name="sms_smart_engine_update">Автообновление базы SMS</string>
+    <string name="mark_number_setting_guide_title">Блокировать отмеченные номера</string>
+    <string name="mark_number_setting_guide_content1">Блокировать вызовы с отмеченных номеров?</string>
+    <string name="mark_number_setting_guide_content2">Автоматическая блокировка вызовов с номеров, которые отметили пользователи.</string>
+    <string name="mark_number_setting_guide_content3">Вы отметили этот номер как %1$s. Заблокировать все вызовы с этого номера как %2$s?</string>
+    <string name="mark_number_setting_guide_forward">Настройки черного списка</string>
+    <string name="mark_number_fraud">Мошенник</string>
+    <string name="mark_number_agent">Агент</string>
+    <string name="mark_number_sell">Телемаркетер</string>
+    <string name="mark_number_banking">Страхование</string>
     <string name="Call_MODENAME">Черный список</string>
     <string name="SMS_MODENAME">Черный список</string>
     <string name="fw_blocked_count_call">"вызовов: %d | "</string>

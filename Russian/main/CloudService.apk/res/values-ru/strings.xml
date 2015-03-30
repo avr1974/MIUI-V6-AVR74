@@ -213,7 +213,7 @@
     <string name="micloud_setting_browser_summary">Закладки и история</string>
     <string name="micloud_setting_music_summary">Плейлисты и избранное</string>
     <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
-    <string name="micloud_setting_antispam_summary">Исключения для режима \"Не беспокоить\" и блокируемых номеров</string>
+    <string name="micloud_setting_antispam_summary">Список блокируемых номеров</string>
     <string name="upgrade_space_gb">Гб</string>
     <string name="upgrade_space_tb">Тб</string>
     <string name="upgrade_space_mibipreyear">%s Mi Credits в год</string>
@@ -257,7 +257,6 @@
     <string name="share_success">Отправка завершена</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Ошибка отправки</string>
-    <string name="less_flow_mode">Режим синхронизации</string>
     <string name="micloud_intro_01_part_01">Экономия</string>
     <string name="micloud_intro_01_part_02">Облачные сообщения позволяют общаться пользователям MIUI бесплатно по сети Wi-Fi.</string>
     <string name="micloud_intro_02_part_01">Удобная синхронизация</string>
@@ -272,6 +271,7 @@
     <string name="full_space">Память заполнена</string>
     <string name="internet">Интернет</string>
     <string name="internet_disconnected">Мобильный интернет недоступен</string>
+    <string name="less_flow_mode">Режим синхронизации</string>
     <string name="normal">Нормальный</string>
     <string name="space">Память</string>
     <string name="sync">Синхронизация</string>

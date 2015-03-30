@@ -723,6 +723,14 @@
     <string name="title_default_app">MIUI %s не установлено по умолчанию</string>
     <string name="summary_default_app">%s не установлено как приложение по умолчанию</string>
     <string name="toast_default_app">%1$s установлено по умолчанию %2$s</string>
+    <string name="notification_title_cmcc_app_check">Последняя проверка: %d дн. назад</string>
+    <string name="notification_summary_cmcc_app_check">Нажмите для просмотра информации</string>
+    <string name="title_cmcc_app_check">Проверка не завершена</string>
+    <string name="summary_cmcc_app_check">Не удается проверить некоторые приложения</string>
+    <string name="cmcc_app_check_dialog_title">Система исправлена</string>
+    <string name="cmcc_app_check_dialog_message">Перезагрузить устройство для завершения исправления?</string>
+    <string name="cmcc_app_check_dialog_positive">ОК</string>
+    <string name="cmcc_app_check_dialog_negative">Позже</string>
     <string name="hints_apps_perm_count">Разрешений: %d</string>
     <string name="hints_auto_start_disable_title">Приложения без автозапуска (%d)</string>
     <string name="hints_auto_start_enable_title">Приложения с автозапуском (%d)</string>

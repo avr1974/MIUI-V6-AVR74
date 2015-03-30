@@ -314,7 +314,7 @@
     <string name="search_popular_hint_title">Популярные</string>
     <string name="search_history_title">История</string>
     <string name="diagnostics_title">Диагностика сети</string>
-    <string name="diagnostics_desc">Диагности поможет избежать проблемы сети. Будет создан журнал отладки и отправлен разработчикам.</string>
+    <string name="diagnostics_desc">Диагности поможет избежать проблемы сети. Будет создан отчет об ошибках и отправлен разработчикам.</string>
     <string name="diagnostics_content_hint">Диагностика:</string>
     <string name="diagnostics_local_ip">1.Локальный IP адрес</string>
     <string name="diagnostics_dns_ip">2.IP адрес разрешен по DNS</string>
@@ -324,8 +324,8 @@
     <string name="diagnostics_data_cost_hint">Во время диагностики будет использовано около 100 Кб</string>
     <string name="diagnostics_btn_start">Диагностика</string>
     <string name="diagnostics_btn_processing">Выполняется диагностика…</string>
-    <string name="diagnostics_btn_upload">Отправить журнал</string>
-    <string name="diagnostics_data_sending">Отправка журнала…</string>
+    <string name="diagnostics_btn_upload">Отправить отчет</string>
+    <string name="diagnostics_data_sending">Отправка отчета…</string>
     <string name="diagnostics_data_upload_success">Отправка завершена</string>
     <string name="diagnostics_data_upload_failed">Ошибка загрузки. Пожалуйста, попробуйте позже.</string>
     <string name="tab_local_apps">Установленные</string>
