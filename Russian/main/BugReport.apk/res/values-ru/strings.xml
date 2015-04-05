@@ -45,6 +45,7 @@
     <string name="toast_pending_log_collection">Сбор логов…</string>
     <string name="toast_feedback_submitted">Ваш отчет успешно отправлен</string>
     <string name="toast_feedback_submitting">Отправка…</string>
+    <string name="toast_feedback_collect_store">Загрузка отчетов…</string>
     <string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен при подключении к сети Wi-Fi</string>
     <string name="toast_feedback_network_unavailable">Не удается подключиться к интернету</string>
     <string name="toast_network_unavailable">Не удалось отправить отчет. Интернет недоступен.</string>
@@ -99,6 +100,7 @@
     <string name="cta_confirm">ОК</string>
     <string name="submit_dialog_title">Отправить отчет MIUI?</string>
     <string name="submit_dialog_content">Ваш отчет со всеми журналами ошибок будет отправлен на сервер Xiaomi</string>
+    <string name="submit_dialog_not_wifi_content">Ваш отчет будет отправлен на сервер Xiaomi при подключении к сети Wi-Fi</string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">ОК</string>
     <string name="bugreport_dump_start_notification_title">Создание отчета…</string>
@@ -107,6 +109,8 @@
     <string name="bugreport_dump_complete_notification_summary">Нажмите для просмотра</string>
     <string name="plus_one_submit_dialog_content">Выбранный отчет об ошибках будет отправлен на сервер Xiaomi</string>
     <string name="plus_one_submit_dialog_not_show_again">Запомнить</string>
+    <string name="network_disconnected">Интернет недоступен</string>
+    <string name="toast_fill_brackets">Заполните информацию</string>
     <string name="menu_attach_screenshot">Прикрепить скриншот</string>
     <string name="menu_discard">Отменить</string>
     <string name="status_msg_collecting_log">Сбор логов…</string>

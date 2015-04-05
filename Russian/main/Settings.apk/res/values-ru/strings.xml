@@ -39,6 +39,10 @@
     <string name="music_audio_effect_settings">Звук</string>
     <string name="music_equalizer">Эквалайзер</string>
     <string name="music_equalizer_summary">Индивидуальные установки для различных типов музыки</string>
+    <string name="music_title_dolby_control">DOLBY</string>
+    <string name="music_dolby_mode_off">Выключено</string>
+    <string name="music_dolby_mode_music">Музыка</string>
+    <string name="music_dolby_mode_movie">Видео</string>
     <string name="menu_item_show_more">Показать еще</string>
     <string name="ringtone_mute">Без звука</string>
     <string name="title_system_resource">Системные ресурсы</string>
@@ -54,11 +58,12 @@
     <string name="status_bar_settings_toggle_layout_style_applying">Изменение стиля…</string>
     <string name="status_bar_settings_custom_notification">Управление уведомлениями</string>
     <string name="status_bar_settings_all_app_display_loading">Загрузка…</string>
-    <string name="status_bar_settings_show_notificationBar_notification">В панели уведомлений</string>
-    <string name="status_bar_settings_show_statusBar_notification">На экране блокировки и в окне</string>
-    <string name="status_bar_settings_show_statusBar_notification_summary">Показывать уведомления на экране блокировки и во всплывающем окне</string>
-    <string name="status_bar_filter_item_preview_image">Просмотр</string>
-    <string name="status_bar_filter_item_description">Для настройки уведомлений перейдите в Настройки > Уведомления > Управление уведомлениями</string>
+    <string name="status_bar_settings_enable_notification">Включить уведомления</string>
+    <string name="status_bar_settings_show_home_message">Счетчик на иконке</string>
+    <string name="status_bar_settings_show_keyguard_notification">Всплывающие окна</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">Показывать уведомления во всплывающем окне и на экране блокировки</string>
+    <string name="status_bar_settings_notification_sound_vibrate">Звук и вибрация</string>
+    <string name="status_bar_settings_notification_led">Индикатор</string>
     <string name="status_bar_settings_notification_bar">Панель уведомлений</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="status_bar_settings_show_screenshot_notification">Уведомление о скриншоте</string>
@@ -2038,7 +2043,7 @@
     <string name="restriction_settings_title">Ограничения</string>
     <string name="restriction_menu_reset">Снять ограничения</string>
     <string name="restriction_menu_change_pin">Изменить PIN код</string>
-    <string name="app_notifications_switch_label">Показывать уведомления</string>
+    <string name="app_notifications_switch_label">Уведомления</string>
     <string name="help_label">Помощь</string>
     <string name="user_account_title">Аккаунт</string>
     <string name="user_picture_title">ID фото</string>
@@ -2077,16 +2082,16 @@
     <string name="dndm_auto_time_turn_on_title">Автоматическое включение режима \"Не беспокоить\"</string>
     <string name="dndm_auto_time_turn_off">Окончание</string>
     <string name="dndm_auto_time_turn_off_title">Автоматическое отключение режима \"Не беспокоить\"</string>
-    <string name="dndm_dlg_remove_vip">Удалить из белого списка?</string>
+    <string name="dndm_dlg_remove_vip">Удалить из списка исключений?</string>
     <string name="dndm_dlg_remove_ok">ОК</string>
     <string name="dndm_menu_add_vip_custom">Добавить</string>
     <string name="dndm_mute_all">Уведомления отключены</string>
     <string name="dndm_special_call_setting_group">Исключения</string>
-    <string name="dndm_vip_call_setting_title">Белый список</string>
+    <string name="dndm_vip_call_setting_title">Список исключений</string>
     <string name="dndm_vip_call_summary_none">Отключено</string>
     <string name="dndm_vip_call_summary_custom">Контактов: %d</string>
     <string name="dndm_vip_call_summary_contact">Все контакты</string>
-    <string name="dndm_vip_call_button_title">Белый список</string>
+    <string name="dndm_vip_call_button_title">Список исключений</string>
     <string name="dndm_vip_list_group">Группа</string>
     <string name="dndm_vip_list_custom">Выбранные контакты</string>
     <string name="dndm_vip_list_contact">Все контакты</string>
@@ -2932,6 +2937,10 @@
     <string name="wifi_notify_cmcc_connected_title">Уведомление о сети CMCC</string>
     <string name="wifi_notify_cmcc_connected_summary">Показывать уведомление при подключении к сети CMCC</string>
     <string name="wifi_datanetwork_switch_not_remind">Запомнить</string>
+    <string name="status_bar_settings_show_statusBar_notification">На экране блокировки и в окне</string>
+    <string name="status_bar_settings_show_statusBar_notification_summary">Показывать уведомления на экране блокировки и во всплывающем окне</string>
+    <string name="status_bar_filter_item_preview_image">Просмотр</string>
+    <string name="status_bar_filter_item_description">Для настройки уведомлений перейдите в Настройки > Уведомления > Управление уведомлениями</string>
     <string name="miracast_settings_category">Настройки Wi-Fi дисплея</string>
     <string name="miracast_display_category">Дисплеи</string>
     <string name="miracast_menu_search">Поиск</string>
@@ -3035,4 +3044,5 @@
     <string name="move_app_to_sdcard_dlg_title">Переместить приложение на SD карту?</string>
     <string name="tnhwrevision_settings_list_item_summary">Описание HW устройства</string>
     <string name="tnhwrevision_settings_list_item_title">Информация HW устройства</string>
+    <string name="status_bar_settings_show_notificationBar_notification">В панели уведомлений</string>
 </resources>

@@ -82,6 +82,8 @@
     <string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
     <string name="adding_attachments_title">Добавление вложений</string>
     <string name="adding_attachments">Добавление…</string>
+    <string name="recipients_over_size">Слишком много получателей</string>
+    <string name="over_max_mms_size">Превышен размер MMS сообщения</string>
     <string name="preview">Просмотр</string>
     <string name="preview_slideshow">Просмотр</string>
     <string name="replace_image">Заменить изображение</string>
@@ -109,6 +111,7 @@
     <string name="pref_title_sms_delete">Максимальное количество SMS</string>
     <string name="pref_title_mms_delete">Максимальное количество MMS</string>
     <string name="pref_messages_to_save">Установить количество сообщений в диалоге для хранения</string>
+    <string name="pref_title_storage_status">Состояние памяти сообщений</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS сообщения</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
@@ -124,7 +127,9 @@
     <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
     <string name="confirm_no_block_title">Разблокировать номер и восстановить все сообщения?</string>
     <string name="confirm_no_block_positive">Разблокировать</string>
+    <string name="confirm_restore_checkbox">Разблокировать сообщения с этого номера</string>
     <string name="confirm_restore_title">Восстановить сообщения?</string>
+    <string name="confirm_restore_message">Восстановить выбранные сообщения?</string>
     <string name="confirm_restore_positive">Восстановить</string>
     <string name="delete_unlocked">Удалить закрепленные сообщения</string>
     <string name="delete">Удалить</string>
@@ -307,6 +312,8 @@
     <string name="pref_summary_wake_up_screen">Включение экрана при получении новых сообщений</string>
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
     <string name="pref_summary_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
+    <string name="pref_title_send_delivery_reports">Отправлять отчет о приеме</string>
+    <string name="pref_summary_send_delivery_reports">Отправлять отчет о приеме сообщения отправителю</string>
     <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
     <string name="pref_title_ringtone_repeat_summary">Количество звуковых уведомлений при приеме сообщений, когда экран выключен:</string>
     <string name="pref_other_title">Другие</string>
@@ -546,6 +553,12 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="block_messaging_entry_title">Блокированные SMS</string>
     <string name="message_contact">Контакт:</string>
     <string name="message_number">Номер телефона:</string>
+    <string name="storage_dialog_mms">MMS: %d</string>
+    <string name="storage_dialog_mms_size">Размер MMS:</string>
+    <string name="storage_dialog_attachments">Вложения MMS:</string>
+    <string name="storage_dialog_sms">SMS: %d</string>
+    <string name="storage_dialog_database">База данных:</string>
+    <string name="storage_dialog_available_space">Свободно:</string>
     <string name="add_bookmark">Избранные</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>

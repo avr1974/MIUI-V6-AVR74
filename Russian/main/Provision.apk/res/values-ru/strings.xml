@@ -28,7 +28,8 @@
     <string name="pref_title_voice_slot">Предпочтительная SIM карта голоса</string>
     <string name="pref_title_data_slot">Предпочтительная SIM карта данных</string>
     <string name="summary_not_set">Не установлено</string>
-    <string name="summary_sim_card">Карта %1$d%2$s</string>
+    <string name="summary_sim_card">SIM карта %1$d</string>
+    <string name="summary_sim_card_with_operator">SIM карта %1$d, %2$s</string>
     <string name="ime_privacy_policy">Политика конфиденциальности выбранной клавиатуры</string>
     <string name="ime_privacy_policy_no_network">Не удается подключиться к интернету. Просмотреть политику конфиденциальности для этой клавиатуры вы можете на %s.</string>
     <string name="terms_of_use">Условия пользования</string>
@@ -42,12 +43,12 @@
     <string name="miui_terms_no_network">Сеть недоступна. Просмотрите условия пользования на %s</string>
     <string name="miui_privacy_policy_no_network">Сеть недоступна. Просмотрите политику конфиденциальности на %s</string>
     <string name="locale_picker_title">Выберите местоположение</string>
-    <string name="locale_picker_desc">Если вы хотите изменить местоположение позже, потребуется сделать общий сброс настроек.</string>
-    <string name="locale_picker_confirm_dialog_title">Местоположение</string>
-    <string name="locale_picker_confirm_dialog_desc">Выбрать \"%s\" как ваше местоположение?</string>
     <string name="provision_finish">ОК</string>
     <string name="provision_finish_restart">Перезагрузить</string>
     <string name="install_preinstall_app">Загрузка приложений…</string>
+    <string name="locale_picker_desc">Если вы хотите изменить местоположение позже, потребуется сделать общий сброс настроек.</string>
+    <string name="locale_picker_confirm_dialog_title">Местоположение</string>
+    <string name="locale_picker_confirm_dialog_desc">Выбрать \"%s\" как ваше местоположение?</string>
     <string name="congratulation_next">Готово</string>
     <string name="logo_congratulation">Настройка завершена</string>
     <string name="terms_of_service">Условия пользования</string>

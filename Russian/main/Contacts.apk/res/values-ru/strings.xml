@@ -737,7 +737,6 @@
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейдите в Меню > Настройки</string>
     <string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключите режим полета</string>
     <string name="action_menu_overflow_description">Дополнительные параметры</string>
-    <string name="yellowpage_navigation_network_location_enabled">Сервис активен. Отключить его можно в настройках местоположения.</string>
     <string name="yellowpage_search_the_yellowpage">Поиск сервиса</string>
     <string name="import_from_sim">Импорт с SIM карты</string>
     <string name="export_to_sim_title">Экспортирование…</string>
@@ -1140,10 +1139,6 @@
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка подключения к сети</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
-    <string name="yellowpage_navigation_network_location_enable">Включить</string>
-    <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
     <string name="yellowpage_user_profile">Профиль</string>
     <string name="yellowpage_navigation_more_items">Еще</string>
     <string name="yellowpage_navigation_more_items_title">Другие сервисы</string>
@@ -1160,7 +1155,7 @@
     <string name="pull_to_refresh_pull_label">Потяните для обновления</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
-    <string name="starred_yellowpage">Избранные сервисы</string>
+    <string name="phone_call_type_voip">VOIP</string>
     <string name="batch_delete_msg">"Удалить выбранные контакты? 
 
 Контактов: %d 
@@ -1180,7 +1175,13 @@
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="scanning">Поиск устройств…</string>
     <string name="select_device">Выберите устройство</string>
+    <string name="yellowpage_navigation_network_location_enable">Включить</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
+    <string name="yellowpage_navigation_network_location_enabled">Сервис активен. Отключить его можно в настройках местоположения.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
     <string name="resource_unable_to_access">Содержимое, которое вы ищите, недоступно в вашей стране.</string>
+    <string name="starred_yellowpage">Избранные сервисы</string>
     <string name="resource_download_notification_content">Нажмите для просмотра</string>
     <string name="check_unsynchronized_accounts">Уведомлять о синхронизации аккаунтов</string>
     <string name="contact_detail_picture_description">Изменить фото</string>

@@ -817,6 +817,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="gsm_umts_network_preferences_title">Режим сети</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
     <string name="uplmn_numeric_is_empty">Введите ID сети</string>
+    <string name="voip_setting">Настройки VoIP</string>
     <string name="msim_setting_screen_title">SIM карты и мобильные сети</string>
     <string name="msim_setting_categery_title">Информация SIM карты</string>
     <string name="msim_general_setting">Общие</string>

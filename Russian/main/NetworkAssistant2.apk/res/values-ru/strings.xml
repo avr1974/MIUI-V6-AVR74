@@ -387,6 +387,8 @@
     <string name="roaming_start_body">Разрешить приложениям из списка исключений подключаться к интернету в международном роуминге</string>
     <string name="dialog_app_roaming_title">Международный роуминг не включен для %1$s</string>
     <string name="dialog_app_roaming_message">Когда вы находитесь в международном роуминге, доступ к интернету будут иметь приложения только из списка исключений. Приложение \"%1$s\" не добавлено в список исключений. Открыть список исключений?</string>
+    <string name="add_miservice_dialog_title">MIUI service framework</string>
+    <string name="add_miservice_dialog_content">%s пытается добавить MIUI service framework в список исключений. Вы сможете получать уведомления от системных и сторонних приложений.</string>
     <string name="traffic_setting_completed">ОК</string>
     <string name="traffic_setting_extra_pkg_title">Дополнительно</string>
     <string name="traffic_setting_extra_pkg_summary">Настройки тарифного плана и трафика</string>

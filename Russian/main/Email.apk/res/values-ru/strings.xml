@@ -77,7 +77,7 @@
     <string name="account_setup_account_type_headline">Тип аккаунта</string>
     <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
     <string name="account_setup_account_type_title">Настройка аккаунта</string>
-    <string name="account_setup_address_label">Электронная почта</string>
+    <string name="account_setup_address_label">Email</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Подтвердите корректность логина и пароля аккаунта</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Проблема с настройками аккаунта</string>
     <string name="account_setup_basics_email_label">Адрес Email</string>
@@ -88,7 +88,7 @@
     <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
     <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
-    <string name="account_setup_correct_address_tips">Введите адрес электронной почты</string>
+    <string name="account_setup_correct_address_tips">Введите адрес Email</string>
     <string name="account_setup_creating_account_msg">Авторизация аккаунта…</string>
     <string name="account_setup_deleting_account_msg">Удаление аккаунта…</string>
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
@@ -422,7 +422,7 @@
     <string name="folder_removed">Удалено из \"%1$s\"</string>
     <string name="folder_shortcut_widget_label">Папка почты</string>
     <string name="forward">Переслать</string>
-    <string name="forward_attachment">Далее</string>
+    <string name="forward_attachment">Переслать</string>
     <string name="forward_attribution">---------- Перенаправленное сообщение ----------&lt;br>От: %1$s | &lt;br>Дата: %2$s | &lt;br>Тема: %3$s | &lt;br>Кому: %4$s</string>
     <string name="forward_attribution_no_headers">---------- Перенаправленное сообщение ----------</string>
     <string name="forward_download_failed_ticker">Не удалось переслать одно или более вложений</string>
@@ -896,4 +896,12 @@
     <string name="account_setup_index_other_mails">Прочие</string>
     <string name="accounts_heading">Аккаунты</string>
     <string name="from_label">Аккаунт отправителя</string>
+    <string name="gmail_acceleration">Использовать прокси для доступа к аккаунту Gmail</string>
+    <string name="gmail_login_confirm_to_use_proxy">Использовать прокси сервер для доступа к вашему аккаунту Gmail?</string>
+    <string name="gmail_login_verify">Добавить аккаунт Gmail</string>
+    <string name="gmail_web_login_go">ОК</string>
+    <string name="gmail_web_login_required_message">Войти в аккаунт Gmail</string>
+    <string name="open_proxy_in_settings">Gmail недоступен по вашему местоположению, но вы сможете отправлять и получать сообщения с вашего Gmail с помощью прокси сервера.</string>
+    <string name="upload_log_no">Отмена</string>
+    <string name="upload_log_yes">Загрузить</string>
 </resources>

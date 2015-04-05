@@ -170,7 +170,8 @@
     <string name="express_inquiry">Отслеживание</string>
     <string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
     <string name="express_inquiry_button_text">Отследить трек</string>
-    <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
+    <string name="express_inquiry_serial_number_prefix">Номер: %s</string>
+    <string name="express_inquiry_logistics_prefix">Курьерская служба: %s</string>
     <string name="express_inquiry_no_result">Нет результатов</string>
     <string name="express_inquiry_internal_failure">"Ошибка. 
 Проверьте номер отслеживания."</string>
@@ -257,7 +258,6 @@
     <string name="express_order_state_unknown">Неизвестно</string>
     <string name="express_view_status">Проверить</string>
     <string name="express_no_order_info">Нет информация о заказе</string>
-    <string name="express_order_detail">Информация</string>
     <string name="express_contact_prefix">"Контакт "</string>
     <string name="express_contact_label">Ваша информация</string>
     <string name="express_contact_phone">Введите свой номер телефона</string>
@@ -292,15 +292,18 @@
     <string name="navigation_search_no_city_list">Нет результатов</string>
     <string name="navigation_search_hot_cities">Популярные</string>
     <string name="navigation_search_all_cities">Все города</string>
+    <string name="yuan">Юань</string>
+    <string name="order_type_recharge">Пополнение</string>
     <string name="order_empty_hint">Нет заказов</string>
     <string name="order_merchant_title">Мои заказы</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="order_product_name_label">Название продукта:</string>
-    <string name="order_status_label">Статус заказа: %s</string>
-    <string name="order_price_label">Цена: %s</string>
-    <string name="order_id_label">ID заказа: %s</string>
-    <string name="order_date_label">Дата заказа: %s</string>
+    <string name="order_status_label">"Статус заказа: "</string>
+    <string name="order_price_label">"Цена: "</string>
+    <string name="order_id_label">"ID заказа: "</string>
+    <string name="order_date_label">"Дата заказа: "</string>
     <string name="order_not_found">Нет заказов</string>
+    <string name="order_detail">Информация</string>
     <string name="general_yellow_page_title">Общие</string>
     <string name="general_recent_title">Последние</string>
     <string name="general_favorite_title">Избранные</string>
@@ -358,6 +361,7 @@
     <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
     <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
     <string name="sina_share_fail_content_repeat">Не удается отправить. Содержимое уже существует.</string>
+    <string name="express_order_detail">Информация</string>
     <string name="express_company_empty">Нет компаний</string>
     <string name="express_inquiry_logistics_empty">Выберите логистику</string>
     <string name="express_inquiry_logistics_indication">Курьерская компания</string>
