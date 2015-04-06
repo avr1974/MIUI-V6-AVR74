@@ -36,7 +36,7 @@
     <header android:icon="@drawable/ic_location_settings" android:id="@id/location_settings" android:title="@string/location_settings_title" android:fragment="com.android.settings.location.MiuiLocationSettings" />
     <header android:id="@id/account_settings" android:title="@string/header_category_accounts" />
     <header android:id="@id/micloud_settings" android:title="@string/xiaomi_account">
-        <intent android:action="com.xiaomi.account.action.XIAOMI_ACCOUNT_WELCOME" />
+        <intent android:targetPackage="com.xiaomi.account" android:action="android.settings.XIAOMI_ACCOUNT_SYNC_SETTINGS" />
         <extra android:name="account_type" android:value="com.xiaomi" />
     </header>
     <header android:icon="@drawable/ic_account_list" android:id="@id/account_list" android:title="@string/account_list" android:fragment="com.android.settings.accounts.MiuiAccountListSettings" />
