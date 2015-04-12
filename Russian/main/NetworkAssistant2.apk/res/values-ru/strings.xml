@@ -20,12 +20,12 @@
     <string name="main_alert_message_no_mobile_package">Трафик не настроен</string>
     <string name="main_alert_message_no_imsi">Нет SIM карты</string>
     <string name="main_alert_message_slot_no_data_connection">Слот SIM карты не поддерживает доступ в интернет</string>
-    <string name="main_primary_message_traffic_enough">Трафик заканчивается</string>
+    <string name="main_primary_message_traffic_enough">Трафик в норме</string>
     <string name="main_primary_message_traffic_warning">Предупреждение</string>
     <string name="main_primary_message_traffic_overlimit">Предел трафика превышен</string>
     <string name="main_primary_message_traffic_overlimit_purchase">Необходимо пополнить трафик</string>
     <string name="main_primary_message_traffic_purchase">Необходимо пополнить трафик</string>
-    <string name="main_primary_message_traffic_cur_normal">Трафик заканчивается</string>
+    <string name="main_primary_message_traffic_cur_normal">Трафик в норме</string>
     <string name="main_primary_message_traffic_cur_normal_warning">Предупреждение</string>
     <string name="main_primary_message_traffic_cur_normal_overlimit">Предел трафика превышен</string>
     <string name="main_primary_message_traffic_cur_leisure">Дополнительный трафик</string>
@@ -405,6 +405,7 @@
     <string name="traffic_over_purchase_title">Трафик превышен</string>
     <string name="traffic_over_purchase_body">Нажмите для просмотра</string>
     <string name="traffic_over_purchase_link">"Достигнут предел трафика.&lt;br/>За дальнейшее использование мобильного интернета может взиматься дополнительная плата оператором.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Рекомендуется пополнить трафик.&lt;/U>&lt;/font>"</string>
+    <string name="repair_loading_text">Загрузка…</string>
     <string name="network_diagnostics">Диагностика интернета</string>
     <string name="btn_start_diagnostic">Начать</string>
     <string name="btn_stop_diagnostic">Остановить</string>

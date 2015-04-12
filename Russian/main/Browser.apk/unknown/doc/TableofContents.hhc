@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="声明">
+		<param name="Local" value="doc\申明.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="概述">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="摘要">
+			<param name="Local" value="doc\概述.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="说明">
+			<param name="Local" value="doc\说明.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="总体介绍">
+			<param name="Local" value="doc\com\iflytek\business\speech\package-summary.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="OverView">
+			<param name="Local" value="doc\overview-tree.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="总接口">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SpeechServiceUtil">
+			<param name="Local" value="doc\com\iflytek\business\speech\SpeechServiceUtil.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="引擎回调接口">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ISpeechInitListener">
+			<param name="Local" value="doc\com\iflytek\business\speech\SpeechServiceUtil.ISpeechInitListener.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="RecognitionListener">
+			<param name="Local" value="doc\com\iflytek\business\speech\RecognitionListener.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SynthesizerListener">
+			<param name="Local" value="doc\com\iflytek\business\speech\SynthesizerListener.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="VerifierListener">
+			<param name="Local" value="doc\com\iflytek\business\speech\VerifierListener.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="引擎结果">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="RecognizerResult">
+			<param name="Local" value="doc\com\iflytek\business\speech\RecognizerResult.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="VerifierResult">
+			<param name="Local" value="doc\com\iflytek\business\speech\VerifierResult.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="常量">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FocusType">
+			<param name="Local" value="doc\com\iflytek\business\speech\FocusType.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SpeechIntent">
+			<param name="Local" value="doc\com\iflytek\business\speech\SpeechIntent.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="SpeechError">
+			<param name="Local" value="doc\com\iflytek\business\speech\SpeechError.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="TextToSpeech">
+			<param name="Local" value="doc\com\iflytek\business\speech\TextToSpeech.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="常量值查询">
+			<param name="Local" value="doc\constant-values.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="使用流程简介">
+		<param name="Local" value="doc\流程简介.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

@@ -17,7 +17,7 @@
     <string name="tab_block_log_unKnowNumber">Неизвестный номер</string>
     <string name="user_define_title">Добавить режим</string>
     <string name="blacklist_prefix_add_hint">Добавить все номера с префиксом в черный список</string>
-    <string name="whitelist_prefix_add_hint">Добавить все номера с префиксом в белый список</string>
+    <string name="whitelist_prefix_add_hint">Добавить все номера с префиксом в список исключений</string>
     <string name="customizer_mode_user_define_name">Мой режим</string>
     <string name="all_address_choose_hint">Все регионы</string>
     <string name="address_choose_hint">%1$s, %2$s и %3$d</string>

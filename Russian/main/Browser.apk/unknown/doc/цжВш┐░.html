@@ -4,48 +4,64 @@
 	</head>
 	<body>
 		<h1 style="text-align: center;">
-			<span style="font-size:28px;">说明</span></h1>
+			语点套件3.0开发文档</h1>
+		<p>
+			<span style="font-size:20px;"><span style="text-align: left;">&nbsp; &nbsp; 本文档描述了Android平台如何集成科大讯飞的手机语点套件3.0服务，并对第三方应用如何开发进行说明。</span></span></p>
+		<h2 style="text-align: left;">
+			1.1 目的</h2>
+		<p style="text-align: left;">
+			<span style="font-size:20px;">&nbsp; &nbsp; 本文档对讯飞语点套件3.0服务的扩展接口以及安装和使用方法进行定义。</span></p>
+		<p style="text-align: left;">
+			<span style="font-size:20px;">&nbsp; &nbsp; 文档读者为使用讯飞语音识别、唤醒声纹、语音合成核心服务的产品设计工程师、软件开发工程师。</span></p>
 		<h2>
-			<br />
-			<span style="font-size:22px;">1. 开发说明</span></h2>
+			1.2 开发包简介</h2>
 		<p>
-			<br />
-			<span style="font-size:20px;">在开发应用程序时，仅需关注文档中所提供的接口函数而不用了解具体实现。</span></p>
-		<h2>
-			<br />
-			<span style="font-size:22px;">2. 支持的平台</span></h2>
-		<p>
-			<br />
-			<span style="font-size:20px;">支持Android 2.0以上的系统</span><br />
-			&nbsp;</p>
+			<span style="font-size:20px;">&nbsp; &nbsp; 语音服务开发包包含三部分内容：语点套件3.0服务安装包SpeechService.apk、调用3.0服务的外部JAR包SpeechServiceUtilLib.jar以及语音助手客户端标准应用。语点套件集成了四大语音能力引擎：语音识别引擎、唤醒引擎、声纹引擎和语音合成引擎；外部JAR包对四大引擎接口进行了统一封装，使开发者调用起来更加方便、快捷。</span></p>
+		<table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+			<tbody>
+				<tr>
+					<td>
+						<span style="font-size:20px;">开发包组件</span></td>
+					<td>
+						<span style="font-size:20px;">说明</span></td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-size:20px;">SpeechService.apk</span></td>
+					<td>
+						<span style="font-size:20px;">语点套件服务安装包</span></td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-size:20px;">SpeechServiceUtilLib.jar</span></td>
+					<td>
+						<p>
+							<span style="font-size:20px;">语点套件服务外部接口封装包</span></p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="font-size:20px;">SpeechClientDemo.apk</span></td>
+					<td>
+						<span style="font-size:20px;">语点助手客户端</span></td>
+				</tr>
+			</tbody>
+		</table>
 		<h3>
-			<br />
-			<span style="font-size:22px;">3. 开发包组成</span></h3>
+			<span style="font-size:22px;">1.2.1 语音识别引擎</span></h3>
 		<p>
-			<br />
-			<span style="font-size:20px;">Document<br />
-			&nbsp;------ 《语点套件3.0开发文档.chm》</span></p>
-		<p>
-			<br />
-			<span style="font-size:20px;">JarLib<br />
-			&nbsp;------ SpeechServiceLibUtil.jar 封装了连接服务、共享资源等功能的Jar包</span></p>
-		<p>
-			<br />
-			<span style="font-size:20px;">SpeechClient<br />
-			&nbsp;------ 标准应用。</span></p>
+			<span style="font-size:20px;">&nbsp; &nbsp; 语点套件3.0提供与说话人无关的智能语音识别技术，来源于科大讯飞国际领先的语言识别引擎，支持连续语音识别和为自助语音服务提供的关键字语音识别、语法识别，具备优秀的识别率，提供全面的开发支持，丰富的工具易于使用，核心技术上达到了国际领先水平。套件3.0本地识别采用Aitalk5.1,支持8K/16K切换，支持切词和多候选功能。</span></p>
 		<h3>
-			<br />
-			<span style="font-size:22px;">4. 在新建工程中使用语点引擎</span></h3>
+			<span style="font-size:22px;">1.2.2 唤醒引擎</span></h3>
 		<p>
-			<br />
-			<span style="font-size:20px;">1. 安装SpeechService.apk。</span></p>
+			<span style="font-size:20px;">&nbsp; &nbsp; 语点套件3.0集成了唤醒引擎3.0的功能，用户通过输入对应的语音命令词，唤醒语音服务，实现后续的功能设计。</span></p>
+		<h3>
+			<span style="font-size:22px;">1.2.3 声纹引擎</span></h3>
 		<p>
-			<br />
-			<span style="font-size:20px;">2. 将SpeechClient工程下的SpeechServiceLibUtil.jar包增加到新工程中。</span></p>
+			<span style="font-size:20px;">&nbsp; &nbsp; 语点套件3.0集成了声纹引擎2.0的功能，用户通过输入对应的语音命令词，完成个人声纹密码的注册和鉴定，实现后续的功能设计。</span></p>
+		<h3>
+			<span style="font-size:22px;">1.2.4 语音合成引擎</span></h3>
 		<p>
-			<br />
-			<span style="font-size:20px;">3. 在AndroidManifest.xml中声明必要的权限（参见SpeechClient的权限）。</span><br />
-			<br />
-			&nbsp;</p>
+			<span style="font-size:20px;">&nbsp; &nbsp; 语音合成服务主要包括基于讯飞语音云的在线语音合成服务和基于嵌入式引擎的离线语音合成服务。在线语音合成服务运行资源占用小，合成音频具有更高的清晰度、自然度和可懂度，离线语音合成服务不需要依赖网络，能够实时响应。两种均采用先进的文本分析、韵律分析算法和大语料库的合成方法，合成语音已经接近真人的自然效果。</span></p>
 	</body>
 </html>

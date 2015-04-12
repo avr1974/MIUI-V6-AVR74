@@ -172,7 +172,7 @@
     <string name="power_subtitle_ontime">Энергосбережение по расписанию</string>
     <string name="power_exitlowbattery_whencharge">Выход при зарядке</string>
     <string name="power_button_delete">удалить</string>
-    <string name="power_mode_my_mode">свой режим</string>
+    <string name="power_mode_my_mode">Свой режим</string>
     <string name="power_mode_my_mode_summary">пользовательский режим энергосбережения</string>
     <string name="power_apply_toast">переключиться в режим %s и автоматически сохранить свой режим</string>
     <string name="power_customize_giveup_change">Отменить изменения?</string>
@@ -481,7 +481,7 @@
     <string name="item_title_garbage_size">Размер мусора</string>
     <string name="white_list_cache_header">Кэш: %d</string>
     <string name="white_list_ad_header">Реклама: %d</string>
-    <string name="white_list_apk_header">Установочные apk: %d</string>
+    <string name="white_list_apk_header">Установочные APK: %d</string>
     <string name="white_list_large_file_header">Большие файлы: %d</string>
     <string name="white_list_residual_header">Мусор: %d</string>
     <string name="white_list_title">Список исключений</string>
@@ -731,6 +731,7 @@
     <string name="cmcc_app_check_dialog_message">Перезагрузить устройство для завершения исправления?</string>
     <string name="cmcc_app_check_dialog_positive">ОК</string>
     <string name="cmcc_app_check_dialog_negative">Позже</string>
+    <string name="toast_resolve_apk_error">Устранить ошибку APK</string>
     <string name="hints_apps_perm_count">Разрешений: %d</string>
     <string name="hints_auto_start_disable_title">Приложения без автозапуска (%d)</string>
     <string name="hints_auto_start_enable_title">Приложения с автозапуском (%d)</string>

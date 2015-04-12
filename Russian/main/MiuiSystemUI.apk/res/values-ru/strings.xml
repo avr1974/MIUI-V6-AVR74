@@ -214,6 +214,10 @@ d MMMM yyyy"</string>
     <string name="media_projection_dialog_text">%s будет захватывать все, что отображается на вашем экране.</string>
     <string name="media_projection_remember_text">Запомнить</string>
     <string name="media_projection_action_text">Начать</string>
+    <string name="vpn_title">Сеть VPN активна</string>
+    <string name="vpn_title_long">Подключение VPN через %s</string>
+    <string name="vpn_text">Нажмите для настройки</string>
+    <string name="vpn_text_long">Подключено к %s. Нажмите для просмотра.</string>
     <string name="battery_low_subtitle">Подключите зарядное устройство</string>
     <string name="battery_low_why">Статистика</string>
     <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>

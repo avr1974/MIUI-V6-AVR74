@@ -55,9 +55,14 @@
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision3">".
 "</string>
-    <string name="sync_dspt_entrance_provision">Синхронизируйте фото, контакты и сообщения.</string>
+    <string name="sync_dspt_entrance_provision">Синхронизируйте фото, контакты и сообщения на %s.</string>
     <string name="sync_dspt_entrance_provision_2">Подробнее</string>
-    <string name="find_device_dspt_provision">"Если вы потеряли свое устройство, перейдите на сайт "</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">ОК</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Отмена</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">Пропустить авторизацию Mi Cloud?</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Mi Cloud позволяет синхронизировать фото, контакты, сообщения и другие данные между устройствами.</string>
+    <string name="sync_dspt_entrance_provision_skip"><u>Пропустить</u></string>
+    <string name="find_device_dspt_provision">Если вы потеряли свое устройство, перейдите на сайт %s для поиска местоположения, блокировки и очистки данных.</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_3">" для поиска, блокировки и очистки данных.
 "</string>
@@ -271,6 +276,16 @@
     <string name="cloud_back_up_button_ok">ОК</string>
     <string name="cloud_back_up_network_unavailable">Ошибка удаления. Подключитесь к сети Wi-Fi и повторите попытку.</string>
     <string name="cloud_back_up_remove_success">Бэкап удален</string>
+    <string name="close_cloud_app_backup_notification_title">Уведомление Mi Cloud</string>
+    <string name="close_cloud_app_backup_notification_message">Нажмите для просмотра</string>
+    <string name="close_cloud_app_backup_title">Предупреждение</string>
+    <string name="close_cloud_app_backup_message">Сервис бэкапа приложений будет остановлен и удален 1 мая 2015 года. Сохраните необходимые данные приложений как можно скорее.</string>
+    <string name="close_cloud_app_backup_cancel">Отмена</string>
+    <string name="close_cloud_app_backup_close">Закрыть</string>
+    <string name="close_cloud_app_backup_local_backup">Создать бэкап</string>
+    <string name="cloud_app_back_up_quit_notification_content1">Возможность создания бэкапа для сторонних приложений будет остановлена и удалена 1 мая 2015 года. Сохраните необходимые данные приложений с помощью локального бэкапа.</string>
+    <string name="cloud_app_back_up_quit_notification_content2">Синхронизация контактов, сообщений, фото и других данных останется по-прежнему.</string>
+    <string name="cloud_app_back_up_quit_notification_content3">Бэкап приложений</string>
     <string name="micloud_intro_01_part_01">Экономия</string>
     <string name="micloud_intro_01_part_02">Облачные сообщения позволяют общаться пользователям MIUI бесплатно по сети Wi-Fi.</string>
     <string name="micloud_intro_02_part_01">Удобная синхронизация</string>

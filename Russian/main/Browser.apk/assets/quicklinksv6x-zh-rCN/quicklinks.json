@@ -4,7 +4,7 @@
         "data": [
             {
                 "movable": true,
-                "deletable": false,
+                "deletable": true,
                 "recommend": true,
                 "site": {
                     "stid": 1,
@@ -17,7 +17,7 @@
             },
             {
                 "movable": true,
-                "deletable": false,
+                "deletable": true,
                 "recommend": false,
                 "site": {
                     "stid": 2,
@@ -30,7 +30,7 @@
             },
             {
                 "movable": true,
-                "deletable": false,
+                "deletable": true,
                 "recommend": false,
                 "site": {
                     "stid": 3,
@@ -39,6 +39,19 @@
                     "thumb": "local",
                     "hash": "a0c5c676",
                     "extra": "3_default__2280"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "stid": 4,
+                    "title": "Mi.com",
+                    "url": "http://mi.com",
+                    "thumb": "local",
+                    "hash": "a0c5c676",
+                    "extra": "4_default__2280"
                 }
             },
             {
