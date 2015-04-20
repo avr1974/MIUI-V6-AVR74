@@ -323,7 +323,7 @@
     <string name="kuaipan_create_shortcut_success">Ярлык создан</string>
     <string name="kuaipan_delete_success">Фото удалено</string>
     <string name="system_alert">Напомнить</string>
-    <string name="network_connect_confirm_des">Разрешить приложению доступ к интернету?</string>
+    <string name="network_connect_confirm_des">Разрешить доступ к интернету?</string>
     <string name="operation_agree">ОК</string>
     <string name="never_notify_network_connect">Запомнить</string>
     <string name="connect_network_setting_des">Запрашивать доступ к интернету</string>

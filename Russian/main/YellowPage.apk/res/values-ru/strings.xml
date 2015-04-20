@@ -328,7 +328,7 @@
     <string name="nearby_average_price">Около %d Ұ</string>
     <string name="user_agreement2">" Пользовательское соглашение"</string>
     <string name="user_agreement4">Политика конфиденциальности</string>
-    <string name="callNoAnswerTimeFormat">Вызовов: %s</string>
+    <string name="callNoAnswerTimeFormat">Гудков: %s</string>
     <string name="account_yellowpage_recent">История</string>
     <string name="account_yellowpage_favorite">Избранное</string>
     <string name="account_yellowpage_followed">Проверенные аккаунты</string>
@@ -361,11 +361,11 @@
     <string name="sina_token_expired_warning">Истек срок действия аккаунита Weibo, привяжите аккаунт заново.</string>
     <string name="sina_token_invalid_warning">Неверный аккаунт Weibo, привяжите аккаунт заново.</string>
     <string name="sina_share_fail_content_repeat">Не удается отправить. Содержимое уже существует.</string>
-    <string name="express_order_detail">Информация</string>
     <string name="express_company_empty">Нет компаний</string>
     <string name="express_inquiry_logistics_empty">Выберите логистику</string>
     <string name="express_inquiry_logistics_indication">Курьерская компания</string>
     <string name="express_no_tracking_number">Нет номера отслеживания</string>
+    <string name="express_order_detail">Информация</string>
     <string name="menu_about_yellow_page">О странице</string>
     <string name="recharge_pay_hint">При поддержке Xiaomi</string>
     <string name="select">Выбрать</string>

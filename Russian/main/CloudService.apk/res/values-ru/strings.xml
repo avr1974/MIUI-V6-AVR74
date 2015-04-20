@@ -47,7 +47,11 @@
     <string name="sync_on">Вкл.</string>
     <string name="sync_off">Выкл.</string>
     <string name="mx_dspt">Облачные сообщения</string>
+    <string name="voip_dspt">Mi VoIP</string>
     <string name="mx_sub_dspt_provision">Облачные сообщения</string>
+    <string name="mx_sub_dspt_provision_with_voip">Интернет вызов VoIP</string>
+    <string name="voip_choose_sim">Выберите номер телефона для активации Mi VoIP</string>
+    <string name="activate_number_change_dialog_message">Выберите основной номер для вызова VoIP, который будет видеть собеседник.</string>
     <string name="phone_number_may_required_dspt_provision">"Этот сервис может запросить ваш номер телефона. "</string>
     <string name="phone_number_required_dspt_provision">"Этот сервис запрашивает ваш номер телефона. "</string>
     <string name="sync_resend_sms_dspt_provision">. Если вы смените SIM карту, ваш оператор может взимать плату за SMS для повторной активации этого сервиса.</string>
@@ -69,6 +73,7 @@
     <string name="find_device_dspt_provision_4">Если вы смените SIM карту, будет автоматически отправлена SMS для активации этой функции.</string>
     <string name="find_device_send_sms_alert">Если вы заменили SIM карту, автоматически будет отправлена SMS для повторной активации сервисов.</string>
     <string name="mx_dspt_provision">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно</string>
+    <string name="mx_dspt_provision_with_voip">Mi VoIP позволяет пользователям MIUI общаться бесплатно через интернет</string>
     <string name="mx_dspt_provision_privacy">"Сервис может запрашивать ваш номер телефона. Ваш оператор может взимать плату за SMS для активации этого сервиса.
 Эта функция шифрует и загружает ID устройства на сервер Xiaomi."</string>
     <string name="user_agreement_p6">"При использовании облачных сервисов вы соглашаетесь с "</string>

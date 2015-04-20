@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cta_dialog_title">Разрешить приложению доступ к интернету?</string>
+    <string name="cta_dialog_title">Разрешить доступ к интернету?</string>
     <string name="cta_dialog_msg">Для использования некоторых сервисов приложения \"Безопасность\" требуется доступ к интернету</string>
     <string name="cta_checkbox_title">Запомнить</string>
     <string name="cta_button_text_cancel">Отмена</string>
@@ -646,7 +646,7 @@
     <string name="title_cloud_service">Mi Cloud</string>
     <string name="summary_cloud_service">Используйте Mi Cloud для создания облачного бэкапа</string>
     <string name="title_network_switch">Разрешить доступ к интернету</string>
-    <string name="summary_network_switch">Разрешить приложению доступ к интернету</string>
+    <string name="summary_network_switch">Разрешить доступ к интернету</string>
     <string name="title_power_optimizer">Производительность включена</string>
     <string name="summary_power_optimizer">Отключите режим во избежание высокого потребления батареи</string>
     <string name="title_data_flow">Трафик не установлен</string>

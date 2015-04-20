@@ -12,9 +12,9 @@
     <string name="status_bar_toggle_mute">Без звука</string>
     <string name="status_bar_toggle_network_type">Тип сети</string>
     <string name="status_bar_toggle_privacy_mode">Гость</string>
-    <string name="status_bar_toggle_reboot">Перезагрузка</string>
+    <string name="status_bar_toggle_reboot">Перезагр.</string>
     <string name="status_bar_toggle_rotate">Поворот</string>
-    <string name="status_bar_toggle_screen_button">Кнопки</string>
+    <string name="status_bar_toggle_screen_button">Клавиши</string>
     <string name="status_bar_toggle_screenshot">Скриншот</string>
     <string name="status_bar_toggle_shutdown">Выключение</string>
     <string name="status_bar_toggle_sync">Синхр.</string>
@@ -22,14 +22,14 @@
     <string name="status_bar_toggle_vibrate">Вибрация</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">Произв.</string>
-    <string name="status_bar_toggle_drive_mode">Авто</string>
-    <string name="status_bar_toggle_wifi_ap">Wi-Fi модем</string>
+    <string name="status_bar_toggle_drive_mode">За рулем</string>
+    <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
     <string name="status_bar_toggle_quiet_mode">Тишина</string>
     <string name="status_bar_toggle_paper_mode">Режим чтения</string>
     <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
     <string name="status_bar_toggle_sync_manual">Синхр.</string>
-    <string name="status_bar_toggle_syncing">Синхронизация</string>
+    <string name="status_bar_toggle_syncing">Синхр…</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован</string>
-    <string name="screen_button_disabled_message">Кнопки будут отключены. Вы можете включить их снова, нажав кнопки \"Домой\" и \"Питание\".</string>
-    <string name="screen_button_enabled_message">Кнопки включены</string>
+    <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
+    <string name="screen_button_enabled_message">Клавиши навигации включены</string>
 </resources>

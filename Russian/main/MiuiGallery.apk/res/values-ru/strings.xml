@@ -559,11 +559,11 @@
     <string name="paint_crop_cancel_context">Сохранить изменения?</string>
     <string name="do_not_save">Не сохранять</string>
     <string name="photo_paint_crop">Обрезать</string>
-    <string name="free">Свободно</string>
-    <string name="square">Квадратом</string>
+    <string name="free">Вручную</string>
+    <string name="square">Квадрат</string>
     <string name="original_scale">Пропорционально</string>
     <string name="photo_save_succeed">Успешно сохранено</string>
-    <string name="impunity_declaration_title">Разрешить приложению доступ к интернету?</string>
+    <string name="impunity_declaration_title">Разрешить доступ к интернету?</string>
     <string name="impunity_declaration">При использовании облачных альбомов требуется доступ к интернету</string>
     <string name="impunity_declaration_ignore">Запомнить</string>
     <string name="impunity_declaration_positive_text">Продолжить</string>

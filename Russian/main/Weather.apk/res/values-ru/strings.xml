@@ -72,7 +72,7 @@
     <string name="weatherchina_default_url">http://www.accuweather.com</string>
     <string name="accuweather_tag">accu</string>
     <string name="weatherchina_tag">weather.com.cn</string>
-    <string name="view_aqi_detail_item_unit">мкг/м<small><sup>3</sup></small></string>
+    <string name="view_aqi_detail_item_unit">мкг/м<sup><small>3</small></sup></string>
     <string name="view_aqi_detail_title">Информация ИКВ</string>
     <string name="first_start_network_msg">Для получения прогноза погоды необходимо подключиться к интернету</string>
     <string name="first_start_network_title">Предупреждение</string>

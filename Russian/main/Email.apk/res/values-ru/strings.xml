@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Folders">Папки</string>
+    <string name="SMTP_independent_verification_text">Независимая проверка SMTP</string>
+    <string name="SMTP_password_text">Пароль</string>
+    <string name="SMTP_username_text">Имя пользователя</string>
     <string name="abc_action_bar_home_description">Домой</string>
     <string name="abc_action_bar_up_description">Вверх</string>
     <string name="abc_action_menu_overflow_description">Дополнительно</string>
@@ -422,6 +425,7 @@
     <string name="folder_picker_title">Выбор папки</string>
     <string name="folder_removed">Удалено из \"%1$s\"</string>
     <string name="folder_shortcut_widget_label">Папка почты</string>
+    <string name="folder_synchronization_mail_settings">Настройки синхронизации папок</string>
     <string name="forward">Переслать</string>
     <string name="forward_attachment">Переслать</string>
     <string name="forward_attribution">---------- Перенаправленное сообщение ----------&lt;br>От: %1$s | &lt;br>Дата: %2$s | &lt;br>Тема: %3$s | &lt;br>Кому: %4$s</string>
@@ -724,7 +728,6 @@
     <string name="quick_reply_hint_cc">(в копию)</string>
     <string name="quick_responses_empty_view">Нет шаблонов быстрых ответов</string>
     <string name="quote_divider_iphone_en">Отправлено с iPhone</string>
-    <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
     <string name="quoted_text">Включить цитируемый текст</string>
     <string name="quoted_text_label">Цитировать текст</string>
     <string name="read_string">диалог прочитан</string>
@@ -911,6 +914,7 @@
     <string name="xiaomi_update_dialog_message_diff">"Доступная версия: %1$s 
 Размер Delta обновления: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s обновлено</string>
+    <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
     <string name="account_setup_index_label">Добавить аккаунт</string>
     <string name="account_setup_index_other_mails">Прочие</string>
     <string name="accounts_heading">Аккаунты</string>

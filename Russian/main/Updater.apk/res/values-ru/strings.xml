@@ -192,6 +192,20 @@ http://miui.su/mi-pc-suite"</string>
     <string name="submit_success">Успешно отправлено</string>
     <string name="submit_fail">Не удалось отправить</string>
     <string name="submit">Отправить</string>
+    <string name="vote_beta">Отзыв о бета версии</string>
+    <string name="vote_submit">Отправить</string>
+    <string name="vote_recommend">Рекомендовать</string>
+    <string name="vote_not_recommend">Не рекомендовать</string>
+    <string name="vote_error_nonetwork">Не удается подключиться к интернету</string>
+    <string name="vote_error1">Вы не являетесь бета тестером</string>
+    <string name="vote_error2">Не удается отправить отзыв. Обновите прошивку и повторите попытку.</string>
+    <string name="vote_hint">Получите 20 кредитов опыта на форуме MIUI за голосование</string>
+    <string name="vote_join">Голос отправлен</string>
+    <string name="vote_experience">Кредиты на форуме</string>
+    <string name="vote_error3">Не удается войти. Попробуйте войти в Mi аккаунт еще раз.</string>
+    <string name="vote_error4">Вы уже отправили отзыв</string>
+    <string name="vote_error5">Не удается отправить отзыв</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Перейти на форум MIUI</a>" "</string>
     <string name="menu_title_check_update">Настройки</string>
     <string name="no_proper_updates">Для текущей версии обновления не найдены</string>
     <string name="install_file_explorer">Установите файловый менеджер</string>

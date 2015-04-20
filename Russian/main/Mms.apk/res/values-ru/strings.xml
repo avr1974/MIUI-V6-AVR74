@@ -519,7 +519,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="festival_networking_title">Предупреждение</string>
-    <string name="festival_networking_desc">Разрешить приложению доступ к интернету?</string>
+    <string name="festival_networking_desc">Разрешить доступ к интернету?</string>
     <string name="festival_continue">ОК</string>
     <string name="festival_never_remind">Запомнить</string>
     <string name="pref_title_festival_networking">Запрашивать доступ к интернету</string>
@@ -559,6 +559,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="storage_dialog_sms">SMS: %d</string>
     <string name="storage_dialog_database">База данных:</string>
     <string name="storage_dialog_available_space">Свободно:</string>
+    <string name="storage_unavailable">Нет свободного места</string>
     <string name="add_bookmark">Избранные</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>

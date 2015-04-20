@@ -7,6 +7,7 @@
     <string name="app_name">Mi Credits</string>
     <string name="format_time">d MMMM yyyy hh:mmaa</string>
     <string name="format_date">d MMMM yyyy</string>
+    <string name="format_bill_date">d.M.yyyy</string>
     <string name="unit">Mi Credits</string>
     <string name="unit_value">%1$s Mi Credits</string>
     <string name="illegal_intent">Недопустимый запрос</string>
@@ -47,6 +48,7 @@
     <string name="button_count_down_finish">ОК(%1$s)</string>
     <string name="payment_title">Подтверждение оплаты</string>
     <string name="payment_with_login_title">Введите пароль Mi аккаунта</string>
+    <string name="payment_recharge_group_title">Выберите способ оплаты</string>
     <string name="recharge_grid_item_more">Еще</string>
     <string name="milicenter_title">Mi Credits</string>
     <string name="balance_title">Баланс</string>
@@ -79,11 +81,18 @@
     <string name="recharge_novalid_method">Неверный способ пополнения</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
+    <string name="denomination_mibi_unit">MI</string>
+    <string name="denomination_money_unit">RMB</string>
     <string name="btn_recharge_large">Пополнить</string>
     <string name="recharge_other">Отмена</string>
     <string name="btn_recharge_success_quick">Готово</string>
     <string name="btn_prev">Назад</string>
     <string name="btn_next">Далее</string>
+    <string name="recharge_grid_money_picker_hint">Выберите сумму</string>
+    <string name="recharge_grid_mibi_picker_hint">Выбор суммы</string>
+    <string name="other_denomiantion">Выбор суммы</string>
+    <string name="recharge_value_money">Оплата %s RMB - стоимость Mi Credits</string>
+    <string name="recharge_value_money_with_tip">Оплата RMB %s - стоимость Mi Credits &lt;font color=red>(нельзя тратить Mi Credits на сайте Mi.com)&lt;/font></string>
     <string name="recharge_grid_error_denomination">Введите корректный размер пополнения (%1$s~%2$s Ұ)</string>
     <string name="paytool_error_install">Ошибка установки мобильного плагина безопасности %1$s</string>
     <string name="paytool_error_msp">%1$s ошибка пополнения</string>
@@ -152,6 +161,7 @@
 Вы можете получать кредиты после участия в мероприятиях от Xiaomi."</string>
     <string name="progress_mipay_creating">Создание заказа…</string>
     <string name="mipay_error">Ошибка Mipay</string>
+    <string name="list_item_bottom_hint">Конец</string>
     <string name="bankcall_merchant">Получатель:</string>
     <string name="bankcall_denom">Платеж:</string>
     <string name="bankcall_bank_account">Банковская карта:</string>
@@ -214,14 +224,17 @@
     <string name="giftcard_expire_notification_prime_title">Истекает срок действия кода…</string>
     <string name="giftcard_expire_notification_sub_title">Срок действия подарочной карты Mi Credit истекает %1$s</string>
     <string name="title_mili_center">Mi Credits</string>
-    <string name="title_transaction">История</string>
-    <string name="title_giftcard">Акции</string>
+    <string name="title_bill_record">История пополнения</string>
     <string name="giftcard_record">Подарочная карта Mi Credits</string>
+    <string name="menu_lock">Графический ключ</string>
+    <string name="menu_shotcut">Ярлык на рабочий стол</string>
+    <string name="menu_qa">FAQ</string>
     <string name="title_discounts">Скидки</string>
     <string name="btn_mili_center_recharge">Пополнить баланс</string>
     <string name="fee">Mi Credits: %1$s</string>
     <string name="fee_with_giftcard"> (%1$s)</string>
     <string name="fee_with_mibi_giftcard"> %1$s-Подарочная карта Mi Credits</string>
+    <string name="bill_record_empty">Нет записей</string>
     <string name="progress_downloading">Загрузка…</string>
     <string name="btn_net_connection_retry">Повторить</string>
     <string name="mibi_license_title">Предупреждение</string>
@@ -288,6 +301,11 @@
     <string name="detail_giftcard_expired_time">Дата окончания</string>
     <string name="detail_giftcard_theme">Покупка тем</string>
     <string name="process_expired">Время ожидания истекло</string>
+    <string name="prompt_info_title">Советы</string>
+    <string name="prompt_info_for_first_use">Нельзя использовать Mi Credit для покупки устройств на Mi.com</string>
+    <string name="prompt_info_button_hint">Предупреждение (%d)</string>
+    <string name="prompt_info_button_text">ОК</string>
+    <string name="shurtcut_create_success">Ярлык создан</string>
     <string name="account_detail">"Mi аккаунт: 
 %1$s"</string>
     <string name="btn_recharge_success">Готово</string>
@@ -302,8 +320,10 @@
     <string name="recharge_group_favorite">Используемые способы пополнения</string>
     <string name="recharge_group_others">Другие способы пополнения</string>
     <string name="recharge_record_empty">Нет истории пополнений</string>
+    <string name="title_giftcard">Акции</string>
     <string name="title_pay_record">История платежей</string>
     <string name="title_recharge_record">История пополнений</string>
+    <string name="title_transaction">История</string>
     <string name="voucher_edit_limit">только цифры</string>
     <string name="payment_recharge_group_familiar">Выберите способ пополнения</string>
     <string name="payment_recharge_group_favorite">Способы пополнения</string>
