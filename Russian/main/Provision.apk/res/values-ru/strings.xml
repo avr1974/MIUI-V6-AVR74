@@ -10,6 +10,7 @@
     <string name="page_layout_title">Компоновка системы</string>
     <string name="page_layout_label">Установите размер шрифта, положение иконок на рабочем столе, размер панели уведомлений и другие настройки.</string>
     <string name="sim_card_detection">Нет SIM карты</string>
+    <string name="sim_card_detecting_title">Проверить SIM карту</string>
     <string name="sim_card_detection_info">Как вставить SIM карту прочитайте в прилагаемой к устройству инструкции</string>
     <string name="sim_card_detecting">Проверка SIM карты…</string>
     <string name="other_settings">Дополнительно</string>
@@ -20,6 +21,7 @@
     <string name="other_settings_user_experience_summary1">"
 Политика безопасности"</string>
     <string name="next">Далее</string>
+    <string name="skip_underline"><u>Пропустить</u></string>
     <string name="sim_dectection_next">Продолжить</string>
     <string name="shut_down">Выключение</string>
     <string name="sim_redetection">Проверить SIM карту повторно</string>

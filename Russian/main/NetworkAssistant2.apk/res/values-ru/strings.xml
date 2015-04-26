@@ -359,10 +359,10 @@
     <string name="title_limit_traffic_per_day">Ежедневный трафик</string>
     <string name="pref_title_traffic_limit_number">Предел трафика</string>
     <string name="pref_title_over_traffic_limit_warning">Действие</string>
-    <string name="reach_daily_limit_value_title">Предел трафика превышен</string>
-    <string name="reach_daily_limit_value_body">Ограничьте использование мобильного интернета</string>
+    <string name="reach_daily_limit_value_title">Предупреждение о трафике</string>
+    <string name="reach_daily_limit_value_body">Превышен предел дневного трафика</string>
     <string name="daily_limit_network_available_body">Нажмите для просмотра трафика</string>
-    <string name="daily_limit_over_message">Превышен дневной предел трафика</string>
+    <string name="daily_limit_over_message">Превышен предел дневного трафика</string>
     <string name="three_percent_total_pkg">%s (3%% от ежемесячного трафика)</string>
     <string name="five_percent_total_pkg">%s (5%% от ежемесячного трафика)</string>
     <string name="ten_percent_total_pkg">%s (10%% от ежемесячного трафика)</string>

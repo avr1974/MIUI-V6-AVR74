@@ -707,6 +707,8 @@ SIM карта будет очищена при неудачной попытк�
     <string name="turnover_mute_summary">Переверните телефон при входящем вызове для выключения мелодии вызова. Функция работает, когда телефон находится в горизонтальном положении.</string>
     <string name="handon_ringer_summary">Устройство не будет вибрировать во время разговора</string>
     <string name="handon_ringer_title">Не вибрировать</string>
+    <string name="flash_when_ring_summary">Мигать вспышкой при входящем вызове</string>
+    <string name="flash_when_ring_title">Уведомление вспышкой</string>
     <string name="enable_proximity_summary">Использовать датчик приближения для отключения экрана во время разговора</string>
     <string name="enable_proximity_title">Датчик приближения</string>
     <string name="pocket_mode_summary">Телефон заблокируется автоматически при помещении в карман</string>
@@ -859,6 +861,14 @@ SIM карта будет очищена при неудачной попытк�
     <string name="preference_telocation_summary_countrycode_off">не набирать код страны.</string>
     <string name="telephony_setting">Вызовы</string>
     <string name="international_roaming_setting">Международный роуминг</string>
+    <string name="cdma_alert_title">UIM карта должна быть по умолчанию</string>
+    <string name="cdma_alert_message">Если вы выберете другую карту по умолчанию для мобильного интернета, вы не сможете использовать UIM карту China Telecom.</string>
+    <string name="remind_another_time">Запомнить</string>
+    <string name="not_change_default_data">Не изменять</string>
+    <string name="change_default_data">Изменить</string>
+    <string name="change_default_data_alert_title">UIM карта должна быть по умолчанию</string>
+    <string name="change_default_data_alert_message">Вы не сможете использовать UIM карту China Telecom</string>
+    <string name="confirm_change_default_data">Изменить</string>
     <string name="sim_cards_network_mode_changed_summary">Нажмите для просмотра настроек</string>
     <string name="sim_cards_network_mode_changed_title">Обнаружена новая SIM карта</string>
     <string name="accessibility_call_muted">Звук выключен</string>

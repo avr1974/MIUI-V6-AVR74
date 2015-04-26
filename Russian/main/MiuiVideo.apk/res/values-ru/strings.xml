@@ -210,6 +210,7 @@
     <string name="average_score">Средняя оценка</string>
     <string name="count_comment">Рейтинг: %d</string>
     <string name="count_comment_wan">Рейтинг: %.2f0</string>
+    <string name="all">Все</string>
     <string name="positive_comment">Положительные</string>
     <string name="negative_comment">Отрицательный</string>
     <string name="xiaomi_user">Пользователь</string>
@@ -254,6 +255,7 @@
     <string name="empty_keyword_hint">Введите ключевое слово</string>
     <string name="local_video">Локальные</string>
     <string name="my_favorite">Избранные</string>
+    <string name="my_local_favorite">Избранные</string>
     <string name="my_offline">Загруженные</string>
     <string name="play_history">Недавние</string>
     <string name="share_device">Доступные устройства</string>
@@ -267,8 +269,8 @@
     <string name="system_setting">Системные настройки</string>
     <string name="setting">Настройки</string>
     <string name="offline_setting">Автономный режим</string>
-    <string name="use_cellular_play_title">Уведомление о трафике</string>
-    <string name="use_cellular_play_summary">Показывать уведомление при загрузке видео через мобильный интернет</string>
+    <string name="use_cellular_play_title">Мобильный интернет</string>
+    <string name="use_cellular_play_summary">Разрешить использовать мобильный интернет для просмотра видео онлайн. Может взиматься дополнительная плата за использование трафика.</string>
     <string name="use_cellular_network">Мобильный интернет</string>
     <string name="use_cellular_network_summary">Использовать мобильный интернет для просмотра видео</string>
     <string name="use_cellular_offlinedownload_title">Мобильный интернет</string>
@@ -331,9 +333,7 @@
     <string name="video_count">Видео: %d</string>
     <string name="updatedalready">Обновлено</string>
     <string name="hint_apk_install">Загрузить приложение</string>
-    <string name="hint_apk_download">Нажмите \"%1$s\" для загрузки и установки приложения</string>
-    <string name="hint_apk_title_update">Новая версия</string>
-    <string name="hint_apk_text_update">Загрузить и установить новую версию приложения?</string>
+    <string name="hint_apk_download">Установить приложение</string>
     <string name="offline_already_in">\"%1$s\" уже присутствует в очереди на загрузку</string>
     <string name="offline_created_order">Добавлено \"%1$s\" в очередь. Номер: %2$s</string>
     <string name="offline_add_queue_fail">Ошибка загрузки \"%1$s\"</string>
@@ -359,8 +359,12 @@
     <string name="download_paused">Пауза</string>
     <string name="download_running">Загрузка</string>
     <string name="download_queue">Ожидание загрузки</string>
+    <string name="download_url_waiting">Ожидание URL</string>
     <string name="debug_mode">Режим отладки</string>
     <string name="debug_mode_desc">Показывать ID видео в левом верхнем углу и отображать рекламу при запуске приложения</string>
+    <string name="performance_mode">Режим производительности</string>
+    <string name="performance_mode_desc">Ускоренная работа приложения</string>
+    <string name="memory_mode_desc">Сохранение используемой памяти</string>
     <string name="ads_control">Реклама</string>
     <string name="ads_control_desc">Показывать рекламу при запуске приложения</string>
     <string name="server_switch">Сервер</string>
@@ -373,6 +377,13 @@
     <string name="version_select_summary">Выберите версию приложения</string>
     <string name="episode_name_format">Эпизод: %1$s</string>
     <string name="app_update_background">Обновление приложения в фоновом режиме</string>
+    <string name="downloading_app_plugin">Загрузка компонентов: %1$s</string>
+    <string name="app_plugin_ready">Компонентов готово: %1$s</string>
+    <string name="download_start_message">Компонентов будет загружено и установлено: %1$s</string>
+    <string name="hint_apk_title_update">Новая версия: %1$s</string>
+    <string name="hint_apk_text_update">Доступна новая версия: %1$s. Установить обновление?</string>
+    <string name="video_app_update">Обновление</string>
+    <string name="install_apk">Установить</string>
     <string name="select_tv">Выбрать канал</string>
     <string name="forecast">Погода</string>
     <string name="select_tv_empty_hint">Нет каналов</string>
@@ -385,7 +396,6 @@
     <string name="defaults">По умолчанию</string>
     <string name="fullscreen">Полный экран</string>
     <string name="actor_colon">"Актеры: "</string>
-    <string name="all">Все</string>
     <string name="all_comment">Все отзывы</string>
     <string name="all_media">Все видео</string>
     <string name="area_colon">"Страна: "</string>

@@ -64,4 +64,8 @@
         <item quantity="zero">Файлов: %1$d</item>
         <item quantity="one">Файлов: %1$d</item>
     </plurals>
+    <plurals name="more_face">
+        <item quantity="other">Новые лица (%1$s) могут также относиться к %2$s >></item>
+        <item quantity="one">Новые лица (%1$s) могут также относиться к %2$s >></item>
+    </plurals>
 </resources>

@@ -74,6 +74,9 @@
     <string name="status_bar_settings_basic_settings">Общие</string>
     <string name="status_bar_settings_advanced">Дополнительно</string>
     <string name="status_bar_settings_show_flow_info">Показывать поток</string>
+    <string name="status_bar_app_disable_notification">Отключено</string>
+    <string name="status_bar_app_enable_on_notificationBar">Панель уведомлений</string>
+    <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Экран блокировки и панель уведомлений</string>
     <string name="status_bar_settings_show_carrier">Имя оператора</string>
     <string name="status_bar_settings_custom_carrier">Изменить имя оператора</string>
     <string name="status_bar_settings_no_carrier">Не установлено</string>
@@ -194,7 +197,7 @@
     <string name="bluetooth_rename_device">Переименовать устройство</string>
     <string name="bluetooth_rename_button">Переименовать</string>
     <string name="bluetooth_disconnect_title">Отключиться?</string>
-    <string name="bluetooth_disconnect_all_profiles">Произойдет разъединение с устройством &lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">Произойдет отключение от устройства &lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Отключить профиль?</string>
     <string name="bluetooth_disable_profile_message">Профиль&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>будет отключен от устройства&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Подключено</string>
@@ -2205,6 +2208,9 @@
     <string name="title_font">Шрифт</string>
     <string name="title_font_current">Выбор шрифта</string>
     <string name="title_layout_current">Используется</string>
+    <string name="title_font2">Шрифт</string>
+    <string name="title_font_current2">Выберите шрифт системы</string>
+    <string name="title_layout_current2">Выберите размер шрифта</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>
     <string name="handy_mode_tips">Проведите влево или вправо от клавиши \"Домой\", чтобы сделать экран ближе к одной из сторон.</string>

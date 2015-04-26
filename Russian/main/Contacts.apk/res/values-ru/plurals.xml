@@ -109,6 +109,14 @@
         <item quantity="zero">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Заблокировать эти номера? (%1$d)</item>
+        <item quantity="one">Заблокировать этот номер?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Разблокировать эти номера? (%1$d)</item>
+        <item quantity="one">Разблокировать этот номер?</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">| Гудков: %d</item>
         <item quantity="one">| Гудков: %d</item>

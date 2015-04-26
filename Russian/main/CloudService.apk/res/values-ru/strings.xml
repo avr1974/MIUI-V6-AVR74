@@ -291,6 +291,7 @@
     <string name="cloud_app_back_up_quit_notification_content1">Возможность создания бэкапа для сторонних приложений будет остановлена и удалена 1 мая 2015 года. Сохраните необходимые данные приложений с помощью локального бэкапа.</string>
     <string name="cloud_app_back_up_quit_notification_content2">Синхронизация контактов, сообщений, фото и других данных останется по-прежнему.</string>
     <string name="cloud_app_back_up_quit_notification_content3">Бэкап приложений</string>
+    <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
     <string name="micloud_intro_01_part_01">Экономия</string>
     <string name="micloud_intro_01_part_02">Облачные сообщения позволяют общаться пользователям MIUI бесплатно по сети Wi-Fi.</string>
     <string name="micloud_intro_02_part_01">Удобная синхронизация</string>

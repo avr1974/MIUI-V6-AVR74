@@ -77,5 +77,15 @@
     <string name="first_start_network_msg">Для получения прогноза погоды необходимо подключиться к интернету</string>
     <string name="first_start_network_title">Предупреждение</string>
     <string name="international_detail_menu_title">Информация</string>
+    <string name="share_menu_title">Поделиться</string>
+    <string name="share_btn_cancel">Отмена</string>
+    <string name="share_btn_confirm">Поделиться</string>
+    <string name="share_subject">Поделиться</string>
+    <string name="share_button">Поделиться</string>
+    <string name="share_weather_save_pic_fail">Не удается создать скриншот</string>
+    <string name="share_title">Поделиться прогнозом</string>
+    <string name="share_weather_desc_split">", "</string>
+    <string name="share_weather_desc">\#Погода MIUI #Сегодня: %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="view_realtime_clear_substitution">Ясно</string>
 </resources>

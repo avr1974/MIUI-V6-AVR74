@@ -1120,9 +1120,9 @@
     <string name="chooser_wallpaper">Сменить обои</string>
     <string name="notification_listener_binding_label">Служба просмотра уведомлений</string>
     <string name="vpn_title">Сеть VPN активна</string>
-    <string name="vpn_title_long">Сеть VPN активирована приложением \"%s\".</string>
+    <string name="vpn_title_long">Сеть VPN: \"%s\"</string>
     <string name="vpn_text">Нажмите для изменения настроек сети</string>
-    <string name="vpn_text_long">Подключено: \"%s\". Нажмите для изменения настроек сети.</string>
+    <string name="vpn_text_long">Приложение \"%s\" использует VPN</string>
     <string name="vpn_lockdown_connecting">Подключение активного VPN…</string>
     <string name="vpn_lockdown_connected">Активный VPN подключен</string>
     <string name="vpn_lockdown_error">Ошибка активного VPN</string>

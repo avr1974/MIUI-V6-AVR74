@@ -108,6 +108,7 @@
     <string name="details_title">%1$d из %2$d:</string>
     <string name="close">Закрыть</string>
     <string name="select_item">Режим редактирования</string>
+    <string name="select_item_face">Выберите фото для %1</string>
     <string name="show_on_map">Показать на карте</string>
     <string name="no_map_app">Нет приложений навигации</string>
     <string name="no_such_item">Элемент не найден</string>
@@ -194,6 +195,7 @@
     <string name="remove_hidden_album">Отменить скрытие</string>
     <string name="skip_hide_special_album">Невозможно скрыть системные альбомы</string>
     <string name="photos">" фото/видео"</string>
+    <string name="videos">Видео</string>
     <string name="tab_lockscreen_text">Экран блокировки</string>
     <string name="tab_wallpaper_text">Рабочий стол</string>
     <string name="tab_all_text">На все</string>
@@ -543,9 +545,8 @@
     <string name="error_not_acceptable">Ошибка сервера, синхронизация отключена.</string>
     <string name="long_press_to_refocus">Удерживайте для фокусировки</string>
     <string name="ubifocus_data_missing">Часть данных утеряна</string>
-    <string name="ubifocus_map_error">Часть данных недействительна</string>
-    <string name="ubifocus_refocus_data_missing">Невозможно выполнить фокусировку из-за утерянных данных</string>
-    <string name="ubifocus_refocus_map_error">Невозможно выполнить фокусировку из-за недействительных данных</string>
+    <string name="ubifocus_data_invalid">Некоторые данные этого фото недействительны</string>
+    <string name="ubifocus_refocus_data_invalid">Не удается выполнить перефокусировку. Некоторые данные фото отсутствуют.</string>
     <string name="ubifocus_refocus_download_tip">Загрузите данные перед фокусировкой</string>
     <string name="download_refocus_data">Скачать данные фокусировки</string>
     <string name="refocus_data_downloading">Загрузка данных фокусировки…</string>
@@ -558,11 +559,14 @@
     <string name="paint_crop_cancel_title">Не изменять</string>
     <string name="paint_crop_cancel_context">Сохранить изменения?</string>
     <string name="do_not_save">Не сохранять</string>
-    <string name="photo_paint_crop">Обрезать</string>
+    <string name="paint_highlight">Яркость</string>
     <string name="free">Вручную</string>
     <string name="square">Квадрат</string>
     <string name="original_scale">Пропорционально</string>
     <string name="photo_save_succeed">Успешно сохранено</string>
+    <string name="paint_brush">Кисть</string>
+    <string name="script">Скрипт</string>
+    <string name="mosaic">Мозаика</string>
     <string name="impunity_declaration_title">Разрешить доступ к интернету?</string>
     <string name="impunity_declaration">При использовании облачных альбомов требуется доступ к интернету</string>
     <string name="impunity_declaration_ignore">Запомнить</string>
@@ -587,11 +591,14 @@
 Альбом с лицами скоро будет доступен"</string>
     <string name="face_albumset_empty">Лица не обнаружены. Попробуйте использовать больше фото.</string>
     <string name="start_to_use_face_albumset">Начать использовать альбом с лицами</string>
+    <string name="enabling_face_feature">Включение…</string>
+    <string name="face_albumset_pending_enable_tip">Сортировка будет выполняться при активном подключении к сети Wi-Fi</string>
     <string name="face_album_not_named">Без названия</string>
     <string name="rename_face_album">Изменить имя</string>
     <string name="rename_fail_msg">Не удалось изменить имя</string>
     <string name="merge_album_positive_button_text">ОК</string>
     <string name="confirm_merge_face_albums">" "<Data> Объединить этот альбом с альбомом &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="ignore_album">Пропустить</string>
     <string name="create_new_face">Новое лицо</string>
     <string name="preparing_data">Подготовка данных…</string>
     <string name="ignore_face">Игнорировать это лицо</string>
@@ -600,9 +607,25 @@
     <string name="name_wrong">Неверное имя %s</string>
     <string name="face_album_rename_hint">Введите имя</string>
     <string name="face_move_dialog_title">Выберите лица альбома</string>
+    <string name="confirm_face">Применить</string>
+    <string name="confirm_not_face">Не этого человека</string>
+    <string name="confirm_left_photo_will_move_out">Другие фото будут перемещены из этого альбома</string>
+    <string name="confirm_all_photo_not_this_people_face">Все фото не относятся к этому человеку?</string>
+    <string name="last_valentine_day">Прошлый День Святого Валентина</string>
+    <string name="last_new_year">Прошлый Новый Год</string>
+    <string name="last_chinese_new_year">Прошлый Китайский Новый Год</string>
+    <string name="last_year_today">Год назад</string>
+    <string name="return_to_top">Нажмите на вкладку, чтобы вернуться наверх.</string>
     <string name="always_rotate_alert_title">Включить автоповорот фото?</string>
     <string name="always_rotate_alert_msg">Вы можете выключить эту функцию в настройках галереи</string>
     <string name="always_rotate_alert_positive_button_text">ОК</string>
+    <string name="project_available_tip">Обнаружен проектор</string>
+    <string name="single_device_project_dialog_title">Отображение на %s</string>
+    <string name="single_device_project_dialog_checkbox_text">Запомнить дисплей</string>
+    <string name="network_connected_rescan">Повторите поиск после подключения к интернету</string>
+    <string name="no_secret_photo">Нет секретных фото</string>
+    <string name="in_home_page_long_press_photo_setting_secret_photo">Удерживайте на фото в галерее, затем выберите пункт \"В секретный альбом\", чтобы скрыть фото.</string>
+    <string name="all_video_album_display_name">Все видео</string>
     <string name="paint_crop_tips">Для получения лучшего эффекта попробуйте поместить интересующую часть фото в сетку</string>
     <string name="saturation_abbr">Н</string>
     <string name="highlight_abbr">Я</string>
@@ -632,6 +655,10 @@
     <string name="set_image">Применить</string>
     <string name="slideshow_time_select_title">Длительность слайд-шоу</string>
     <string name="slideshow_time_title">Длительность</string>
+    <string name="ubifocus_map_error">Часть данных недействительна</string>
+    <string name="ubifocus_refocus_data_missing">Невозможно выполнить фокусировку из-за утерянных данных</string>
+    <string name="ubifocus_refocus_map_error">Невозможно выполнить фокусировку из-за недействительных данных</string>
+    <string name="photo_paint_crop">Обрезать</string>
     <string name="photo_paint_rotate">Перевернуть</string>
     <string name="mipc_1">Карманная камера</string>
     <string name="auto_upload_tip">После включения этой функции будет создан альбом с тем же именем. Существующий альбом будет объединен с новым.</string>

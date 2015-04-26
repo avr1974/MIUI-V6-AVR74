@@ -26,7 +26,7 @@
     <string name="exit_fm">Выход</string>
     <string name="toast_sleep_mode">Радио будет отключено через %s</string>
     <string name="toast_sleep_mode_exit">Таймер сна отключен</string>
-    <string name="record_file_location_format">Сохранено в \"%s\"</string>
+    <string name="notification_rec_title">Нажмите для прослушивания</string>
     <string name="record_completed">Запись завершена</string>
     <string name="turn_off_fm">Выключить радио</string>
     <string name="view_stations_list">Список станций</string>
@@ -127,6 +127,7 @@
     <string name="record_error_unknown">Запись остановлена. Произошла неизвестная ошибка.</string>
     <string name="record_fail">Ошибка записи</string>
     <string name="record_file_format">%1$s_%2$s</string>
+    <string name="record_file_location_format">Сохранено в \"%s\"</string>
     <string name="reduce_af">Уменьшить частоту</string>
     <string name="regional_band">Региональные группы</string>
     <string name="sel_band_menu">Выбор регионального диапазона (станции будут удалены)</string>

@@ -109,6 +109,7 @@
     <string name="resource_title_select_ringtone">Выберите мелодию</string>
     <string name="resource_tip_select_none">Не выбрано</string>
     <string name="resource_select_ringtone_confirm">Выбрать эту мелодию?</string>
+    <string name="resource_select_ringtone_confirm_picker">Установить эту мелодию?</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
     <string name="resource_expand_full_text">Развернуть</string>
@@ -835,8 +836,9 @@
     <string name="success_message_import_from_account">Импорт завершен</string>
     <string name="unknown_contact_name">Неизвестный номер</string>
     <string name="contactDetailCalllog">Журнал вызовов</string>
-    <string name="add_blacklist">В черный список</string>
-    <string name="remove_blacklist">Удалить из черного списка</string>
+    <string name="add_blacklist">Блокировать</string>
+    <string name="remove_blacklist">Разблокировать</string>
+    <string name="blacklist">Блокировать</string>
     <string name="empty_divider_title">Вы можете</string>
     <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в Mi аккаунте</string>
@@ -1103,8 +1105,8 @@
     <string name="sim_contact_dropdown_menu_select_all_miui">" Выбрать все "</string>
     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
     <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
-    <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
-    <string name="dlg_remove_blacklist">Удалить номер из черного списка?</string>
+    <string name="add_blacklist_dialog_title">Заблокировать этот номер?</string>
+    <string name="remove_blacklist_dialog_title">Разблокировать эти номера?</string>
     <string name="close_dial_pad">Закрыть клавиатуру</string>
     <string name="dial">Вызов</string>
     <string name="delete_dial_input">Удалить</string>
@@ -1155,7 +1157,7 @@
     <string name="pull_to_refresh_pull_label">Потяните для обновления</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
-    <string name="phone_call_type_voip">VOIP</string>
+    <string name="phone_call_type_voip">VoIP</string>
     <string name="batch_delete_msg">"Удалить выбранные контакты? 
 
 Контактов: %d 
@@ -1166,6 +1168,8 @@
     <string name="callNoAnswerTimeFormat">" | Гудков: %s"</string>
     <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
 Контактов: %d"</string>
+    <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
+    <string name="dlg_remove_blacklist">Удалить номер из черного списка?</string>
     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
 
