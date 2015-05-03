@@ -328,6 +328,8 @@
     <string name="pref_camera_peak_title">Отображение фокуса</string>
     <string name="pref_camera_peak_entry_off">выключено</string>
     <string name="pref_camera_peak_entry_on">включено</string>
+    <string name="pref_camera_gradienter_title">Градиометр</string>
+    <string name="simple_mode_button_text_gradienter">Отключить градиометр</string>
     <string name="edit">Изменить</string>
     <string name="details">Информация</string>
     <string name="path">Путь</string>

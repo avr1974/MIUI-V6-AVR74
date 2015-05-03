@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Уведомления</string>
+    <string name="app_label">Графический интерфейс системы</string>
     <string name="status_bar_no_recent_apps">Нет недавних приложений</string>
     <string name="battery_low_title">Батарея разряжена</string>
     <string name="battery_low_percent_format">Осталось %d%%</string>

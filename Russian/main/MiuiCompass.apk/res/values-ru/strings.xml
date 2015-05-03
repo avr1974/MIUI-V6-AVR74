@@ -18,8 +18,7 @@
     <string name="calibrate_failed">Ошибка калибровки высоты</string>
     <string name="pressure_title">Давление</string>
     <string name="altitude_title">Высота</string>
-    <string name="pressure_unit">"
-мм рт.ст."</string>
+    <string name="pressure_unit">мм рт.ст.</string>
     <string name="altitude_unit">м</string>
     <string name="dialog_title_no_network">Не удалось подключиться к интернету</string>
     <string name="dialog_calibrat_altitude">Калибровка…</string>
@@ -48,4 +47,7 @@
     <string name="using_camera_confirm_ok">ОК</string>
     <string name="using_camera_confirm_cancel">Отмена</string>
     <string name="shake_enter_tip">Встряхните для калибровки</string>
+    <string name="calibrate_title">Калибровка компаса</string>
+    <string name="calibrate_tip">Наклоняйте устройство, чтобы шарик катился по кругу.</string>
+    <string name="calibrate_rotate_again">Повтор</string>
 </resources>
