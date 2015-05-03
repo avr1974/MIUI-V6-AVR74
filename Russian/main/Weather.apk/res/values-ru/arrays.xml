@@ -37,14 +37,14 @@
         <item>Опасный</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Ветер С</item>
-        <item>Ветер СВ</item>
-        <item>Ветер В</item>
-        <item>Ветер ЮВ</item>
-        <item>Ветер Ю</item>
-        <item>Ветер ЮВ</item>
-        <item>Ветер З</item>
-        <item>Ветер СЗ</item>
+        <item>Ветер С↓</item>
+        <item>Ветер СВ↙</item>
+        <item>Ветер В←</item>
+        <item>Ветер ЮВ↖</item>
+        <item>Ветер Ю↑</item>
+        <item>Ветер ЮЗ↗</item>
+        <item>Ветер З→</item>
+        <item>Ветер СЗ↘</item>
     </string-array>
     <string-array name="moon_desc">
         <item>Новолуние</item>

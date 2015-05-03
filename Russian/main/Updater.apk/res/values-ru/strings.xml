@@ -206,6 +206,9 @@ http://miui.su/mi-pc-suite"</string>
     <string name="vote_error4">Вы уже отправили отзыв</string>
     <string name="vote_error5">Не удается отправить отзыв</string>
     <string name="miui_BBS">" "<a href="http://bbs.miui.com">Перейти на форум MIUI</a>" "</string>
+    <string name="welcom_title">Добро пожаловать!</string>
+    <string name="welcom_message">Наслаждайтесь MIUI6</string>
+    <string name="welcom_button">ОК</string>
     <string name="menu_title_check_update">Настройки</string>
     <string name="no_proper_updates">Для текущей версии обновления не найдены</string>
     <string name="install_file_explorer">Установите файловый менеджер</string>

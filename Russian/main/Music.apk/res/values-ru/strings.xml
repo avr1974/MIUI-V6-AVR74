@@ -299,6 +299,14 @@
     <string name="sort_by_time">Дата</string>
     <string name="sort_by_language">Язык</string>
     <string name="only_online_can_select_quality">Качество можно выбрать только для музыки онлайн</string>
+    <string name="upgrade_remind">Доступно обновление</string>
+    <string name="service_stop">Работа сервиса прекращена</string>
+    <string name="upgrade_suggest">Мы останавливаем текущий сервис онлайн музыки из-за проблем с авторскими правами. Обновите приложение до последней версии, чтобы слушать музыку в высоком качестве.</string>
+    <string name="upgrade_force">Мы останавливаем текущий сервис онлайн музыки из-за проблем с авторскими правами. Обновите приложение до последней версии, чтобы слушать музыку в высоком качестве.</string>
+    <string name="upgrade_nobeta">Мы останавливаем текущий сервис онлайн музыки из-за проблем с авторскими правами</string>
+    <string name="upgrade_waringing">Вы сможете прослушивать только локальную музыку</string>
+    <string name="upgrade_immediate">Обновить</string>
+    <string name="i_know_it">ОК</string>
     <string name="download_auto_after_preference_summary">Автоматически скачивать треки, которые вы отметили как избранные.</string>
     <string name="download_auto_after_preference_title">Скачивать избранные</string>
     <string name="dialog_button_agree">ОК</string>

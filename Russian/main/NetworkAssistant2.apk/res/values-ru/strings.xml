@@ -54,6 +54,7 @@
     <string name="person_hotpot">Мобильные точки доступа</string>
     <string name="system_app">Системные приложения</string>
     <string name="deleted_apps">Удаленные приложения</string>
+    <string name="root">Корень</string>
     <string name="sorted_button">Сортировка</string>
     <string name="app_detail">Информация</string>
     <string name="app_version">Версия</string>

@@ -305,6 +305,8 @@
     <string name="datastream_alert_positive_button">Продолжить</string>
     <string name="datastream_alert_negative_button">Отмена</string>
     <string name="datastream_alert_title">Предупреждение</string>
+    <string name="join_alert_title">Присоединяйтесь к тестированию</string>
+    <string name="join_hint">Введите код приглашения</string>
     <string name="local_favorite_empty_title">Пусто</string>
     <string name="offline_media_empty_title">Пусто</string>
     <string name="error_empty_title">Ошибка</string>

@@ -80,6 +80,7 @@
     <string name="status_bar_settings_show_carrier">Имя оператора</string>
     <string name="status_bar_settings_custom_carrier">Изменить имя оператора</string>
     <string name="status_bar_settings_no_carrier">Не установлено</string>
+    <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
     <string name="status_bar_settings_show_carrier_summary">Только на экране блокировки</string>
     <string name="status_bar_settings_show_wifi_name">Показать Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Изменить имя Wi-Fi</string>
@@ -2139,6 +2140,7 @@
     <string name="search_storage">память</string>
     <string name="search_accessibility">возможности</string>
     <string name="search_privacy">конфиденциальность</string>
+    <string name="search_fluency_mode">Оптимизация системы</string>
     <string name="debug_log">Журнал отладки</string>
     <string name="upload_debug_log_title">Отправлять отчеты</string>
     <string name="upload_debug_log_summary">Отправлять отчеты об ошибках разработчикам для помощи в развитии MIUI</string>
@@ -2961,6 +2963,13 @@
     <string name="wifi_notify_cmcc_connected_summary">Показывать уведомление при подключении к сети CMCC</string>
     <string name="wifi_datanetwork_switch_not_remind">Запомнить</string>
     <string name="skip_lock_screen_confirm_msg">Все функции экрана блокировки будут отключены</string>
+    <string name="fluency_mode">Оптимизация системы</string>
+    <string name="fluency_mode_enabled_name">Оптимизация системы</string>
+    <string name="fluency_mode_summary">Отключить системную анимацию и уменьшить использование памяти</string>
+    <string name="fluency_mode_confirm_title">Перезагрузить устройство?</string>
+    <string name="fluency_mode_confirm_will_fluency_mode_text">Для применения настроек требуется перезагрузка</string>
+    <string name="fluency_mode_confirm_will_normal_mode_text">Включение анимации и использование дополнительной памяти может повлиять на производительность некоторых устройств</string>
+    <string name="gesture_wakeup_title">Пробуждение двойным нажатием</string>
     <string name="miracast_settings_category">Настройки Wi-Fi дисплея</string>
     <string name="miracast_display_category">Дисплеи</string>
     <string name="miracast_menu_search">Поиск</string>

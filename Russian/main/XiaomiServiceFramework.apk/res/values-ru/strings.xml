@@ -11,9 +11,6 @@
     <string name="activate_phone_failed_notif_title_msim">Не удалось активировать SIM карту %s</string>
     <string name="activate_status_title_activating">Активация SIM карты</string>
     <string name="activate_status_title_activating_msim">Активация SIM карты %s</string>
-    <string name="activate_status_desc_wait_for_phone_service">Ожидание службы телефонии</string>
-    <string name="activate_status_desc_registration">Регистрация SIM карты</string>
-    <string name="activate_status_desc_registration_server_error">Не удается зарегистрировать SIM карту</string>
     <string name="activate_status_desc_query_activation_info">Запрос информации об активации от сервера</string>
     <string name="activate_status_desc_query_activation_info_no_info">Нет информации об активации на сервере</string>
     <string name="activate_status_desc_query_activation_info_server_error">Ошибка сервера при запросе информации об активации SIM карты</string>
@@ -23,7 +20,6 @@
     <string name="activate_status_desc_wait_for_sms_fail">Не удается получить SMS для активации</string>
     <string name="activate_status_desc_request_activation_sms">Запрос SMS для активации с сервера</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Ошибка сервера при запросе SMS для активации</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">Введен неверный номер</string>
     <string name="activate_status_desc_getting_gateway">Получение SMS шлюза</string>
     <string name="activate_status_desc_failed_getting_gateway">Не удалось получить SMS шлюз</string>
     <string name="activate_status_desc_prepare_sending_sms">Подготовка к отправке сообщения для активации шлюза</string>
@@ -39,8 +35,6 @@
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Ошибка сервера при проверке Mi аккаунта</string>
     <string name="activate_status_desc_registering_xiaomi_account">Регистрация Mi аккаунта на сервере</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Ошибка сервера при регистрации Mi аккаунта</string>
-    <string name="activate_status_desc_getting_sim_info">Получение информации SIM карты</string>
-    <string name="activate_status_desc_getting_sim_info_fail">Не удается получить информацию SIM карты</string>
     <string name="sim_unactivated_title">Ваша SIM карта не активирована</string>
     <string name="activate">Активировать</string>
     <string name="activate_popup_title_manual">Активировать %s</string>
@@ -85,4 +79,11 @@
     <string name="activate_feature_mms_sync">Синхронизация SMS</string>
     <string name="activate_feature_call_log_sync">Синхронизация вызовов</string>
     <string name="activate_feature_find_device">Поиск устройства</string>
+    <string name="activate_sms_postfix">[Эта SMS используется для активации вашего устройства]</string>
+    <string name="activate_status_desc_getting_sim_info">Получение информации SIM карты</string>
+    <string name="activate_status_desc_getting_sim_info_fail">Не удается получить информацию SIM карты</string>
+    <string name="activate_status_desc_registration">Регистрация SIM карты</string>
+    <string name="activate_status_desc_registration_server_error">Не удается зарегистрировать SIM карту</string>
+    <string name="activate_status_desc_request_activation_sms_phone_error">Введен неверный номер</string>
+    <string name="activate_status_desc_wait_for_phone_service">Ожидание службы телефонии</string>
 </resources>

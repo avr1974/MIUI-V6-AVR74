@@ -23,6 +23,10 @@
     <string name="mi_key_take_photo">Снять фото</string>
     <string name="mi_key_find_phone">Поиск устройства</string>
     <string name="mi_key_find_mikey">Поиск MiKey</string>
+    <string name="bluetooth_connected">Подключено</string>
+    <string name="bluetooth_disconnected">Отключено</string>
+    <string name="bluetooth_disconnecting">Отключение…</string>
+    <string name="bluetooth_connecting">Подключение…</string>
     <string name="miui_transfer_history_title">История</string>
     <string name="miui_transfer_inbound_title">Входящие</string>
     <string name="miui_transfer_outbound_title">Исходящие</string>
