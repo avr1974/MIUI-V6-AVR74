@@ -269,7 +269,7 @@
     <string name="share_success">Отправка завершена</string>
     <string name="share_cancel">Отправка отменена</string>
     <string name="share_failed">Ошибка отправки</string>
-    <string name="cloud_back_up_title">Рабочего стол</string>
+    <string name="cloud_back_up_title">Рабочий стол</string>
     <string name="cloud_back_up_open_info_no_backuptime">Создание бэкапа рабочего стола каждые %1$s при активном подключении к сети Wi-Fi</string>
     <string name="cloud_back_up_open_info">"Создание бэкапа рабочего стола каждые %1$s при активном подключении к сети Wi-Fi.
 Последний бэкап: %2$s"</string>

@@ -378,6 +378,7 @@ SIM карта будет очищена при неудачной попытк�
     <string name="incall_status_dialed_mmi">Запуск последовательности MMI…</string>
     <string name="incall_error_turn_off_airplane_mode">Отключите режим полета</string>
     <string name="incall_error_no_active_sim">Нет активной SIM карты</string>
+    <string name="incall_error_sim_deactive">SIM карта неактивна</string>
     <string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
     <string name="dial_emergency_error">Номер \"%s\" не является экстренным!</string>
     <string name="dial_emergency_empty_error">Вызов не осуществлен, наберите номер экстренного вызова!</string>

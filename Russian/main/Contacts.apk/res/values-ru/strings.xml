@@ -920,6 +920,7 @@
     <string name="preference_dial_pad_touch_tone_human">Голос</string>
     <string name="ic_menu_done">Готово</string>
     <string name="cloud_antispam_title">Определение номеров</string>
+    <string name="preference_contacts_recovery_introduction">Восстановление контактов</string>
     <string name="share_over_limit">Не удается отправить. Лимит превышен.</string>
     <string name="account_default">По умолчанию</string>
     <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>

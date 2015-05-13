@@ -99,6 +99,8 @@
     <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+    <string name="dlg_appstore_notice">Загрузите это приложение из официального &lt;u>&lt;font color=#91c727>Маркета&lt;/font>&lt;/u></string>
+    <string name="lift_ban_once">Разрешить сейчас</string>
     <string name="all">Все разрешения</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_continue">Продолжить</string>

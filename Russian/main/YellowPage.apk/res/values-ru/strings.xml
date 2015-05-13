@@ -11,6 +11,7 @@
     <string name="check_network">Параметы сети</string>
     <string name="try_again">Повтор</string>
     <string name="network_unavaliable">Сеть недоступна. Проверьте параметры сети.</string>
+    <string name="network_access_denied">Доступ к интернету запрещен</string>
     <string name="service_unavailiable">Сеть недоступна. Повторите попытку позже.</string>
     <string name="data_error">Сервис недоступен. Повторите попытку позже.</string>
     <string name="locating_fail">Ошибка определения местоположения, проверьте параметры службы.</string>

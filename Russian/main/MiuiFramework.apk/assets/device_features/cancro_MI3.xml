@@ -74,6 +74,8 @@
     <bool name="enable_miui_lite">false</bool>
     <!--whether the device supports steps_provider-->
     <bool name="support_steps_provider">false</bool>
+    <!--whether the device support hall sensor-->
+    <bool name="support_hall_sensor">false</bool>
     <!--whether the device supports hifi-->
     <bool name="support_hifi">false</bool>
     <!--whether the device supports agps parameters-->
@@ -84,4 +86,6 @@
     <string name="vendor">qcom</string>
     <!--screen saturation, vivid or standard-->
     <integer name="display_ce">11</integer>
+    <!-- whether compass support tilt rotate calibrate  -->
+    <bool name="support_rotate_calibrate">false</bool>
 </features>

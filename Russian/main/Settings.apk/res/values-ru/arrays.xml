@@ -658,6 +658,14 @@
         <item>ТЕПЛЫЙ</item>
         <item>ХОЛОДНЫЙ</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Запрашивать для неизвестных приложений</item>
+        <item>Разрешить</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Запрашивать</item>
+        <item>Разрешить</item>
+    </string-array>
     <string-array name="miracast_policies">
         <item>Производительность</item>
         <item>Баланс</item>
