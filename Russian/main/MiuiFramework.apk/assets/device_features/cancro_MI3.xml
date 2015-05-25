@@ -65,7 +65,7 @@
     <!--whether the device supports eap sim-->
     <bool name="support_eap_sim">true</bool>
     <!--whether the device supports screen effect-->
-    <bool name="support_screen_effect">true</bool>
+    <bool name="support_screen_effect">false</bool>
     <!--whether the device supports agps-->
     <bool name="support_agps">true</bool>
     <!--whether the device supports feedback level-->

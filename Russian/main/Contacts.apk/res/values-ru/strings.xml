@@ -852,6 +852,7 @@
     <string name="picker_contact_title">Выберите контакт</string>
     <string name="picker_number_title">Выберите номер</string>
     <string name="group_add_fail_toast">Ошибка добавления контаков</string>
+    <string name="group_sms_error_message">Превышен предел получателей: %s</string>
     <string name="picker_postal_title">Выберите почтовый индекс</string>
     <string name="picker_email_title">Выберите адрес Email</string>
     <string name="preference_import">Импорт</string>
@@ -872,10 +873,7 @@
     <string name="preference_import_export_title">Импорт и экспорт</string>
     <string name="import_vcard_description">Импорт контактов из памяти телефона</string>
     <string name="export_vcard_description">Экспорт vCard в память телефона</string>
-    <string name="export_sim_contact_finish_failure">"Недостаточно места. 
-
-Скопировано: %1$d 
-Не удалось: %2$d"</string>
+    <string name="export_sim_contact_finish_msg">Передано: %1$d | Пропущено: %2$d | Осталось: %3$d</string>
     <string name="pref_title_account_import">Импорт из аккаунта</string>
     <string name="pref_title_import_from_account">В Mi аккаунт</string>
     <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в Mi аккаунт</string>
@@ -1159,6 +1157,10 @@
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
     <string name="phone_call_type_voip">VoIP</string>
+    <string name="export_sim_contact_finish_failure">"Недостаточно места. 
+
+Скопировано: %1$d 
+Не удалось: %2$d"</string>
     <string name="batch_delete_msg">"Удалить выбранные контакты? 
 
 Контактов: %d 

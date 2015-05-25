@@ -560,6 +560,11 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="storage_dialog_database">База данных:</string>
     <string name="storage_dialog_available_space">Свободно:</string>
     <string name="storage_unavailable">Нет свободного места</string>
+    <string name="security_alert_desc">Отправитель отсутствует в списке контактов. <font color="red"><u>Отправить отчет</u></font></string>
+    <string name="security_alert_dialog_title">Отчет</string>
+    <string name="security_alert_dialog_desc">Отправить номер отправителя (%s) в Xiaomi для рассмотрения</string>
+    <string name="sms_report_failed">Не удается отправить отчет</string>
+    <string name="sms_report_success">Отчет отправлен</string>
     <string name="add_bookmark">Избранные</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>

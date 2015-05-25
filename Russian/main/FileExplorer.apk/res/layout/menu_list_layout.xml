@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
   xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/menu_list_header_path" style="@style/menu_list_item_header_style">
+        <TextView android:text="@string/tab_path" style="@style/menu_list_item_header_text_style" />
+    </FrameLayout>
     <FrameLayout android:id="@id/menu_list_phone" style="@style/menu_list_item_style">
         <TextView android:text="@string/phone" style="@style/MenuListItemNameStyle" />
         <include layout="@layout/menu_list_phone_info_layout" />

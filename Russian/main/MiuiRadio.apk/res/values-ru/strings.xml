@@ -48,7 +48,8 @@
     <string name="download_successful">Загружено</string>
     <string name="download_invalid">Нет ресурсов</string>
     <string name="download_start_toast">Подготовка загрузки %1$s(%2$d кбит/с)</string>
-    <string name="download_quality_toast">Выберите качество загрузки</string>
+    <string name="batch_download_start_toast">Ожидание загрузки</string>
+    <string name="dialog_title_listen_quality">Качество воспроизведения</string>
     <string name="download_network_is_not_available">Не удается загрузить. Интернет недоступен.</string>
     <string name="play_local_sound">Воспроизведение локального радио: %1$s</string>
     <string name="no_network_text">Не удается подключиться к интернету</string>
@@ -255,5 +256,6 @@
     <string name="group_favor">Избранные станции</string>
     <string name="group_other">Другие станции</string>
     <string name="alert_frequency_duplicate">Такая станция уже существует</string>
+    <string name="download_quality_toast">Выберите качество загрузки</string>
     <string name="notification_rec_title">Нажмите для прослушивания</string>
 </resources>

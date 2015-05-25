@@ -58,6 +58,7 @@
     <string name="memu_refresh">Обновить</string>
     <string name="error_mili_summary">Недостаточно средств</string>
     <string name="error_network_summary">Ошибка сети. Пожалуйста, проверьте активность сети и попробуйте еще раз.</string>
+    <string name="error_web_summary">Ошибка сервера</string>
     <string name="error_auth_summary">Ошибка аутентификации аккаунта. Пожалуйста, попробуйте еще раз.</string>
     <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
     <string name="error_server_summary">Ошибка сервера. Пожалуйста, попробуйте позже.</string>

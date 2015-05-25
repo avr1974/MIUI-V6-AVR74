@@ -308,6 +308,13 @@
     <string name="confirm_send_message_with_no_subject">Тема не указана</string>
     <string name="confirm_send_title">Отправить сообщение?</string>
     <string name="contact_content_provider">Хранилище контактов</string>
+    <string name="contact_edit_set_black_list">В черный список</string>
+    <string name="contact_edit_set_phone_contact">Изменить контакт</string>
+    <string name="contact_edit_set_pop_up_tips">Всплывающие уведомления</string>
+    <string name="contact_edit_set_unread_top">Показывать сначала непрочитанные</string>
+    <string name="contact_edit_set_vip">В белый список</string>
+    <string name="contact_edit_title_permission">Разрешения контактов</string>
+    <string name="contact_edit_title_phone_contact">Контакты</string>
     <string name="contact_info_string">Показать контакты: %1$s</string>
     <string name="contact_info_string_default">Показать контакты</string>
     <string name="contact_list_add_btn">Добавить</string>
@@ -736,6 +743,8 @@
     <string name="quote_divider_iphone_en">Отправлено с iPhone</string>
     <string name="quoted_text">Включить цитируемый текст</string>
     <string name="quoted_text_label">Цитировать текст</string>
+    <string name="re_download_message_button">Нажмите для повторной загрузки</string>
+    <string name="re_download_message_info">Ошибка загрузки сообщения</string>
     <string name="read_string">диалог прочитан</string>
     <string name="recent_folders_heading">Последние папки</string>
     <string name="recipient_needed">Получатель не выбран</string>

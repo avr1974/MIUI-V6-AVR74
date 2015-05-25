@@ -42,12 +42,14 @@
     <string name="location_enable">ОК</string>
     <string name="location_enable_later">Отмена</string>
     <string name="location_enabled">Сервисы определения местоположения включены</string>
-    <string name="using_camera_confirm_title">Предупреждение</string>
-    <string name="using_camera_confirm_message">Разрешить приложению использовать камеру?</string>
+    <string name="first_using_dialog_title">Предупреждение</string>
+    <string name="first_using_dialog_message">Разрешить приложению использовать интернет, камеру и поиск местоположения для корректной работы?</string>
     <string name="using_camera_confirm_ok">ОК</string>
     <string name="using_camera_confirm_cancel">Отмена</string>
     <string name="shake_enter_tip">Встряхните для калибровки</string>
     <string name="calibrate_title">Калибровка компаса</string>
-    <string name="calibrate_tip">Наклоняйте устройство, чтобы шарик катился по кругу.</string>
+    <string name="calibrate_tip">Наклоняйте устройство, чтобы кольцо катилось по кругу.</string>
     <string name="calibrate_rotate_again">Повтор</string>
+    <string name="using_camera_confirm_message">Разрешить приложению использовать камеру?</string>
+    <string name="using_camera_confirm_title">Предупреждение</string>
 </resources>

@@ -84,10 +84,6 @@
         <item quantity="other">Добавлено контактов: %1$d</item>
         <item quantity="one">Добавлено контактов: %1$d</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Скопировано контактов: %d</item>
-        <item quantity="one">Скопировано контактов: %d</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Удалить контакты (%d)</item>
         <item quantity="one">Удалить контакт</item>
@@ -120,5 +116,9 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">| Гудков: %d</item>
         <item quantity="one">| Гудков: %d</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Скопировано контактов: %d</item>
+        <item quantity="one">Скопировано контактов: %d</item>
     </plurals>
 </resources>

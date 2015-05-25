@@ -246,8 +246,8 @@
     <string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
     <string name="theme_yes">ОК</string>
     <string name="theme_no">Отмена</string>
-    <string name="title_component">Компоненты</string>
-    <string name="theme_multiple_button_title_customize">Компоненты</string>
+    <string name="title_component">Ресурсы</string>
+    <string name="theme_multiple_button_title_customize">Ресурсы</string>
     <string name="title_system_resource">Системные</string>
     <string name="long_ringtone_resource">Длинные</string>
     <string name="short_ringtone_resource">Короткие</string>
@@ -293,6 +293,8 @@
     <string name="theme_user_agreement_remind_never">Запомнить</string>
     <string name="theme_user_agreement_remind_again">Запрашивать доступ к интернету</string>
     <string name="theme_user_agreement_remind_summary">Запрос доступа к интернету при каждом запуске приложения</string>
+    <string name="theme_is_external_priority_storage">Сохранять на внешнюю память</string>
+    <string name="theme_is_external_priority_storage_summary">Приложение будет перезапущено для применения настроек</string>
     <string name="theme_favorite_add_success">Тема добавлена в избранные</string>
     <string name="theme_favorite_add_fail">Не удается добавить в избранные</string>
     <string name="theme_favorite_delete_success">Тема удалена из избранных</string>

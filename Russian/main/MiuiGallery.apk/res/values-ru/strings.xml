@@ -78,11 +78,6 @@
 
 Файлов: %s"</string>
     <string name="comfirm_delete_current_album">Удалить альбом?</string>
-    <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с изображениями? 
-
-Альбомов: %s 
-Изображений: %s"</string>
-    <string name="confirm_delete_system_album">Удалить системный альбом \"%s\"?</string>
     <string name="operation_delete_confirm_message_folder">"Папка будет удалена со всеми файлами.
 "</string>
     <string name="delete_folder">"Удалить выбранные папки? 
@@ -336,8 +331,7 @@
     <string name="alert_secret_album_title">Секретный альбом</string>
     <string name="alert_secret_album_message">Вы можете прокрутить вниз облачные фото и видео для доступа секретный альбом</string>
     <string name="alert_secret_album_set_pattern">Графический ключ</string>
-    <string name="cant_delete_cloud_album">"Не удалось удалить.
-%s - системный альбом или отправлен от другого пользователя."</string>
+    <string name="cant_delete_system_album">Не удается удалить системный альбом %s</string>
     <string name="cannot_delete_sharer_photo">"Ошибка удаления.
 Изображения загружены другим пользователем. 
 
@@ -558,6 +552,8 @@
     <string name="paint_cancel_context">Отменить редактирование?</string>
     <string name="paint_crop_cancel_title">Не изменять</string>
     <string name="paint_crop_cancel_context">Сохранить изменения?</string>
+    <string name="paint_highlight_cancel_title">Отменить изменения?</string>
+    <string name="paint_highlight_cancel_context">Изображение будет сохранено без изменений</string>
     <string name="do_not_save">Не сохранять</string>
     <string name="paint_highlight">Яркость</string>
     <string name="free">Вручную</string>
@@ -635,11 +631,18 @@
     <string name="highlight2">Яркость</string>
     <string name="action_fail_unknown_error">Произошла неизвестная ошибка</string>
     <string name="add_to_cloud_fail_too_many_items">Выбрано слишком много элементов</string>
+    <string name="cant_delete_cloud_album">"Не удалось удалить.
+%s - системный альбом или отправлен от другого пользователя."</string>
     <string name="cloud_share_guide_message">Вы можете делиться своими альбомами, просматривать альбомы друзей, а также добавлять фото в альбом вместе!</string>
     <string name="cloud_share_guide_title">Теперь можно обмениваться альбомами!</string>
     <string name="cloud_tab_locations">Местоположение</string>
+    <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с изображениями? 
+
+Альбомов: %s 
+Изображений: %s"</string>
     <string name="confirm_delete_home_merge_item">Удалить %s фото из памяти устройства и Mi Cloud?</string>
     <string name="confirm_delete_pictures">Фото: %s</string>
+    <string name="confirm_delete_system_album">Удалить системный альбом \"%s\"?</string>
     <string name="confirm_delete_this_picture">Удалить изображение?</string>
     <string name="confirm_delete_this_video">Удалить видео?</string>
     <string name="confirm_delete_videos">Видео: %s</string>

@@ -4,8 +4,8 @@
     <default launcher:screen="1" />
     <folder launcher:screen="0" launcher:x="2" launcher:y="4" launcher:title="com.miui.home:string/default_folder_title_tools" />
     <folder launcher:screen="1" launcher:x="0" launcher:y="2" launcher:title="com.miui.home:string/default_folder_title_recommend" launcher:presets_container="true" />
+    <clock2x4 launcher:screen="0" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.camera.Camera" launcher:packageName="com.android.camera" launcher:screen="0" launcher:x="0" launcher:y="3" />
-    <appwidget launcher:className="pro.burgerz.weather.widgets.WeatherWidget4x2" launcher:packageName="pro.burgerz.weather" launcher:screen="0" launcher:x="0" launcher:y="0" launcher:spanX="4" launcher:spanY="2" />
     <favorite launcher:className="com.android.vending.AssetBrowserActivity" launcher:packageName="com.android.vending" launcher:screen="0" launcher:x="3" launcher:y="2" />
     <favorite launcher:className="com.estrongs.android.pop.view.FileExplorerActivity" launcher:packageName="com.estrongs.android.pop" launcher:screen="0" launcher:x="2" launcher:y="2" />
     <favorite launcher:className="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" launcher:packageName="com.google.android.youtube" launcher:screen="0" launcher:x="1" launcher:y="2" />
@@ -23,14 +23,16 @@
     <favorite launcher:className="com.android.calculator2.Calculator" launcher:packageName="com.android.calculator2" launcher:container="1" launcher:x="6" launcher:y="0" />
     <favorite launcher:className="com.android.fileexplorer.FileExplorerTabActivity" launcher:packageName="com.android.fileexplorer" launcher:container="1" launcher:x="7" launcher:y="0" />
     <favorite launcher:className="com.miui.compass.CompassActivity" launcher:packageName="com.miui.compass" launcher:container="1" launcher:x="8" launcher:y="0" />
-    <favorite launcher:className="com.miui.barcodescanner.activity.CaptureActivity" launcher:packageName="com.miui.barcodescanner" launcher:container="1" launcher:x="9" launcher:y="0" />
-    <favorite launcher:className="com.miui.bugreport.ui.MainActivity" launcher:packageName="com.miui.bugreport" launcher:container="1" launcher:x="10" launcher:y="0" />
-    <favorite launcher:className="com.miui.voiceassist.CTAAlertActivity" launcher:packageName="com.miui.voiceassist" launcher:container="1" launcher:x="11" launcher:y="0" />
-    <favorite launcher:className="com.android.providers.downloads.ui.DownloadList" launcher:packageName="com.android.providers.downloads.ui" launcher:container="1" launcher:x="12" launcher:y="0" />
-    <favorite launcher:className="com.xiaomi.tag.MiTagActivity" launcher:packageName="com.xiaomi.tag" launcher:container="1" launcher:x="13" launcher:y="0" />
-    <favorite launcher:className="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" launcher:packageName="com.duokan.phone.remotecontroller" launcher:container="1" launcher:x="14" launcher:y="0" />
-    <favorite launcher:className="com.android.stk.StkLauncherActivity" launcher:packageName="com.android.stk" launcher:container="1" launcher:x="15" launcher:y="0" launcher:retained="true" />
-    <favorite launcher:className="com.android.stk.StkLauncherActivity2" launcher:packageName="com.android.stk" launcher:container="1" launcher:x="16" launcher:y="0" launcher:retained="true" />
+    <favorite launcher:className="com.xiaomi.jr.MiFinanceActivity" launcher:packageName="com.xiaomi.jr" launcher:container="1" launcher:x="9" launcher:y="0" />
+    <favorite launcher:className="com.mipay.wallet.ui.MipayEntryActivity" launcher:packageName="com.mipay.wallet" launcher:container="1" launcher:x="10" launcher:y="0" />
+    <favorite launcher:className="com.miui.bugreport.ui.MainActivity" launcher:packageName="com.miui.bugreport" launcher:container="1" launcher:x="11" launcher:y="0" />
+    <favorite launcher:className="com.miui.voiceassist.CTAAlertActivity" launcher:packageName="com.miui.voiceassist" launcher:container="1" launcher:x="12" launcher:y="0" />
+    <favorite launcher:className="com.android.providers.downloads.ui.DownloadList" launcher:packageName="com.android.providers.downloads.ui" launcher:container="1" launcher:x="13" launcher:y="0" />
+    <favorite launcher:className="com.xiaomi.tag.MiTagActivity" launcher:packageName="com.xiaomi.tag" launcher:container="1" launcher:x="14" launcher:y="0" />
+    <favorite launcher:className="com.miui.barcodescanner.activity.CaptureActivity" launcher:packageName="com.miui.barcodescanner" launcher:container="1" launcher:x="15" launcher:y="0" />
+    <favorite launcher:className="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2" launcher:packageName="com.duokan.phone.remotecontroller" launcher:container="1" launcher:x="16" launcher:y="0" />
+    <favorite launcher:className="com.android.stk.StkLauncherActivity" launcher:packageName="com.android.stk" launcher:container="1" launcher:x="17" launcher:y="0" launcher:retained="true" />
+    <favorite launcher:className="com.android.stk.StkLauncherActivity2" launcher:packageName="com.android.stk" launcher:container="1" launcher:x="18" launcher:y="0" launcher:retained="true" />
     <favorite launcher:className="com.miui.securitycenter.MainActivity" launcher:packageName="com.miui.securitycenter" launcher:screen="0" launcher:x="3" launcher:y="4" />
     <favorite launcher:className="com.android.calendar.AllInOneActivity" launcher:packageName="com.android.calendar" launcher:screen="0" launcher:x="0" launcher:y="2" />
     <favorite launcher:className="com.miui.notes.ui.NotesListActivity" launcher:packageName="com.miui.notes" launcher:screen="1" launcher:x="1" launcher:y="0" />

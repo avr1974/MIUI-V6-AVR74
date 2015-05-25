@@ -666,6 +666,34 @@
         <item>Запрашивать</item>
         <item>Разрешить</item>
     </string-array>
+    <string-array name="lock_screen_secure_after_timeout_values">
+        <item>0</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>900000</item>
+        <item>1800000</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>сразу</item>
+        <item>через 1 минуту</item>
+        <item>через 2 минуты</item>
+        <item>через 5 минут</item>
+        <item>через 15 минут</item>
+        <item>через 30 минут</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Отключить системную анимацию</item>
+        <item>Включить системную анимацию</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Для устройств со слабой производительностью</item>
+        <item>Для устройств с высокой производительностью</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Перезагрузить устройство для применения настроек?</item>
+        <item>Перезагрузить устройство для применения настроек?</item>
+    </string-array>
     <string-array name="miracast_policies">
         <item>Производительность</item>
         <item>Баланс</item>

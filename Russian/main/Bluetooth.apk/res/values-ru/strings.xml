@@ -10,7 +10,7 @@
     <string name="mi_key_alert_dialog_message">Выключить будильник?</string>
     <string name="ble_device_address">Устройства BLE MAC</string>
     <string name="disconnect">Отключить</string>
-    <string name="ble_device_unbind">Очистить настройки</string>
+    <string name="ble_device_rename">Переименовать</string>
     <string name="ble_device_profile_header_title">Профили</string>
     <string name="ble_device_profile_title">Устройство BLE подключено</string>
     <string name="mi_band_vibrate_incall">Вибрировать при вызове</string>
@@ -147,6 +147,7 @@
     <string name="delete_record">Удалить запись</string>
     <string name="start_server">Запустить TCP-сервер</string>
     <string name="notify_server">Уведомить TCP-сервер</string>
+    <string name="ble_device_unbind">Очистить настройки</string>
     <string name="ble_device_connected">Устройство подключено</string>
     <string name="bluetooth_no_devices_found">Нет доступных Bluetooth устройств</string>
     <string name="bt_advanced_settings">Дополнительные настройки</string>

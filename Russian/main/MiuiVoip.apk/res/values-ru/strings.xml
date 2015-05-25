@@ -16,7 +16,6 @@
     <string name="clear_digits">Очистить номер телефона</string>
     <string name="login">Войти</string>
     <string name="next">Далее</string>
-    <string name="activate_failed">Ошибка активации. Проверьте параметры интернета.</string>
     <string name="no_sim_found">SIM карта недоступна</string>
     <string name="voip_disabled">Включите сервис VoIP</string>
     <string name="activate_voip_call">Бесплатный вызов VoIP</string>
@@ -39,6 +38,7 @@
     <string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
     <string name="notification_missedCallTicker">Пропущенный вызов от %s</string>
     <string name="unkown">Неизвестно</string>
+    <string name="network_unavailable">Не удается подключиться к сети</string>
     <string name="voip_call_outgoing">Вызов…</string>
     <string name="voip_call_incoming">Запрос на Facetime с вами</string>
     <string name="voip_ending_call">"Вызов VoIP завершен "</string>
@@ -109,13 +109,14 @@
     <string name="dlg_remove_blacklist">Удалить эти вызовы из черного списка и восстановить в журнал вызовов?</string>
     <string name="dlg_remove_blacklist_ok">ОК</string>
     <string name="dlg_import_blacklist">Добавление…</string>
+    <string name="dlg_remove_blacklist_ing">Удаление…</string>
     <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Конфликт исключений</string>
     <string name="dlg_no_block">Разблокировать этот номер и восстановить вызовы в журнал вызовов?</string>
     <string name="dlg_no_block_ok">ОК</string>
     <string name="dlg_white_antispam_hint">Исключения</string>
     <string name="dlg_black_address_antispam_message">Добавить это местоположение в черный список?</string>
-    <string name="st_title_blacklist_numbers">Заблокированные номера</string>
+    <string name="st_title_blacklist_numbers">Черный список</string>
     <string name="st_antispam_bw_choose_modes">Добавить в список</string>
     <string name="st_title_addblacklist">Добавить в черный список</string>
     <string name="st_title_editblacklist">Изменить черный список</string>
@@ -161,5 +162,6 @@
     <string name="xiaomi_kilobytes_unit">%1$s Кб</string>
     <string name="xiaomi_megabytes_unit">%1$s Мб</string>
     <string name="xiaomi_connect_download_manager_fail">Не удалось загрузить. Проверьте параметры загрузки.</string>
+    <string name="activate_failed">Ошибка активации. Проверьте параметры интернета.</string>
     <string name="voip_free_tip">Бесплатный вызов VoIP</string>
 </resources>

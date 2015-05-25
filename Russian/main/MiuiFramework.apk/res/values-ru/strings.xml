@@ -9,9 +9,6 @@
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="device_hongmi">Redmi</string>
-    <string name="app_no_notification">Уведомления отключены</string>
-    <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Панель уведомлений и экран блокировки</string>
     <string name="lockscreen_access_pattern_start">Ключ начат</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
@@ -114,6 +111,7 @@
     <string name="default_name">По умолчанию</string>
     <string name="resource_select">Выбрать</string>
     <string name="screen_paper_mode_enter_toast">Режим чтения включен. Вы можете включать и выключать эту функцию в дополнительных настройках.</string>
+    <string name="app_no_notification">Уведомления отключены</string>
     <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
     <string name="screen_button_enabled_message">Клавиши навигации включены</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован</string>
@@ -146,4 +144,6 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
     <string name="status_bar_toggle_paper_mode">Режим чтения</string>
+    <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
+    <string name="app_notificaiton_on_statusBar_and_notificationBar">Панель уведомлений и экран блокировки</string>
 </resources>

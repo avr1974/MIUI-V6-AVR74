@@ -612,6 +612,7 @@
     <string name="online_check_warning_info_by_cmb">Всегда проверяйте личность человека по телефону, прежде чем отвечать на вопросы, связанные с вашими личными данными.</string>
     <string name="online_check_warning_type_by_cmb">Спам</string>
     <string name="livetalk_provider_info">Поддержка: %s</string>
+    <string name="livetalk_left_minute">Осталось %s мин.</string>
     <string name="livetalk_waiting">Ожидание…</string>
     <string name="jeejen_answer_call_text">Ответить</string>
     <string name="jeejen_reject_call_text">Вызов отклонен</string>
