@@ -96,6 +96,12 @@
     <string name="channel_off">Программа уже не существует</string>
     <string name="action_item_delete">Удалить</string>
     <string name="confirm_delete_history_text">Удалить выбранное?</string>
+    <string name="similar_programs">Похожие программы</string>
+    <string name="all">Все</string>
+    <string name="batch_download">Пакетное скачивание</string>
+    <string name="continue_play">Играть</string>
+    <string name="section">Выбор</string>
+    <string name="get_channel_failed">Не удалось получить информацию</string>
     <string name="impunity_declaration_title">Условия пользования</string>
     <string name="impunity_declaration">Разрешить использовать мобильный интернет для онлайн радио?</string>
     <string name="impunity_declaration_ignore">Запомнить</string>

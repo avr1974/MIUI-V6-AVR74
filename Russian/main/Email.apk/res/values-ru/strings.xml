@@ -140,6 +140,7 @@
     <string name="account_setup_incoming_server_label">Сервер</string>
     <string name="account_setup_incoming_title">Настройка аккаунта</string>
     <string name="account_setup_incoming_username_label">Имя пользователя</string>
+    <string name="account_setup_incoming_username_label_default_hint">Содержит домен</string>
     <string name="account_setup_names_account_name_label">Присвойте название аккаунту (по желанию)</string>
     <string name="account_setup_names_headline">Аккаунт настроен</string>
     <string name="account_setup_names_title">Настройка аккаунта</string>
@@ -368,7 +369,9 @@
     <string name="device_admin_label">Email</string>
     <string name="device_not_activiey_lint1">Диспетчер устройств не активирован</string>
     <string name="device_not_activiey_lint2">Почтовый сервис не работает корректно</string>
+    <string name="dialog_account_auto_sync_setting_no_open">Синхронизация сообщений отключена</string>
     <string name="dialog_auto_download_failed">Ошибка автозагрузки. Попробуйте загрузить вручную.</string>
+    <string name="dialog_auto_sync_setting_no_open">Синхронизация сообщений отключена</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">Недостаточно памяти в \"%s\"</string>
     <string name="dialog_insufficient_space_on_external">Недостаточно места во внешней памяти</string>
     <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти</string>
@@ -626,6 +629,9 @@
     <string name="notification_action_undo_delete">Удалено</string>
     <string name="notification_action_undo_remove_label">Метки удалены</string>
     <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
+    <string name="oauth_error_description">Невозможно проверить подлинность</string>
+    <string name="oauth_gmail_login_notify">В соответствии с требованиями Google, вы должны ввести пароль на странице авторизации Google.</string>
+    <string name="oauth_login_continue">Продолжить</string>
     <string name="ok">ОК</string>
     <string name="okay_action">ОК</string>
     <string name="open_proxy_in_settings">Gmail недоступен по вашему местоположению, но вы сможете отправлять и получать сообщения с вашего Gmail с помощью прокси сервера.</string>

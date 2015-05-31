@@ -466,7 +466,7 @@
     <string name="notify_daily_limit_title_for_slotnum">Установить дневной предел для %s</string>
     <string name="notify_daily_limit_body">На этой неделе: %s. Нажмите для изменения.</string>
     <string name="network_blocked_notification_summary">Нажмите для просмотра информации</string>
-    <string name="network_blocked_switch_wifi">Переключить сеть</string>
+    <string name="network_blocked_switch_wifi">Настройки</string>
     <string name="wifi_network_blocked_notification_title">Интернет недоступен</string>
     <string name="data_network_blocked_notification_title">Интернет недоступен</string>
     <string name="sim_state_exception_summary">SIM статус означает о наличии возможных пробем с SIM картой</string>

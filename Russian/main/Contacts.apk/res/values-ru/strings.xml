@@ -780,7 +780,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
     <string name="callrecordview_item_op_time_short_incoming">" | "</string>
     <string name="callrecordview_item_op_time_missed">| Нет ответа</string>
-    <string name="callrecordview_item_op_time_rejected">Отклонен</string>
+    <string name="callrecordview_item_op_time_rejected">| Отклонен</string>
     <string name="callrecordview_menu_show_title">Отображение вызовов</string>
     <string name="callrecordview_menu_show_all">Все</string>
     <string name="callrecordview_menu_show_missed">Пропущенные</string>
@@ -1003,6 +1003,7 @@
     <string name="btn_split_contact">Разделить контакт</string>
     <string name="use_photo_as_primary2">Использовать фото контакта %1$s</string>
     <string name="label_custom_type">Пользовательский</string>
+    <string name="loading_accounts">Загрузка информации о SIM карте…</string>
     <string name="pkgLabel">Контакты и телефон</string>
     <string name="preference_smart_group_title">Умная группировка</string>
     <string name="preference_smart_group_company_title">По компаниям</string>
@@ -1100,6 +1101,8 @@
     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="import_sim_entry_miui">Импорт</string>
     <string name="delete_sim_entry_miui">Удалить</string>
+    <string name="importing_sim_contacts_miui_prepare">Подготовка к импортированию…</string>
+    <string name="deleting_sim_entry_miui_prepare">Подготовка к удалению…</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">" Снять выбор "</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">" Выбрать все "</string>
     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
@@ -1157,10 +1160,6 @@
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
     <string name="phone_call_type_voip">VoIP</string>
-    <string name="export_sim_contact_finish_failure">"Недостаточно места. 
-
-Скопировано: %1$d 
-Не удалось: %2$d"</string>
     <string name="batch_delete_msg">"Удалить выбранные контакты? 
 
 Контактов: %d 
@@ -1173,6 +1172,10 @@
 Контактов: %d"</string>
     <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
     <string name="dlg_remove_blacklist">Удалить номер из черного списка?</string>
+    <string name="export_sim_contact_finish_failure">"Недостаточно места. 
+
+Скопировано: %1$d 
+Не удалось: %2$d"</string>
     <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
     <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
 

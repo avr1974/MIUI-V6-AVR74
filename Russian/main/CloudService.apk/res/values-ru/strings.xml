@@ -125,7 +125,7 @@
     <string name="click_to_enabled">Нажмите для синхронизации</string>
     <string name="calendar_sync">Календарь</string>
     <string name="antispam_sync">Настройки режима \"Не беспокоить\"</string>
-    <string name="deskclock_backup">Бэкап часов</string>
+    <string name="deskclock_backup">часов</string>
     <string name="micloud_space_duokan_title">Книги Duokan</string>
     <string name="micloud_space_duokan_detail">Управляйте контентом с помощью приложения Duokan</string>
     <string name="micloud_space_full_influence"><u>Подробнее</u></string>
@@ -204,7 +204,7 @@
     <string name="micloud_main_synced_data_count">Синхронизировано: %d</string>
     <string name="micloud_main_wlan_sync_data_count">Не синхронизировано по Wi-Fi: %d</string>
     <string name="micloud_main_space_full">Память заполнена</string>
-    <string name="micloud_main_space_risk">Не синхронизировано: %d. Необходимо расширить место в Mi Cloud.</string>
+    <string name="micloud_main_space_low">Место заканчивается</string>
     <string name="micloud_main_update_space">Получить больше места</string>
     <string name="micloud_detail_syncing">Синхронизация</string>
     <string name="micloud_detail_pending">Ожидание</string>
@@ -226,7 +226,7 @@
     <string name="micloud_setting_browser_summary">Закладки и история</string>
     <string name="micloud_setting_music_summary">Плейлисты и избранное</string>
     <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
-    <string name="micloud_setting_deskclock_summary">Настройки часов и будильников</string>
+    <string name="micloud_setting_deskclock_summary">Настройки будильников</string>
     <string name="micloud_setting_antispam_summary">Список блокируемых номеров</string>
     <string name="upgrade_space_gb">Гб</string>
     <string name="upgrade_space_tb">Тб</string>
@@ -335,6 +335,7 @@
     <string name="wifi_sync">Синхронизация по Wi-Fi</string>
     <string name="finish">Завершено</string>
     <string name="micloud">Mi Cloud</string>
+    <string name="micloud_main_space_risk">Не синхронизировано: %d. Необходимо расширить место в Mi Cloud.</string>
     <string name="close_cloud_app_backup_cancel">Отмена</string>
     <string name="close_cloud_app_backup_close">Закрыть</string>
     <string name="close_cloud_app_backup_local_backup">Создать бэкап</string>

@@ -36,6 +36,7 @@
     <string name="music_dirac_mode_piston_1">Mi пистоны-1</string>
     <string name="music_dirac_mode_piston_2">Mi пистоны-2</string>
     <string name="music_dirac_mode_piston_basic">Обычные пистоны</string>
+    <string name="music_dirac_mode_piston_standard">Mi пистоны-3</string>
     <string name="music_audio_effect_settings">Звук</string>
     <string name="music_equalizer">Эквалайзер</string>
     <string name="music_equalizer_summary">Индивидуальные установки для различных типов музыки</string>
@@ -50,13 +51,8 @@
     <string name="audio_list_loading">Загрузка…</string>
     <string name="title_local_resource">Локальные ресурсы</string>
     <string name="online_resource_entry">Онлайн ресурсы</string>
-    <string name="status_bar_style_settings">Уведомления</string>
     <string name="status_bar_and_notification_bar">Уведомления</string>
-    <string name="status_bar_settings_toggle_layout_style">Положение переключателей</string>
-    <string name="status_bar_settings_toggle_layout_style_compact">Строка</string>
-    <string name="status_bar_settings_toggle_layout_style_single_page">Сетка</string>
-    <string name="status_bar_settings_toggle_layout_style_applying">Изменение стиля…</string>
-    <string name="status_bar_settings_custom_notification">Управление уведомлениями</string>
+    <string name="status_bar_settings_manage_notification">Управление уведомлениями</string>
     <string name="status_bar_settings_all_app_display_loading">Загрузка…</string>
     <string name="status_bar_settings_enable_notification">Включить уведомления</string>
     <string name="status_bar_settings_show_home_message">Счетчик на иконке</string>
@@ -503,7 +499,7 @@
     <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
     <string name="bluetooth_profile_opp">Профиль OPP</string>
     <string name="bluetooth_profile_hid">Профиль HID</string>
-    <string name="bluetooth_profile_pan">Интернет-доступ</string>
+    <string name="bluetooth_profile_pan">Доступ к интернету</string>
     <string name="bluetooth_profile_pan_nap">Профиль PAN</string>
     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
     <string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука</string>
@@ -529,7 +525,7 @@
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства</string>
     <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа к Интернету</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Использовать устройство для доступа к интернету</string>
     <string name="bluetooth_map_profile_summary_use_for">Использовать доступ</string>
     <string name="bluetooth_dock_settings">Настройки док-станции</string>
     <string name="bluetooth_dock_settings_title">Использовать док-станцию для звука</string>
@@ -857,7 +853,7 @@
     <string name="device_status">Общая информация</string>
     <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
     <string name="storage_settings">Память</string>
-    <string name="storage_settings_title">Настройки хранилища</string>
+    <string name="storage_settings_title">Память</string>
     <string name="storage_settings_summary">Отключить SD карту, просмотреть доступные накопители</string>
     <string name="status_imei">IMEI</string>
     <string name="status_imei_sv">IMEI SV</string>
@@ -2140,7 +2136,7 @@
     <string name="search_battery">батарея</string>
     <string name="search_storage">память</string>
     <string name="search_accessibility">возможности</string>
-    <string name="search_privacy">конфиденциальность</string>
+    <string name="search_privacy">восстановление и сброс</string>
     <string name="debug_log">Журнал отладки</string>
     <string name="upload_debug_log_title">Отправлять отчеты</string>
     <string name="upload_debug_log_summary">Отправлять отчеты об ошибках разработчикам для помощи в развитии MIUI</string>
@@ -2477,6 +2473,9 @@
     <string name="wfd_disconnect_multiple_diag_message">Если вы выключите WiDi, подключение с \"%1$s\" и другими устройствами (%2$s) будет разорвано.</string>
     <string name="wfd_wps_keypad">Настройки клавиши</string>
     <string name="wfd_wps_pbc">Ввод PIN кода</string>
+    <string name="virtual_sim_category_title">Виртуальная SIM карта</string>
+    <string name="virtual_sim_title">Интернет роуминг</string>
+    <string name="virtual_sim_description">Международная служба роуминга</string>
     <string name="power_mode">Режим питания</string>
     <string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса</string>
     <string name="high_performance_notif_title">Режим производительности активен</string>
@@ -2972,6 +2971,12 @@
     <string name="lock_screen_secure_after_timeout_title">Запрос пароля</string>
     <string name="lock_screen_secure_after_timeout_summary">Запрашивать пароль %1$s</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Запрашивать пароль сразу</string>
+    <string name="status_bar_style_settings">Уведомления</string>
+    <string name="status_bar_settings_toggle_layout_style">Положение переключателей</string>
+    <string name="status_bar_settings_toggle_layout_style_compact">Строка</string>
+    <string name="status_bar_settings_toggle_layout_style_single_page">Сетка</string>
+    <string name="status_bar_settings_toggle_layout_style_applying">Изменение стиля…</string>
+    <string name="status_bar_settings_custom_notification">Управление уведомлениями</string>
     <string name="miracast_settings_category">Настройки Wi-Fi дисплея</string>
     <string name="miracast_display_category">Дисплеи</string>
     <string name="miracast_menu_search">Поиск</string>

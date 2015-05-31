@@ -38,7 +38,7 @@
     <string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
     <string name="notification_missedCallTicker">Пропущенный вызов от %s</string>
     <string name="unkown">Неизвестно</string>
-    <string name="network_unavailable">Не удается подключиться к сети</string>
+    <string name="network_unavailable">Не удается подключиться к интернету</string>
     <string name="voip_call_outgoing">Вызов…</string>
     <string name="voip_call_incoming">Запрос на Facetime с вами</string>
     <string name="voip_ending_call">"Вызов VoIP завершен "</string>

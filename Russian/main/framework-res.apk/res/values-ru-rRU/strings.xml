@@ -1133,7 +1133,7 @@
     <string name="submit">Отправить</string>
     <string name="car_mode_disable_notification_title">Включен режим \"Автомобиль\"</string>
     <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
-    <string name="tethered_notification_title">Точка доступа Wi-Fi активна</string>
+    <string name="tethered_notification_title">Модем или точка доступа активна</string>
     <string name="tethered_notification_message">Нажмите для настройки</string>
     <string name="back_button_label">Назад</string>
     <string name="next_button_label">Далее</string>

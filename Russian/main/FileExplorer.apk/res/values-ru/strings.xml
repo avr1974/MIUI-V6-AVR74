@@ -327,7 +327,7 @@
     <string name="operation_agree">ОК</string>
     <string name="never_notify_network_connect">Запомнить</string>
     <string name="connect_network_setting_des">Запрашивать доступ к интернету</string>
-    <string name="category_mirouter">Mi-Роутер</string>
+    <string name="category_mirouter">Mi роутер</string>
     <string name="colon">": "</string>
     <string name="local_cache_size">Размер локального кэша: %s</string>
     <string name="query_bind_state">Запрос состояния…</string>

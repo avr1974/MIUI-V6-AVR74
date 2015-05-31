@@ -560,6 +560,7 @@
     <string name="cmcc_app_check_dialog_message">Перезагрузить устройство для завершения исправления?</string>
     <string name="cmcc_app_check_dialog_positive">ОК</string>
     <string name="cmcc_app_check_dialog_negative">Позже</string>
+    <string name="app_not_installed_toast">Приложение не установлено</string>
     <string name="cache_sort_type_item_size">Сортировать по размеру</string>
     <string name="cache_sort_type_item_name">Сортировать по имени</string>
     <string name="activity_title_ad">Реклама</string>
