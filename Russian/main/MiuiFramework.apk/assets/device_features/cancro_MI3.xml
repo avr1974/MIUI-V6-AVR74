@@ -23,15 +23,13 @@
     <!--whether the device supports record param-->
     <bool name="support_record_param">true</bool>
     <!--whether the device supports interview record param-->
-    <bool name="support_interview_record_param">false</bool>
+    <bool name="support_interview_record_param">true</bool>
     <!--whether the device supports stereo record-->
     <bool name="support_stereo_record">true</bool>
     <!--whether the device supports screen paper mode-->
     <bool name="support_screen_paper_mode">false</bool>
     <!--whether the device supports led light-->
     <bool name="support_led_light">true</bool>
-    <!--whether the device supports erase application-->
-    <bool name="support_erase_application">true</bool>
     <!--whether the device supports button light-->
     <bool name="support_button_light">true</bool>
     <!--whether the device supports emulated storage-->
@@ -65,7 +63,7 @@
     <!--whether the device supports eap sim-->
     <bool name="support_eap_sim">true</bool>
     <!--whether the device supports screen effect-->
-    <bool name="support_screen_effect">false</bool>
+    <bool name="support_screen_effect">true</bool>
     <!--whether the device supports agps-->
     <bool name="support_agps">true</bool>
     <!--whether the device supports feedback level-->
@@ -87,5 +85,5 @@
     <!--screen saturation, vivid or standard-->
     <integer name="display_ce">11</integer>
     <!-- whether compass support tilt rotate calibrate  -->
-    <bool name="support_rotate_calibrate">false</bool>
+	<bool name="support_rotate_calibrate">true</bool>
 </features>
