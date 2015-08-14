@@ -17,7 +17,7 @@
     <string name="image_too_small_message">Изображение слишком маленькое</string>
     <string name="failed_to_load_image">Не удается загрузить изображение</string>
     <string name="wallpaper_success_message">Обои установлены</string>
-    <string name="is_setting_wallpaper_toast">Установка обоев…</string>
+    <string name="is_setting_wallpaper_message">Настройки обоев…</string>
     <string name="current_wallpaper">Выбранные</string>
     <string name="menu_item_add_item">Добавить на рабочий стол</string>
     <string name="group_shortcuts">Ярлыки</string>
@@ -27,6 +27,7 @@
     <string name="title_select_shortcut">Выберите ярлык</string>
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="app_being_backup_message">Резервная копия приложения будет сохранена</string>
+    <string name="app_being_restored_message">Приложение будет восстановлено</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_wallpaper">Обои</string>
     <string name="menu_search">Поиск</string>
@@ -50,6 +51,7 @@
     <string name="status_paused">Пауза</string>
     <string name="status_downloaded">Загружено</string>
     <string name="status_installing">Установка</string>
+    <string name="app_already_exist">Приложение уже существует</string>
     <string name="loading_desktop">Загрузка рабочего стола…</string>
     <string name="loading_wallpaper">Загрузка обоев…</string>
     <string name="start_activity_failed">Не удалось запустить рабочий стол</string>
@@ -97,9 +99,12 @@
     <string name="default_folder_title_recommend">Другие</string>
     <string name="default_folder_title_game">Игры</string>
     <string name="default_folder_title_security">Система</string>
-    <string name="wallpaper_settings">Обои</string>
-    <string name="choose_wallpaper">Выбрать обои</string>
+    <string name="wallpaper_settings">Обои и темы</string>
+    <string name="wallpaper_settings_for_pad">Обои и темы</string>
+    <string name="choose_wallpaper">Обои</string>
     <string name="current_preview">Просмотр</string>
+    <string name="choose_theme">Темы</string>
+    <string name="default_theme_name">MIUI</string>
     <string name="wallpaper">Обои</string>
     <string name="mi_wallpaper">Mi Обои</string>
     <string name="show_all">Показать все</string>
@@ -145,6 +150,7 @@
     <string name="global_search_hint">Поиск</string>
     <string name="widget_global_search">Поиск</string>
     <string name="gadget_clear_button_label">Очистка ОЗУ</string>
+    <string name="gadget_power_clear_button_label">Очистка</string>
     <string name="gadget_clock_label">Часы</string>
     <string name="gadget_clock_12_label">Часы 2x1</string>
     <string name="gadget_clock_22_label">Часы 2x2</string>
@@ -213,6 +219,8 @@
     <string name="delete_wallpaper_message">Удалить обои? (%1$d)</string>
     <string name="delete_wallpapers_message">Удалить обои? (%1$d)</string>
     <string name="is_system_wallpaper_message">Невозможно удалить системные обои</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="deselect_all">Снять выбор</string>
     <string name="cloud_app_restore_title">Ожидание</string>
     <string name="app_category_finance">Финансы</string>
     <string name="app_category_social">Общение</string>
@@ -230,6 +238,11 @@
     <string name="app_category_sport">Спорт</string>
     <string name="app_category_health">Здоровье</string>
     <string name="app_category_productivity">Продукты</string>
+    <string name="recommend_apps_notice">Рекомендуемые приложения</string>
+    <string name="recommend_apps_switch_title">Рекомендуемые приложения</string>
+    <string name="recommend_apps_switch_summary">Показывать рекомендуемые приложения внизу экрана</string>
+    <string name="recommend_apps_default_title">Пусто</string>
+    <string name="recommend_apps_tips">Для работы этой функции требуется подключение к интернету. Для выключения этой функции нажмите на название папки.</string>
     <string name="apply_as_lock_wallpaper">ОК</string>
     <string name="default_name">По умолчанию</string>
     <string name="maml_component_customization_title">Настройки</string>
@@ -238,7 +251,7 @@
     <string name="screen_button_enabled_message">Кнопки на нижней части экрана включены</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
     <string name="status_bar_toggle_ac">Доступ</string>
-    <string name="status_bar_toggle_auto_brightness">Подсветка</string>
+    <string name="status_bar_toggle_auto_brightness">Автояркость</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
     <string name="status_bar_toggle_data">Интернет</string>
@@ -268,4 +281,5 @@
     <string name="disable">Отключить</string>
     <string name="disable_auto_start_format">%s</string>
     <string name="disable_auto_start_message">Отключить автозапуск приложения?</string>
+    <string name="is_setting_wallpaper_toast">Установка обоев…</string>
 </resources>

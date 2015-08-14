@@ -9,7 +9,7 @@
     <string name="privacy_tip_cancel">Отмена</string>
     <string name="privacy_tip_ok">ОК</string>
     <string name="privacy_notif_title">Ускорение загрузки Xunlei включено</string>
-    <string name="privacy_notif_content">Нажмите для просмотра информации</string>
+    <string name="privacy_notif_content">Нажмите для просмотра</string>
     <string name="notif_text_engine_on">Ускорение…</string>
     <string name="notif_text_engine_off">Ускорение Xunlei выключено</string>
     <string name="notif_title_single_downloading">Загрузка: %1$s</string>

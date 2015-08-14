@@ -49,6 +49,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
     <string name="error_unsupport_content">Заметка содержит неизвестные ресурсы, нажмите для обновления.</string>
     <string name="error_contact_not_exist">Контакт не существует</string>
+    <string name="sync_tips">Нажмите для синхронизации заметок с Mi Cloud</string>
     <string name="pref_title_font_size">Размер шрифта</string>
     <string name="call_record_folder_name">Заметки вызовов</string>
     <string name="hint_foler_name">Введите название</string>
@@ -96,6 +97,7 @@
     <string name="sns_hint_title">Тема (необязательно)</string>
     <string name="sns_hint_content">О чем вы думаете?</string>
     <string name="sns_footer_text">Создано с помощью заметок MIUI</string>
+    <string name="dlg_info_creating_message">Создание сообщения…</string>
     <string name="sns_message_disconnect">Не удается подключиться к интернету</string>
     <string name="sns_content_default">Отправить фото</string>
     <string name="sns_toast_empty">Невозможно отправить пустое сообщение</string>

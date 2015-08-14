@@ -127,7 +127,7 @@
     <string name="pref_camera_multilevel_entry_middle">Центр (по умолчанию)</string>
     <string name="pref_camera_contrast_title">Контрастность</string>
     <string name="pref_camera_saturation_title">Насыщенность</string>
-    <string name="pref_camera_sharpness_title">Чeткость</string>
+    <string name="pref_camera_sharpness_title">Резкость</string>
     <string name="pref_camera_scenemode_title">Сюжет</string>
     <string name="pref_camera_scenemode_entry_off">Выключен</string>
     <string name="pref_camera_scenemode_entry_auto">Авто</string>
@@ -266,7 +266,6 @@
     <string name="face_beauty_age_alias_female_60_m">Женский 60+</string>
     <string name="simple_mode_button_text_face_beauty">Отключить улучшение тона кожи</string>
     <string name="pref_face_beauty_title">Тон кожи</string>
-    <string name="toast_cannot_preview_image_when_screen_locked">Невозможно просматривать фото или видео, когда экран заблокирован.</string>
     <string name="pref_priority_storage_title">Сохранять на внешнюю память</string>
     <string name="setting_top_text">Функции</string>
     <string name="pref_video_speed_fast_title">Ускоренная</string>
@@ -283,8 +282,8 @@
     <string name="cannot_move_warning_message">При съемке не двигайте устройство</string>
     <string name="ubifocus_capture_warning_message">Для получения наилучшего результата используйте 2 объекта для фокусировки: первый расположите на расстоянии менее 1 метра от объектива, второй - вдали.</string>
     <string name="ubi_focus_capture_fail">Не удалось снять фото</string>
-    <string name="object_track_enable_toast">Проведите по окну предварительного просмотра, чтобы включить отслеживание объекта.</string>
-    <string name="pref_camera_auto_capture_when_stable_title">Автосъемка при фокусе</string>
+    <string name="object_track_enable_toast">Нажмите на края объекта двумя пальцами, чтобы отслеживать его.</string>
+    <string name="pref_camera_auto_capture_when_stable_title">Автосъемка объекта при фокусе</string>
     <string name="accessibility_panorama_review_cancel">Отмена создания панорамы</string>
     <string name="simple_mode_button_text_manual">Отключить ручной режим</string>
     <string name="pref_qc_focus_position_title">Фокус</string>
@@ -297,10 +296,10 @@
     <string name="simple_mode_button_asd_flash">Отключить режим вспышки</string>
     <string name="simple_mode_button_asd_hdr">Отключить режим HDR</string>
     <string name="pref_audio_focus_title">Аудио фокус</string>
-    <string name="pref_audio_focus_entry_general">Нормальный</string>
+    <string name="pref_audio_focus_entry_general">Основной</string>
     <string name="pref_audio_focus_entry_front">Передний</string>
     <string name="pref_audio_focus_entry_rear">Задний</string>
-    <string name="audio_focus_exit_button_text">Отключить голосовой фокус</string>
+    <string name="audio_focus_exit_button_text">Отключить аудио фокус</string>
     <string name="pref_camera_long_press_shutter_feature_title">Удерживание клавиши съемки</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Фокус</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Мультисъемка</string>
@@ -324,6 +323,9 @@
     <string name="pref_camera_peak_entry_on">включено</string>
     <string name="pref_camera_gradienter_title">Градиометр</string>
     <string name="simple_mode_button_text_gradienter">Отключить градиометр</string>
+    <string name="confirm_recording_fail_title">Ошибка записи</string>
+    <string name="confirm_recording_fail_calling_alert">Невозможно начать запись во время вызова</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">Возможно, другие приложения используют микрофон.</string>
     <string name="edit">Изменить</string>
     <string name="details">Информация</string>
     <string name="path">Путь</string>
@@ -494,7 +496,6 @@
     <string name="pref_grp_capture_settings">Настройки видео</string>
     <string name="pref_grp_picture_settings">Настройки фото</string>
     <string name="pref_grp_restore_settings">Сброс настроек</string>
-    <string name="pref_settings_mode">Режим камеры</string>
     <string name="qq_details">Информация QQ:</string>
     <string name="qr_code_details">Информация о QR коде:</string>
     <string name="raw_data_exit_button_text">Отключить режим RAW</string>
@@ -535,6 +536,7 @@
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">Серийная съемка недоступна, когда включен режим улучшения тона кожи.</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Серийная съeмка недоступна, когда включeн режим HDR.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Серийная съемка не поддерживается, если ISO не установлено в режим \"Авто\".</string>
+    <string name="toast_cannot_preview_image_when_screen_locked">Невозможно просматривать фото или видео, когда экран заблокирован.</string>
     <string name="undo">Отмена</string>
     <string name="unit_mm">мм</string>
     <string name="video_camera_label">Видеокамера</string>
@@ -572,4 +574,5 @@
     <string name="pref_scan_qrcode_entry_off">Выключено</string>
     <string name="pref_scan_qrcode_entry_on">Включено</string>
     <string name="pref_video_slow_speed_title_simple_mode">Быстрое движение</string>
+    <string name="pref_settings_mode">Режим камеры</string>
 </resources>

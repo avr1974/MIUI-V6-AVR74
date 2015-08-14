@@ -113,6 +113,9 @@ d MMMM yyyy"</string>
     <string name="user_guide_for_notification">Потяните вниз для открытия панели уведомлений</string>
     <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
     <string name="user_guide_for_toggle_list">Управление переключателями</string>
+    <string name="activate_usb_title">Активировать USB</string>
+    <string name="activate_usb_message">Вставьте SIM карту для активации функций USB</string>
+    <string name="usb_function_charging_text">Подключено в режиме зарядки</string>
     <string name="return_to_incall_screen">Вернуться к разговору</string>
     <string name="call_status_dialing">Вызов</string>
     <string name="call_status_ringing">Вызов</string>
@@ -175,6 +178,9 @@ d MMMM yyyy"</string>
     <string name="status_bar_network_flow_limit">" | Всего: %1$s"</string>
     <string name="drive_mode_tip">Вы находитесь в автомобиле. Пожалуйста, будьте осторожны за рулем при работе с телефоном.</string>
     <string name="no_notification_tips">Нет уведомлений</string>
+    <string name="expanded_notification_manager">Управление</string>
+    <string name="disable_notification_title">Отключить уведомления</string>
+    <string name="disable_notification_summary">Отключить все уведомления</string>
     <string name="notification_otg_mouse_in">Мышь подключена</string>
     <string name="notification_otg_keyboard_in">Клавиатура подключена</string>
     <string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
@@ -208,6 +214,7 @@ d MMMM yyyy"</string>
     <string name="battery_profiles">Режимы батареи</string>
     <string name="oldman_airplane_mode_text">полет</string>
     <string name="oldman_incall_text">вызов</string>
+    <string name="notification_template_text">Нажмите для просмотра</string>
     <string name="audio_effect_settings">Тип гарнитуры</string>
     <string name="audio_effect_info">Улучшение звука</string>
     <string name="audio_effect_custom">Настроить</string>
@@ -218,6 +225,8 @@ d MMMM yyyy"</string>
     <string name="vpn_title_long">Подключение VPN через %s</string>
     <string name="vpn_text">Нажмите для настройки</string>
     <string name="vpn_text_long">Подключено к %s. Нажмите для просмотра.</string>
+    <string name="screen_button_notification_title">Клавиши навигации отключены</string>
+    <string name="screen_button_notification_text">Для включения нажмите одновременно \"Домой\" и \"Питание\"</string>
     <string name="battery_low_subtitle">Подключите зарядное устройство</string>
     <string name="battery_low_why">Статистика</string>
     <string name="screen_button_disabled_message">Клавиши навигации отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
@@ -225,7 +234,7 @@ d MMMM yyyy"</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован</string>
     <string name="status_bar_recent_inspect_item_title">О приложении</string>
     <string name="status_bar_toggle_ac">Доступ</string>
-    <string name="status_bar_toggle_auto_brightness">Подсветка</string>
+    <string name="status_bar_toggle_auto_brightness">Автояркость</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
     <string name="status_bar_toggle_data">Интернет</string>
@@ -238,7 +247,7 @@ d MMMM yyyy"</string>
     <string name="status_bar_toggle_network_type">Тип сети</string>
     <string name="status_bar_toggle_power_mode">Произв.</string>
     <string name="status_bar_toggle_privacy_mode">Гость</string>
-    <string name="status_bar_toggle_quiet_mode">Тишина</string>
+    <string name="status_bar_toggle_quiet_mode">Не беспокоить</string>
     <string name="status_bar_toggle_reboot">Перезагр.</string>
     <string name="status_bar_toggle_rotate">Поворот</string>
     <string name="status_bar_toggle_screen_button">Клавиши</string>

@@ -15,7 +15,7 @@
     <string name="incorrect_pukcode">Incorrect PUK code</string>
     <string name="incorrect_pincode">Incorrect PIN code</string>
     <string name="open_wifi_settings">Open network connection</string>
-    <string name="lock_screen_date">EEE, MMMM dd</string>
+    <string name="lock_screen_date">EEEE, MMMM dd</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_checking_password">Checking…</string>
     <string name="login_website_in_case_forget_password">To reset your password, go to www.mi.com/micloud</string>

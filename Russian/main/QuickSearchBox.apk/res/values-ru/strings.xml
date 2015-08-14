@@ -11,6 +11,13 @@
     <string name="cta_declaration_ignore">Запомнить</string>
     <string name="cta_declaration_positive_text">ОК</string>
     <string name="cta_declaration_negative_text">Отмена</string>
+    <string name="searchable_sources">Области поиска</string>
+    <string name="searchable_lable_app">Приложения</string>
+    <string name="searchable_lable_music">Музыка</string>
+    <string name="searchable_lable_video">Видео</string>
+    <string name="searchable_lable_browser">Браузер</string>
+    <string name="searchable_lable_duokan">Duokan</string>
+    <string name="searchable_lable_o2o">O2O</string>
     <string name="app_name">Поиск</string>
     <string name="search_widget">Поиск</string>
     <string name="remove_from_history">Удалить запись из истории поиска?</string>

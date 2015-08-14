@@ -378,8 +378,12 @@
     <string name="download_url_waiting">Ожидание URL</string>
     <string name="debug_mode">Режим отладки</string>
     <string name="debug_mode_desc">Показывать ID видео в левом верхнем углу и отображать рекламу при запуске приложения</string>
+    <string name="app_wifi_mode">Автообновление по Wi-Fi</string>
+    <string name="app_wifi_mode_summary">Автоматическое обновление приложения при активной сети Wi-Fi</string>
     <string name="performance_mode">Режим производительности</string>
     <string name="performance_mode_desc">Ускоренная работа приложения</string>
+    <string name="bmp_quality_mode">Высокое качество</string>
+    <string name="bmp_quality_mode_desc">Режим высокого качества видео</string>
     <string name="memory_mode_desc">Сохранение используемой памяти</string>
     <string name="ads_control">Реклама</string>
     <string name="ads_control_desc">Показывать рекламу при запуске приложения</string>
@@ -398,6 +402,11 @@
     <string name="download_start_message">Компонентов будет загружено и установлено: %1$s</string>
     <string name="hint_apk_title_update">Новая версия: %1$s</string>
     <string name="hint_apk_text_update">Доступна новая версия: %1$s. Установить обновление?</string>
+    <string name="miwifi_app_download_title">Mi роутер</string>
+    <string name="miwifi_app_download_content">Загрузка…</string>
+    <string name="miwifi_app_update_title">Обновить приложение для роутера?</string>
+    <string name="miwifi_app_update_content">Эта функция требует наличие роутера с версией 2.0 и выше</string>
+    <string name="miwifi_app_update_button">Обновление</string>
     <string name="video_app_update">Обновление</string>
     <string name="install_apk">Установить</string>
     <string name="i_will_write_comments">Я напишу отзыв...</string>
@@ -409,9 +418,11 @@
     <string name="forecasts">Погода</string>
     <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
     <string name="check_network">Ошибка подключения. Проверьте параметры сети.</string>
+    <string name="empty_tv_exiting">Выход…</string>
     <string name="tv_channel_empty_hint">Нет каналов</string>
     <string name="defaults">По умолчанию</string>
     <string name="fullscreen">Полный экран</string>
+    <string name="ads_ignore">Пропустить</string>
     <string name="actor_colon">"Актеры: "</string>
     <string name="all_comment">Все отзывы</string>
     <string name="all_media">Все видео</string>

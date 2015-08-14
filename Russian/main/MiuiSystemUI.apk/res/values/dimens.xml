@@ -60,7 +60,6 @@
     <dimen name="expanded_date_size">12.0sp</dimen>
     <dimen name="mtp_action_text_size">14.0sp</dimen>
     <dimen name="no_notification_tips_text_size">13.0sp</dimen>
-    <dimen name="no_notification_tips_padding_bottom">38.0dip</dimen>
     <dimen name="status_bar_toggle_item_text_margin_left">12.5dip</dimen>
     <dimen name="recent_task_item_horizontal_padding">10.0dip</dimen>
     <dimen name="recent_task_txt_memory_margin_top">17.0dip</dimen>
@@ -97,6 +96,10 @@
     <dimen name="notification_panel_title_margin_bottom">10.0dip</dimen>
     <dimen name="notification_panel_clear_margin_top">15.0dip</dimen>
     <dimen name="notification_panel_clear_margin_bottom">20.0dip</dimen>
+    <dimen name="notification_filter_view_width">37.0dip</dimen>
+    <dimen name="notification_edit_view_margin_bottom">14.0dip</dimen>
+    <dimen name="disable_notification_description_margin_bottom">11.0dip</dimen>
+    <dimen name="disable_notification_title_text_size">16.0sp</dimen>
     <dimen name="dessert_case_cell_size">192.0dip</dimen>
     <dimen name="phone_float_notification_shock_distance">5.0dip</dimen>
     <dimen name="float_notification_content_width">333.0dip</dimen>

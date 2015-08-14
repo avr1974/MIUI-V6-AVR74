@@ -213,6 +213,10 @@ http://miui.su/mi-pc-suite"</string>
     <string name="welcom_title">Добро пожаловать!</string>
     <string name="welcom_message">Наслаждайтесь MIUI6</string>
     <string name="welcom_button">ОК</string>
+    <string name="sogou_uninstall_title">Предупреждение</string>
+    <string name="sogou_uninstall_msg">Клавиатура Sogou больше не совместима с MIUI6. Смените клавиатуру или обновите Sogou до последней версии.</string>
+    <string name="sogou_uninstall_positive_button">Сменить клавиатуру</string>
+    <string name="sogou_uninstall_negative_button">Обновить Sogou</string>
     <string name="menu_title_check_update">Настройки</string>
     <string name="no_proper_updates">Для текущей версии обновления не найдены</string>
     <string name="install_file_explorer">Установите файловый менеджер</string>

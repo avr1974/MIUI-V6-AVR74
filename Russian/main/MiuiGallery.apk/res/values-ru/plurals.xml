@@ -7,32 +7,32 @@
 %2$s"</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Удалить %s фото из &lt;b>Mi Cloud&lt;/b>?</item>
-        <item quantity="one">Удалить %s фото из &lt;b>Mi Cloud&lt;/b>?</item>
+        <item quantity="other">Удалить %s фото из Mi Cloud?</item>
+        <item quantity="one">Удалить %s фото из Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Удалить %s фото?</item>
         <item quantity="one">Удалить %s фото?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Удалить %s видео из &lt;b>Mi Cloud&lt;/b>?</item>
-        <item quantity="one">Удалить %s видео из &lt;b>Mi Cloud&lt;/b>?</item>
+        <item quantity="other">Удалить %s видео из Mi Cloud?</item>
+        <item quantity="one">Удалить %s видео из Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Удалить %s видео?</item>
         <item quantity="one">Удалить %s видео?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Удалить %s фото из &lt;b>памяти устройства и Mi Cloud&lt;/b>?</item>
-        <item quantity="one">Удалить %s фото из &lt;b>памяти устройства и Mi Cloud&lt;/b>?</item>
+        <item quantity="other">Удалить %s фото из памяти устройства и Mi Cloud?</item>
+        <item quantity="one">Удалить %s фото из памяти устройства и Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Удалить %s видео из &lt;b>памяти устройства и Mi Cloud&lt;/b>?</item>
-        <item quantity="one">Удалить %s видео из &lt;b>памяти устройства и Mi Cloud&lt;/b>?</item>
+        <item quantity="other">Удалить %s видео из &lt;b>памяти устройства и Mi Cloud?</item>
+        <item quantity="one">Удалить %s видео из &lt;b>памяти устройства и Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" &lt;Data> Удалить &amp;amp;lt;xliff:g id=ITEM>%1$d видео&amp;amp;lt;/xliff:g> из альбомов (%2$d)?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Удалить &amp;amp;lt;xliff:g id=ITEM>%1$d видео&amp;amp;lt;/xliff:g> из альбомов (%2$d)?&lt;/Data> "</item>
+        <item quantity="other">Удалить %1$d видео из альбомов (%2$d)?</item>
+        <item quantity="one">Удалить %1$d видео из альбомов (%2$d)?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>
@@ -75,7 +75,7 @@
         <item quantity="one">Файлов: %1$d</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">Новые лица (%1$s) могут также относиться к %2$s >></item>
-        <item quantity="one">Новые лица (%1$s) могут также относиться к %2$s >></item>
+        <item quantity="other">%1$s фото схожи с лицом: %2$s</item>
+        <item quantity="one">%1$s фото схожи с лицом: %2$s</item>
     </plurals>
 </resources>

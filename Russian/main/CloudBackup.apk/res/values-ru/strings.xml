@@ -68,5 +68,6 @@
     <string name="remove_task_in_process">Удаление</string>
     <string name="remove_task_unfinished">Удаление не завершено</string>
     <string name="back_up_task_unfinished">Создание бэкапа не завершено</string>
+    <string name="about_to_recover">Информация</string>
     <string name="recover_settings">Восстановить настройки рабочего стола</string>
 </resources>

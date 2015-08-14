@@ -6,7 +6,7 @@
     </FrameLayout>
     <FrameLayout android:id="@id/menu_list_phone" style="@style/menu_list_item_style">
         <TextView android:text="@string/phone" style="@style/MenuListItemNameStyle" />
-        <include layout="@layout/menu_list_phone_info_layout" />
+        <include layout="@layout/ico_go_layout" />
     </FrameLayout>
     <FrameLayout android:id="@id/menu_list_router" android:visibility="gone" style="@style/menu_list_item_style">
         <TextView android:text="@string/mi_router_label" style="@style/MenuListItemNameStyle" />

@@ -7,7 +7,6 @@
     <string-array name="version_list_entries">
         <item>Стабильная версия</item>
         <item>Версия для разработчиков</item>
-        <item>Альфа версия</item>
     </string-array>
     <string-array name="channel_featured_tabs">
         <item>Лучшие</item>

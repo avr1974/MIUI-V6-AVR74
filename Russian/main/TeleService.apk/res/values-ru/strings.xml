@@ -860,6 +860,10 @@ SIM карта будет очищена при неудачной попытк�
     <string name="msim_switch_data_conn_toast">Проверьте доступ к сети. Тип сети изменен на 4G.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM карта 2 поддерживает только сети GSM. Тип сети данной SIM карты будет изменен на 2G.</string>
     <string name="msim_has_been_disabled">(отключено)</string>
+    <string name="msim_disable_sim_card_title">Отключить SIM карту?</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">Вы не сможете совершать звонки и использовать интернет после отключения SIM карты %s</string>
+    <string name="msim_disable_sim_card_summary_default_card">Эта SIM карта используется по умолчанию. Если вы отключите ее, вы не сможете совершать звонки и использовать интернет. Выберите другую SIM карту по умолчанию.</string>
+    <string name="msim_disable_sim_card_btn_text">ОК</string>
     <string name="select_voice_call_sim">Выберите SIM карту</string>
     <string name="general_setting">Общие</string>
     <string name="call_record_setting">Запись вызовов</string>
@@ -877,12 +881,9 @@ SIM карта будет очищена при неудачной попытк�
     <string name="international_roaming_setting">Международный роуминг</string>
     <string name="cdma_alert_title">UIM карта должна быть по умолчанию</string>
     <string name="cdma_alert_message">Если вы выберете другую карту по умолчанию для мобильного интернета, вы не сможете использовать UIM карту China Telecom.</string>
-    <string name="remind_another_time">Запомнить</string>
-    <string name="not_change_default_data">Не изменять</string>
-    <string name="change_default_data">Изменить</string>
-    <string name="change_default_data_alert_title">UIM карта должна быть по умолчанию</string>
-    <string name="change_default_data_alert_message">Вы не сможете использовать UIM карту China Telecom</string>
-    <string name="confirm_change_default_data">Изменить</string>
+    <string name="config_default_data_sim">Настройки</string>
+    <string name="got_it">ОК</string>
+    <string name="can_not_use_for_not_data_sim">(необходимо установить SIM по умолчанию)</string>
     <string name="sim_cards_network_mode_changed_summary">Нажмите для просмотра настроек</string>
     <string name="sim_cards_network_mode_changed_title">Обнаружена новая SIM карта</string>
     <string name="accessibility_call_muted">Звук выключен</string>
@@ -1010,4 +1011,10 @@ SIM карта будет очищена при неудачной попытк�
     <string name="wait_prompt_str">"Отправить следующие тона?
 "</string>
     <string name="wild_prompt_str">Заменить символ</string>
+    <string name="change_default_data">Изменить</string>
+    <string name="change_default_data_alert_message">Вы не сможете использовать UIM карту China Telecom</string>
+    <string name="change_default_data_alert_title">UIM карта должна быть по умолчанию</string>
+    <string name="confirm_change_default_data">Изменить</string>
+    <string name="not_change_default_data">Не изменять</string>
+    <string name="remind_another_time">Запомнить</string>
 </resources>

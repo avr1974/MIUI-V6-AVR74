@@ -31,7 +31,7 @@
     <string name="cit_audio_loopback_dualmic_earpiece_title">Проверка шумоподавления микрофона</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Задний микрофон</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Основной микрофон</string>
-    <string name="cit_x5_audio_lb_top_to_speaker_title">Верхний микрофон</string>
+    <string name="cit_x5_audio_lb_topmic_to_speaker_title">Проверка верхнего микрофона</string>
     <string name="cit_audio_lb_phonecall_title">Имитация вызова</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Верхний микрофон</string>
     <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Передний микрофон</string>
@@ -332,6 +332,7 @@
     <string name="cit_external_sd_check_summary">Проверка обнаружения SD карты</string>
     <string name="cit_external_sd_check_title">Статус SD карты</string>
     <string name="cit_tool_modem_evdo_revb">Включить/выключить EVDO</string>
+    <string name="cit_x5_audio_lb_top_to_speaker_title">Верхний микрофон</string>
     <string name="cit_audio_loopback_dualmic_title">Шумоподавление</string>
     <string name="cit_audio_loopback_summary_dualmic">"Тест шумоподавления
 

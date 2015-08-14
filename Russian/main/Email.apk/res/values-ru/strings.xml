@@ -112,6 +112,7 @@
     <string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить защищенное подключение к серверу
 (%s)"</string>
+    <string name="account_setup_failed_dlg_device_locked">Ваш Email заблокирован устройством</string>
     <string name="account_setup_failed_dlg_edit_details_action">Изменить настройки</string>
     <string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Не удается подключиться к серверу. 
@@ -196,6 +197,7 @@
     <string name="add_account">Добавить аккаунт</string>
     <string name="add_attachment">Прикрепить файл</string>
     <string name="add_bcc_label">Добавить скрытую копию</string>
+    <string name="add_calendar">Напоминание</string>
     <string name="add_cc_label">Добавить копию</string>
     <string name="add_file_attachment">Прикрепить файл</string>
     <string name="add_label">Добавить папку</string>
@@ -203,7 +205,7 @@
     <string name="add_pre_message_attachments">Добавить вложения предыдущего сообщения?</string>
     <string name="add_pre_message_attachments_no">Отмена</string>
     <string name="add_pre_message_attachments_yes">Добавить</string>
-    <string name="add_star">В избранные</string>
+    <string name="add_star">" В избранные "</string>
     <string name="add_video_attachment">Прикрепить видео</string>
     <string name="address_display_format_with_via_domain">%1$s%2$s через %3$s</string>
     <string name="all_folders_heading">Все папки</string>
@@ -237,6 +239,8 @@
     <string name="attachment_mgr_name">Вложения</string>
     <string name="attachment_not_exists">Вложение недоступно</string>
     <string name="attachment_not_found">Не удалось загрузить вложение</string>
+    <string name="attachment_open_SecurityException_hint">Проверьте разрешения и целостность файла</string>
+    <string name="attachment_open_SecurityException_title">Не удается открыть файл</string>
     <string name="attachment_stop_all">Остановить</string>
     <string name="attachment_text">Текст</string>
     <string name="attachment_type_blocked">Невозможно сохранить или открыть это вложение</string>
@@ -310,6 +314,9 @@
     <string name="confirm_send_title">Отправить сообщение?</string>
     <string name="contact_content_provider">Хранилище контактов</string>
     <string name="contact_edit_set_black_list">В черный список</string>
+    <string name="contact_edit_set_black_list_from">Удалить сообщения отправителя</string>
+    <string name="contact_edit_set_black_list_receive">Удалить сообщения и копии</string>
+    <string name="contact_edit_set_black_list_receive_summary">Все сообщения, содержащие этого отправителя.</string>
     <string name="contact_edit_set_phone_contact">Изменить контакт</string>
     <string name="contact_edit_set_pop_up_tips">Всплывающие уведомления</string>
     <string name="contact_edit_set_unread_top">Показывать сначала непрочитанные</string>
@@ -324,13 +331,18 @@
     <string name="contact_select">Выбрать контакты</string>
     <string name="content_description">%1$s о %2$s, %3$s в %4$s, %5$s</string>
     <string name="content_description_today">%1$s о %2$s, %3$s в %4$s, %5$s</string>
+    <string name="contextmenu_add">Добавить к контакту</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
+    <string name="contextmenu_call">Вызов</string>
     <string name="contextmenu_copy">Копировать</string>
     <string name="contextmenu_copylink">Копировать URL ссылки</string>
+    <string name="contextmenu_create">Новый контакт</string>
     <string name="contextmenu_dial_dot">Набор номера…</string>
+    <string name="contextmenu_edit">Изменить контакт</string>
     <string name="contextmenu_feedback">Отправить отчет</string>
     <string name="contextmenu_help">Справка</string>
     <string name="contextmenu_map">Карта</string>
+    <string name="contextmenu_open">Открыть</string>
     <string name="contextmenu_openlink">Открыть в браузере</string>
     <string name="contextmenu_send_mail">Отправить сообщение</string>
     <string name="contextmenu_sharelink">Отправить ссылку</string>
@@ -342,6 +354,7 @@
     <string name="conversation_list_net_check">Не удается подключиться к интернету</string>
     <string name="conversation_overload_toast">Это сообщение слишком большое, прочтите его с компьютера.</string>
     <string name="conversation_photo_welcome_text">Нажмите на иконку контакта для выбора диалога</string>
+    <string name="copied">Скопировано</string>
     <string name="copy_email">Копировать адрес Email</string>
     <string name="copy_number">Копировать номер телефона</string>
     <string name="create_action">Создать</string>
@@ -372,6 +385,7 @@
     <string name="dialog_account_auto_sync_setting_no_open">Синхронизация сообщений отключена</string>
     <string name="dialog_auto_download_failed">Ошибка автозагрузки. Попробуйте загрузить вручную.</string>
     <string name="dialog_auto_sync_setting_no_open">Синхронизация сообщений отключена</string>
+    <string name="dialog_gmail_proxy_server_is_error">Ошибка прокси сервера Gmail</string>
     <string name="dialog_insufficient_space_for_single_account_on_internal">Недостаточно памяти в \"%s\"</string>
     <string name="dialog_insufficient_space_on_external">Недостаточно места во внешней памяти</string>
     <string name="dialog_insufficient_space_on_internal">Недостаточно места во внутренней памяти</string>
@@ -399,6 +413,7 @@
     <string name="download_confirm_message">Скачать вложения (%1$s)?</string>
     <string name="download_confirm_title">Подтверждение загрузки</string>
     <string name="download_failed">Невозможно загрузить. Нажмите для повтора.</string>
+    <string name="download_message_failed_for_too_large">Сообщение слишком большое для загрузки</string>
     <string name="download_show_image">Загружать и отображать изображения</string>
     <string name="downloading_message_body">Загрузка почты…</string>
     <string name="draft_count_format"> (%1$s)</string>
@@ -732,11 +747,22 @@
     <string name="prefetched_got_it">ОК</string>
     <string name="preview_attachment">Просмотр</string>
     <string name="previous_action">Назад</string>
+    <string name="print">Печать</string>
     <string name="prompt_title">Запрос</string>
     <string name="protocol">Протокол</string>
     <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Плюс. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Плюс). Чтобы войти в такой аккаунт, используйте браузер.</string>
     <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на сайт оператора связи и установите пароль для доступа к Email по протоколу POP3.</string>
     <string name="pull_to_refresh">Потяните вниз для обновления</string>
+    <string name="push_wps_better_confirm_download">Загрузить</string>
+    <string name="push_wps_better_confirm_exit">Другие приложения</string>
+    <string name="push_wps_better_confirm_message">WPS Office поддерживает этот тип вложения</string>
+    <string name="push_wps_better_confirm_noshow_hint">Запомнить</string>
+    <string name="push_wps_better_confirm_title">Рекомендуем WPS Office</string>
+    <string name="push_wps_confirm_cancel">Отмена</string>
+    <string name="push_wps_confirm_download">Загрузить</string>
+    <string name="push_wps_confirm_message">Нет приложений для открытия этого вложения. Рекомендуется использовать WPS Office.</string>
+    <string name="push_wps_confirm_title">WPS Office</string>
+    <string name="push_wps_no_response_app">Нет приложений</string>
     <string name="quick_1">Спасибо!</string>
     <string name="quick_2">Звучит отлично!</string>
     <string name="quick_3">Я отвечу позже</string>
@@ -769,7 +795,7 @@
     <string name="remove_account_confirm">Удалить аккаунт \"%1$s\"?</string>
     <string name="remove_account_confirm_title">Удалить аккаунт</string>
     <string name="remove_folder">Удалить из \"%1$s\"</string>
-    <string name="remove_star">Из избранных</string>
+    <string name="remove_star">" Из избранных "</string>
     <string name="reply">Ответить</string>
     <string name="reply_all">Ответить всем</string>
     <string name="reply_attribution" formatted="false">%s | От: %s | Сообщение:</string>
@@ -829,6 +855,7 @@
     <string name="ser_resp_err_map_or">или</string>
     <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>
     <string name="ser_resp_err_map_serclosed">Сервер закрыт</string>
+    <string name="ser_resp_err_map_serclosed_url_tag">Как решить проблему?</string>
     <string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
     <string name="set_network">Установить сеть</string>
     <string name="settings_activity_title">Почта</string>
@@ -889,6 +916,8 @@
     <string name="unread_from_someone">Непрочитанные от \"%s\"</string>
     <string name="unread_string">диалог не прочитан</string>
     <string name="unsent_messages_in_outbox">Не отправленные (%1$s) в \"%2$s\"</string>
+    <string name="unzip_file_failed">Ошибка распаковки</string>
+    <string name="update_date_format_templete">HH:mm, d MMMM</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
     <string name="updated_just_now">Обновлено только что</string>
     <string name="upload_log">Загрузить отчет</string>
