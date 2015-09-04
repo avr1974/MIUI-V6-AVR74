@@ -3,7 +3,7 @@
     <string name="sina_share_pendding">Отправка…</string>
     <string name="sina_share_success">Отправлено</string>
     <string name="sina_share_fail">Не удается отправить</string>
-    <string name="sina_token_expired_warning">Срок действия аккаута Weibo истек. Привяжите повторно.</string>
+    <string name="sina_token_expired_warning">Срок действия аккаунта Weibo истек. Привяжите повторно.</string>
     <string name="sina_token_invalid_warning">Неверный аккаунт Weibo. Привяжите повторно.</string>
     <string name="sina_share_fail_content_repeat">Содержимое уже существует</string>
     <string name="app_name">Mi Cloud</string>
@@ -44,12 +44,13 @@
     <string name="sync_sub_dspt">Для активации сервиса будет отправлено SMS</string>
     <string name="sync_sub_int_dspt">Для активации сервиса будет отправлено SMS в роуминг</string>
     <string name="access_denied">Доступ запрещен</string>
+    <string name="internet_access_dspt">Для нормальной работы этого приложения требуется подключение к интернету</string>
     <string name="sync_on">Вкл.</string>
     <string name="sync_off">Выкл.</string>
     <string name="mx_dspt">Облачные сообщения</string>
-    <string name="voip_dspt">Mi VoIP</string>
+    <string name="mx_voip_dspt">Mi VoIP</string>
     <string name="mx_sub_dspt_provision">Облачные сообщения</string>
-    <string name="mx_sub_dspt_provision_with_voip">Интернет вызов VoIP</string>
+    <string name="mx_sub_dspt_provision_with_voip">Mi VoIP</string>
     <string name="voip_choose_sim">Выберите номер телефона для активации Mi VoIP</string>
     <string name="activate_number_change_dialog_message">Выберите основной номер для вызова VoIP, который будет видеть собеседник.</string>
     <string name="phone_number_may_required_dspt_provision">"Этот сервис может запросить ваш номер телефона. "</string>
@@ -60,7 +61,8 @@
     <string name="sync_dspt_provision3">".
 "</string>
     <string name="sync_dspt_entrance_provision">Синхронизируйте фото, контакты и сообщения на %s.</string>
-    <string name="sync_dspt_entrance_provision_2">Подробнее</string>
+    <string name="sync_dspt_entrance_provision_2">"
+Подробнее"</string>
     <string name="sync_dspt_entrance_provision_confirm_close">ОК</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Отмена</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Пропустить авторизацию Mi Cloud?</string>
@@ -73,9 +75,13 @@
     <string name="find_device_dspt_provision_4">Если вы смените SIM карту, будет автоматически отправлена SMS для активации этой функции.</string>
     <string name="find_device_send_sms_alert">Если вы заменили SIM карту, автоматически будет отправлена SMS для повторной активации сервисов.</string>
     <string name="mx_dspt_provision">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно</string>
-    <string name="mx_dspt_provision_with_voip">Mi VoIP позволяет пользователям MIUI общаться бесплатно через интернет</string>
+    <string name="mx_dspt_provision_with_voip">Mi VoIP позволяет пользователям MIUI общаться бесплатно через интернет. Политика конфиденциальности</string>
+    <string name="mx_dspt_provision_with_voip2">Политика конфиденциальности</string>
     <string name="mx_dspt_provision_privacy">"Сервис может запрашивать ваш номер телефона. Ваш оператор может взимать плату за SMS для активации этого сервиса.
 Эта функция шифрует и загружает ID устройства на сервер Xiaomi."</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"Для использования этой функции может потребоваться ваш номер телефона. При активации может взиматься плата оператором за 2 SMS.
+
+Ваш ID будет зашифрован и отправлен на сервер Xiaomi."</string>
     <string name="user_agreement_p6">"При использовании облачных сервисов вы соглашаетесь с "</string>
     <string name="user_agreement_p7">условиями пользования Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
@@ -104,6 +110,7 @@
     <string name="button_cancel">Отмена</string>
     <string name="enable_micloud">Активировать сервисы</string>
     <string name="micloud_more">Подробнее</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="micloud_dspt">Используйте Mi Cloud для синхронизации данных и поиска устройства.</string>
     <string name="cmcc_micloud_dspt">Облачные сервисы позволяют синхронизировать данные, следить за местоположением, управлять данными с компьютера в любое время.</string>
     <string name="micloud_sec_dspt">Обменивайтесь информацией с друзьями.</string>
@@ -128,6 +135,10 @@
     <string name="deskclock_backup">часов</string>
     <string name="micloud_space_duokan_title">Книги Duokan</string>
     <string name="micloud_space_duokan_detail">Управляйте контентом с помощью приложения Duokan</string>
+    <string name="micloud_space_applist_title">Бэкап рабочего стола</string>
+    <string name="micloud_space_applist_detail">Управляйте бэкапом рабочего стола с помощью приложения на устройстве</string>
+    <string name="micloud_space_soundrecorder_title">Записи диктофона</string>
+    <string name="micloud_space_soundrecorder_detail">Управляйте записями диктофона с помощью приложения на устройстве</string>
     <string name="micloud_space_full_influence"><u>Подробнее</u></string>
     <string name="micloud_storage_usage" formatted="false">Занято: %s | Всего: %s</string>
     <string name="micloud_title_dspt" formatted="false">"Всего места: %s 
@@ -168,11 +179,6 @@
     <string name="sync_sub_2_sms">Для активации SIM карт будут отправлены две SMS</string>
     <string name="sync_sub_2_intl_sms">Для активации SIM карт будут отправлены две международные SMS</string>
     <string name="sync_sub_1_sms_1_intl_sms">Для активации SIM карт будeт отправлена одна международная и одна обычная SMS</string>
-    <string name="sync_setting">Настройки синхронизации</string>
-    <string name="sync_standard">По умолчанию</string>
-    <string name="only_in_wlan">Только по Wi-Fi</string>
-    <string name="cloud_sync_setting_summary_standard">По умолчанию: синхронизировать по сети Wi-Fi фото, видео, MMS, данные приложений и фото контактов, а остальные данные по мобильному интернету.</string>
-    <string name="cloud_sync_setting_summary_wlan">Только по Wi-Fi: синхронизировать все данные только по сети Wi-Fi.</string>
     <string name="sync_item_calllog_title">Синхронизация вызовов</string>
     <string name="sync_item_calllog_summary">Снихронизировать журнал входящих и исходящих вызовов</string>
     <string name="view_storage_title">Место в Mi Cloud</string>
@@ -292,14 +298,14 @@
     <string name="cloud_back_up_open_info">"Создание бэкапа рабочего стола каждые %1$s при активном подключении к сети Wi-Fi.
 Последний бэкап: %2$s"</string>
     <string name="cloud_back_up_interval_long">7 дней</string>
-    <string name="cloud_back_up_interval_short">60 минут</string>
+    <string name="cloud_back_up_interval_short">24 часа</string>
     <string name="cloud_back_up_close_info">Бэкап настроек рабочего стола</string>
     <string name="cloud_backup_dialog_title">Бэкап Mi Cloud</string>
     <string name="cloud_back_up_dialog_content">Остановить создание бэкапа?</string>
     <string name="cloud_back_up_button_ok">ОК</string>
     <string name="cloud_back_up_network_unavailable">Ошибка удаления. Подключитесь к сети Wi-Fi и повторите попытку.</string>
     <string name="cloud_back_up_remove_success">Бэкап удален</string>
-    <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+    <string name="cloud_back_up_date_format">HH:mm d MMMM yyyy</string>
     <string name="micloud_storage">Память</string>
     <string name="micloud_member">Премиум</string>
     <string name="micloud_buy_member">Добавить место</string>
@@ -318,6 +324,8 @@
     <string name="micloud_intro_03_part_01">Безопасность</string>
     <string name="micloud_intro_03_part_02">Вы можете заблокировать, очистить данные и найти ваше устройство удаленным доступом через сайт i.mi.com.</string>
     <string name="app_sync_off">Синхронизация отключена</string>
+    <string name="cloud_sync_setting_summary_standard">По умолчанию: синхронизировать по сети Wi-Fi фото, видео, MMS, данные приложений и фото контактов, а остальные данные по мобильному интернету.</string>
+    <string name="cloud_sync_setting_summary_wlan">Только по Wi-Fi: синхронизировать все данные только по сети Wi-Fi.</string>
     <string name="current">Текущее</string>
     <string name="data_syncing">Синхронизация данных</string>
     <string name="detail">Информация</string>
@@ -327,8 +335,11 @@
     <string name="internet_disconnected">Мобильный интернет недоступен</string>
     <string name="less_flow_mode">Режим</string>
     <string name="normal">Нормальный</string>
+    <string name="only_in_wlan">Только по Wi-Fi</string>
     <string name="space">Память</string>
     <string name="sync">Синхронизация</string>
+    <string name="sync_setting">Настройки синхронизации</string>
+    <string name="sync_standard">По умолчанию</string>
     <string name="system_sync_off">Синхронизация системы отключена</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_disconnected">Сеть Wi-Fi недоступна</string>
@@ -346,4 +357,5 @@
     <string name="cloud_app_back_up_quit_notification_content1">Возможность создания бэкапа для сторонних приложений будет остановлена и удалена 1 мая 2015 года. Сохраните необходимые данные приложений с помощью локального бэкапа.</string>
     <string name="cloud_app_back_up_quit_notification_content2">Синхронизация контактов, сообщений, фото и других данных останется по-прежнему.</string>
     <string name="cloud_app_back_up_quit_notification_content3">Бэкап приложений</string>
+    <string name="voip_dspt">Mi VoIP</string>
 </resources>

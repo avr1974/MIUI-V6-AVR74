@@ -57,4 +57,7 @@
         <CheckBoxPreference android:title="@string/show_all_anrs" android:key="show_all_anrs" android:summary="@string/show_all_anrs_summary" />
         <CheckBoxPreference android:title="@string/show_fc" android:key="show_fc" android:summary="@string/show_fc_summary" />
     </PreferenceCategory>
+    <PreferenceCategory android:title="@string/experience_optimization_category" android:key="experience_optimization_category">
+        <CheckBoxPreference android:title="@string/advanced_text_layout" android:key="advanced_text_layout" />
+    </PreferenceCategory>
 </PreferenceScreen>

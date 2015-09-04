@@ -7,6 +7,7 @@
     <PreferenceScreen android:title="@string/testing_battery_info">
         <intent android:targetPackage="com.android.settings" android:action="android.intent.action.MAIN" android:targetClass="com.android.settings.BatteryInfo" />
     </PreferenceScreen>
+    <PreferenceScreen android:title="@string/power_hide_mode_title" android:key="power_hide_mode" android:summary="@string/power_hide_mode_summary" />
     <ListPreference android:persistent="false" android:entries="@array/battery_indicator_style_entries" android:title="@string/battery_indicator_style" android:key="battery_indicator_style" android:entryValues="@array/battery_indicator_style_values" />
     <PreferenceCategory android:title="@string/performance_category" android:key="performance_category" />
     <ListPreference android:persistent="false" android:entries="@array/power_mode_entries" android:title="@string/power_mode" android:key="power_mode" />

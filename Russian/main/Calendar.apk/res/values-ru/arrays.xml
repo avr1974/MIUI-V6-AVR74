@@ -191,6 +191,25 @@
         <item>За 2 дня</item>
         <item>За 1 неделю</item>
     </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Отключено</item>
+        <item>Сразу</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
+        <item>За 2 дня</item>
+        <item>За 1 неделю</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часов</item>
+        <item>6 часов</item>
+        <item>1 день</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>дн.</item>
         <item>нед.</item>

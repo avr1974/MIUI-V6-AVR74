@@ -27,8 +27,8 @@
         <item quantity="one">Удалить %s фото из памяти устройства и Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Удалить %s видео из &lt;b>памяти устройства и Mi Cloud?</item>
-        <item quantity="one">Удалить %s видео из &lt;b>памяти устройства и Mi Cloud?</item>
+        <item quantity="other">Удалить %s видео из &amp;lt;b>памяти устройства и Mi Cloud?</item>
+        <item quantity="one">Удалить %s видео из &amp;lt;b>памяти устройства и Mi Cloud?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
         <item quantity="other">Удалить %1$d видео из альбомов (%2$d)?</item>
